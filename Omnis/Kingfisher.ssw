@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Kingfisher" model="" tons="90" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>1.281846875E7</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">2887</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="5">LT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+    </structure>
+    <engine rating="360" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>44</ct>
+        <ctr>13</ctr>
+        <lt>28</lt>
+        <ltr>10</ltr>
+        <rt>28</rt>
+        <rtr>10</rtr>
+        <la>30</la>
+        <ra>30</ra>
+        <ll>38</ll>
+        <rl>38</rl>
+        <location index="3">HD</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS 3058U</source>
+        <info>Kingfisher 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS</info>
+        <battleforce pv="12" wt="4" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="9" internal="7" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="0">RT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2887</loadout_year>
+        <info>Kingfisher  Prime 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ERSL, 1 LRM10, 2 MPL, 1 SSRM6, 2 LPL</info>
+        <battleforce pv="24" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2401</battle_value>
+        <cost>1.281846875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2887</loadout_year>
+        <info>Kingfisher  A 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ERML, 1 ERSL, 1 SRM6, 1 MPL, 1 ERPPC, 1 LB10</info>
+        <battleforce pv="23" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2261</battle_value>
+        <cost>1.335403125E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2887</loadout_year>
+        <info>Kingfisher  B 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ERLL, 4 ERML, 1 ERSL, 1 AMS, 1 UAC20</info>
+        <battleforce pv="25" wt="4" mv="4" s="6" m="6" l="1" e="0" ov="0" armor="9" internal="7" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2472</battle_value>
+        <cost>1.378153125E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2887</loadout_year>
+        <info>Kingfisher  C 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 25 DHS; 4 ERML, 2 ERPPC</info>
+        <battleforce pv="26" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2644</battle_value>
+        <cost>1.3193125E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="25" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RT</location>
+            <location index="2">RT</location>
+            <location index="0">LT</location>
+            <location index="2">LT</location>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+            <location index="4">LA</location>
+            <location index="2">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2887</loadout_year>
+        <info>Kingfisher  D 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 UAC/10, 3 ERLL</info>
+        <battleforce pv="24" wt="4" mv="4" s="4" m="4" l="4" e="0" ov="0" armor="9" internal="7" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2364</battle_value>
+        <cost>1.32085625E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3054</loadout_year>
+        <info>Kingfisher  E 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 4 MPL, 1 ATM12, 1 LPL</info>
+        <battleforce pv="24" wt="4" mv="4" s="8" m="7" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2443</battle_value>
+        <cost>1.2851125E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3059</loadout_year>
+        <info>Kingfisher  H 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 26 DHS; 4 ERML, 2 HLL, TC</info>
+        <battleforce pv="25" wt="4" mv="4" s="7" m="7" l="0" e="0" ov="0" armor="9" internal="7" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2525</battle_value>
+        <cost>1.3041125E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="26" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="4">LA</location>
+            <location index="6">RA</location>
+            <location index="2">LA</location>
+            <location index="4">RA</location>
+            <location index="0">LT</location>
+            <location index="2">RA</location>
+            <location index="2">LT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="11">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="9">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3068</loadout_year>
+        <info>Kingfisher  F 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ECM, 1 ERLL, 3 ERML, 1 HAG30</info>
+        <battleforce pv="26" wt="4" mv="4" s="6" m="5" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
+        <battle_value>2568</battle_value>
+        <cost>1.37310625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 30</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3068</loadout_year>
+        <info>Kingfisher  X 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ECM, 1 LRM15, 3 iHML, 1 ERPPC, 2 ERMPL, TC</info>
+        <battleforce pv="28" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2761</battle_value>
+        <cost>1.5202375E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="0">LT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

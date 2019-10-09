@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Firestarter" model="FS9-M3" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>827</battle_value>
+    <cost>3821175.0000000005</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">RT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="210" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="10">CT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>16</ct>
+        <ctr>6</ctr>
+        <lt>12</lt>
+        <ltr>4</ltr>
+        <rt>12</rt>
+        <rtr>4</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS MWDA</source>
+        <info>Firestarter FS9-M3 35t, 6/9[12]/6 MASC, Std FE, ES; 7.5T/100% Armor; 10 DHS; 3 Flmr, 1 ERML, 1 TAG</info>
+        <battleforce pv="8" wt="1" mv="8/6j" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="3" abilities="TAG, ENE, HT1, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="1">RT</location>
+            <location index="0">RT</location>
+            <location index="2">RT</location>
+            <location index="3">LT</location>
+            <location index="4">LT</location>
+            <location index="5">LT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="3">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

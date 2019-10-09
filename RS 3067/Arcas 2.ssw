@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Arcas" model="2" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Arcas.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2835</battle_value>
+    <cost>1.4520549999999996E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Bergan Industries" location="Alshain">Clan</techbase>
+    <year restricted="FALSE">3061</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bergan Version 63" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="5">LT</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="9">RT</location>
+    </structure>
+    <engine rating="325" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound 12A1" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>32</ct>
+        <ctr>10</ctr>
+        <lt>22</lt>
+        <ltr>8</ltr>
+        <rt>22</rt>
+        <rtr>8</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Arcas 2 65t, 5/8/5, XLFE, ES; 13.5T/100% Armor; 18 DHS; 2 ERPPC, 2 MPL</info>
+        <battleforce pv="28" wt="3" mv="5j" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="5">RL</location>
+            <location index="4">RL</location>
+            <location index="10">CT</location>
+            <location index="5">LL</location>
+        </jumpjets>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Clan Standard Type A3</jumpjet_model>
+        <commsystem>Garret L15</commsystem>
+        <tandtsystem>RCA Instatrac Version 8</tandtsystem>
+    </fluff>
+</mech>

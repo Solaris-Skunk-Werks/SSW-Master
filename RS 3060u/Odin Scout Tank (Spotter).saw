@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Odin Scout Tank" model="(Spotter)" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>338</battle_value>
+    <motive type="Wheeled" cruise="8" turret="Single Turret" />
+    <cost>896683.3333333335</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">3071</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="160" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="Compound 21 10" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>6</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>4</rear>
+        <primaryturret>6</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Odin Scout Tank (Spotter) 20t, 8/12, FCE, 1.5T/25% FF Armor; 1 SHS; 1 ECM, 1 Narc, 1 BAP, 2 APGR, 1 TAG, 1 CASE</info>
+        <battleforce pv="3" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="TAG, SNARC, PRB, RCN, ECM, CASE, EE" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Narc Missile Beacon</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated BMR 6</commsystem>
+        <tandtsystem>TRTTS Mark II</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Balius" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>1.983403125E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Hell&apos;s Horses" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3074</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="BMHQ-5" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">FLL</location>
+        <location index="4">RLL</location>
+        <location index="5">FLL</location>
+        <location index="5">RLL</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="390" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forged Type HH35" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>7</ltr>
+        <rt>20</rt>
+        <rtr>7</rtr>
+        <la>27</la>
+        <ra>27</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+        <location index="4">FRL</location>
+        <location index="4">RRL</location>
+        <location index="5">FRL</location>
+        <location index="5">RRL</location>
+        <location index="9">RT</location>
+        <location index="10">RT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <info>Balius 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr</info>
+        <battleforce pv="10" wt="3" mv="6" s="1" m="0" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Balius  Prime 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 14 DHS; 1 Flmr, 2 ERLL, 4 MPL</info>
+        <battleforce pv="22" wt="3" mv="6" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2157</battle_value>
+        <cost>1.983403125E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Balius  A 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 1 ERLL, 3 ERML, 1 HAG20</info>
+        <battleforce pv="22" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2201</battle_value>
+        <cost>2.030015625E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Balius  B 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 12 DHS; 1 Flmr, 2 ERLL, 1 LPL, 8 HSL</info>
+        <battleforce pv="20" wt="3" mv="6" s="4" m="1" l="1" e="0" ov="1" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2029</battle_value>
+        <cost>2.000521875E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Balius  C 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 2 ERML, 2 ATM9, 2 MPL</info>
+        <battleforce pv="21" wt="3" mv="6" s="6" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2103</battle_value>
+        <cost>2.017640625E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (ER)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (HE)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Balius  D 65t, 6/9/6, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 4 ERML, 2 MPL, 1 ERPPC</info>
+        <battleforce pv="24" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="1" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2417</battle_value>
+        <cost>2.095603125E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="3">RT</location>
+            <location index="3">LT</location>
+            <location index="4">RT</location>
+            <location index="4">LT</location>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-ON</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3080</loadout_year>
+        <info>Balius  U 65t, 6/9/5, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 ECM, 1 Flmr, 1 ERLL, 4 SRT6</info>
+        <battleforce pv="20" wt="3" mv="6/3j" s="1" m="1" l="1" e="0" ov="0" armor="7" internal="4" abilities="UMU, OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/0" />
+        <battle_value>2014</battle_value>
+        <cost>2.082609375E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Mech UMU</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="3">LT</location>
+            <location index="2">RT</location>
+            <location index="3">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-6</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-6</name>
+            <type>missile</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-6</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-6</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

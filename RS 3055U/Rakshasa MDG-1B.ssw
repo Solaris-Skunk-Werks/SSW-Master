@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Rakshasa" model="MDG-1B" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1748</battle_value>
+    <cost>1.838375E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3056</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="10">CT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="375" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>32</ct>
+        <ctr>9</ctr>
+        <lt>22</lt>
+        <ltr>7</ltr>
+        <rt>22</rt>
+        <rtr>7</rtr>
+        <la>21</la>
+        <ra>21</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+        <location index="3">HD</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3055Uu</source>
+        <info>Rakshasa MDG-1B 75t, 5/8/0, XLFE, ES; 11.5T/89% FF Armor; 15 DHS; 2 ML, 2 LRM10, 1 MPL, 2 LL</info>
+        <battleforce pv="17" wt="3" mv="5" s="4" m="5" l="2" e="0" ov="0" armor="7" internal="3" abilities="SRCH, ES, SEAL, SOA, IF 2" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="15" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>&lt;p style=&quot;margin-top: 0&quot;&gt;:br::br:&lt;/p&gt;:br:</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

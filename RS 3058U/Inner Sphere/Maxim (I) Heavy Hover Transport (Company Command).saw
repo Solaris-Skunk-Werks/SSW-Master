@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Maxim (I) Heavy Hover Transport" model="(Company Command)" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>851</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>8780000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Scarborough Manufacturing" location="Al Na&apos;ir">Inner Sphere</techbase>
+    <year restricted="FALSE">3069</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="400" manufacturer="PowerTech Highlift" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ProtecTech 6" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>27</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>16</rear>
+        <primaryturret>23</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Maxim (I) Heavy Hover Transport (Company Command) 50t, 8/12, Std FE, 6.5T/54% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 TAG, 2 C3M, 1 SSRM6</info>
+        <battleforce pv="9" wt="2" mv="8" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="TAG, C3M, ECM, MHQ10" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Master)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Master)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scarborough Talky 2</commsystem>
+        <tandtsystem>Scarborough Tracky 1</tandtsystem>
+    </fluff>
+</combatvehicle>

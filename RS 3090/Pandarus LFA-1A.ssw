@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Pandarus" model="LFA-1A" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1589</battle_value>
+    <cost>7638750.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kali Yama Industries" location="Kendall">Inner Sphere</techbase>
+    <year restricted="FALSE">3083</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="LFA" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">CT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="300" manufacturer="Vlar" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Valiant Lamellor" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>32</ct>
+        <ctr>9</ctr>
+        <lt>22</lt>
+        <ltr>10</ltr>
+        <rt>22</rt>
+        <rtr>10</rtr>
+        <la>21</la>
+        <ra>21</ra>
+        <ll>26</ll>
+        <rl>26</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSProtop</source>
+        <info>Pandarus LFA-1A 75t, 4/6/0, Std FE, ES; 13.0T/90% Armor; 10 DHS; 1 ERML, 3 ExLRM10</info>
+        <battleforce pv="16" wt="3" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="7" internal="6" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 2" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Kali Yama Weapons Industries Type IIIE">(IS) Extended LRM-10</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kali Yama Weapons Industries Type IIIE">(IS) Extended LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kali Yama Weapons Industries Type IIIE">(IS) Extended LRM-10</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-10</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-10</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-10</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-10</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-10</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-10</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="7">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Poor Targeting/Short Range, Improved Targeting/Long Range, Easy to Maintain, Rumble Seat.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Irian Orator-5K</commsystem>
+        <tandtsystem>Wasat Aggresson Type 5</tandtsystem>
+    </fluff>
+</mech>

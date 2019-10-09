@@ -1,0 +1,76 @@
+Albatross ALB-5W (Dantalion) - BV Mismatch
+Banzai BNZ-X - BV Mismatch (SSW Agrees with both sheets in XTRO Kurita)
+Blade BLD-XS - BV Discrepency (Probably because MUL is using unerrata'd sheet)
+Catapult CPLT-1Cb - BV Discrepency (SSW and RS match)
+Cerberus MR-5M - BV Discrepency (Most likely still using the wrong armor)
+Charger CGR-1X1 - BV Discrepency (SSW and RS Match)
+Crossbow CRS-6B - Should be Intro?
+Crossbow CRS-6C - Should be Intro?
+Crossbow D - BV Mismatch - Most likely due to MUL using incorrect Mortar BV
+Crusader CRD-4L - No RS
+Dark Crow 3 - BV Mismatch (MM XXL error?)
+Dasher II 2 - BV Mismatch (MM XXL Error?)
+Deimos Prime, A, B,C,2 - Odd eras. CW for B, everything else is Rep
+Deva Caelestis - Design is IS, not Mixed
+Devastator DVX-X10 MUSE EARTH - BV Mismatch (Capacitor Error?)
+Dragon DRG-5Nr - Sheet error?
+Excalibur EXC-CS - Should be CS, not CC
+Firebee FRB-1E - BV mismatch - http://www.classicbattletech.com/forumarchive/index.php/topic,63144.msg1511156.html#msg1511156 <- MUL is not using this variant.
+Firebee FRB-2E - Should be Intro
+Flamberge (Standard) - No such RS exists in 3085
+Flamberge C - BV Mismatch - Arrow IV?
+Gladiator (Keller) - Should probably have a unit designation to match all others.
+Grand Dragon DRG-7K (Mark) - BV Mismatch. Armor is wrong in MM file
+Great Turtle GTR-1 - BV mismatch (both SSW and MM agree)
+Grand Turtle GTR-2 - BV mismatch (Both SSW and 35.22 MM agree)
+Griffin GRF-6S (Francine) - BV Mismatch - MM RS wrong (should be a small laser to the Rear in LT, not forward firing ERSL)
+Grigori (Rufus) - BV Mismatch due to PPC Capacitor?
+Hachiwara HCA-4U - BV Mismatch -SSW and 35.22 MM Agree
+Hachiwara HCA-6P - BV Mismatch (Capacitor?)
+Helepolis HEP-1H - BV msimatch, seems to be using the 3075 sheet maybe?
+Hellhound (Conjurer) 2 - BV mismatch - Most likely due to incorrect armor
+Hermes II HER-5ME "Mercury Elite" - BV mismatch SSW and MM Agree.
+Highlander HGN-732 (Colleen) - BV Mismatch - Check SSW CP and CI values.
+Hunchback HBK-5SG - Republic Era, but Extinct?
+Juggernaut JG-R9TX1 "Leapin` Lil" - BV Error - MM not handling jump booster right
+Kuma 3 - BV mismatch - Most likely due to Clan XXL engine
+Lancelot LNC25-08 - RS doesn't exist
+Legionaire LGN-2X1 MUSE FIRE - BV Mismatch - not handling Torso mounted cockpit right (see TacOps, torso modification happens before Armor mods)
+Locust IIC 9 - BV mismatch (Clan XXL engine)
+Malak Caelestis - BV Mismatch (Capacitor)
+Marauder (Bounty Hunter-3015) - No Unit designation
+Marauder (Bounty Hunter-3044) - No Unit designation
+Merlin MLN-SX - BV Mismatch - SSW handling armored engines oddly (not counting all the slots)
+Ryoken (Stormcrow) G - BV Mismatch - Most likely due to completely different RS.
+Mongoose MON-68/69 - Keep an eye on
+Morrigan 3 - Should be Mixed, not Clan
+Naga - Wrong Arrow IV BV?
+No-Dachi NDA-3X - BV mismatch (SSW and MM Agree)
+Ostroc OSR-2D - BV Mismatch - Maybe old non-DHS version?
+Ostroc OSR-4C - BV Mismatch - SSW Matches RS (MM seems to be missing point of armor)
+Ostsol OTL-5D - BV Mismatch - SSW Matches RS (MM seems to be missing armor)
+Panther PNT-12K - RS doesn't exist. SSW file needs to be checked.
+Patriot PKM-2C - BV Mismatch
+Phoenix Hawk IIC 8 - BV Mismatch (Most likely due to Clan XXXL engine)
+Quickdraw QKD-5Mr - BV Mismatch - Not sure this one ever got answered...
+Rifleman C 2 - BV Mismatch due to Clan XXL engine. Name on RS is "C 2" not "C2"
+Rifleman RFL-x3 MUSE WIND - BV Mismatch (SSW and MM agree)
+Rifleman IIC 6 - BV Mismatch, due to missing ERSL most likely
+Shadow Hawk SHD-1R - BV Mismatch
+Shogun C - BV Mismatch Due to error in MM file
+Spatha SP1-X - BV Mismatch (SSW and MM Agree)
+Stinger STG-5G - Should be EXP instead of ADVD
+Sunder Samual - Should be (Samual) to follow naming convention already established.
+Tarantula ZPH-1 - Should probably be ZPH-1A to match naming conventions (2A, 3A, 4A) and RS.
+Thorn THE-F - Doesn't seem to exist
+Thorn THE-Nb - BV Mismatch (SSW and MM agree)
+Thunder Fox TFT-C3 - BV Mismatch
+Thunderbolt TDR-10M (Salazar) - Source states BD:LL, but should be BD:ST?
+Thunderbolt TDR-5Sb - BV mismatch (SSW and MM Agree)
+Titan II TI-2P - BV Mismatch - Most likely due to MM having the ERSL in the head facing the wrong way
+Trebuchet TBT-3C - RS doesn't exist
+Turkina C - BV Mismatch - Not sure what's going on
+Arbiter ARB-001 - BV mismatch (SSW fault)
+
+Check CP and CI values. Streaks should be using SRM BVs instead of Streak equivalents?
+

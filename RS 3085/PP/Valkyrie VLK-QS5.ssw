@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Valkyrie" model="VLK-QS5" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>774</battle_value>
+    <cost>2483520.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="1">LT</location>
+        <location index="2">LT</location>
+        <location index="3">LT</location>
+        <location index="4">LT</location>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+    </structure>
+    <engine rating="150" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>16</ct>
+        <ctr>4</ctr>
+        <lt>12</lt>
+        <ltr>2</ltr>
+        <rt>12</rt>
+        <rtr>2</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>14</ll>
+        <rl>14</rl>
+        <location index="5">LT</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-PP</source>
+        <info>Valkyrie VLK-QS5 30t, 5/8/5, Std FE, ES; 6.0T/100% FF Armor; 10 SHS; 1 ML, 1 MML9</info>
+        <battleforce pv="8" wt="1" mv="5j" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="5">RL</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="5">HD</location>
+            <location index="0">RT</location>
+            <location index="4">HD</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-9</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (LRM Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (SRM Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="9">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

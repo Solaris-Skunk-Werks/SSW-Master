@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Heavy Hover APC" model="" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>188</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="No Turret" />
+    <cost>196000.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
+    <year restricted="FALSE">2470</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="160" manufacturer="Type" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Various" techbase="2">
+        <type>Standard Armor</type>
+        <front>20</front>
+        <left>13</left>
+        <right>13</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Heavy Hover APC 20t, 8/12, ICE, 3.5T/51% Armor; 0 SHS; 1 InfComp, 2 MG</info>
+        <battleforce pv="2" wt="1" mv="8" s="1" m="0" l="0" e="0" ov="0" armor="2" internal="0" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Various">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Various">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>6.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Various</commsystem>
+        <tandtsystem>Various</tandtsystem>
+    </fluff>
+</combatvehicle>

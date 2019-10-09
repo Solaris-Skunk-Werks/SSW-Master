@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Indra Infantry Transport" model="" tons="35" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>897</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1056520.8333333335</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">2842</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="175" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Compound K4" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>25</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>14</rear>
+        <primaryturret>17</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Indra Infantry Transport 35t, 5/8, Std FE, 5.0T/59% FF Armor; 15 SHS; 1 InfComp, 4 MG, 1 ERPPC, 1 CASE</info>
+        <battleforce pv="9" wt="1" mv="5" s="3" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="CASE" />
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type 22">(CL) ER PPC</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series IX">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series IX">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series IX">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series IX">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated Type 2I</commsystem>
+        <tandtsystem>Series VI KITT</tandtsystem>
+    </fluff>
+</combatvehicle>

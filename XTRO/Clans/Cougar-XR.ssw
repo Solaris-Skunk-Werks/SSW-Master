@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Cougar-XR" model="" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1783</battle_value>
+    <cost>5909130.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3070</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="175" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Laser-Reflective</type>
+        <hd>9</hd>
+        <ct>13</ct>
+        <ctr>6</ctr>
+        <lt>11</lt>
+        <ltr>5</ltr>
+        <rt>11</rt>
+        <rtr>5</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>14</ll>
+        <rl>14</rl>
+        <location index="4">HD</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>XTRClans</source>
+        <info>Cougar-XR 35t, 5/8/5[7], XLFE, ES; 7.0T/94% LsrRflc Armor; 10 DHS; 2 LRM15, 1 ERMPL, PartWing</info>
+        <battleforce pv="18" wt="1" mv="5/7j" s="4" m="4" l="3" e="0" ov="0" armor="3" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="6">LA</location>
+            <location index="4">LA</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <partialwing tech="1" lsstart="7" rsstart="7" />
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Cougar Experimental Refit:br::br:Producer/Site: Olivetti Weaponry, Sudeten:br::br:Supervising Technician: Scientist Holman (Goodall):br::br:Project Start Date: 3070:br::br:Non-Production Equipment Analysis::br::br::tab:Inner Sphere Small Cockpit:br::br::tab:Partial Wing:br::br::tab:Laser-Reflective Armor:br::br::tab:ER Medium Pulse Laser:br::br::tab:Artemis V FCS:br::br::br:Features the following Design Quirks: Unbalanced, Prototype, Modular Weapons</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

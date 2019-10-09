@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Devastator" model="DVS-X10 MUSE EARTH" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>3250</battle_value>
+    <cost>1.3144866666666667E8</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3075</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Composite</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">RT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="400" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XXL Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="6">LT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Reactive Armor</type>
+        <hd>9</hd>
+        <ct>50</ct>
+        <ctr>12</ctr>
+        <lt>32</lt>
+        <ltr>10</ltr>
+        <rt>32</rt>
+        <rtr>10</rtr>
+        <la>34</la>
+        <ra>34</ra>
+        <ll>42</ll>
+        <rl>42</rl>
+        <location index="3">HD</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRDavion</source>
+        <info>Devastator DVS-X10 MUSE EARTH 100t, 4/6[10]/0 MASC, XXLFE, E-Comp, Cmp Gyro; 19.5T/100% Rctv Armor; 16 DHS; 2 HPPC, 2 MVSPL</info>
+        <battleforce pv="33" wt="4" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="8" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="16" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="6">RT</location>
+        </equipment>
+        <armored_locations>
+            <location index="3">CT</location>
+            <location index="4">CT</location>
+            <location index="6">RT</location>
+            <location index="0">LA</location>
+            <location index="0">RA</location>
+            <location index="0">LL</location>
+            <location index="0">RL</location>
+        </armored_locations>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Custom DVS-2 Hybrid Refit:br::br:Producer/Site: Corean Enterprises Test Annex, Novaya Zemlya:br::br:Supervising Technician: Dr. Ned Morgan:br::br:Project Start Date: 3075:br::br:Non-Production Equipment Analysis::br::br::tab:Endo Composite Structure:br::br::tab:Armored Components (Gyro, Supercharger, :tab::tab:Shoulders, Hips):br::br::tab:XXL Engine:br::br::tab:Supercharger:br::br::tab:PPC Capacitor:br::br::tab:Reactive Armor</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

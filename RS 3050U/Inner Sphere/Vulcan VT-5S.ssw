@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Vulcan" model="VT-5S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>883</battle_value>
+    <cost>7135100.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>4</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="TRUE">3050</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="8">LT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>8</hd>
+        <ct>10</ct>
+        <ctr>5</ctr>
+        <lt>10</lt>
+        <ltr>5</ltr>
+        <rt>10</rt>
+        <rtr>5</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>12</ll>
+        <rl>12</rl>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-I</source>
+        <info>Vulcan VT-5S 40t, 6/9[12]/6 MASC, XLFE, Std; 5.0T/65% FF Armor; 10 SHS; 1 ML, 1 Flmr, 1 UAC5, 1 MG</info>
+        <battleforce pv="9" wt="2" mv="8/6j" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="5">LT</location>
+            <location index="4">LT</location>
+            <location index="10">CT</location>
+            <location index="3">RT</location>
+            <location index="11">CT</location>
+            <location index="4">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="3">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="11">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

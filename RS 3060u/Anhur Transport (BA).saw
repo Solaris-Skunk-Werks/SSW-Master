@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Anhur Transport" model="(BA)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>637</battle_value>
+    <motive type="VTOL" cruise="8" turret="No Turret" />
+    <cost>1710000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">3069</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Airframe Pattern 2841" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>15</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>12</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Anhur Transport (BA) 30t, 8/12, Std FE, 3.0T/39% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 InfComp, 2 APGR, 1 CASE</info>
+        <battleforce pv="6" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="CASE, ECM" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>10.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Khan-series (Type 2)</commsystem>
+        <tandtsystem>Mark 11 IHADS</tandtsystem>
+    </fluff>
+</combatvehicle>

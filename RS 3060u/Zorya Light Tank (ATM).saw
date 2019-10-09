@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Zorya Light Tank" model="(ATM)" tons="35" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>693</battle_value>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>1370700.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">3068</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="175" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="OTR17b" techbase="2">
+        <type>Standard Armor</type>
+        <front>18</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>10</rear>
+        <primaryturret>16</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Zorya Light Tank (ATM) 35t, 5/8, FCE, 4.0T/40% Armor; 1 SHS; 1 ECM, 1 LB5, 1 ATM6, 1 CASE</info>
+        <battleforce pv="7" wt="1" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="ECM, CASE, EE" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type OVR">(CL) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 5-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated BMR 6c</commsystem>
+        <tandtsystem>TRTTS Mark II</tandtsystem>
+    </fluff>
+</combatvehicle>

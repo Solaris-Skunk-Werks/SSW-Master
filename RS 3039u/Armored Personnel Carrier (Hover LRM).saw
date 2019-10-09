@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Armored Personnel Carrier" model="(Hover LRM)" tons="10" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>193</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="No Turret" />
+    <cost>126000.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
+    <year restricted="FALSE">2400</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="100" manufacturer="Various" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Various" techbase="2">
+        <type>Standard Armor</type>
+        <front>6</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>6</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Armored Personnel Carrier (Hover LRM) 10t, 10/15, ICE, 1.5T/32% Armor; 0 SHS; 1 LRM5</info>
+        <battleforce pv="2" wt="1" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="0" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>LongCom</commsystem>
+        <tandtsystem>OptiTrack Techniques</tandtsystem>
+    </fluff>
+</combatvehicle>

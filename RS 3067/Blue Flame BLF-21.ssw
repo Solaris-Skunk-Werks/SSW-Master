@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Blue Flame" model="BLF-21" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Blue Flame.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1256</battle_value>
+    <cost>7039750.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Mitchell Vehicles" location="North America, Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Dennenback-Mitchell Series 8" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="5">LT</location>
+        <location index="5">FLL</location>
+        <location index="5">FRL</location>
+        <location index="5">RLL</location>
+        <location index="5">RRL</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+    </structure>
+    <engine rating="225" manufacturer="VOX" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/2" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>21</ct>
+        <ctr>7</ctr>
+        <lt>15</lt>
+        <ltr>7</ltr>
+        <rt>15</rt>
+        <rtr>7</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>22</ll>
+        <rl>22</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Blue Flame BLF-21 45t, 5/8/0, LFE, ES Quad; 11.0T/100% Armor; 10 DHS; 1 C3I, 3 SSRM2, 2 ERLL</info>
+        <battleforce pv="13" wt="2" mv="5" s="2" m="2" l="2" e="0" ov="1" armor="6" internal="2" abilities="C3I, MHQ2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diverse Optics Sunbeam">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics Sunbeam">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Hovertec Streak">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Hovertec Streak">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Hovertec Streak">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Dornman Echo IV</commsystem>
+        <tandtsystem>Wayne SuperSight</tandtsystem>
+    </fluff>
+</mech>

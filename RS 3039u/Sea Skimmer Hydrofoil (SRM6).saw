@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Sea Skimmer Hydrofoil" model="(SRM6)" tons="25" motive="Naval (Hydrofoil)" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>321</battle_value>
+    <motive type="Naval (Hydrofoil)" cruise="12" turret="Single Turret" />
+    <cost>346666.6666666666</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Skye Pleasure Craft, Ltd." location="Skye">Inner Sphere</techbase>
+    <year restricted="FALSE">2867</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="Skye Engines Naval" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Glasgow Limited Standard" techbase="2">
+        <type>Standard Armor</type>
+        <front>9</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>4</rear>
+        <primaryturret>5</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039</source>
+        <info>Sea Skimmer Hydrofoil (SRM6) 25t, 12/18, ICE, 2.0T/25% Armor; 0 SHS; 1 MG, 1 SRM6</info>
+        <battleforce pv="3" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(R) (IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes Seaweed PG-2</commsystem>
+        <tandtsystem>TharHes Nav Shark</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Annihilator" model="ANH-4A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Annihilator.gif">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1726</battle_value>
+    <cost>1.0096666666666666E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3069</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="200" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>32</ct>
+        <ctr>11</ctr>
+        <lt>24</lt>
+        <ltr>8</ltr>
+        <rt>24</rt>
+        <rtr>8</rtr>
+        <la>26</la>
+        <ra>26</ra>
+        <ll>32</ll>
+        <rl>32</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-I</source>
+        <info>Annihilator ANH-4A 100t, 2/3/0, Std FE, Std, Cmp Gyro; 14.5T/76% Armor; 15 DHS; 2 LAC2, 2 HPPC, 2 LB10</info>
+        <battleforce pv="17" wt="4" mv="2" s="4" m="5" l="5" e="0" ov="0" armor="8" internal="8" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="15" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LA</location>
+            <location index="0">RT</location>
+            <location index="2">RA</location>
+            <location index="5">LA</location>
+            <location index="5">RA</location>
+            <location index="0">LT</location>
+            <location index="8">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/2</name>
+            <type>ballistic</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/2</name>
+            <type>ballistic</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/2</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/2</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

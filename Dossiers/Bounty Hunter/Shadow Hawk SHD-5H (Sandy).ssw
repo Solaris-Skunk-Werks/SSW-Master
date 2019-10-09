@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Shadow Hawk" model="SHD-5H (Sandy)" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1517</battle_value>
+    <cost>5202006.666666667</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3068</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="275" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>23</ct>
+        <ctr>8</ctr>
+        <lt>18</lt>
+        <ltr>6</ltr>
+        <rt>18</rt>
+        <rtr>6</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BD:BH</source>
+        <info>Shadow Hawk SHD-5H (Sandy) 55t, 5/8/5, Std FE, Std; 9.5T/82% Armor; 12 DHS; 1 LPPC, 1 HPPC, 1 TAG</info>
+        <battleforce pv="15" wt="2" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="5" abilities="TAG, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="0">LT</location>
+            <location index="10">CT</location>
+            <location index="1">LT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Sandy’s Shadow Hawk has the following Vehicle Quirk: Improved Life Support (see p. 195, SO).</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,542 @@
+3039u RS and MUL Notes
+JR7-A Jenner - Weapons loadout should be Large Laser + 2ML (see 3025, and 3039 says "lasers")
+CDA-3C Cicada - Head criticals are messed up.
+cLNT-2-4T - No date in MUL Used 2950 (date on old RS)
+HER-4K Hermes III - Listed on MUL as HER-4K Hermes II "Hermes III" which is more correct?
+DV-6M Dervish - 3039 states that "During the Reunification War, funds provided by the Terran Hegemony allowed the other League Member States to upgrade their last original-model Dervishes, generally found lingering in backwater militias, to the DV-6M standard." and "Given a major update later in the twenty-sixth century" so date should be before 2610.
+Catapult Jenny - Just Jenny? What about "Butterbee"
+ZEU-5S Zeus - Head criticals are messed up.
+ZEU-6S Zeus - Head criticals are messed up.
+No DC Zeus?
+STK-3F Stalker - Head Criticals are messed up.
+CHP-1N2 Champion - Head Criticals are messed up.
+GLT-4P Guillotine - Head Criticals are messed up.
+KGC-010 - King Crab - No hand Actuators?
+OTT-7J - Head criticals are messed up.
+Ostrocs - Original image didn't show hands, but the silhouettes used does.
+OTL-4D Ostsol - Head criticals are messed up. No hand actuators? Images back to 3025 show hand actuators.
+OTL-4F Ostsol - No hand actuators? Images back to 3025 show hand actuators.
+BLR-1G-DC Battlemaster - RS says Star League, MUL says Succession Wars
+BLR-1S - Battlemaster - Head Criticals are messed up.
+Check dates on all DC `Mechs
+
+Swift Wind Scout Car - Should this be Introductory? (Comm Equipment)
+Swift Wind Scout Car (ICE - Speed) - 1 ton overweight (reduce cargo)
+Swift Wind Scout Car (ICE) - Should this be Introductory (Comm Equipment)
+Armored Personnel Carriers - Don't believe the dates?
+APC (Hover Sensors) - Not in MUL? Should this be Introductory (Remote Sensor Dispenser)
+APC (Tracked SRM) - 1 ton underweight
+APC (Wheeled LRM) - 1 ton underweight
+J-27 Ordnance Transport - MUL lists as Advanced, RS Intro
+J-27 Ordnance Transport (Armor) - MUL lists as Advanced, RS Intro
+J-27 Ordnance Transport (Fusion) - MUL lists as Advanced, RS Intro. 0.5 tons underweight. 
+J-27 Ordnance Transport (Trailer) - BV is off due to lack of IS. Listed as 0 tons. Intro date means no trailer available for J-27 (Fusion).
+J-27 Ordnance Transport "Killjoy" - MUL lists as Advanced, RS Intro
+MASH Truck + MASH Truck (ICE) - listed as Advanced on MUL, Intro on RS, but MASH equipment isn't on the Intro Equipment list.
+Packrat LRPV PKR-T5 - Should be a squad?
+Skulker Wheeled Scout Tank (MG) - 0.5 tons underweight
+Skulker Wheeled Scout Tank (SRM) - 0.5 tons underweight
+Harasser Missile Platform "Mini-Peggy" - 0.5 tons underweight?
+Harasser Missle Platform "Leaping Lisa" - No JJ yet.Listed as Advanced, but VJJs are Experimental
+All Mobile Headquarters - Comm Equipment is Intro?
+Mobile Headquarters (ICE) - Cargo makes it 0.4 tons overweight.
+Mobile Headquarters (LL) - Design is 0.5 tons underweight. suggest you keep the cargo from the "Standard" design.
+Mobile Headquarters (LRM) - Design is 0.5 tons underweight. Suggest you keep the cargo from the "Standard" design.
+Coolant Truck 135-K - Listed as Intro, is Insulated cargo Intro?
+Coolant Truck (Hover) - Listed as Intro, Is Insulated Cargo Intro? Overweight, Suggest changing Cargo to 3 (2.61) tons and 2 (1.74) tons.
+Karnov UR - No Date, set random based on fluff
+Karnov UR (AC) - No Date, set random based on fluff.
+Karnov UR (Artillery) - No Date, set random based on fluff
+Karnov UR (Gunship) - Name on MUL and RS don't match
+Pegasus (Missile) - 0.5 tons underweight
+Pegasus (Sensors) - 0.5 tons underweight?
+Pegasus (Unarmed) - 0.5 tons underweight
+Scimitar (Missile) - RS for design is completely wrong, listing 0 movement and a Fusion engine. Should be 8/12 movement, and an ICE with a BV of 704
+Engineering Vehicle - No Date in MUL
+Engineering Vehicle (Autocannon) - Listed as (AC) in MUL
+Engineering Vehicle (Flamer) - Date says 2025, but that's WAY too early for standard armor, set to 2525 instead.
+Hetzer Wheeled Assault Gun (Laser) - 0.5 tons underweight
+Hetzer Wheeled Assault Gun (Scout) - 0.5 tons underweight. SSW treating F Avail equipment as Advanced, instead of Tourney Legal...hmm. RSD not Intro?
+Goblin Medium Tank - No dates, set to 2569
+Condor Heavy Hover Tank (Davion) - BV should be 577 (RS and SAW support this)
+Drillson Heavy Hover Tank (Streak) - 1 ton underweight - Add 1 ton of SRM ammo to match RS3058Uu-I
+Mobile Long Tom Artillery (Support Carriage) listed as 0 tons on RS. Listed as Advanced, butis it really? Max armor for a 5 ton unit is 57 (3.5*5)+40. Design has 64 points. Missing IS
+Mobile Long Tom Artillery (Ammo Carriage) - listed as 0 tons on RS, missing IS
+SRM Carrier - Date too early
+LRM Carrier - Date too early
+Laser Carrier - 1 ton underweight
+Hi-Scout Drone (NapFind) and (PathTrak) - RS incorrect due to them being Support Vehicles, not included in SAW for same reason.
+Neptune/Monitor/Sea Skimmer - Based on RS3039 instead of 3039U
+
+
+RS 3050U Inner Sphere
+FFL-4D Firefly - BV Mistmatch with MUL (RS and SSW Agree)
+Wolfhound IIC - MUL names it "Grinner" RS does not.
+HER-5ME Hermes II "Mercury Elite" - Should it have a LA Hand Actuator?
+WFT-2 Wolf Trap - BV Mistmatch with MUL (RS and SSW Agree)
+HBK-5SG Hunchback - No date/Era, used data from 5SS
+DRG-9KC Grand Dragon - Armor wonky (21/22 legs). Used armor from old RS. 22/22 with 24 CT armor.
+CES-3S Caesar - BV mismatch with MUL due to change in RS
+CES-4R Caesar - BV Mismatch with MUL due to change in RS
+CTF-5D Cataphract - BV Mismatch due to change in RS
+SHG-2F Shogun (Trisha) - Odd migrating heatsinks.
+CP-11-C Cyclops - MUL states 3049, but c3 equipment has a 3050 Date
+MAL-1K Mauler - BV Mistmatch due to change in RS
+MAL-2R Mauler - BV mismatch (SSW and RS agree, should be 1586)
+BNC-9S Banshee - Has a source of 3050U-C instead of 3050U-I. BV should be 2496
+ANH-3A Annihilator - BV change due to change in RS.
+Annihilator C - Should change source to RS 3050U-I
+Annihilator C 2 - Should change source to RS 3050U-I
+
+FLE-17 Flea - Date is Late Succesion Wars, MUL shows Clan Era
+JVN-10P Javelin - Date is Late Succesion Wars, MUL shows Clan Era
+FS9-S Firestarter - Date is Late Succession Wars, MUL shows Clan Era
+FS9-S1 Firestarter - Date is Late Succesion Wars, MUL shows Clan Era
+CDA-3M Cicada - Date is Late Succession Wars, MUL shows Clan Era
+CN9-D Centurion - Date is Late Succession Wars, MUL shows Clan Era
+QKD-5K Quickdraw - Date is Late Succession War, MUL shows Clan Era
+QKD-5M Quickdraw - Date is Late Succession War, MUL shows Clan Era
+AXM-2N Axeman - Date is Late Succession War, MUL shows Clan Era 
+CPLT-C3 Catapult - "      "
+JM6-DD JagerMech - Date is Late Succession War, MUL shows Clan Era
+CES-3R Caesar - Date is Late Succession War, MUL shows Clan Era
+GHR-5J Grasshopper - "     "
+ON1-M Orion - "     "
+AWS-9M Awesome - "     "
+CGR-3K Charger - "     "
+VTR-9K Victor - "     "
+ZEU-9S-DC Zeus - "     "
+CP-11-C Cyclops - "     "
+AS7-K Atlas - "     "
+
+RS 3050U-C
+MCY-99 Mercury - Armor in the CT doesn't match TRO
+MON-69 Mongoose - Date is odd. FF armor is extinct, but BAP isn't.
+MON-70 Mongoose - Date is odd. FF armor is extinct, but BAP isn't.
+MON-76 Mongoose - Wasn't this released WELL before the Jihad?
+HSR-500-D Hussar - Upped the date to 3062 due to c3i
+CRB-30 Crab - Upped the date to 3062/Civil War due to c3i
+KTO-19 Kintaro - LRM5 Ammo should be Narc, not Artemis
+KTO-21 Kintaro - Upped date to 3062/Civil War due to c3i
+CHP-3P Champion - Date upped to 3062 due to c3i
+LNC24-04 Lancelot - Date upped to 3062 due to c3i
+EXT-4A Exterminator - Doesn't match 3025 Revised
+EXT-5E Exterminator - Date upped to 3062/Civil War due to c3i
+BL-6b-KNT Black Knight - Date upped to 2760 to coincide with release of ERPPC
+FLS-9C Flashman - Date upped to 3062/Civil War due to c3i
+THG-11E Thug (Reich) - No Date, used 3075
+CRK-5003-3 Crockett - 1 point of armor unused
+HGN-736 Highlander - Upped date to 3062/Civil War due to c3i
+
+Man O' War - FF critical placement different from the TRO. Used the Record Sheets due to it being the second time published this way.
+Man O' War H - Ammo is in a different place than TRO. Used RS due to it being published twice.
+Gladiator E - shift FF armor from LA to head to match rest of the Gladiators
+Daishi A - Incorrect BV on RS due to AMS
+Daishi W - Date shows Succession War, image is Clan Invasion
+
+MCY-97 Mercury - Date is Late Succession War, MUL shows Clan Era Icon
+HER-3S1 Hermes - "       "
+HER-3S2 Hermes - "       "
+GLT-5M Guillotine - "       "
+
+Ripper Infantry Transport (All) - Should be infantry Squad, not Platoon (Or "Infantry - X ton").
+Ripper Infantry Transport (ERML) - Should be infantry Squad, not Platoon (Or 1 ton), Has to be atleast 3058 for ERML availability.
+Nightshade ECM VTOL - Star should be next to (Light PPC) not (Standard)
+Zephyr (LRM) - 0.5 tons underweight, armor should be upped by 0.5 tons to match old RS (31/26/31(T)/20) - Up BV to 889.
+Kanga Medium Hovertank - Vehicular JJs are Experimental - SSW is missing Jump Jets
+Thor (Clan) - Change BV to 827 (MM is incorrect due to using 6 for Thumper ammo BV)
+Demon Tank (PPC) - 0.5 tons underweight - Added CASE to match old RS.
+Marksman (Light PPC) - Fluff says HMGs are infront and Turret, RS has them on Sides and Turret. Used RS for now.
+Magi (UCSV) - Missing Array in SAW right now
+Fury (Original) - 1 ton underweight Added 1 ton infantry bay to match fluff, original RS
+Fury (Standard) - Date of 3064? Fluff says they didn't discover the design again until 3068.
+Rhino (MG) - Does this design really have an earlier intro date than the Standard version?
+Puma 007 - SSW missing MGA - Date a little early for tech 
+
+
+
+RS 3055Uu
+Phantom F - Date in MUL is 3068, but uses Clan Invasion Icon, should be Jihad Icon. BV listed as 1339, in SSW its 1375
+Pouncer F - Date in MUL is 3068, but uses Clan Invasion Icon; should be Jihad Icon. BV listed as 1214, in SSW its 1308 
+Hellhound (Conjurer) (Standard) - Source listed as RSOK instead of 3055Uu
+Behemoth (Stone Rhino) 4, 5, 6 - No BV listed
+HCA-4U - BV mismatch with MUL; Not sure where this one is coming from. SSW and MM are close, MM seems to not be counting M-pods as explosive. Should be 1796
+HCA-6P - BV mismatch with MUL; SSW and MM Agree at 2366
+GTR-1 Great Turtle - BV Mismatch with MUL; SSW and MM Agree at 3152
+GTR-2 Great Turtle - BV Mismatch with MUL; SSW and MM Agree at 2355
+
+Modified TacOps engine multiplier (Fixed in Dev version)
+http://bg.battletech.com/forums/index.php?action=dlattach;topic=5926.0;attach=5056 
+PRC-2N Porcupine - BV mismatch; SSW and MM agree at 901
+LNG-3 Longshot - BV Mismatch; SSW and MM agree at 955
+LNG-3C Longshot - BV Mismatch; SSW and MM agree at 971
+SVR-5X Silver Fox - BV mistmatch; SSW and MM agree at 1432
+VKH-1 Volkh - BV mistmatch; SSW and MM agree at 1635
+VKH-7 Volkh - "    " 1578
+BMB-1X Bombard - "    " Should be 1649 (SSW and MM disagree due to M-Pod)
+PWR-1X Prowler - "    " SSW and MM Agree at 2042
+PWR-1X1 Prowler - "    " SSW and MM Agree at 1945
+PAL-2 Paladin - "    " SSW and MM agree at 1642
+SP1-X Spatha - "    " SSW and MM agree at 2201
+SQS-TH-002 Sasquatch - "    " SSW and MM agree at 1993
+SQS-TH-003 Sasquatch - "    " SSW and MM agree at 1667
+
+RS 3055U Print
+RFL-3N Rifleman (Legend-Killer) - Not in MUL, Date taken from Fluff; 1 ton overweight, dropped CT armor to 21 to match BV
+RFL-3N Rifleman (Legend-Killer 2) - Not in MUL, Date taken from Fluff 
+RFL-3N-2 Rifleman II (Legend-Killer) - Not in MUL, Date taken from Fluff
+
+RS 3058U
+Sunder X - SSW Correct (Mistake due to wrong Enhanced LRM BV)
+Black Hawk KU X - SSW Correct (Mistake due to Coolant Pod BV error)
+Black Lanner X - SSW Correct (Mistake due to calculating RAC ammo with wrong value)
+Crossbow D (Error with Mortar and Mortar Ammo BV)
+Kingfisher X - SSW Correct (Mistake on Artemis V calculation)
+Turkina X - Talon BV should be 19, not 29 - See SSW thread.
+
+*Note: All vehicles list cargo in 1 ton increments for some odd reason. All Infantry Bays should be Compartments
+Review Cost of Engines perhaps? (1 c-bill off at times)
+pg. 10 Sprint Scout Helicopter (Troop Transport) - 0.5 tons underweight. Changed Infantry compartment to 2.5 tons.
+pg. 11 Centipede Scout Car - BV should be 271 (MUL, SAW, MM Agree)
+pg. 13 Centipede Scout Car (TAG) - BV should be 327 (MUL, SAW, MM Agree)
+pg. 21 Cavalry Attack Helicopter (Infantry) - Had to add FF armor, based on errata report on forums (FF armor, subtradct 1 ton from Infantry bay, up ammo to full ton). BV should be 617
+Cavalry BA - Done from Errata
+pg. 25 J. Edgar Light Hover Tank (Kurita) - BV should be 696 (Mul error)
+pg. 26 J. Edgar Light Hover Tank (TAG) - BV should be 564 (Mul error)
+pg. 27 Kestrel VTOL - Half ton underweight, upped the Infantry Compartment to 3.5
+pg. 29 Kestrel VTOL (MedEvac) - Half ton underweight, upped infantry compartment to 3.5
+pg. 30 Kestrel VTOL (ML) - Check costs
+pg. 31 Kestrel VTOL (SL) - 0.5 tons underweight, added 0.5 tons to Infantry Compartment. Check Costs
+pg. 40 Badger Tracked Transport F - Missing the extra weight in the Infantry bay for now (note - when working on this file, I noticed that when you click "add variant" the Era and Date are taken from the last variant, rather than the original/base. 
+Badger (C) Tracked Transport - Watch for CASE changes.
+pg. 55 Karnov UR Transport (3055 Upgrade) - RS says Infantry Bay, TRO has cargo..went with Cargo.
+pg. 59 Peregrine Attack VTOL (Cargo) - Added the cargon as 1 7 ton bay, instead of 7 1 ton bays
+pg. 72 Plainsman Medium Hovertank - RS lists it as Plainsman Medium Hover Tank. Went with one word due to MUL
+pg. 75 Saladin Assault Hover Tank (Clan Cargo) - Used 1 17 ton bay, instead of 17 1 ton bays. Check CASE
+pg. 82 Striker Light Tank (Ammo) - Missing from MUL, used Striker (3053 Upgrade) data
+pg. 99 Bandit Hovercraft H - SAW missing extra infantry bay tonnage for now
+pg. 101 Bandit (C) Hovercraft - Is the Rear and Turret armor supposed to be that? (almost reversed of standard Bandit); 1 ton underweight (add additional ammo new BV = 1087)
+pg. 108 Bandit (C) Hovercraft G - SAW is missing MG arrays. Check the weight. Vehicle slots
+pg. 130 Vedette Medium Tank (RAC) - Check Price
+pg. 131 AC/2 Carrier (LB-X) - Renamed AC2 due to issues with file name.
+pg. 143 Pike Support Vehicle (Clan) - Check Price
+pg. 144 Pike Support Vehicle (RAC) "Assault Pike" - Check Price
+pg. 154 Axel IIC Tank - Name on MUL is Axel Heavy Tank IIC; Has a standard Fusion Engine
+pg. 155 Axel IIC Tank (XL) - Name on MUL is Axel Heavy Tank IIC (XL); Watch TC with SAW (adding and removing); Check price.
+pg. 170 Zhukov Heavy Tank (WoB) - 6 tons underweight (use HFF armor and up speed to 4/6); Check prices
+pg. 176 Partisan Air Defense Tank (Company Command) - Design is a ton underweight, unless you remove FF armor. Suggest adding another ton of Cluster ammo
+pg. 213-218 Maultier Hover APC - Should be Infantry Compartments, not Bays.
+pg. 220 Padilla Heavy Artillery Tank (LRM) - Set to Advanced to get AMS in Succession War Era
+
+RS 3060u
+Great Wyrm 2 - No FF armor?
+*Note: All vehicles list cargo in 1 ton increments for some odd reason. All Infantry Bays should be Compartments
+pg. 10-11 Bookmarks are messed up.
+pg. 11 Should be the BattleMech Recovery Vehicle, instead is the Flatbed Truck (Armor)
+pg. 13 Mantis (ECC) - SAW is missing the Mast Mount
+pg. 14 Heavy Hover APC - Should be an Infantry Compartment. Date is too early; set to 2470
+pg. 15 Heavy Hover APC (LRM) - Date too early; set to 2470
+pg. 16 Heavy Hover APC (MG) - Date too early; set to 2470
+pg. 18 Heavy Hover APC (SRM) - Date too early; set to 2470
+pg. 19 Heavy Tracked APC - Date too Early; set to 2470
+pg. 20 Heavy Tracked APC (LRM) - Date too Early; set to 2470
+pg. 21 Heavy Tracked APC (MG) - Date too Early; set to 2470
+pg. 22 Heavy Tracked APC (SRM) - Date too Early; set to 2470
+pg. 23 Heavy Wheeled APC - Date too Early; set to 2470
+pg. 24 Heavy Wheeled APC (LRM)  - Date too Early; set to 2470
+pg. 25 Heavy Wheeled APC (MG) - Date too Early; set to 2470
+pg. 26 Heavy Wheeled APC (SRM) - Date too Early; set to 2470
+pg. 28-29 - Bookmark for Hawkmoth (Armor) points to Standard Hawk Moth, Standard Hawk Moth bookmark points to Armor variant.
+pg. 30 Hawk Moth Gunship (Thunderbolt) - Missing Mast Mount in SSW. Half ton
+Pg. 31 Pinto Attack VTOL - Artemis not listed on the LRM5
+pg. 34 Chevalier Light Tank (BAP) - Set to Advanced due to how SSW handles F rated equipment in Succession Wars.
+pg. 37 Gladius Medium Hover Tank - MUL listes as "Gladius Medium Hovertank" RS lists as "Gladius Medium Hover Tank" Go with the first to match TRO.
+pg. 38 Gladius Medium Hovertank Mk II - SAW missing MG Arrays.
+pg. 42 Myrmidon Medium Tank Type 2 - SAW is missing Mine Launchers.
+pg. 45 Schiltron - Fluff calls its Schiltron, RS calls its Schiltron, TRO calls it Schiltron. MUL calls it Schiltron Fire-Support Platform?
+pg. 51 Schiltron F - RS in error, used http://bg.battletech.com/forums/index.php/topic,4021.msg92278.html#msg92278
+pg. 53 Demolisher II Heavy Tank (Thunderbolt) - BV Error (MUL is right) 2336
+pg. 59 Asshur Reconnaissance Vehicle (Proto AC) - Armor is different from all others, 1 point left unallocated. Return armor to 13 front, 11 side, 13 turret, 9 rear, increase BV to 336.
+pg. 63 Donar (Close Support) - Missing the Mast mount and active probe in it.
+pg. 91 Ishtar - Incorrect BV - Should be 1393
+pg. 96 Huey - Incorrect BV (most likely generated pre-Arrow IV errata) - Should be 1160
+pg. 97 Huey (AAA) - Incorrect BV (most likely generated pre-Arrow IV Errata) - Should be 1496
+
+RS 3067u
+OSR-5D Osiris - Extra LFF and ES crits. Removed 1 each from RA.
+RZK-10S Razorback - Extra ES Crit. Removed 1 from RT.
+SYU-6B Sha Yu - Should it have Lower Arm Actuators? Neither of the other variants do.
+Arcas 3 - Is the armor really supposed to look like that?
+
+3075U Errors
+Daimyo HQ 67-NC - No Date in MUL, used 2950; Why did the Infantry Compartment drop to 3 tons? According to the fluff, its just the computer that was removed (original 67-K had a 4 ton infantry Compartment)
+Gladiator "Keller" - SSW says 1553, RS says 1557 
+No K-3N-KR3 Kiso ? (Predates KR4, lacks Command Console based on Fluff)
+Darter Scout Car - SRM and Standard should be Intro; used SRM date for SRM2 design as well. Missing "ABC's Folly" ?
+pg. 162 Mauna Kea Command Vessel - Should be standard/Tournament legal (Comm Equip is not Intro!)
+No Marsden III?
+Marsden II (Primitive Armor) - Used Industrial Armor instead, since SAW doesn't handle primitive at the moment.
+Ignis name convention change? (Ignis Infantry Support Tank to just Ignis)
+Turhan naming convention change? (Turhan vs Turhan Urban Combat Vehicle). Also, Standard Armor version is now Original
+Keep an eye out on naming conventions for Marsden and MErkava and others. Might get switched around from "Merkava Mk. VII Heavy Tank" to "Merkava Heavy Tank" with model "Mk. VII"
+
+JKR-9R "Joker" Jackrabbit - Armor funky (Adds 1 ton of armor, but drops 1 point from head)
+JAW-66B Jabberwocky - BV mismatch (350 SSW, 322 RS) BV mismatch with all. See WI-DM
+JAW-65A Jabberwocky - What's the name? Fluff says both 65A and 66A. RS says 65A, MUl says 66A; 0.5 tons underweight?
+XNT-2O Xanthos - Not in 3075 anymore?
+WI-DM DemolitionMech/WI-DM2 DemolitionMech - BV mismatch (pretty sure SSW is doing it right based on TM Errata 3.0)
+ICR-2S - Record sheet matches, but fluff doesn't. Keep an eye out for changes.
+PTN Patron LoaderMech/PTN-1 Patron LoaderMech - BV Mismatch
+No BWP-X1 ?
+LM1/A Lumberjack - Missing Dumper. BV mismatch
+LM4/C Lumberjack - Missing Dumpers.
+LM4/P Lumberjack - Missing Dumper.
+Are Quasits supposed to have AFCS? RS seems to say no, but fluff lists one. BV mismatch
+
+Crow Scout Helicopter "Dragonfly" - Not in MUL, used 3070 as the date.
+Tamerlane Strike Sled (Flamer) - Should be introductory
+Tamerlane Strike Sled (Rocket) - named (RL) on MUL. used RS
+Tamerlane Strike Sled 2 - Should be introductory
+Saxon APC - Should be Introductory
+Hiryo Armored Infantry Transport - BV mismatch; SAW says 665, RS says 667; massive price difference between SAW and MUL
+Hiryo Armored Infantry Transport (Light PPC) - BV Mismatch; SAW says 686, RS says 708; massive price difference between SAW and MUL
+Hiryo Armored Infantry Transport (MRM) BV Mismatch; SAW says 644, RS says 666; massive price difference between SAW and MUL. (Difference due to change in BV calculations? MUL agrees with SAW on BV..maybe changed since?)
+Bellona Hover Tank (Laser) - Design 0.5 tons overweight. Drop 0.5 tons of LMG ammo.
+SM1A Tank Destroyer = Missing its MGA (Quarter ton underweight?)
+
+
+
+3085u
+MLR-B2 Mjolnir - Armor placement different from TR - Used TR entry
+Nx-80 Nyx - Didn't have lower arm actuators in RS 3085 Print
+BDL-XL Blade - Should be BLD-XL
+BDL-XS Blade - Should be BLD-XS TR 3085 Supplemental states "The XS uses a Mydron Model B medium autocannon and standard-model Diverse Optics lasers in place of the extended-range models." ERMLs should be Mediums.
+BDL-XX Blade - Should be BLD-XX
+PNT-12K Panther - Missing
+WLF-5 Wolfhound - LPPCs moved to RT? - Removed ES from LT.
+TRG-1N Targe - Armor placement different from TR - Used TR entry
+EFT-8X Eisenfaust - Is it supposed to grow a Lower Arm Actuator? Or should the 7X have one (since the 4J does as well).
+SKW-4G Shockwave - Is the ES layout really supposed to be this different from the 4F?
+TFT-A9 Thunder Fox - Still wrong (Streak SRM4)
+TFT-C3 Thunder Fox - Check BV
+OWR-2M Ostwar - Supposed to be different from the sheet published in JHS3076?
+SHY-3B Shen Yi - Used to have an Lower Armor Actuator (RA)
+PEN-2H Penthesilea - Different from 3085 Print Which is correct?
+TR-XB Trebaruna - TC should take up more than just a single critical slot
+AS7-K2 Atlas - Different from Print on Purpose?
+AS7-K3 Atlas - Torso Weapons Reversed?
+SKU-181 Sokuryou SurveyMech - BV mismatch (MM counts Fueltank as ammo, SSW treating as explosive component)
+FWL-3R Fwltur SalvageMech - Odd Offensive Multiplier - Looks like its multiplying offensive Multiplier by 0.9, instead of final result?
+D-M3D-3 Diomede ConstuctionMech - RS shows a 2 ton liquid Cargo Storage bay, RS has 2 1 ton bays -Excessive ammunition penalty in defensive BV?
+
+Arbalest 2 - Missing its MASC
+Morrigan 2 - TC is split
+Dasher II 2 - Check BV (MM error with XXL Engines I believe)
+Ursus II - Different Print on Purpose?
+Dark Crow 3 - Check BV (MM Error with XXL engines I believe)
+Kuma 3 - Check BV (MM Error with XXL engines I believe)
+Karhu - All messed up
+Flamberge C - Check BV (Incorrect Arrow IV Ammo BV perhaps?)
+Tundra Wolf 2 - Different from JHS3076 RS
+
+TR Prototypes (RSProtop)
+PTN-2M Patron PatrolMech - Listed as Advanced, should be Standard; RS listed as Jihad, but MUL and Date say Republic
+Stinger IIC - Under new rules, should be Advanced instead of Experimental; RS listed as Jihad, but MUL and Date say Republic
+DOL-1A1 Dola - Under new rules should be Advanced instead of Experimental; RS listed as Jihad, but MUL and Date say Republic
+Incubus II - Under new rules, should be Advanced instead of Experimental; RS listed as Jihad, but MUL and Date say Republic; On MUL, its listead as Incubus 2, instead of Incubus II
+SDT-1A Spindrift Aquatic SecurityMech - Check rules levels due to 3090 change
+ARB-001 Arbiter SecurityMech - Arm Armor should be 8 instead of 10, check rules level due to 3090 change
+STO-6S Stiletto - Check rules level due to 3090 change
+WLF-2H Wolfhound - Check rules level due to 3090 change Only 13 ES criticals assigned, suggest add 1 to RT
+Beowulf IIC - Check rules levels due to 3090 change.
+WFT-2B Wolftrap - Rules change
+HBK-7R Hunchback - Rules change
+LGN-2F Legionnaire - Rules Change
+MN2-A Sarissa SecurityMech - Rules Change
+TBT-K7R Trebuchet - Rules Change
+Ursus 3 - Rules Change
+APL-4M Apollo - Rules Change
+Mad Cat III - Rules Change - Different from RSMWDA version
+QKD-8P Quickdraw - Rules change
+TSG-9DDC Ti Ts'ang - Rules change
+AXM-6T Axman - Rules change
+RCL-Z1M Deep Lord MilitiaMech - Rules change
+BGS-4T Barghest - Rules Change
+GHR-7P Grasshopper - Rules Change
+ON3-M Orion - Rules change
+LFA-1A Pandarus - Rules change
+HTM-35K Hatamoto-Kaeru - Rules Change
+Mad Cat II Enhanced - Rules Change
+PDG-1R Pendragon - RUles Change
+
+TR3145 Mercs
+No data in MUL yet; Most units subject to rules change from Prototypes.
+JHK-XX Jade Hawks - Check to see if heat sinks are Clan or IS?
+
+All Gun Trailers seem to be underweight (do to engine and control rules)
+Gun Trailer (Ambush) - 1.5 tons underweight
+Gun Trailer (Artillery/AA) - 3.0 tons underweight
+Gun Trailer (LRM) - 3.0 tons underweight
+Gun Trailer (Mjolnir) - Some odd reason SSW won't let the HGR be placed in the rear.
+Gun Trailer (SC) - 3.0 tons underweight
+Gun Trailer (Siege) - Ammo missing. Went with 6 tons since that puts the design at 3 tons under, which seems to be standard.
+Gun Trailer (Stronghold) - 1.0 tons underweight
+Gun Trailer (Thumper) 3.0 tons underweight
+Gun Trailer (Thunderbolt) - 3.0 tons underweight
+Gun Trailer (Ultra) - 3.0 tons underweight
+Garrot Superheavy Transport - Missing Chin turret and armor there
+Kite Reconnaissance Vehicle - Missing Armored Motive System
+Cardinal Transport - SAW Can't do Heavy VTOLs yet.
+
+TR3145 CapCon
+
+TR3145 DC - Dates not available, set to 3145
+Kamakiri Attack VTOL - SAW can't handle SuperHeavy VTOLs yet
+Kamakiri Attack VTOL (Gauss) - SAW can't handle Superheavy VTOLs yet
+Mamono IFV - SAW missing Apollo FCS - Check BV - Armor issue?
+Narukami Heavy Tank (both) - BV Issue. Hardened armor maybe?
+
+TR3145 FS
+
+KLONDIKE
+THE-Nb - Design has ERML, which is impossible due to date. Replaced with standard medium.
+Firefly-C doesn't match RS from 3050U-C
+HER-1Sb Hermes gains a hand actuator, only 13 criticals assigned. Removed LA Hand Actuator, added FF critical to LT.
+GRF-4N - Should be GRF-2N
+Hoplite-C - Already included in 3050U-C
+Conjuoror/Hellhound - Already in 3055Uu
+TDR-5Sb - Removed small laser (overweight, makes no sense)
+Shogun C - Already included in 3050U-C
+Highlander Colleen - BV difference
+Annihilator C - Already included in 3050U-C
+Imp C - Already included in 3050U-C
+Carbine ConstructionMech (RL) BV difference
+ED-X2 - Star League version should have a Fusion Engine.
+EX-X2 (Flamer) BV off by 1
+EX-X2 (RL) BV off by 8
+Buster and Powerman missing Bar rating.
+Daedaulus "Militarized" BV off by 8
+Check BVs on everything with Prototype Weaponry
+
+Misc
+Ti ts'ang "China Doll" - Little Early for IJJs...fluffed as experimental?
+OWR-2M - RS is underweight, used armor from Sourcebook section to match BV.
+DV-1S Dervish - RS has an extra assigned HS it doesn't need.
+PUL-2V - BV Mismatch due to armor; RS has an extra point of armor (15.5 x 1.12 x 16 = 277.76, round down to 277). Removed point from rear CT. MM's armor placement seems off on the torsos completely.
+RPT-2X Raptor II - BV Mismatch, sheet mismatch...replaced the BAP with ECM. Keep eye out.
+RCL-4 Dig Lord - BV mismatch
+RCL-4M Dig Lord - BV Mismatch
+CTF-5MOC Cataphract "Naomi" - Date is little screwy, Plasma Rifle not introduced till 3068
+DGR-6FC2 Dragon Fire "Kishi" - RS is missing the TSM. Added 3 to each arm to make the BV work properly.
+FNR-4A Fafnir "Peter" - LA odd, missing an endosteel crit
+Jenner Samuli - Reduced Front CT armor by 1
+Bandersnatch Horus - BV mismatch; SSW and MM Agree.
+Emperor Nerran - BV Mismatch; SSW and MM Agree
+All ProspectorMechs from HBMPS don't have BVs. Oddly, name changes as well.
+"Rock Hound" - Dropped RA hand actuator to fit Mining Drill. No need to assign 2 criticals to heat sinks. 
+"Rock Otter" - Dropped RA hand actuator for Mining Drill. No need to assign heat sink.
+"Rock Possum" - No need to assign heat sink, Dropped RA hand actuator. Mech Data says Cargo Bay is on the LT, crits show it on RT.
+"Space Hound" - missing fuell used 2 1 ton cargo bays instead
+Morpheus L'Morte II - Couldn't fit the spikes based on the Record Sheet, made the armor FF to add the spikes.
+
+
+MWDA
+AgroMech MOD - 1 ton overweight. Reduced armor by 1 ton. Used PRI HMP files ( http://www.pryderockindustries.com/downloads/featured/hmp_rs_da_mechs.zip ) for armor values.
+ForestryMech MOD - 1 ton overweight. See AgroMech MOD notes.
+MiningMech - 3.5 tonsOverweight - RS uses standard IS. Too much of a change to make a worthwhile RS
+MiningMech MOD - Overweight - RS uses standard IS. Too much of a change to make a worthwhile RS.
+Cougar X - Had to be mixed tech to get the Composite structure
+Cougar X2 - Had to be mixed tech to get the Composite Structure, FF armor rounding error, reduced rear ct by 1
+Cougar X3 - Had to be mixed tech to get the Composite Structure/HD Gyro, FF armor rounding error, reduced rear ct by 1
+FS9-M2 Firestarter - 0.5 tons underweight.
+Mad Cat III - FF armor rounding error, reduced rear CT by 1
+ZEU-X Zeus - Removed Lower Arm Actuator LA. Added Reactive armor crits to LA, RA, Head, CT
+ZEU-X2 Zeus - Added Reactive Armor Crits to RTx2, LTx2
+
+Omni
+Naga - BV mismatch most likely due to pre-errata Arrow IV BV
+Balius A Weapons reversed from TRO went with TRO.
+Balius D reverses weapons, followed TRO
+Malak Caelestis - BV mismatch...capacitor maybe?
+Deva Eminus - ERMLs are in the RA instead of RT..moved to RT to match TRO.
+Black Hawk-KU Albert Benton..same guy, no RS in Sword and Dragon.
+Gargoyle H- RS shows ammo in RA, RS shows in RT. Currently in RA.
+Stooping Hawk - Missing dates for Prime, A, B, C, D, E
+Perseus P1E - BV mismatch with RS 1658(Mul) to 1675 (SSW). Seems to be VGLs?
+
+TRVA
+HVR-99 - No data
+SC-V-1 - Missing Extended Fuel Tank; Too many criticals assigned to LT, moved TSM to RT and CT
+SC-v - Not enough data to make (winds up 8 tons underweight)
+KIC-3 - No Data
+XV Powerman - No Data
+XVI Powerman - followed TR, no weight for extra cargo.
+Buster Class - Removed BC from name
+ED-X4 - TRVA Gryo is incorrect, reduced armor by 1 ton to compensate. Also, writeup says "Commercial Light" TR section says "Industrial" Lifthoist can't fit in CT, moved to RA for the heck of it (maybe rear torso instead?)
+
+CON-7 "Carbine" ConstructionMech - Armor is 32 points, 36 are assigned.
+MR-8C Marco - Design is 1.5 tons overweight (forgot JumpJet weight). Design should have 10 Heatsinks (Fusion Engine). Reduced armor to 2.5 tons to allow for the Op:K model's weaponry. 
+Pompier FireMech - moved Liquid Cargo to RT (otherwise it would be 3 crits in the CT). Fuel Cell nets you one heat sink automatically.
+
+Sword and Dragon
+DRG-7K "Mark" BV Mismatch (BV seems based on incorrect MM file)
+JR-7K "Grace II" - Removed point of rear CT armor to fix.
+TBT-5K - Pretty Sure this has been replaced by the 7K
+
+Wolf and Blake
+GRF-6S "Francine" - BV mismatch with MUL, SSW and MM agree
+
+XTRComStar
+Grim Reaper should have a Clan 280XL engine (set at 275, due to lack of Frankenstein rules)
+
+XTRPrimitives
+WSP-1 Wasp - No primitive Jump Jets (used standard for now)
+
+XTR SUccesion Wars
+GRF-2N-X Griffin - Can't do yet, no Prototype IJJs
+MAD-4X Marauder - Can't do yet, stupid Freezers, Primitive Endo Steel
+
+Wars of Reaving Supplemental - All dates set to 3072
+pg. 53 Cephalus Prime - Light TAG is listed in the RT in the "Weapons & Equipment Inventory" section, but on the Critical Hit Table, Light TAG is in the LT. According to Wars of Reaving (pg. 215) the Light TAG should be in the RT. -- Fix: move Light TAG to RT just below the XXL engine, slide the Laser AMS and Modular Armor down 1 slot to make room.
+pg. 54 Cephalus A - Right and Left Torsos swapped, Weapons and Equipment list and Wars of Reaving to assign equipment locations
+pg. 55 Cephalus B - Weapons and Equipment list and criticals don't match. See http://bg.battletech.com/forums/index.php/topic,18465.msg417582.html#msg417582
+pg. 60 Mist Lynx (Koshi) Z - Should have double heat sinks, be Clan only (set date to 3074 for modular armor)
+pg. 61 Viper (Dragonfly) Z - Weapons and Equipment lists the Laser AMS as just "Anti-Missile System" Critical hits table lists it as "Laser AMS" but provides ammo for it. Delete the Ammo, keep it as AMS.
+pg. 62 Septicemia A-Z - Weapons and Equipment list and criticals don't match. Moved Light TAG to RT. Should be 16 DHS
+pg. 63 Septicemia B-Z - Should be 13 DHS.
+pg. 66 Septicemia E - Right and Left Torso swapped from WoR.
+pg. 67 Septicemia F - Should be Advanced (only has Arrow IV on it)
+pg. 68 Septicemia US - Installed the cargo as a single 2 ton item instead of 2 1 ton items.
+pg. 71 Stormcrow/Ryoken Z - Nova CEWS in RT in Equipment list, head in Crit table (followed equipment list). iHMLs should be above the ammo in arms to follow convention.
+pg. 72 Summoner Z - NCEWS listed in RT, in CT in Crit. Put in RT for now; iATM12 listed in RA, put LT to follow picture.
+pg. 73 Timber Wolf/Mad Cat Z - NCEWS listed in RT, in CT, put in RT for now.
+pg. 74 Osteon Prime - RS says Advanced, should be Experimental
+pg. 75 Osteon A - RS says Advanced, should be Experimental; Delete bracket in second half RT, slots 1-3
+pg. 76 Osteon B - RS says Clantech, should be Mixed Tech (Large Vibroblade)
+pg. 78 Osteon D - Design is 2 tons underweight
+pg. 79 Osteon E - Targeting computer is listed in the head, not enough space, followed sheet and put it in LT
+pg. 80 Osteon F - Design half a ton overweight, reduced MG ammo to half a ton. Put the ERLL above the amo in the head to match standard design policy.
+pg. 84 Savage Coyote Z - Nova CEWS listed in CT, no space, put in head like crit sheet says.
+pg. 85 Turkina Z - SSW seems to be armoring components in spaces where previous variants had armored component (see U and Z variants). Looks like its loading them from previous version?
+
+Total Chaos
+pg. 254 AWS-10KM Awesome (Cameron) - Not in MUL, set date to 3078 (Date of Terra battles)
+pg. 255 AS7-D-H Atlas II (Devlin) - Not in MUL, set date to 3078 (date of Terra battles)
+
+Need Special Checking
+Cephalus
+Dragonfly (Viper)
+Koshi (Mist Lynx)
+Mad Cat (Timber Wolf)
+Mist Lynx (Koshi)
+PEN-2MAF Penthesilea
+Stormcrow (Ryoken)
+Summoner (Thor)
+Timber Wolf (Mad Cat)
+Viper (Dragonfly)
+Warhammer IIC 9
+Osteon
+Pariah (Septicemia)
+Ryoken (Stormcrow)
+Thor (Summoner)
+Turkina

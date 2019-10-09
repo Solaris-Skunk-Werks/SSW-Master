@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Phoenix" model="PX-3R" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1106</battle_value>
+    <cost>4234250.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Krauss-Liemann Incorporated" location="Wotan">Inner Sphere</techbase>
+    <year restricted="FALSE">2581</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="12b Krauss-Liemann" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="250" manufacturer="Magna" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="PanzerSlab Type 3" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>20</ct>
+        <ctr>7</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Phoenix PX-3R 50t, 5/8/5, Std FE, Std; 9.0T/85% Armor; 14 SHS; 1 PPC, 2 SRM2</info>
+        <battleforce pv="11" wt="2" mv="5j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="0">LT</location>
+            <location index="5">LL</location>
+            <location index="11">CT</location>
+            <location index="5">RL</location>
+            <location index="0">RT</location>
+        </jumpjets>
+        <heatsinks number="14" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">LL</location>
+            <location index="3">HD</location>
+            <location index="10">CT</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Stolz Harbinger 2">(IS) PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Marklin Mini">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Marklin Mini">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Gerard Speical A</jumpjet_model>
+        <commsystem>Vex/Holden TriComm Plus</commsystem>
+        <tandtsystem>Dillon QuadTrac with Particle Cannon Suite</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Arana" model="ARA-S-1" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1092</battle_value>
+    <cost>2184966.666666667</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Quixote Industries" location="Asturias, Granada">Clan</techbase>
+    <year restricted="FALSE">3095</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="200" manufacturer="Fuel-EX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Industry-Z" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>18</ct>
+        <ctr>5</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ISP3</source>
+        <info>Arana ARA-S-1 40t, 5/8/0, Std FE, Ind Quad; 9.5T/99% Armor; 15 SHS; 3 ERML</info>
+        <battleforce pv="11" wt="2" mv="5" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="ENE, SRCH, ES" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">FRL</location>
+            <location index="4">FLL</location>
+            <location index="10">CT</location>
+            <location index="11">CT</location>
+            <location index="0">LT</location>
+            <location index="4">RLL</location>
+            <location index="4">RRL</location>
+        </heatsinks>
+        <turret type="right torso" index="3"/>
+        <equipment>
+            <name manufacturer="">(T) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(T) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(T) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="1">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features Advanced Fire Control. Features the following Design Quirks: Non-Standard Parts, Poor Sealing.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

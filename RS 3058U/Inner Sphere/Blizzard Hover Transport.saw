@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Blizzard Hover Transport" model="" tons="25" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>277</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>288125.0</cost>
+    <rules_level>0</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Kressly WarWorks" location="Epsilon Eridani">Inner Sphere</techbase>
+    <year restricted="FALSE">3054</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="Nissan" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>10</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>9</rear>
+        <primaryturret>9</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Blizzard Hover Transport 25t, 9/14, ICE, 3.0T/38% Armor; 0 SHS; 1 InfComp, 1 LRM5</info>
+        <battleforce pv="3" wt="1" mv="9" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="LongFire V">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>6.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Angst Clear Channel 4</commsystem>
+        <tandtsystem>BlazeFire Sight Lock</tandtsystem>
+    </fluff>
+</combatvehicle>

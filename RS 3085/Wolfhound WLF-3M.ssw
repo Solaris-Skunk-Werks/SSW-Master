@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Wolfhound" model="WLF-3M" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>786</battle_value>
+    <cost>4403160.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3085</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LA</location>
+        <location index="5">LT</location>
+        <location index="5">LA</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="6">LA</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">RT</location>
+        <location index="9">RA</location>
+        <location index="10">RA</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="210" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>15</ct>
+        <ctr>6</ctr>
+        <lt>10</lt>
+        <ltr>5</ltr>
+        <rt>10</rt>
+        <rtr>5</rtr>
+        <la>11</la>
+        <ra>11</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <info>Wolfhound WLF-3M 35t, 6/9/0, LFE, ES; 7.0T/94% Armor; 10 DHS; 1 LGR</info>
+        <battleforce pv="8" wt="1" mv="6" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Light Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

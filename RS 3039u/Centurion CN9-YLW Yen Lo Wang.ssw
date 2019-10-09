@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Centurion" model="CN9-YLW &quot;Yen Lo Wang&quot;" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>957</battle_value>
+    <cost>3409750.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3027</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="200" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>18</ct>
+        <ctr>7</ctr>
+        <lt>14</lt>
+        <ltr>6</ltr>
+        <rt>14</rt>
+        <rtr>6</rtr>
+        <la>14</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Centurion CN9-YLW "Yen Lo Wang" 50t, 4/6/0, Std FE, Std; 8.5T/80% Armor; 10 SHS; 2 ML, 1 AC20, 1 Htcht</info>
+        <battleforce pv="10" wt="2" mv="4" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="4" abilities="MEL, SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Hatchet</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

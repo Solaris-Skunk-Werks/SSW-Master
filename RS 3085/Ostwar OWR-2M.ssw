@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Ostwar" model="OWR-2M" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1205</battle_value>
+    <cost>4778125.0</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>PrimitiveBattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2470</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Primitive Structure</type>
+    </structure>
+    <engine rating="195" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Primitive Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Primitive Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>10</ctr>
+        <lt>21</lt>
+        <ltr>7</ltr>
+        <rt>21</rt>
+        <rtr>7</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>23</ll>
+        <rl>23</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <info>Ostwar OWR-2M 65t, 3/5/0, Pr FE, Prm; 17.5T/89% Pr. Armor; 12 SHS; 2 ML, 2 SRM4, 1 LRM20</info>
+        <battleforce pv="12" wt="3" mv="3" s="3" m="3" l="1" e="0" ov="1" armor="6" internal="5" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">LT</location>
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-20</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

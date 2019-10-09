@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Snow Fox" model="2" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>604</battle_value>
+    <cost>1847199.9999999998</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3015</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="160" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="1">
+        <type>MASC</type>
+        <location index="10">CT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>7</hd>
+        <ct>6</ct>
+        <ctr>1</ctr>
+        <lt>6</lt>
+        <ltr>1</ltr>
+        <rt>6</rt>
+        <rtr>1</rtr>
+        <la>5</la>
+        <ra>5</ra>
+        <ll>5</ll>
+        <rl>5</rl>
+        <location index="2">LT</location>
+        <location index="3">LT</location>
+        <location index="3">RT</location>
+        <location index="4">LT</location>
+        <location index="4">RT</location>
+        <location index="5">RT</location>
+        <location index="11">CT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <info>Snow Fox 2 20t, 8/12[16]/0 MASC, Std FE, Std Quad; 2.5T/66% FF Armor; 10 SHS; 1 LRM10</info>
+        <battleforce pv="6" wt="1" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

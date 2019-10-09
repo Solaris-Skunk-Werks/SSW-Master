@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Heavy BattleMech Recovery Vehicle" model="" tons="70" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>176</battle_value>
+    <motive type="Wheeled" cruise="4" turret="No Turret" />
+    <cost>618750.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
+    <year restricted="FALSE">2439</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="280" manufacturer="Generic" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Various" techbase="2">
+        <type>Standard Armor</type>
+        <front>10</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Heavy BattleMech Recovery Vehicle 70t, 4/6, ICE, 2.5T/14% Armor; 0 SHS; 1 StndrdCrgo</info>
+        <battleforce pv="2" wt="3" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="2" abilities="ENE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>30.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Various</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</combatvehicle>

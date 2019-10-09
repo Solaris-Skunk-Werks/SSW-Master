@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Phoenix Hawk" model="PXH-1" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1041</battle_value>
+    <cost>4066090.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Earthwerks Incorporated, Coventry Metal Works, Achernar BattleMechs, Gorton, Kingsley, and Thorpe Enterpises" location="Keystone (Earthwerks), Coventry (CMW), New Avalon (Achernar), New Oslo (GKT)">Inner Sphere</techbase>
+    <year restricted="FALSE">2568</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Earthwekrks PXH" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="270" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Light" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>23</ct>
+        <ctr>5</ctr>
+        <lt>18</lt>
+        <ltr>4</ltr>
+        <rt>18</rt>
+        <rtr>4</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Phoenix Hawk PXH-1 45t, 6/9/6, Std FE, Std; 8.0T/84% Armor; 10 SHS; 2 ML, 2 MG, 1 LL</info>
+        <battleforce pv="10" wt="2" mv="6j" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="4" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+            <location index="1">LT</location>
+            <location index="1">RT</location>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="M100">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="M100">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harmon">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harmon">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harmon">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Rawlings 45</jumpjet_model>
+        <commsystem>Neil 6000</commsystem>
+        <tandtsystem>Octagon Tartrac System C</tandtsystem>
+    </fluff>
+</mech>

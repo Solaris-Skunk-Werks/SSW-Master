@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Barghest" model="BGS-4X" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1667</battle_value>
+    <cost>8230833.333333335</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3078</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="5">HD</location>
+        <location index="5">FLL</location>
+        <location index="5">FRL</location>
+        <location index="5">RLL</location>
+        <location index="5">RRL</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>28</ct>
+        <ctr>9</ctr>
+        <lt>21</lt>
+        <ltr>6</ltr>
+        <rt>21</rt>
+        <rtr>6</rtr>
+        <la>25</la>
+        <ra>25</ra>
+        <ll>25</ll>
+        <rl>25</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRSteiner</source>
+        <info>Barghest BGS-4X 70t, 4/6/0, Std FE, ES Quad; 12.5T/86% Armor; 10 DHS; 1 C3S, 2 LPPC, 1 iHGR</info>
+        <battleforce pv="17" wt="3" mv="4" s="2" m="3" l="3" e="0" ov="0" armor="7" internal="6" abilities="C3S, CASEII, MHQ1, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <turret type="left torso" index="6"/>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Improved Heavy Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(T) (IS) Light PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(T) (IS) Light PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

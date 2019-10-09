@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Mobile Headquarters" model="(ICE)" tons="25" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>319</battle_value>
+    <motive type="Wheeled" cruise="6" turret="Single Turret" />
+    <cost>250500.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Star League Defense Industries" location="Mars (destroyed 2767)">Inner Sphere</techbase>
+    <year restricted="FALSE">2850</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="150" manufacturer="Omni" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/4" techbase="2">
+        <type>Standard Armor</type>
+        <front>16</front>
+        <left>19</left>
+        <right>19</right>
+        <rear>16</rear>
+        <primaryturret>10</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Mobile Headquarters (ICE) 25t, 6/9, ICE, 5.0T/63% Armor; 3 SHS; 1 ML, 1 CommEqp</info>
+        <battleforce pv="3" wt="1" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, EE" />
+        <heatsinks number="3" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>2.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes HQ CommSet</commsystem>
+        <tandtsystem>Diplan-IX SideSweeper</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="MIT 23 MASH Vehicle" model="" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>172</battle_value>
+    <motive type="Wheeled" cruise="5" turret="No Turret" />
+    <cost>293333.3333333334</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="ComTech" location="Arc-Royal">Inner Sphere</techbase>
+    <year restricted="FALSE">3067</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="100" manufacturer="Heremes" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/Sheet" techbase="2">
+        <type>Standard Armor</type>
+        <front>20</front>
+        <left>13</left>
+        <right>13</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>MIT 23 MASH Vehicle 20t, 5/8, Std FE, 3.5T/51% Armor; 10 SHS; 1 MASH</info>
+        <battleforce pv="2" wt="1" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="0" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">MASH</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>9.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Angst WideCom</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</combatvehicle>

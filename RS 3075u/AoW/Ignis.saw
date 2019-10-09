@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Ignis" model="" tons="30" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>463</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>302250.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="United Mechanics, LLC" location="Apollo">Inner Sphere</techbase>
+    <year restricted="FALSE">2512</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="120" manufacturer="RWA" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Garbonne Crystal-Plate 9" techbase="2">
+        <type>Standard Armor</type>
+        <front>54</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>17</rear>
+        <primaryturret>23</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Ignis 30t, 4/6, ICE, 9.0T/99% Armor; 0 SHS; 4 Vflmr, 1 InfComp, 1 MG</info>
+        <battleforce pv="5" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="1" armor="5" internal="1" abilities="HT1, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Intar Burners">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Intar Burners">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Intar Burners">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Intar Burners">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Halta MG turret">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>FR-es Special-II</commsystem>
+        <tandtsystem>Lester ATR</tandtsystem>
+    </fluff>
+</combatvehicle>

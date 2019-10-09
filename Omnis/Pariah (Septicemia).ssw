@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Pariah (Septicemia)" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>1.2964070833333334E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kerensky Memorial Manufacturing" location="Strana Mechty">Clan</techbase>
+    <year restricted="FALSE">3072</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="55T Battle Epsilon-5 Profile" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="5">LA</location>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="9">LA</location>
+        <location index="10">LA</location>
+        <location index="11">LA</location>
+    </structure>
+    <engine rating="275" manufacturer="Type II" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound SJ8CW" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>8</hd>
+        <ct>23</ct>
+        <ctr>7</ctr>
+        <lt>18</lt>
+        <ltr>7</ltr>
+        <rt>18</rt>
+        <rtr>7</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+        <location index="5">RA</location>
+        <location index="6">RA</location>
+        <location index="7">RA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+        <location index="10">RA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRO 3075u</source>
+        <info>Pariah (Septicemia) 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS</info>
+        <battleforce pv="8" wt="2" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  Prime 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 ERLL, 1 HAG40, TC</info>
+        <battleforce pv="25" wt="2" mv="5" s="5" m="4" l="4" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 3/3/3" />
+        <battle_value>2511</battle_value>
+        <cost>1.2964070833333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  A 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 16 DHS; 2 ATM12, 6 HSL</info>
+        <battleforce pv="19" wt="2" mv="5" s="10" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1935</battle_value>
+        <cost>1.3052614583333334E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="4">LL</location>
+            <location index="2">LT</location>
+            <location index="4">RL</location>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  B 55t, 5/8/7, XLFE, ES; 9.0T/93% FF Armor; 14 DHS; 3 SPL, 2 LPL, TC</info>
+        <battleforce pv="23" wt="2" mv="5/7j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2310</battle_value>
+        <cost>1.4686895833333334E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="7">
+            <type>Improved Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="6">RT</location>
+            <location index="4">RL</location>
+            <location index="4">LT</location>
+            <location index="4">LL</location>
+            <location index="4">RT</location>
+            <location index="2">LT</location>
+        </jumpjets>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  C 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 12 DHS; 3 PC, 8 APGR, 4 MPL, 2 MGA+4MG</info>
+        <battleforce pv="22" wt="2" mv="5" s="6" m="5" l="2" e="0" ov="4" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battle_value>2227</battle_value>
+        <cost>1.3979708333333334E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (4 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (4 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  D 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 3 ERSL, 1 ERPPC, 1 UAC20, TC</info>
+        <battleforce pv="27" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2718</battle_value>
+        <cost>1.3523523958333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">RL</location>
+            <location index="5">LL</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  E 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 15 DHS; 1 LTAG, 6 ERML, 1 NCEWS, 2 ERPPC, TC</info>
+        <battleforce pv="30" wt="2" mv="5" s="5" m="5" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2950</battle_value>
+        <cost>1.5664945833333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="10">CT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Nova CEWS</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A-Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  A-Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 16 DHS; 1 LTAG, 6 iHSL, 1 NCEWS, 2 iATM12</info>
+        <battleforce pv="24" wt="2" mv="5" s="11" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2388</battle_value>
+        <cost>1.6927614583333336E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="10">CT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) iATM-12</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) iATM-12</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Nova CEWS</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B-Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  B-Z 55t, 5/8/7, XLFE, ES; 9.0T/93% FF Armor; 13 DHS; 1 LTAG, 1 NCEWS, 2 SPL, 2 LPL, TC</info>
+        <battleforce pv="23" wt="2" mv="5/7j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2349</battle_value>
+        <cost>1.6853020833333336E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="7">
+            <type>Improved Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="4">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RA</location>
+            <location index="2">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Nova CEWS</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C-Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  C-Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 12 DHS; 2 MGA+3MG, 1 NCEWS, 3 PC, 6 APGR, 4 MPL</info>
+        <battleforce pv="23" wt="2" mv="5" s="6" m="5" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battle_value>2264</battle_value>
+        <cost>1.6052833333333334E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Nova CEWS</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D-Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  D-Z 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 NCEWS, 1 ERPPC, 1 UAC20, TC</info>
+        <battleforce pv="27" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2704</battle_value>
+        <cost>1.5589383333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="10">CT</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Nova CEWS</name>
+            <type>equipment</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  F 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 2 ArwIV</info>
+        <battleforce pv="16" wt="2" mv="5" s="4" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ARTAC, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1586</battle_value>
+        <cost>1.3246364583333334E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="2" number="9">LT</splitlocation>
+            <splitlocation index="2" number="3">LA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="2" number="9">RT</splitlocation>
+            <splitlocation index="2" number="3">RA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="US" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  US 55t, 5/8/7, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 ECM, 1 Talons, 2 ERML, 4 ERSL, 2 SptWeld, 1 ERPPC, 1 LqdCrgo</info>
+        <battleforce pv="23" wt="2" mv="5/7j" s="3" m="3" l="1" e="0" ov="1" armor="6" internal="3" abilities="OMNI, MEL, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2298</battle_value>
+        <cost>1.5522345833333334E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="7">
+            <type>Improved Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Talons</name>
+            <type>physical</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Spot Welder</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Spot Welder</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Liquid</name>
+            <type>equipment</type>
+            <tons>2.0</tons>
+            <location index="10">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="UW" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  UW 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 6 SRT4, 5 HrJl, 2 LRT15, 1 MASS</info>
+        <battleforce pv="19" wt="2" mv="5j" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="UMU, OMNI, BHJ, CASE, SRCH, ES, SEAL, SOA, TOR 5/5/2" />
+        <battle_value>1913</battle_value>
+        <cost>1.4705883333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Mech UMU</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="3">LT</location>
+            <location index="2">RT</location>
+            <location index="3">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">MW Aquatic Survival System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRT-15</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRT-15</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-4</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-4</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-4</name>
+            <type>missile</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-4</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRT-4</name>
+            <type>missile</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="5">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="5">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-4 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-4 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel</name>
+            <type>equipment</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel</name>
+            <type>equipment</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel</name>
+            <type>equipment</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel</name>
+            <type>equipment</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Pariah (Septicemia)  Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 ERLL, 1 iATM12, 1 MPL, 1 HPG</info>
+        <battleforce pv="21" wt="2" mv="5" s="6" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, HPG, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2072</battle_value>
+        <cost>7.763196570833334E9</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) iATM-12</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Ground Mobile HPG</name>
+            <type>equipment</type>
+            <splitlocation index="2" number="10">RT</splitlocation>
+            <splitlocation index="10" number="2">CT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>GBX Series Integrated II</commsystem>
+        <tandtsystem>Cat&apos;s Eye MD7</tandtsystem>
+    </fluff>
+</mech>

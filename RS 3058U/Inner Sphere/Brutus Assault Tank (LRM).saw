@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Brutus Assault Tank" model="(LRM)" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1248</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>3561250.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Kressly WarWorks" location="Epsilon Eridani">Inner Sphere</techbase>
+    <year restricted="FALSE">3001</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="Rawlings" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Kressly Stoneskin 40X" techbase="2">
+        <type>Standard Armor</type>
+        <front>44</front>
+        <left>37</left>
+        <right>37</right>
+        <rear>29</rear>
+        <primaryturret>37</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Brutus Assault Tank (LRM) 75t, 3/5, Std FE, 11.5T/61% Armor; 10 SHS; 2 SRM6, 2 LRM20, 1 SRM2</info>
+        <battleforce pv="12" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="SRM 1/1/0, LRM 1/1/1, IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Hovertec">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Hovertec">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Hovertec">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta Dart">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta Dart">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Angst Clear Channel 3</commsystem>
+        <tandtsystem>Dwyerson Mark XII</tandtsystem>
+    </fluff>
+</combatvehicle>

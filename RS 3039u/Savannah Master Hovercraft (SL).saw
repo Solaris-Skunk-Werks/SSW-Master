@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Savannah Master Hovercraft" model="(SL)" tons="5" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>131</battle_value>
+    <motive type="Hovercraft" cruise="13" turret="No Turret" />
+    <cost>72416.66666666669</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="S.L. Lewis, Inc." location="Carlisle">Inner Sphere</techbase>
+    <year restricted="FALSE">3025</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="65" manufacturer="Edasich Omni" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex Light" techbase="2">
+        <type>Standard Armor</type>
+        <front>10</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>2</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Savannah Master Hovercraft (SL) 5t, 13/20, Std FE, 1.5T/42% Armor; 10 SHS; 2 SL</info>
+        <battleforce pv="1" wt="1" mv="13" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="0" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes Hm 10</commsystem>
+        <tandtsystem>TharHes Alpha-2a</tandtsystem>
+    </fluff>
+</combatvehicle>

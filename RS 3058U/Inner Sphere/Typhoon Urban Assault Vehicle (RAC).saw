@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Typhoon Urban Assault Vehicle" model="(RAC)" tons="70" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1434</battle_value>
+    <motive type="Wheeled" cruise="3" turret="Single Turret" />
+    <cost>2962125.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Jalastar Industries" location="Panpour">Inner Sphere</techbase>
+    <year restricted="FALSE">3064</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="Breen" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ArcShield Maxi IV" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>43</front>
+        <left>40</left>
+        <right>40</right>
+        <rear>32</rear>
+        <primaryturret>42</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Typhoon Urban Assault Vehicle (RAC) 70t, 3/5, Std FE, 11.0T/69% FF Armor; 10 SHS; 4 SSRM2, 2 RAC5, 2 ERML, 1 BAP</info>
+        <battleforce pv="14" wt="3" mv="3" s="3" m="3" l="0" e="0" ov="4" armor="7" internal="3" abilities="PRB, RCN" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Omicron 1500</commsystem>
+        <tandtsystem>Jalastar TargiTrack 717</tandtsystem>
+    </fluff>
+</combatvehicle>

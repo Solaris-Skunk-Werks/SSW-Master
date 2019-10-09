@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Mongoose II" model="MON-267" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1237</battle_value>
+    <cost>9840226.666666666</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Arc-Royal MechWorks, Defiance Manufacturing Annex" location="Arc-Royal (Arc-Royal MechWorks), Kwangjong-ni (Defiance)">Inner Sphere</techbase>
+    <year restricted="FALSE">3073</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Alshain Type 69-40S" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+    </structure>
+    <engine rating="320" manufacturer="Pitban" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="5">LT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Stealth Armor</type>
+        <hd>8</hd>
+        <ct>14</ct>
+        <ctr>4</ctr>
+        <lt>11</lt>
+        <ltr>4</ltr>
+        <rt>11</rt>
+        <rtr>4</rtr>
+        <la>9</la>
+        <ra>9</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LA</location>
+        <location index="9">LA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Mongoose II MON-267 40t, 8/12[16]/0 MASC, XLFE, ES; 6.5T/76% Stlth Armor; 10 DHS; 1 ECM, 1 ERLL, 1 C3S, 1 BAP, TC</info>
+        <battleforce pv="12" wt="2" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="ECM, STL, PRB, RCN, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diverse Optics Sunbeam">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="3">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Nashan Comm-i U-284</commsystem>
+        <tandtsystem>Nashan Trac V-102</tandtsystem>
+    </fluff>
+</mech>

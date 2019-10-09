@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Thor (Summoner)" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Summoner.JPG">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>2.1150833333333332E7</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">2872</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="350" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>27</ct>
+        <ctr>8</ctr>
+        <lt>22</lt>
+        <ltr>7</ltr>
+        <rt>22</rt>
+        <rtr>7</rtr>
+        <la>17</la>
+        <ra>17</ra>
+        <ll>23</ll>
+        <rl>23</rl>
+        <location index="3">HD</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <info>Thor (Summoner) 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS</info>
+        <battleforce pv="9" wt="3" mv="5j" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+            <location index="10">CT</location>
+        </jumpjets>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2872</loadout_year>
+        <info>Thor (Summoner)  Prime 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 LRM15, 1 ERPPC, 1 LB10</info>
+        <battleforce pv="23" wt="3" mv="5j" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1, FLK 1/1/1" />
+        <battle_value>2298</battle_value>
+        <cost>2.1150833333333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2872</loadout_year>
+        <info>Thor (Summoner)  A 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 GR, 1 SRM6, 1 LPL</info>
+        <battleforce pv="21" wt="3" mv="5j" s="3" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2145</battle_value>
+        <cost>2.0478270833333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2872</loadout_year>
+        <info>Thor (Summoner)  B 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 Narc, 1 AMS, 2 SRM4, 2 LRM20</info>
+        <battleforce pv="22" wt="3" mv="5j" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, SNARC, AMS, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, LRM 2/2/2, IF 2" />
+        <battle_value>2159</battle_value>
+        <cost>2.1155083333333332E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Narc Missile Beacon</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2872</loadout_year>
+        <info>Thor (Summoner)  C 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 ERLL, 1 ERSL, 1 SSRM6, 1 UAC20</info>
+        <battleforce pv="24" wt="3" mv="5j" s="5" m="5" l="1" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2379</battle_value>
+        <cost>2.0916552083333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2872</loadout_year>
+        <info>Thor (Summoner)  D 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 20 DHS; 2 ERLL, 2 ERML, 2 MG, 2 AMS, TC</info>
+        <battleforce pv="26" wt="3" mv="5j" s="5" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2643</battle_value>
+        <cost>2.0955333333333332E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="20" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+            <location index="5">RA</location>
+            <location index="5">LA</location>
+            <location index="7">LA</location>
+            <location index="7">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>4</loadout_productionera>
+        <loadout_year>3054</loadout_year>
+        <info>Thor (Summoner)  E 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 ERPPC, 1 ATM6, 1 ATM12</info>
+        <battleforce pv="26" wt="3" mv="5j" s="6" m="5" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2612</battle_value>
+        <cost>2.0832083333333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6 (ER)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6 (HE)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3068</loadout_year>
+        <info>Thor (Summoner)  G 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 18 DHS; 1 ERLL, 1 ERPPC, 6 SRM4, 1 HSL</info>
+        <battleforce pv="25" wt="3" mv="5j" s="3" m="2" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
+        <battle_value>2452</battle_value>
+        <cost>2.1219895833333332E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="4">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>4</loadout_productionera>
+        <loadout_year>3059</loadout_year>
+        <info>Thor (Summoner)  H 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 23 DHS; 2 ERML, 2 HLL, 1 AMS, TC</info>
+        <battleforce pv="25" wt="3" mv="5j" s="5" m="5" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2536</battle_value>
+        <cost>2.0972333333333332E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="23" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LT</location>
+            <location index="2">RT</location>
+            <location index="6">LT</location>
+            <location index="2">LT</location>
+            <location index="3">RA</location>
+            <location index="5">RA</location>
+            <location index="3">LA</location>
+            <location index="5">LA</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="HH" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3070</loadout_year>
+        <info>Thor (Summoner)  HH 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 2 ERML, 1 PC, 1 HAG20, 1 APGR, 1 HML</info>
+        <battleforce pv="25" wt="3" mv="5j" s="5" m="5" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2490</battle_value>
+        <cost>2.1395208333333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="M" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>4</loadout_productionera>
+        <loadout_year>3051</loadout_year>
+        <info>Thor (Summoner)  M 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 ERSL, 1 ERPPC, 1 LB10, 1 SSRM6</info>
+        <battleforce pv="23" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2251</battle_value>
+        <cost>2.1057864583333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="U" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-ON</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3080</loadout_year>
+        <info>Thor (Summoner)  U 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 16 DHS; 1 LRT15, 2 ERPPC, TC</info>
+        <battleforce pv="31" wt="3" mv="5j" s="4" m="4" l="4" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3092</battle_value>
+        <cost>2.0921333333333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRT-15</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Q" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>Hidden Talons</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Thor (Summoner)  Q 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 15 DHS; 1 ERPPC, 6 SRM4, 1 HML, 1 HSL, 1 LPL</info>
+        <battleforce pv="25" wt="3" mv="5j" s="3" m="2" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battle_value>2479</battle_value>
+        <cost>2.1341020833333332E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>4</loadout_productionera>
+        <loadout_year>3054</loadout_year>
+        <info>Thor (Summoner)  F 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 3 ERML, 2 UAC5, 1 LRM10</info>
+        <battleforce pv="22" wt="3" mv="5j" s="5" m="5" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2186</battle_value>
+        <cost>2.0970208333333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>WoRS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Thor (Summoner)  Z 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 ERLPL, 1 NCEWS, 1 iATM12, 8 APGR</info>
+        <battleforce pv="28" wt="3" mv="5j" s="7" m="6" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2783</battle_value>
+        <cost>2.4143895833333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) iATM-12</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Nova CEWS</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-12</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

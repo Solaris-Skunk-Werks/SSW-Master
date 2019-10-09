@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Cronus" model="CNS-TD9" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Cronus.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>978</battle_value>
+    <cost>1.616867E7</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Gilmour MilTech" location="Talitha">Inner Sphere</techbase>
+    <year restricted="FALSE">3072</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Earthwerks SHD II" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">HD</location>
+        <location index="5">HD</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+    </structure>
+    <engine rating="330" manufacturer="VOX" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="3">RT</location>
+    </enhancement>
+    <armor manufacturer="Maximillian 43" techbase="0">
+        <type>Stealth Armor</type>
+        <hd>9</hd>
+        <ct>20</ct>
+        <ctr>5</ctr>
+        <lt>14</lt>
+        <ltr>4</ltr>
+        <rt>14</rt>
+        <rtr>4</rtr>
+        <la>11</la>
+        <ra>11</ra>
+        <ll>14</ll>
+        <rl>14</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Cronus CNS-TD9 55t, 6/9[12]/0 MASC, XLFE, ES, Cmp Gyro; 7.5T/65% Stlth Armor; 11 DHS; 1 ECM, 3 SVSPL, 1 C3I, 2 Clw, TC</info>
+        <battleforce pv="10" wt="2" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="ECM, STL, C3I, MEL, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="11" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Claws</name>
+            <type>physical</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Claws</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Cipher ComSys 1-C</commsystem>
+        <tandtsystem>RCA Instatrac Mark XII</tandtsystem>
+    </fluff>
+</mech>

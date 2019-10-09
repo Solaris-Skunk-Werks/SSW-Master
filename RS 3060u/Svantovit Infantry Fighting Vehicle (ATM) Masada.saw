@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Svantovit Infantry Fighting Vehicle" model="(ATM) &quot;Masada&quot;" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>988</battle_value>
+    <motive type="Hovercraft" cruise="11" turret="Single Turret" />
+    <cost>4156500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">3069</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="385" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="Compound Alpha" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>14</front>
+        <left>11</left>
+        <right>11</right>
+        <rear>10</rear>
+        <primaryturret>11</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Svantovit Infantry Fighting Vehicle (ATM) "Masada" 35t, 11/17, XLFE, 3.0T/35% FF Armor; 10 SHS; 1 InfComp, 1 ATM9, 2 APGR, 1 CASE</info>
+        <battleforce pv="10" wt="1" mv="11" s="3" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>5.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated Type 2I</commsystem>
+        <tandtsystem>Series II GPS</tandtsystem>
+    </fluff>
+</combatvehicle>

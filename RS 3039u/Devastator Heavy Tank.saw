@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Devastator Heavy Tank" model="" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1037</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>4007250.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Aldis Industries, New Samarkand Metals" location="Terra, Betelguese (Aldis), New Samarkand (NSM)">Inner Sphere</techbase>
+    <year restricted="FALSE">3003</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="GM Superload" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durandal 160" techbase="2">
+        <type>Standard Armor</type>
+        <front>38</front>
+        <left>26</left>
+        <right>26</right>
+        <rear>16</rear>
+        <primaryturret>38</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Devastator Heavy Tank 80t, 3/5, Std FE, 9.0T/45% Armor; 10 SHS; 1 Flmr, 3 SL, 2 AC20, 1 SRM6</info>
+        <battleforce pv="10" wt="4" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="4" abilities="AC 2/2/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Zippo">(IS) Flamer</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="185mm ChemJet Gun">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="185mm ChemJet Gun">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Intek">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Intek">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Intek">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Omicron 5000</commsystem>
+        <tandtsystem>Omicron VII</tandtsystem>
+    </fluff>
+</combatvehicle>

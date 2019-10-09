@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Donar Assault Helicopter" model="(Recon)" tons="21" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>808</battle_value>
+    <motive type="VTOL" cruise="9" turret="No Turret" />
+    <cost>1655800.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">3019</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="189" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Compound A2F" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>16</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>11</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Donar Assault Helicopter (Recon) 21t, 9/14, Std FE, 3.0T/50% FF Armor; 12 SHS; 1 ECM, 1 ERLL, 1 BAP, 1 TAG, 1 CASE</info>
+        <battleforce pv="8" wt="1" mv="9" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="TAG, ECM, PRB, RCN, ENE" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 7J">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Unit 2J &quot;Boxer&quot;</commsystem>
+        <tandtsystem>HT9 TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

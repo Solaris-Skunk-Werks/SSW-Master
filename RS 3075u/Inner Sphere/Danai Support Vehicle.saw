@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Danai Support Vehicle" model="" tons="45" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>576</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1347500.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Detroit Consolidated Vehicle Works" location="Detroit">Inner Sphere</techbase>
+    <year restricted="FALSE">3073</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Maximillian 43" techbase="2">
+        <type>Standard Armor</type>
+        <front>29</front>
+        <left>17</left>
+        <right>17</right>
+        <rear>15</rear>
+        <primaryturret>26</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Danai Support Vehicle 45t, 5/8, Std FE, 6.5T/53% Armor; 10 SHS; 2 ERML, 1 Thmpr</info>
+        <battleforce pv="6" wt="2" mv="5" s="3" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="ARTT" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Bithinian Ballistics">(IS) Thumper</name>
+            <type>artillery</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Firmir Improved">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Firmir Improved">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Magestrix Alpha</commsystem>
+        <tandtsystem>Magestrix Gamma</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Mackie" model="MSK-6S" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1461</battle_value>
+    <cost>1.014E7</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveBattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2439</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Primitive Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Primitive Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Primitive Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>10</ltr>
+        <rt>20</rt>
+        <rtr>10</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Mackie MSK-6S 100t, 3/5/0, Pr FE, Prm; 20.0T/70% Pr. Armor; 15 SHS; 2 ML, 1 PPC, 1 AC10</info>
+        <battleforce pv="15" wt="4" mv="3" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="8" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="3">HD</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/10</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location index="0">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

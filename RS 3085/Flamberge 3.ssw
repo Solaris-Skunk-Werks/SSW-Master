@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Flamberge" model="3" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2346</battle_value>
+    <cost>1.5926223333333338E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3085</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="7">RA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>12</ctr>
+        <lt>20</lt>
+        <ltr>10</ltr>
+        <rt>20</rt>
+        <rtr>10</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <info>Flamberge 3 70t, 4/6/6[7], XLFE, ES; 13.5T/100% Armor; 11 DHS; 1 McPL, 2 MPL, 2 SRM4, 1 UAC20, PartWing</info>
+        <battleforce pv="23" wt="3" mv="4/7j" s="5" m="5" l="0" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Improved Jump Jet</type>
+            <location index="5">LT</location>
+            <location index="7">LT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RT</location>
+            <location index="7">RT</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <partialwing tech="1" lsstart="2" rsstart="2" />
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <splitlocation index="5" number="5">LA</splitlocation>
+            <splitlocation index="9" number="3">LT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="11">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

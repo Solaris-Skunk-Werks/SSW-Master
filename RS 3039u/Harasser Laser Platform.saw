@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Harasser Laser Platform" model="" tons="25" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>321</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>389250.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Broooks Incorporated" location="Suzano, Irian, Andurien">Inner Sphere</techbase>
+    <year restricted="FALSE">2957</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="GM Classic II" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/2" techbase="2">
+        <type>Standard Armor</type>
+        <front>5</front>
+        <left>5</left>
+        <right>5</right>
+        <rear>4</rear>
+        <primaryturret>5</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Harasser Laser Platform 25t, 10/15, ICE, 1.5T/19% Armor; 6 SHS; 2 ML</info>
+        <battleforce pv="3" wt="1" mv="10" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE, EE" />
+        <heatsinks number="6" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Maxell 500</commsystem>
+        <tandtsystem>Maxell TA 55</tandtsystem>
+    </fluff>
+</combatvehicle>

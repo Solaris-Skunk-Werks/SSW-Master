@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Swift Wind Scout Car" model="(ICE - Cargo)" tons="8" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>81</battle_value>
+    <motive type="Wheeled" cruise="8" turret="No Turret" />
+    <cost>37440.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Ceres Metals" location="Indicass">Inner Sphere</techbase>
+    <year restricted="FALSE">2845</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="64" manufacturer="Confederated Motors" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/1" techbase="2">
+        <type>Standard Armor</type>
+        <front>6</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>6</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Swift Wind Scout Car (ICE - Cargo) 8t, 8/12, ICE, 1.5T/35% Armor; 0 SHS; 1 StndrdCrgo</info>
+        <battleforce pv="1" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="0" abilities="ENE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>CeresCom Recon Model 12k</commsystem>
+        <tandtsystem>I-Bal Mark 3</tandtsystem>
+    </fluff>
+</combatvehicle>

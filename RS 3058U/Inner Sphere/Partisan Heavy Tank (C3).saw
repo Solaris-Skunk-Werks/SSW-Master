@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Partisan Heavy Tank" model="(C3)" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>662</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>2371500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Kallon Industries" location="Nanking">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="GM Super" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Kallon Weave" techbase="2">
+        <type>Standard Armor</type>
+        <front>22</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>16</rear>
+        <primaryturret>22</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Partisan Heavy Tank (C3) 80t, 3/5, ICE, 6.0T/30% Armor; 0 SHS; 1 C3S, 4 AC5, 1 CASE</info>
+        <battleforce pv="7" wt="4" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="4" abilities="C3S, CASE, EE, AC 2/2/2" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Kallon Secure Net</commsystem>
+        <tandtsystem>Kallon Sure-Shot</tandtsystem>
+    </fluff>
+</combatvehicle>

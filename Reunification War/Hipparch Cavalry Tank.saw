@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hipparch Cavalry Tank" model="" tons="30" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>382</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>474800.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="Diplass Technologies" location="Apollo">Inner Sphere</techbase>
+    <year restricted="FALSE">2562</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="270" manufacturer="Mercury" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Forge 9 Flexweave" techbase="2">
+        <type>Standard Armor</type>
+        <front>14</front>
+        <left>13</left>
+        <right>13</right>
+        <rear>12</rear>
+        <primaryturret>12</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>HISTRW</source>
+        <info>Hipparch Cavalry Tank 30t, 9/14, ICE, 4.0T/44% Armor; 4 SHS; 1 ML, 1 SL, 1 SRM2</info>
+        <battleforce pv="4" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="EE" />
+        <heatsinks number="4" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diplass Optimax">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diplass Optimax">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>DipCon III</commsystem>
+        <tandtsystem>DipTrack X</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Zephyr Hovertank" model="(Royal)" tons="40" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>811</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>2262750.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Grumman Industries" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2621</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="360" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Grumman CRT" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>29</front>
+        <left>24</left>
+        <right>24</right>
+        <rear>19</rear>
+        <primaryturret>29</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Zephyr Hovertank (Royal) 40t, 9/14, Std FE, 7.0T/69% FF Armor; 10 SHS; 1 ECM, 3 ML, 1 SL, 1 Narc, 1 TAG</info>
+        <battleforce pv="8" wt="2" mv="9" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="SNARC, TAG, ECM" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Narc Missile Beacon</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Bowie Electronics">(R) (IS) Small Laser</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Bowie Electronics">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Bowie Electronics">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Bowie Electronics">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Systems X</commsystem>
+        <tandtsystem>Bundesweyth</tandtsystem>
+    </fluff>
+</combatvehicle>

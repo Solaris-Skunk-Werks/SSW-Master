@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Thunderbolt IIC" model="" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2475</battle_value>
+    <cost>1.7636706666666668E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Olivetti Weaponry" location="Sudeten">Clan</techbase>
+    <year restricted="FALSE">3085</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Olivetti TDR-II" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="350" manufacturer="Redline" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forging Omni H24" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>33</ct>
+        <ctr>10</ctr>
+        <lt>24</lt>
+        <ltr>6</ltr>
+        <rt>24</rt>
+        <rtr>6</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSProtop</source>
+        <info>Thunderbolt IIC 70t, 5/8/0, XLFE, Std; 13.5T/100% Armor; 17 DHS; 2 iHLL, 3 ERML, 1 SLRM15</info>
+        <battleforce pv="25" wt="3" mv="5" s="5" m="5" l="1" e="0" ov="1" armor="7" internal="4" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type XV-S">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7Ja">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7Ja">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7Ja">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XVI-a">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XVI-a">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="9">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Difficult to Maintain, Modular Weapons, Protected Actuators, Rumble Seat.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Model J-D 067</commsystem>
+        <tandtsystem>Hawkeye S8</tandtsystem>
+    </fluff>
+</mech>

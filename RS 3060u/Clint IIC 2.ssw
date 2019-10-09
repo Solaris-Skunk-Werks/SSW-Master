@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Clint IIC" model="2" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1890</battle_value>
+    <cost>8340079.999999999</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3073</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>8</hd>
+        <ct>18</ct>
+        <ctr>6</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+        <location index="4">LA</location>
+        <location index="5">LA</location>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="9">LA</location>
+        <location index="10">LA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <info>Clint IIC 2 40t, 6/9/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 ECM, 5 MPL</info>
+        <battleforce pv="19" wt="2" mv="6/8j" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="8">
+            <type>Improved Jump Jet</type>
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="6">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="3">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

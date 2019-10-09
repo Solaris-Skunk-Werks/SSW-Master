@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Plainsman Medium Hovertank" model="(Scout)" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>578</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>1065333.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Pinard Protectorates Limited" location="Pinard">Inner Sphere</techbase>
+    <year restricted="FALSE">3065</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="315" manufacturer="" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>20</front>
+        <left>17</left>
+        <right>17</right>
+        <rear>14</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Plainsman Medium Hovertank (Scout) 35t, 9/14, ICE, 5.5T/54% Armor; 0 SHS; 1 BAP, 2 SRM6</info>
+        <battleforce pv="6" wt="1" mv="9" s="0" m="0" l="0" e="0" ov="2" armor="3" internal="2" abilities="PRB, RCN, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester 20K">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester 20K">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Olmstead 30</commsystem>
+        <tandtsystem>Maxwell TA55</tandtsystem>
+    </fluff>
+</combatvehicle>

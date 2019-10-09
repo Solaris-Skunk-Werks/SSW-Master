@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Von Rohrs (Hebi)" model="VON 4RH-5" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1170</battle_value>
+    <cost>5984934.999999999</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kankoku MFC" location="Sverdlovsk (discontinued 2510)">Inner Sphere</techbase>
+    <year restricted="FALSE">2487</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Kankoku SP-VI" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="325" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Kemplar 5000" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>22</ct>
+        <ctr>7</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>13</la>
+        <ra>13</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Von Rohrs (Hebi) VON 4RH-5 65t, 5/8/0, Std FE, Std; 9.0T/68% Armor; 15 SHS; 1 Flmr, 1 PPC, 1 LRM10</info>
+        <battleforce pv="12" wt="3" mv="5" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">RT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light P1">(IS) PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="MagnaFlex">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="DLC-10">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Dalban Primer-I</commsystem>
+        <tandtsystem>Dalban TTS-A</tandtsystem>
+    </fluff>
+</mech>

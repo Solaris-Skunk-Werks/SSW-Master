@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Darter Scout Car" model="(ECM)" tons="13" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>193</battle_value>
+    <motive type="Wheeled" cruise="7" turret="No Turret" />
+    <cost>283556.25</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="General Motors" location="Kathil">Inner Sphere</techbase>
+    <year restricted="FALSE">3054</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="91" manufacturer="GM" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ProtecTech Light" techbase="2">
+        <type>Standard Armor</type>
+        <front>10</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>8</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Darter Scout Car (ECM) 13t, 7/11, ICE, 2.0T/38% Armor; 0 SHS; 1 ECM, 1 StndrdCrgo, 1 MG</info>
+        <battleforce pv="2" wt="1" mv="7" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="0" abilities="ECM, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Johnston Minigun">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.5</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Overlook J9</commsystem>
+        <tandtsystem>Brightstar 17 Mk. I</tandtsystem>
+    </fluff>
+</combatvehicle>

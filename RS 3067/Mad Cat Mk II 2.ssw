@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Mad Cat Mk II" model="2" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Mad Cat Mk II.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2822</battle_value>
+    <cost>2.42155E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant DSF-94" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3069</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="DSAM 4" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="360" manufacturer="Type 79" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forging ZM15" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>38</ct>
+        <ctr>12</ctr>
+        <lt>26</lt>
+        <ltr>8</ltr>
+        <rt>26</rt>
+        <rtr>8</rtr>
+        <la>27</la>
+        <ra>27</ra>
+        <ll>34</ll>
+        <rl>34</rl>
+        <location index="3">HD</location>
+        <location index="8">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Mad Cat Mk II 2 90t, 4/6/3, XLFE, ES; 13.0T/89% FF Armor; 13 DHS; 4 SSRM4, 2 ERML, 1 GR, 1 LB20</info>
+        <battleforce pv="28" wt="4" mv="4/2j" s="7" m="7" l="2" e="0" ov="1" armor="8" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="EMRG &quot;Galaxy&quot; Series">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Grandthrust Mk. 5</jumpjet_model>
+        <commsystem>MegaBrand System 21</commsystem>
+        <tandtsystem>Dtrac Suite 4</tandtsystem>
+    </fluff>
+</mech>

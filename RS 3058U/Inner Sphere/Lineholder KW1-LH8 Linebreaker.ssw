@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Lineholder" model="KW1-LH8 &quot;Linebreaker&quot;" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1330</battle_value>
+    <cost>5117066.666666667</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3065</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="0">LT</location>
+        <location index="1">LT</location>
+        <location index="1">RT</location>
+        <location index="2">LT</location>
+        <location index="2">RT</location>
+        <location index="3">LT</location>
+        <location index="3">RT</location>
+        <location index="4">LT</location>
+        <location index="5">LT</location>
+        <location index="5">LA</location>
+        <location index="6">LA</location>
+        <location index="9">RA</location>
+        <location index="10">CT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="275" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>25</ct>
+        <ctr>6</ctr>
+        <lt>17</lt>
+        <ltr>5</ltr>
+        <rt>17</rt>
+        <rtr>5</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>18</ll>
+        <rl>18</rl>
+        <location index="4">RT</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">RT</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="10">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <info>Lineholder KW1-LH8 "Linebreaker" 55t, 5/8/0, Std FE, ES; 8.5T/82% FF Armor; 10 DHS; 1 ERLL, 2 RAC2</info>
+        <battleforce pv="13" wt="2" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

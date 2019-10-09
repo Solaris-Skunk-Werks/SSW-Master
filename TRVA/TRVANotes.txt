@@ -1,0 +1,17 @@
+HVR-99 - No data
+SC-V-1 - Missing Extended Fuel Tank; Too many criticals assigned to LT, moved TSM to RT and CT
+SC-v - Not enough data to make (winds up 8 tons underweight)
+KIC-3 - No Data
+XV Powerman - No Data
+XVI Powerman - followed TR, no weight for extra cargo.
+Buster Class - Removed BC from name
+
+ED-X4 - TRVA Gryo is incorrect, reduced armor by 1 ton to compensate. Also, writeup says "Commercial Light" TR section says "Industrial" Lifthoist can't fit in CT, moved to RA for the heck of it (maybe rear torso instead?)
+
+RCL-4 Dig Lord - No extended Fuel tank yet.
+
+CON-7 "Carbine" ConstructionMech - Armor is 32 points, 36 are assigned.
+
+MR-8C Marco - Design is 1.5 tons overweight (forgot JumpJet weight). Design should have 10 Heatsinks (Fusion Engine). Reduced armor to 2.5 tons to allow for the Op:K model's weaponry. 
+
+Pompier FireMech - moved Liquid Cargo to RT (otherwise it would be 3 crits in the CT). Fuel Cell nets you one heat sink automatically.

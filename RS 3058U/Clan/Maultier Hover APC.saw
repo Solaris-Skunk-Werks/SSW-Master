@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Maultier Hover APC" model="" tons="15" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>209</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="No Turret" />
+    <cost>172250.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Taurus Territorial Industries, Marian Arms" location="Sterope, Alphard">Inner Sphere</techbase>
+    <year restricted="FALSE">2590</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="135" manufacturer="Magna" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Durallex" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>14</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-C</source>
+        <info>Maultier Hover APC 15t, 9/14, ICE, 2.5T/48% FF Armor; 0 SHS; 1 SSRM2, 1 InfComp</info>
+        <battleforce pv="2" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="0" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Pinard Reaper">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Neil 6000-x</commsystem>
+        <tandtsystem>TracTex Alpha-1</tandtsystem>
+    </fluff>
+</combatvehicle>

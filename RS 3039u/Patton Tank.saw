@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Patton Tank" model="" tons="65" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>961</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>2686062.5</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Defiance Industries" location="Hesperus II">Inner Sphere</techbase>
+    <year restricted="FALSE">3027</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="260" manufacturer="Magna" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex Heavy" techbase="2">
+        <type>Standard Armor</type>
+        <front>51</front>
+        <left>46</left>
+        <right>46</right>
+        <rear>38</rear>
+        <primaryturret>51</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Patton Tank 65t, 4/6, Std FE, 14.5T/87% Armor; 10 SHS; 1 Flmr, 1 SL, 1 AC10, 1 LRM5</info>
+        <battleforce pv="10" wt="3" mv="4" s="1" m="1" l="1" e="0" ov="0" armor="8" internal="3" abilities="AC 1/1/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="A5L">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Hotshot">(R) (IS) Flamer</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Defiance Killer Type T">(IS) Autocannon/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes Muse 54-58K</commsystem>
+        <tandtsystem>TharHes Mars5</tandtsystem>
+    </fluff>
+</combatvehicle>

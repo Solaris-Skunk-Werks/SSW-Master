@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Saracen Medium Hover Tank" model="" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>673</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>665125.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Scarborough Ltd." location="Al Na&apos;ir">Inner Sphere</techbase>
+    <year restricted="FALSE">2932</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="280" manufacturer="ConLee" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ProtecTech 7" techbase="2">
+        <type>Standard Armor</type>
+        <front>24</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>24</rear>
+        <primaryturret>24</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Saracen Medium Hover Tank 35t, 8/12, ICE, 7.0T/69% Armor; 0 SHS; 1 LRM10, 3 SRM2</info>
+        <battleforce pv="7" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="2" armor="4" internal="2" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Coventry StarLight">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scarborough Talky-1</commsystem>
+        <tandtsystem>Scarborough Track-1-1</tandtsystem>
+    </fluff>
+</combatvehicle>

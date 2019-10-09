@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Helepolis" model="HEP-3H" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1380</battle_value>
+    <cost>6373937.5</cost>
+    <rules_level>2</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Mitchell Vehicles" location="Graham IV (destroyed 2775)">Inner Sphere</techbase>
+    <year restricted="FALSE">2625</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Mitchell Heavy HEP" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="225" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Armorscale" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>12</ctr>
+        <lt>21</lt>
+        <ltr>10</ltr>
+        <rt>21</rt>
+        <rtr>10</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>25</ll>
+        <rl>25</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Helepolis HEP-3H 75t, 3/5/0, Std FE, Std; 13.0T/90% Armor; 10 DHS; 1 ML, 1 ERLL, 1 Snpr, 1 LRM10, 1 SRM6</info>
+        <battleforce pv="14" wt="3" mv="3" s="3" m="2" l="1" e="0" ov="1" armor="7" internal="6" abilities="ARTS, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Armstrong Industries">(IS) Sniper</name>
+            <type>artillery</type>
+            <splitlocation index="0" number="10">RT</splitlocation>
+            <splitlocation index="2" number="10">RA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Starflash">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Thunderstroke">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry Starfire">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Sniper</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Sniper</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Exeter Longscan 100</commsystem>
+        <tandtsystem>Tacticon Tracer 150b</tandtsystem>
+    </fluff>
+</mech>

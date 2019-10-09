@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Hellspawn" model="HSN-10SR" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Hellspawn.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1411</battle_value>
+    <cost>1.042115E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="General Motors" location="Talcott">Inner Sphere</techbase>
+    <year restricted="FALSE">3081</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Fury-M" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="270" manufacturer="GM" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarGuard III" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>21</ct>
+        <ctr>6</ctr>
+        <lt>17</lt>
+        <ltr>5</ltr>
+        <rt>17</rt>
+        <rtr>5</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>18</ll>
+        <rl>18</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Hellspawn HSN-10SR 45t, 6/9/8, XLFE, ES; 9.0T/94% Armor; 10 DHS; 1 ECM, 2 ERML, 1 BAP, 2 LPPC, 1 TAG</info>
+        <battleforce pv="14" wt="2" mv="6/8j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="ECM, TAG, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="8">
+            <type>Improved Jump Jet</type>
+            <location index="5">LT</location>
+            <location index="3">LT</location>
+            <location index="7">LT</location>
+            <location index="3">RT</location>
+            <location index="5">RT</location>
+            <location index="7">RT</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Rawlings 80</jumpjet_model>
+        <commsystem>Dalban SuperMicronics</commsystem>
+        <tandtsystem>GME HiTrak-3</tandtsystem>
+    </fluff>
+</mech>

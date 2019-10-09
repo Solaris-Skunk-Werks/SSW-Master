@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Pack Hunter II" model="" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1797</battle_value>
+    <cost>5124340.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3077</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+    </structure>
+    <engine rating="210" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>7</hd>
+        <ct>12</ct>
+        <ctr>3</ctr>
+        <lt>11</lt>
+        <ltr>2</ltr>
+        <rt>11</rt>
+        <rtr>2</rtr>
+        <la>9</la>
+        <ra>9</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="9">RT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <info>Pack Hunter II 30t, 7/11/7, XLFE, ES; 4.5T/82% FF Armor; 10 DHS; 2 ERML, 1 ERPPC, 2 BPod</info>
+        <battleforce pv="18" wt="1" mv="7j" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="7">
+            <type>Standard Jump Jet</type>
+            <location index="5">RT</location>
+            <location index="10">CT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+            <location index="5">LT</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">B-Pod</name>
+            <type>equipment</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">B-Pod</name>
+            <type>equipment</type>
+            <location index="4">RL</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

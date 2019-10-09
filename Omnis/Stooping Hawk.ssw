@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Stooping Hawk" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>7159320.833333334</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">2900</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">RL</location>
+        <location index="5">RL</location>
+        <location index="9">RA</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="275" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>28</ct>
+        <ctr>7</ctr>
+        <lt>21</lt>
+        <ltr>5</ltr>
+        <rt>21</rt>
+        <rtr>5</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+        <location index="4">LL</location>
+        <location index="5">LL</location>
+        <location index="9">LA</location>
+        <location index="10">LT</location>
+        <location index="10">LA</location>
+        <location index="11">LT</location>
+        <location index="11">LA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <info>Stooping Hawk 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 10 DHS</info>
+        <battleforce pv="8" wt="2" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>3</loadout_productionera>
+        <loadout_year>2900</loadout_year>
+        <info>Stooping Hawk  Prime 55t, 5/8/5, Std FE, ES; 9.0T/93% FF Armor; 10 DHS; 1 UAC/10, 2 ERML, 2 MPL</info>
+        <battleforce pv="21" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2147</battle_value>
+        <cost>7159320.833333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="10">CT</location>
+            <location index="1">LT</location>
+            <location index="1">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>3</loadout_productionera>
+        <loadout_year>2900</loadout_year>
+        <info>Stooping Hawk  A 55t, 5/8/5, Std FE, ES; 9.0T/93% FF Armor; 17 DHS; 2 ERPPC</info>
+        <battleforce pv="23" wt="2" mv="5j" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2319</battle_value>
+        <cost>7143820.833333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="0">LT</location>
+            <location index="10">CT</location>
+            <location index="1">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+        </jumpjets>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+            <location index="4">LT</location>
+            <location index="4">RT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>3</loadout_productionera>
+        <loadout_year>2900</loadout_year>
+        <info>Stooping Hawk  B 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 10 DHS; 3 LRM15, 1 ERLL</info>
+        <battleforce pv="21" wt="2" mv="5" s="4" m="4" l="4" e="0" ov="1" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battle_value>2111</battle_value>
+        <cost>7546820.833333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>3</loadout_productionera>
+        <loadout_year>2900</loadout_year>
+        <info>Stooping Hawk  C 55t, 5/8/5, Std FE, ES; 9.0T/93% FF Armor; 17 DHS; 2 ERLL, 2 ERML, TC</info>
+        <battleforce pv="24" wt="2" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2435</battle_value>
+        <cost>7105070.833333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+            <location index="7">LT</location>
+            <location index="7">RT</location>
+            <location index="10">CT</location>
+        </jumpjets>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="4">LT</location>
+            <location index="0">RT</location>
+            <location index="2">LT</location>
+            <location index="4">RA</location>
+            <location index="0">LT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>3</loadout_productionera>
+        <loadout_year>3050</loadout_year>
+        <info>Stooping Hawk  D 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 22 DHS; 1 ERLL, 2 ERML, 1 ERSL, 3 HML</info>
+        <battleforce pv="18" wt="2" mv="5" s="6" m="6" l="1" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1838</battle_value>
+        <cost>6798655.208333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="22" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="0">LT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+            <location index="2">RT</location>
+            <location index="10">CT</location>
+            <location index="2">LT</location>
+            <location index="8">LT</location>
+            <location index="4">LT</location>
+            <location index="8">RT</location>
+            <location index="6">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>3</loadout_productionera>
+        <loadout_year>3064</loadout_year>
+        <info>Stooping Hawk  E 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 10 DHS; 3 ATM3, 2 ERML, 1 LB10</info>
+        <battleforce pv="17" wt="2" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>1674</battle_value>
+        <cost>6936508.333333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3 (ER)</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3 (HE)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Stooping Hawk  F 55t, 5/8/8, Std FE, ES; 9.0T/93% FF Armor; 12 DHS; 2 SSRM4, 2 MPL, 2 HML, 1 HSL</info>
+        <battleforce pv="20" wt="2" mv="5/8j" s="5" m="4" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1988</battle_value>
+        <cost>9904758.333333332</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="8">
+            <type>Improved Jump Jet</type>
+            <location index="8">LT</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+            <location index="4">RT</location>
+            <location index="0">RT</location>
+            <location index="6">RT</location>
+            <location index="2">RT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="0">LT</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3073</loadout_year>
+        <info>Stooping Hawk  G 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 12 DHS; 3 PrmAC4, 4 ERML</info>
+        <battleforce pv="17" wt="2" mv="5" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1657</battle_value>
+        <cost>6977195.833333334</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/4</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/4</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/4</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/4</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/4</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

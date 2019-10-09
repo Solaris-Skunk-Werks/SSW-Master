@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Icarus" model="ICR-1X" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>700</battle_value>
+    <cost>2300130.0</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveBattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2470</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Primitive Structure</type>
+    </structure>
+    <engine rating="160" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Primitive Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Primitive Armor</type>
+        <hd>9</hd>
+        <ct>15</ct>
+        <ctr>4</ctr>
+        <lt>13</lt>
+        <ltr>4</ltr>
+        <rt>13</rt>
+        <rtr>4</rtr>
+        <la>9</la>
+        <ra>9</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRPrimitives II</source>
+        <info>Icarus ICR-1X 40t, 4/6/0, Pr FE, Prm; 10.5T/82% Pr. Armor; 10 SHS; 1 SL, 2 MG, 1 LL, 2 SRM2</info>
+        <battleforce pv="7" wt="2" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">LL</location>
+            <location index="3">HD</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Original Icarus Primitive Chassis:br::br:Producer/Site: Corean Enterprises, Stewart:br::br:Supervising Engineer: Abrahim Chiu:br::br:Prototype Introduction Date: 2470:br::br:Non-Production Equipment Analysis::br::br::tab:Primitive Armor:br::br::tab:Primitive Cockpit:br::br::tab:Primitive Engine:br::br::br:Notes: Features the following Design Quirks: Prototype, Poor Performance, Difficult to Maintain, Obsolete/2470, Extended Torso Twist</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

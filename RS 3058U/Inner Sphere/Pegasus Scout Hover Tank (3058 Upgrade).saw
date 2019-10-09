@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Pegasus Scout Hover Tank" model="(3058 Upgrade)" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>706</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>2068333.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Exeter Organisation, Hellespont Industries, Scarborough Manufacturers, Valiant Systems" location="Keystone, Sian, Al Na&apos;ir, Johnsondale">Inner Sphere</techbase>
+    <year restricted="FALSE">3058</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="315" manufacturer="Scarborough" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ProtecTech 12" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>20</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>10</rear>
+        <primaryturret>18</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Pegasus Scout Hover Tank (3058 Upgrade) 35t, 9/14, Std FE, 4.5T/49% FF Armor; 10 SHS; 1 ECM, 1 BAP, 2 SRM6, 1 MPL, 1 TAG</info>
+        <battleforce pv="7" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="PRB, RCN, TAG, ECM, SRM 2/2/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Victory Heartbeat">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Valiant Pilum">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Valiant Pilum">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scarborough Talky 3</commsystem>
+        <tandtsystem>Scarborough Tracky 3</tandtsystem>
+    </fluff>
+</combatvehicle>

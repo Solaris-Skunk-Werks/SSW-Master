@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Lumberjack LoggerMech MOD" model="LM4P" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>651</battle_value>
+    <cost>2472905.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="MOD" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2811</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="HD Forester Series 4" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="210" manufacturer="Wagnar HeavyDuty" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>19</ct>
+        <ctr>6</ctr>
+        <lt>13</lt>
+        <ltr>4</ltr>
+        <rt>13</rt>
+        <rtr>4</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>14</ll>
+        <rl>14</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Lumberjack LoggerMech MOD LM4P 70t, 3/5/0, ICE, Ind; 7.5T/55% Armor; 4 SHS; 1 StndrdCrgo, 1 ChnSw, 1 LftHst, 1 LRM10</info>
+        <battleforce pv="7" wt="3" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="6" abilities="MEL, SAW, SRCH, EE, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="4" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Harrow Reinforced">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Deerfield-690">Chainsaw</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>5.0</tons>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>TigerCom 23/C</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

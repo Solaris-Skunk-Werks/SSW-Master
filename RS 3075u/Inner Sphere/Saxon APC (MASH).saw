@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Saxon APC" model="(MASH)" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>436</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>1148916.6666666665</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Cyclops Incorporated, Defiance Industries, Quikscell Company" location="Skye, Hesperus II, Richvale">Inner Sphere</techbase>
+    <year restricted="FALSE">3071</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="350" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ArcShield II" techbase="2">
+        <type>Standard Armor</type>
+        <front>33</front>
+        <left>26</left>
+        <right>26</right>
+        <rear>24</rear>
+        <primaryturret>35</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Saxon APC (MASH) 35t, 10/15, Std FE, 9.0T/89% Armor; 10 SHS; 1 MG, 1 MASH</info>
+        <battleforce pv="4" wt="1" mv="10" s="1" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Kicker-2">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">MASH</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes KR-A P/Com</commsystem>
+        <tandtsystem>TharHes Mars 1</tandtsystem>
+    </fluff>
+</combatvehicle>

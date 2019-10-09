@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Cygnus" model="3" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2569</battle_value>
+    <cost>2.6752375E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Transitional Facility HH-Beta" location="Mobile (HH-Beta)">Clan</techbase>
+    <year restricted="FALSE">3075</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="BMH-7" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">CT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="380" manufacturer="GM" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forged Type HH34" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>37</ct>
+        <ctr>14</ctr>
+        <lt>25</lt>
+        <ltr>13</ltr>
+        <rt>25</rt>
+        <rtr>13</rtr>
+        <la>29</la>
+        <ra>29</ra>
+        <ll>35</ll>
+        <rl>35</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Cygnus 3 95t, 4/6/0, XLFE, ES; 16.5T/90% Armor; 10 DHS; 4 HAG20</info>
+        <battleforce pv="26" wt="4" mv="4" s="6" m="5" l="5" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 5/5/5" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>CH6 Series Integrated</commsystem>
+        <tandtsystem>Hunter (7a) Dedicated TTS</tandtsystem>
+    </fluff>
+</mech>

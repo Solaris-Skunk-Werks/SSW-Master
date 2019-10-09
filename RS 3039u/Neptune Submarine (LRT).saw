@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Neptune Submarine" model="(LRT)" tons="100" motive="Naval (Submarine)" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1104</battle_value>
+    <motive type="Naval (Submarine)" cruise="3" turret="No Turret" />
+    <cost>4830000.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Galtor Naval Yards" location="Exeter, Galtor">Inner Sphere</techbase>
+    <year restricted="FALSE">2950</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="Doorman Naval HyPerOx" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="SeaSlab/14.5" techbase="2">
+        <type>Standard Armor</type>
+        <front>80</front>
+        <left>60</left>
+        <right>60</right>
+        <rear>40</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039</source>
+        <info>Neptune Submarine (LRT) 100t, 3/5, ICE, 15.0T/62% Armor; 0 SHS; 2 LRT20, 2 SRT6</info>
+        <battleforce pv="11" wt="4" mv="3" s="0" m="0" l="0" e="0" ov="4" armor="8" internal="4" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Sea Devastator 20 Rack">(IS) LRT-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Harvester Six Rack">(IS) SRT-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Harvester Six Rack">(IS) SRT-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Devastator 20 Rack">(IS) LRT-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Lynx-Shur</commsystem>
+        <tandtsystem>Sonar Sync Tracker</tandtsystem>
+    </fluff>
+</combatvehicle>

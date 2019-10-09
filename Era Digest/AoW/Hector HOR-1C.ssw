@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Hector" model="HOR-1C" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>993</battle_value>
+    <cost>6009783.333333335</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveBattleMech</mech_type>
+    <techbase manufacturer="Corean Enterprises" location="Stewart">Inner Sphere</techbase>
+    <year restricted="FALSE">2476</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Corean Chassis Class 70X" techbase="0">
+        <type>Primitive Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="Pitban" lsstart="-1" rsstart="-1" techbase="2">Primitive Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/2" techbase="0">
+        <type>Primitive Armor</type>
+        <hd>8</hd>
+        <ct>20</ct>
+        <ctr>10</ctr>
+        <lt>13</lt>
+        <ltr>7</ltr>
+        <rt>13</rt>
+        <rtr>7</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>EDAW</source>
+        <info>Hector HOR-1C 70t, 4/6/0, Pr FE, Prm; 12.0T/59% Pr. Armor; 14 SHS; 2 SL, 2 LL</info>
+        <battleforce pv="10" wt="3" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="6" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="14" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="I.W.W.">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="I.W.W.">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="4">LL</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Obsolete/2520 (4 points), Bad Reputation (1 point), Exposed Actuators (1 point)</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Irian Hi-Freq</commsystem>
+        <tandtsystem>Dynatec 400</tandtsystem>
+    </fluff>
+</mech>

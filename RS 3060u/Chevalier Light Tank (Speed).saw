@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Chevalier Light Tank" model="(Speed)" tons="35" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>613</battle_value>
+    <motive type="Wheeled" cruise="7" turret="Single Turret" />
+    <cost>994637.5</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Millenium Industries" location="Azania, Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3051</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="245" manufacturer="RT" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Chobham Max-Tec" techbase="2">
+        <type>Standard Armor</type>
+        <front>18</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>10</rear>
+        <primaryturret>16</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Chevalier Light Tank (Speed) 35t, 7/11, Std FE, 4.5T/44% Armor; 12 SHS; 1 ERLL, 1 SSRM2</info>
+        <battleforce pv="6" wt="1" mv="7" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Zone-Tone">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Blakenburg">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Dec-10 Whisperer</commsystem>
+        <tandtsystem>Blakenburg Trooper</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Cobra Transport VTOL" model="" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>367</battle_value>
+    <motive type="VTOL" cruise="8" turret="No Turret" />
+    <cost>1270000.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Aldis Industries" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2620</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="Hermes" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="FiberTech Light" techbase="2">
+        <type>Standard Armor</type>
+        <front>12</front>
+        <left>12</left>
+        <right>12</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Cobra Transport VTOL 30t, 8/12, Std FE, 3.0T/33% Armor; 10 SHS; 1 StndrdCrgo, 1 ML, 2 AMS</info>
+        <battleforce pv="4" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="AMS, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="McArthur">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Omicron 950">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="McArthur">(R) (IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>10.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Datacom 100</commsystem>
+        <tandtsystem>Tarmac Quasar V</tandtsystem>
+    </fluff>
+</combatvehicle>

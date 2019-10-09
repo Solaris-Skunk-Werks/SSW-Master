@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Coolant Truck" model="(Hover)" tons="30" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>347</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>398000.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Buda Imperial Vehicles" location="Luthien">Inner Sphere</techbase>
+    <year restricted="FALSE">2602</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="Tamia" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>24</front>
+        <left>28</left>
+        <right>28</right>
+        <rear>20</rear>
+        <primaryturret>12</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Coolant Truck (Hover) 30t, 8/12, ICE, 7.0T/77% Armor; 0 SHS; 2 Vflmr, 2 InslCrgo</info>
+        <battleforce pv="3" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="1" armor="4" internal="1" abilities="ENE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Dragon&apos;s Breath">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Dragon&apos;s Breath">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Insulated, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Insulated, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>2.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Sipher CommSys 1</commsystem>
+        <tandtsystem>Matabushi Sentinel</tandtsystem>
+    </fluff>
+</combatvehicle>

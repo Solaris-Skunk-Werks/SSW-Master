@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Karnov UR Transport" model="(AC)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>556</battle_value>
+    <motive type="VTOL" cruise="8" turret="No Turret" />
+    <cost>1370000.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="New Earth Trading Company" location="Earth">Inner Sphere</techbase>
+    <year restricted="FALSE">2920</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="DAV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/1.5" techbase="2">
+        <type>Standard Armor</type>
+        <front>8</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>8</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Karnov UR Transport (AC) 30t, 8/12, Std FE, 2.0T/22% Armor; 10 SHS; 1 AC20</info>
+        <battleforce pv="6" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="AC 2/2/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Johnston Q-Rotor</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</combatvehicle>

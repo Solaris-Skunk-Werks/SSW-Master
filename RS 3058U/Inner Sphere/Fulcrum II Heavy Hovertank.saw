@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Fulcrum II Heavy Hovertank" model="" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1248</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>8731666.666666668</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Alphard Trading Corporation, Cyclops Incorporated, Johnston Industries" location="Alphard and Perdition, Skye, New Syrtis">Inner Sphere</techbase>
+    <year restricted="FALSE">3067</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="500" manufacturer="Strand" techbase="0">XL Engine</engine>
+    <armor manufacturer="StarSlab/11.5 Type HVA" techbase="2">
+        <type>Standard Armor</type>
+        <front>46</front>
+        <left>27</left>
+        <right>27</right>
+        <rear>20</rear>
+        <primaryturret>40</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Fulcrum II Heavy Hovertank 50t, 10/15, XLFE, 10.0T/74% Armor; 10 SHS; 1 ECM, 3 ML, 1 SRM6, 1 LRM10, 1 TAG</info>
+        <battleforce pv="12" wt="2" mv="10" s="2" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="TAG, ECM, IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta Dart">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>O/P AIR 900</commsystem>
+        <tandtsystem>RCA Instatrac Mark XII</tandtsystem>
+    </fluff>
+</combatvehicle>

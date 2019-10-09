@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Patriot" model="PKM-2C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1613</battle_value>
+    <cost>1.5618350000000002E7</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Ronin Incorporated" location="Wallis">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="RI-12b Pikeman" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">RA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="260" manufacturer="Hermes" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="0">Heavy-Duty Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Heavy" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>10</ctr>
+        <lt>22</lt>
+        <ltr>7</ltr>
+        <rt>22</rt>
+        <rtr>7</rtr>
+        <la>15</la>
+        <ra>15</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Patriot PKM-2C 65t, 4/6/0, XLFE, ES, HD Gyro; 12.0T/91% Armor; 10 DHS; 1 ECM, 1 ArwIV, 1 HPPC, 1 AMS, 1 TAG</info>
+        <battleforce pv="16" wt="3" mv="4" s="3" m="2" l="2" e="0" ov="0" armor="6" internal="3" abilities="ARTAIS, TAG, ECM, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Holly">(IS) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="3" number="6">LT</splitlocation>
+            <splitlocation index="3" number="9">LA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Magna Starflare">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="LFN Lindblad Shotgun">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="9">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garrett C22A</commsystem>
+        <tandtsystem>Wasat Watchdog W120 with A-Trac</tandtsystem>
+    </fluff>
+</mech>

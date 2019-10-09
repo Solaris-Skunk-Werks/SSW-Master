@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Warrior Attack Helicopter" model="H-9" tons="20" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>484</battle_value>
+    <motive type="VTOL" cruise="10" turret="No Turret" />
+    <cost>1508333.3333333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Lockheed-CBM Corporation" location="Furillo">Inner Sphere</techbase>
+    <year restricted="FALSE">3068</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="Lockheed Micro-Fusion" techbase="0">XL Engine</engine>
+    <armor manufacturer="Kallon Unity Weave" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>15</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>8</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Warrior Attack Helicopter H-9 20t, 10/15, XLFE, 3.0T/48% FF Armor; 10 SHS; 1 RAC2</info>
+        <battleforce pv="5" wt="1" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Xilex-2010</commsystem>
+        <tandtsystem>N&amp;D Handsfree</tandtsystem>
+    </fluff>
+</combatvehicle>

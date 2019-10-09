@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Flea" model="FLE-14" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>270</battle_value>
+    <cost>1336875.0</cost>
+    <rules_level>3</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2519</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="135" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>2</hd>
+        <ct>3</ct>
+        <ctr>1</ctr>
+        <lt>1</lt>
+        <ltr>1</ltr>
+        <rt>1</rt>
+        <rtr>1</rtr>
+        <la>1</la>
+        <ra>1</ra>
+        <ll>2</ll>
+        <rl>2</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRSuccessionWars</source>
+        <info>Flea FLE-14 15t, 9/14/4, Std FE, Std; 1.0T/29% Armor; 10 SHS; 1 ML</info>
+        <battleforce pv="3" wt="1" mv="9/3j" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+            <location index="2">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Flea transitional model (ultralight):br::br:Producer/Site: Earthwerks-FWL Incorporated:br::br:Supervising Technician: Alexi Demidov:br::br:Project Start Date: 2516 (production 2519):br::br:Non-Production Equipment Analysis::br::br::tab:Ultralight BattleMech:br::br::br:Notes: Features the following Design Quirks: Easy to Maintain, Hard to Pilot, Narrow/Low Profile, No/Minimal Arms.</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

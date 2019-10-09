@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Monitor Naval Vessel" model="" tons="75" motive="Naval (Displacement)" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>799</battle_value>
+    <motive type="Naval (Displacement)" cruise="3" turret="Single Turret" />
+    <cost>1490156.25</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Nav Hull" location="None (Assembly Kits produced on New Samarkand)">Inner Sphere</techbase>
+    <year restricted="FALSE">2910</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="Various" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ArcShield Maxi II" techbase="2">
+        <type>Standard Armor</type>
+        <front>22</front>
+        <left>22</left>
+        <right>22</right>
+        <rear>22</rear>
+        <primaryturret>40</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039</source>
+        <info>Monitor Naval Vessel 75t, 3/5, ICE, 8.0T/42% Armor; 0 SHS; 1 InfComp, 2 AC20, 3 SRM2</info>
+        <battleforce pv="8" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="4" armor="4" internal="4" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Harvester 2k">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester 2k">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester 2k">(R) (IS) SRM-2</name>
+            <type>missile</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="185mm ChemJet Gun">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="185mm ChemJet Gun">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Various</commsystem>
+        <tandtsystem>Various</tandtsystem>
+    </fluff>
+</combatvehicle>

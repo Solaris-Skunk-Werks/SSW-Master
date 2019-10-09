@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Kiso ConstructionMech" model="K-3N-KR5" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1091</battle_value>
+    <cost>4667916.666666666</cost>
+    <rules_level>2</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Osaka Heavy Metrics" location="Dieron, Togura, New Samarkand, Philadelphia">Inner Sphere</techbase>
+    <year restricted="FALSE">2703</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Osaka KR4" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="200" manufacturer="Nissan" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="TRUE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Tybalt Blue Heavy Industrial Plate" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>35</ct>
+        <ctr>16</ctr>
+        <lt>28</lt>
+        <ltr>14</ltr>
+        <rt>28</rt>
+        <rtr>14</rtr>
+        <la>38</la>
+        <ra>38</ra>
+        <ll>38</ll>
+        <rl>38</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Kiso ConstructionMech K-3N-KR5 100t, 2/3/0, Std FE, Ind Quad; 18.5T/92% Armor; 10 SHS; 1 BckHo, 8 SrchLt, 1 CommEqp, 2 LftHst, 2 CrgCntnr, 1 2Saw</info>
+        <battleforce pv="11" wt="4" mv="2" s="0" m="0" l="0" e="0" ov="0" armor="10" internal="8" abilities="SRCH, MEL, SAW, ENE, SRCH" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">RT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <tons>3.0</tons>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="HM1">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="HM1">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="5">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="4">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="4">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="5">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="4">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="5">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="4">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="5">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo Container</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo Container</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Backhoe</name>
+            <type>physical</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Dual Saw</name>
+            <type>physical</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Headmaster 41-con</commsystem>
+        <tandtsystem>Diplan I-TT</tandtsystem>
+    </fluff>
+</mech>

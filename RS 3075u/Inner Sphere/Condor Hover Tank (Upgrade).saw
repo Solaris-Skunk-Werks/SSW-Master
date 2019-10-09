@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Condor Hover Tank (Upgrade)" model="" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>965</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>7203333.333333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Quikscell Company" location="Richvale">Inner Sphere</techbase>
+    <year restricted="FALSE">3066</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="450" manufacturer="CoreTek" techbase="0">XL Engine</engine>
+    <armor manufacturer="StarSlab/9.5 Mk II" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>31</front>
+        <left>21</left>
+        <right>21</right>
+        <rear>14</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Condor Hover Tank (Upgrade) 50t, 9/14, XLFE, 6.0T/50% FF Armor; 10 SHS; 1 LRM15, 2 MG, 1 LB5</info>
+        <battleforce pv="10" wt="2" mv="9" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Mydron Excel 5SG">(IS) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SureFire MiniGuns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SureFire MiniGuns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Valiant Arbalest">(IS) LRM-15</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes KR-A P/Comm</commsystem>
+        <tandtsystem>TharHes Mars 1</tandtsystem>
+    </fluff>
+</combatvehicle>

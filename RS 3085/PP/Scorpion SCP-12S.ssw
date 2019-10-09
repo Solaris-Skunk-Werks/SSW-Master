@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Scorpion" model="SCP-12S" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1109</battle_value>
+    <cost>9524750.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Defiance Industries" location="Furillo">Inner Sphere</techbase>
+    <year restricted="FALSE">3066</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Defiance SLAM" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="5">FLL</location>
+        <location index="5">FRL</location>
+        <location index="5">RLL</location>
+        <location index="5">RRL</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="10">CT</location>
+        <location index="10">RT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="330" manufacturer="Edasich" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Maximillian 100" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>21</ct>
+        <ctr>6</ctr>
+        <lt>18</lt>
+        <ltr>4</ltr>
+        <rt>18</rt>
+        <rtr>4</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-PP</source>
+        <info>Scorpion SCP-12S 55t, 6/9/0, LFE, ES Quad; 9.0T/72% Armor; 10 DHS; 1 SRM6, 1 LB10</info>
+        <battleforce pv="11" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Defiance Shredder">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester 20K">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Neil 6000-g</commsystem>
+        <tandtsystem>RCA Instatrac Mark XXII</tandtsystem>
+    </fluff>
+</mech>

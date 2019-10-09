@@ -1,0 +1,128 @@
+QKD-5Mr Quickdraw - Check BV
+Battle Value Calculations For Quickdraw QKD-5Mr
+ Defensive Battle Rating Calculation:
+Total Armor Factor x 1.0
+143.0 x 2.5 x 1.0
+= 357.5
+Total I.S. Points x IS Multipler x 1.5 x Engine Multipler
+99 x 1.0 x 1.5 x 1.0
+= 148.5
+Weight x Gyro Multipler
+60.0 x 0.5
+= 30.0
+Defensive Equipment:
+Guardian ECM Suite +61.0
+Total BV of all Defensive Equipment 
+= 61.0
+Explosive Weapons/Equipment Penalty
+= -0.0
+-------------
+597.0
+
+Run MP 8
+Target Movement Modifer For Run 3
+Target Movement Modifer For Jumping 3
+Target Movement Modifer 3.0
+Multiply by Defensive Movement Factor of
+1.3
+x 1.3
+-------------
+Defensive Battle Value
+
+= 776.1
+
+
+
+Offensive Battle Rating Calculation:
+
+
+Base Heat Efficiency - Jump Heat
+30 - 5= 25
+Unmodified Weapon BV:
+ER Medium Laser 62.0
+ER Medium Laser 62.0
+LRM 10 with Artemis IV 108.0
+Medium Laser (R) 46.0
+Medium Laser (R) 46.0
+-------------
+Unmodified Front BV:
+232.0
+
+Unmodfied Rear BV:
+92.0
+
+Unmodfied Turret BV:
+0.0
+
+Total Unmodfied BV:
+324.0
+
+Unmodified Front non-arm BV:
+108.0
+
+Unmodfied Rear non-arm BV:
+92.0
+Weapon Heat:
+ER Medium Laser+ 5.0
+ER Medium Laser+ 5.0
+LRM 10+ 4.0
+Medium Laser+ 3.0
+Medium Laser+ 3.0
+
+
+-------------
+Total Heat:
+= 20.0
+Weapons with no heat at full BV:
+Heat Modified Weapons BV:
+
+
+ER Medium Laser
+77.5
+
+ER Medium Laser
+77.5
+
+LRM 10 with Artemis IV
+108.0
+
+Medium Laser(R)
+28.75
+
+Medium Laser(R)
+28.75
+-------------
+Total Weapons BV Adjusted For Heat:
+
+320.5
+
+Misc Offensive Equipment:
+Total Misc Offensive Equipment BV:
+0.0
+
+Toal Ammo BV:
+11.0
+
+Add weight
++60.0
+Final Speed Factor:
+1.76
+
+Weapons BV * Speed Factor
+391.5 * 1.76
+= 689.04
+Offensive BV + Defensive BV
+776.1 + 689.04
+= 1465.1399999999999
+Total BV * Cockpit Modifier
+1465.1399999999999 * 1.0
+= 1465.0
+
+
+-------------
+Final BV = 1465.0
+
+
+P. 120 NC-C3Ar - Should be NG
+*P. 136 Uller U BV - 1486
+*P. 138 Fenris U BV - 1549

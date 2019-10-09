@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Phoenix Hawk" model="PXH-4W" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1395</battle_value>
+    <cost>1.134509E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Ceres Metal Industries" location="St. Ives">Inner Sphere</techbase>
+    <year restricted="FALSE">3080</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Ceresplex IV" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">CT</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="225" manufacturer="Warner" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="0">Heavy-Duty Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Ceres Metals" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>19</ct>
+        <ctr>6</ctr>
+        <lt>16</lt>
+        <ltr>4</ltr>
+        <rt>16</rt>
+        <rtr>4</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>17</ll>
+        <rl>17</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-PP</source>
+        <info>Phoenix Hawk PXH-4W 45t, 5/8/8, LFE, ES, HD Gyro; 8.5T/89% Armor; 10 DHS; 1 ECM, 2 ERML, 2 LPPC</info>
+        <battleforce pv="14" wt="2" mv="5/8j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="8">
+            <type>Improved Jump Jet</type>
+            <location index="7">LT</location>
+            <location index="5">LT</location>
+            <location index="9">LT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Ceres Arms">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Ceres Arms">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Apple Churchill">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Anderson Propulsion 30</jumpjet_model>
+        <commsystem>Ceres Metals Model 686 w/ Guardian ECM</commsystem>
+        <tandtsystem>Apple Churchill 2000</tandtsystem>
+    </fluff>
+</mech>

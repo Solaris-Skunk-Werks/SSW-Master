@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Bellona Hover Tank" model="" tons="45" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1018</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>2104250.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="HH Complex Beta" location="Tiber">Clan</techbase>
+    <year restricted="FALSE">3070</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="405" manufacturer="Type 170" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Forging HTT05" techbase="2">
+        <type>Standard Armor</type>
+        <front>30</front>
+        <left>21</left>
+        <right>21</right>
+        <rear>21</rear>
+        <primaryturret>27</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Bellona Hover Tank 45t, 9/14, Std FE, 7.5T/61% Armor; 10 SHS; 1 UAC/10, 2 Flmr, 4 LMG</info>
+        <battleforce pv="10" wt="2" mv="9" s="3" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series HL-II">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series HL-II">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series HL-II">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series HL-II">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type 14b">(CL) Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type 14b">(CL) Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type 9">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Series XII ComSys</commsystem>
+        <tandtsystem>Build IX TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

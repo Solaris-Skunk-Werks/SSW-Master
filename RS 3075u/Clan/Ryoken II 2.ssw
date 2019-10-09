@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Ryoken II" model="2" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2141</battle_value>
+    <cost>1.87635E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Bergan Industries" location="Alshain">Clan</techbase>
+    <year restricted="FALSE">3076</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="DSAM ENDO 5" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="10">CT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="375" manufacturer="GM" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forging ZK20" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>28</ct>
+        <ctr>9</ctr>
+        <lt>19</lt>
+        <ltr>6</ltr>
+        <rt>19</rt>
+        <rtr>6</rtr>
+        <la>19</la>
+        <ra>19</ra>
+        <ll>25</ll>
+        <rl>25</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Ryoken II 2 75t, 5/8/0, XLFE, ES; 11.5T/80% Armor; 10 DHS; 2 UAC/10, 2 LRM15</info>
+        <battleforce pv="21" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type XVI">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type XVI">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type DL">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type DL">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garret GBX-2 Amaldgamated</commsystem>
+        <tandtsystem>Alshain B4 Series 2 T&amp;T</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Asshur Fast Reconnaissance Vehicle" model="(Proto AC)" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>336</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>681333.3333333334</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">3073</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Compound JX2" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>13</front>
+        <left>11</left>
+        <right>11</right>
+        <rear>9</rear>
+        <primaryturret>13</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Asshur Fast Reconnaissance Vehicle (Proto AC) 20t, 9/14, Std FE, 3.0T/52% FF Armor; 10 SHS; 1 PrmAC8, 1 CASE</info>
+        <battleforce pv="3" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="CASE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/8</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/8</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated Type 2M</commsystem>
+        <tandtsystem>Consolidated Type V TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

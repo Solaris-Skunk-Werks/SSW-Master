@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Centipede Scout Car" model="(SRM)" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>431</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="No Turret" />
+    <cost>273000.0</cost>
+    <rules_level>0</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Gienah Combat Vehicles, Red Devil Industries" location="Gienah, Pandora">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="160" manufacturer="VOX" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ProtecTech 6" techbase="2">
+        <type>Standard Armor</type>
+        <front>16</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>16</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Centipede Scout Car (SRM) 20t, 8/12, ICE, 4.0T/58% Armor; 0 SHS; 6 SRM2</info>
+        <battleforce pv="4" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="2" armor="2" internal="0" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scuti Dualcom</commsystem>
+        <tandtsystem>Scuti Dualtar</tandtsystem>
+    </fluff>
+</combatvehicle>

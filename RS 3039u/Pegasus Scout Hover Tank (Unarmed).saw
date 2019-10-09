@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Pegasus Scout Hover Tank" model="(Unarmed)" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>317</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>427125.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Exeter Organization, Red Devil Industries, Hellespont Industries" location="Keystone (Exeter), Pandora (Red Devil), Sian (Hellespont)">Inner Sphere</techbase>
+    <year restricted="FALSE">2873</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="280" manufacturer="GM" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ProtecTech 6" techbase="2">
+        <type>Standard Armor</type>
+        <front>26</front>
+        <left>19</left>
+        <right>19</right>
+        <rear>19</rear>
+        <primaryturret>21</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Pegasus Scout Hover Tank (Unarmed) 35t, 8/12, ICE, 6.5T/64% Armor; 0 SHS; 1 StndrdCrgo</info>
+        <battleforce pv="3" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="ENE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>12.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Exeter LongScan with ReconLock</commsystem>
+        <tandtsystem>Salamander Systems CommPhase Unit</tandtsystem>
+    </fluff>
+</combatvehicle>

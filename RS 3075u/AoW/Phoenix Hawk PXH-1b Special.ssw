@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Phoenix Hawk" model="PXH-1b &quot;Special&quot;" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1512</battle_value>
+    <cost>8697390.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Earthwerks Incorporated, Coventry Metal Works, Achernar BattleMechs, Gorton, Kingsley, and Thorpe Enterpises" location="Keystone (Earthwerks), Coventry (CMW), New Avalon (Achernar), New Oslo (GKT)">Inner Sphere</techbase>
+    <year restricted="FALSE">2760</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Earthwekrks PXH" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">RA</location>
+        <location index="10">RA</location>
+    </structure>
+    <engine rating="270" manufacturer="GM" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Light" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>23</ct>
+        <ctr>5</ctr>
+        <lt>18</lt>
+        <ltr>4</ltr>
+        <rt>18</rt>
+        <rtr>4</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Phoenix Hawk PXH-1b "Special" 45t, 6/9/6, XLFE, ES; 8.0T/84% Armor; 10 DHS; 1 ECM, 2 ML, 1 ERLL, 2 MG, 1 ERPPC</info>
+        <battleforce pv="15" wt="2" mv="6j" s="2" m="2" l="2" e="0" ov="1" armor="4" internal="2" abilities="ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="3">RT</location>
+            <location index="3">LT</location>
+            <location index="4">LT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+            <location index="5">LT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="M100">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="M100">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harmon">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harmon">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="7">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Rawlings 45</jumpjet_model>
+        <commsystem>Neil 6000</commsystem>
+        <tandtsystem>Octagon Tartrac System C</tandtsystem>
+    </fluff>
+</mech>

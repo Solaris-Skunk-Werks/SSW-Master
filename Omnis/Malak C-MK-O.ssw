@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Malak" model="C-MK-O" tons="30" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>6565487.5</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Gibson Federated BattleMechs, Martinson Armaments" location="Gibson (Gibson Federated), Terra (Martinson)">Inner Sphere</techbase>
+    <year restricted="FALSE">3069</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Celestial Series MK1E" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="6">RA</location>
+        <location index="7">RA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="210" manufacturer="DefHes" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="0">Extra-Light Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Divine Shield" techbase="0">
+        <type>Light Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>14</ct>
+        <ctr>4</ctr>
+        <lt>11</lt>
+        <ltr>3</ltr>
+        <rt>11</rt>
+        <rtr>3</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>13</ll>
+        <rl>13</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">RT</location>
+        <location index="10">LA</location>
+        <location index="11">LA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRO 3075</source>
+        <info>Malak C-MK-O 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I</info>
+        <battleforce pv="5" wt="1" mv="7" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="7">LA</location>
+            <location index="4">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location index="2">LT</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Invictus (Prime)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Malak C-MK-O Invictus (Prime) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 Flmr, 1 C3I, 1 ERML, 1 RBlde, 1 LPPC, 1 SRM2</info>
+        <battleforce pv="8" wt="1" mv="7" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>792</battle_value>
+        <cost>6565487.5</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Retractable Blade</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Dominus (A)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Malak C-MK-O Dominus (A) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 2 Flmr, 2 MGA+3LMG, 1 C3I, 2 ERML, 1 ERSL</info>
+        <battleforce pv="8" wt="1" mv="7" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>823</battle_value>
+        <cost>6457343.75</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) MG Array (3 Light Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MG Array (3 Light Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Infernus (B)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Malak C-MK-O Infernus (B) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 ECM, 1 C3I, 1 SNPPC, 2 ERML</info>
+        <battleforce pv="10" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, ECM, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1047</battle_value>
+        <cost>7093125.0</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+    </loadout>
+    <loadout name="Comminus (C)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Malak C-MK-O Comminus (C) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 ECM, 1 C3I, 2 ERML, 1 BAP, 3 ERSL, 1 TAG, 1 BPod, TC</info>
+        <battleforce pv="9" wt="1" mv="7" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, PRB, RCN, TAG, ECM, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>945</battle_value>
+        <cost>7093368.75</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">B-Pod</name>
+            <type>equipment</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Luminos (D)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Malak C-MK-O Luminos (D) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I, 2 ERML, 3 ERSL, 2 LPPC</info>
+        <battleforce pv="11" wt="1" mv="7" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1055</battle_value>
+        <cost>6822968.75</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="Eminus (E)" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Malak C-MK-O Eminus (E) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I, 2 ERML, 1 LPPC, 1 Tbolt5</info>
+        <battleforce pv="10" wt="1" mv="7" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>957</battle_value>
+        <cost>6699550.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Thunderbolt-5</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-5</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="3">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Caelestis (S)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Malak C-MK-O Caelestis (S) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I, 3 ERSL, 1 ERPPC</info>
+        <battleforce pv="11" wt="1" mv="7" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1121</battle_value>
+        <cost>6813056.25</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="(Mi)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>SBW&amp;B</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Malak C-MK-O (Mi) 30t, 7/11[14]/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I, 1 ERSL, 2 MVSPL</info>
+        <battleforce pv="8" wt="1" mv="9" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>758</battle_value>
+        <cost>1.010140625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="Ramtech 5500V">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Ramtech 5500V">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Master&apos;s Voice Cel-Alpha</commsystem>
+        <tandtsystem>Master&apos;s Sight 1-Omega</tandtsystem>
+    </fluff>
+</mech>

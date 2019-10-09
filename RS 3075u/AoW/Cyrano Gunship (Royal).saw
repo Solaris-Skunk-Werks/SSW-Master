@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Cyrano Gunship" model="(Royal)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>740</battle_value>
+    <motive type="VTOL" cruise="12" turret="No Turret" />
+    <cost>5258000.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Paulina Weapons" location="New Vandenberg">Inner Sphere</techbase>
+    <year restricted="FALSE">2721</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="360" manufacturer="DAV" techbase="0">XL Engine</engine>
+    <armor manufacturer="Paulina DL" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>12</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Cyrano Gunship (Royal) 30t, 12/18, XLFE, 2.5T/30% FF Armor; 12 SHS; 1 ERLL, 1 BAP, 2 AMS, 1 TAG</info>
+        <battleforce pv="7" wt="1" mv="12" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="TAG, AMS, PRB, RCN, ENE" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Royal Cyrano: The trademark large laser is upgraded to an extended-range model, and TAG is added. Defenses are enhanced by the installation of two anti-missile systems (one on each side) and two tons of ammunition. An additional 1.5 tons of armor is added. To free up the mass for these modifications, the power plant is upgraded to an XL model.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret M250</commsystem>
+        <tandtsystem>Sky Tracer WL</tandtsystem>
+    </fluff>
+</combatvehicle>

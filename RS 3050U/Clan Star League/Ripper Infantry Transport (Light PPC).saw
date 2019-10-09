@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Ripper Infantry Transport" model="(Light PPC)" tons="10" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>371</battle_value>
+    <motive type="VTOL" cruise="12" turret="No Turret" />
+    <cost>588888.8888888888</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Cal-Boeing" location="Belladonna">Inner Sphere</techbase>
+    <year restricted="FALSE">3069</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="120" manufacturer="Omni" techbase="0">XL Engine</engine>
+    <armor manufacturer="ProtecTec 6" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>13</front>
+        <left>8</left>
+        <right>8</right>
+        <rear>8</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Ripper Infantry Transport (Light PPC) 10t, 12/18, XLFE, 2.0T/52% HFF Armor; 10 SHS; 1 InfComp, 1 LPPC</info>
+        <battleforce pv="4" wt="1" mv="12" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="0" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Datacom 100</commsystem>
+        <tandtsystem>Tarmac Quasar V</tandtsystem>
+    </fluff>
+</combatvehicle>

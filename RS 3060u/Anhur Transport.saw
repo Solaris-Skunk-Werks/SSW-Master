@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Anhur Transport" model="" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>720</battle_value>
+    <motive type="VTOL" cruise="8" turret="No Turret" />
+    <cost>1362000.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Various" location="Various">Clan</techbase>
+    <year restricted="FALSE">2840</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Airframe Pattern 2841" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>15</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>12</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Anhur Transport 30t, 8/12, Std FE, 3.0T/39% FF Armor; 13 SHS; 1 ERML, 1 InfComp, 2 MPL, 1 CASE</info>
+        <battleforce pv="7" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE" />
+        <heatsinks number="13" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 2f">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>7.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Khan-series (Type 2)</commsystem>
+        <tandtsystem>Mark 11 IHADS</tandtsystem>
+    </fluff>
+</combatvehicle>

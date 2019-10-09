@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Quickdraw" model="QKD-8P" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1598</battle_value>
+    <cost>9183360.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Earthwerks Incorporated" location="Tikonov">Inner Sphere</techbase>
+    <year restricted="FALSE">3084</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Technicron Type-E" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">LT</location>
+        <location index="4">LT</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+    </structure>
+    <engine rating="300" manufacturer="Magna" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type>Torso-Mounted Cockpit</type>
+        <location index="8">CT</location>
+        <location index="9">CT</location>
+        <location index="0">LT</location>
+        <location index="0">RT</location>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+    </enhancement>
+    <armor manufacturer="Maximillian-40" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>30</ct>
+        <ctr>10</ctr>
+        <lt>18</lt>
+        <ltr>10</ltr>
+        <rt>18</rt>
+        <rtr>10</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSProtop</source>
+        <info>Quickdraw QKD-8P 60t, 5[6]/8[9]/0 TSM, Std FE, ES, Cmp Gyro; 12.0T/96% Armor; 12 SHS; 1 ECM, 1 SSRM4, 2 ML, 1 PPC, 1 TAG</info>
+        <battleforce pv="16" wt="3" mv="5" s="2" m="2" l="1" e="0" ov="1" armor="6" internal="5" abilities="TSM, ECM, TAG, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Donal">(IS) PPC</name>
+            <type>energy</type>
+            <location index="2">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Aberdovey Mk. II">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Aberdovey Mk. II">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies 2nd Generation">(IS) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">TAG</name>
+            <type>equipment</type>
+            <location index="5">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Design Quirk: Hyper-Extending Actuators.:br::br:Handheld Weapon:br::br:Configurations:br::br:Weapons and Ammo Mass:br::br:Heavy LRM Weapon (12 tons):br::br:LRM 20 10:br::br:Ammo (LRM) 6 1:br::br:Armor (16 points) 1:br::br:Battle Value: 236:br::br:Heavy LB-X Weapon (12 tons):br::br:LB 10-X AC 11:br::br:Ammo (LB-X) 5 .5:br::br:Armor (8 points) .5:br::br:Battle Value: 174:br::br:Heavy Streak Weapon (12 tons):br::br:3 Streak SRM 4 9:br::br:Ammo (Streak) 25 1:br::br:Armor (32 points) 2:br::br:Battle Value: 248:br::br:Heavy Rotary:br::br:AC Weapon (12 tons):br::br:Rotary AC/5 10:br::br:Ammo (RAC) 30 1.5:br::br:Armor (8 points) .5:br::br:Battle Value: 310:br::br:Heavy Thunderbolt:br::br:Weapon (12 tons):br::br:Thunderbolt 10 7:br::br:Ammo (Thunderbolt) 18 3:br::br:Armor (32 points) 2:br::br:Battle Value: 239:br::br:Light Autocannon Weapon (6 tons):br::br:Light AC/5 5:br::br:Ammo (LAC) 10 .5:br::br:Armor (8 points) .5:br::br:Battle Value: 82:br::br:Light Anti-Infantry Weapon (6 tons):br::br:5 Machine Guns 2.5:br::br:Ammo (MG) 100 .5:br::br:Vehicular Flamer 1:br::br:Ammo (Flamer) 20 1:br::br:Armor (16 points) 1:br::br:Battle Value: 64:br::br:Light Laser Weapon (6 tons):br::br:Medium Laser 1:br::br:3 Heat Sinks 3:br::br:Armor (32 points) 2:br::br:Battle Value: 110</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>CommuTech Multi-Channel 10</commsystem>
+        <tandtsystem>BlazeFire Sightlock</tandtsystem>
+    </fluff>
+</mech>

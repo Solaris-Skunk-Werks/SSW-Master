@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Eyleuka" model="EYL-45B" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1615</battle_value>
+    <cost>1.4220681666666668E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Detroit Consolidated MechWorks" location="Detroit">Inner Sphere</techbase>
+    <year restricted="FALSE">3075</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Dynastic 55-E" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="275" manufacturer="ER Motors" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Hellespont Lite" techbase="0">
+        <type>Stealth Armor</type>
+        <hd>9</hd>
+        <ct>22</ct>
+        <ctr>7</ctr>
+        <lt>16</lt>
+        <ltr>5</ltr>
+        <rt>16</rt>
+        <rtr>5</rtr>
+        <la>15</la>
+        <ra>15</ra>
+        <ll>21</ll>
+        <rl>21</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Eyleuka EYL-45B 55t, 5/8/7, XLFE, Std, Cmp Gyro; 9.5T/82% Stlth Armor; 13 DHS; 1 ECM, 1 ERLL, 1 SNPPC, 2 ERML, 1 TAG</info>
+        <battleforce pv="16" wt="2" mv="5/7j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="3" abilities="ECM, STL, TAG, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="7">
+            <type>Improved Jump Jet</type>
+            <location index="3">LT</location>
+            <location index="8">CT</location>
+            <location index="5">LT</location>
+            <location index="7">LT</location>
+            <location index="3">RT</location>
+            <location index="5">RT</location>
+            <location index="7">RT</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RA</location>
+            <location index="4">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diverse Optics Type II">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics Type II">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">TAG</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics Sunbeam">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Nike Doublejet 9s</jumpjet_model>
+        <commsystem>FoxxCom 75</commsystem>
+        <tandtsystem>FoxxFire 180</tandtsystem>
+    </fluff>
+</mech>

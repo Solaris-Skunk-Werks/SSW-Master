@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Tamerlane Strike Sled" model="" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>403</battle_value>
+    <motive type="Hovercraft" cruise="12" turret="Single Turret" />
+    <cost>558833.3333333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Novis AT-H, Inc" location="Detroit">Inner Sphere</techbase>
+    <year restricted="FALSE">3071</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="Magna" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Maximillian 43" techbase="2">
+        <type>Standard Armor</type>
+        <front>10</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>8</rear>
+        <primaryturret>10</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Tamerlane Strike Sled 20t, 12/18, Std FE, 3.0T/44% Armor; 10 SHS; 1 ERML, 1 SRM2</info>
+        <battleforce pv="4" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Marklin Mini">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Marconi M-Pulse VI</commsystem>
+        <tandtsystem>Marconi TTS series II</tandtsystem>
+    </fluff>
+</combatvehicle>

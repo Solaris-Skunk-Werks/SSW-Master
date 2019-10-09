@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Zeus" model="ZEU-6Y" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1323</battle_value>
+    <cost>7456800.000000001</cost>
+    <rules_level>3</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2922</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="320" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>26</ct>
+        <ctr>9</ctr>
+        <lt>18</lt>
+        <ltr>6</ltr>
+        <rt>18</rt>
+        <rtr>6</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRSuccession Wars</source>
+        <info>Zeus ZEU-6Y 80t, 4/6/0, Std FE, Std; 11.5T/74% Armor; 17 SHS; 1 LRM10, 1 BLC, 1 AC5</info>
+        <battleforce pv="13" wt="4" mv="4" s="2" m="3" l="1" e="0" ov="0" armor="6" internal="6" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="17" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">LT</location>
+            <location index="0">LT</location>
+            <location index="2">LT</location>
+            <location index="3">LT</location>
+            <location index="4">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Binary Laser Cannon</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/5</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Zeus limited production variant:br:Producer/Site: Defiance Industries, Hesperus II:br:Supervising Technician: Gerhard Hoffman:br:Project Start Date: 2922:br:Non-Production Equipment Analysis::br::tab:Binary Laser Cannon:br::br:Notes: Features the following Design Quirks: Easy to Maintain, Improved Cooling Jacket (Binary Laser), Rumble Seat.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

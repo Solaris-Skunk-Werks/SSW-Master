@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Zhukov Heavy Tank" model="(WoB)" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>983</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>1.4380625E7</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Aldis Industries" location="Betelgeuse">Inner Sphere</techbase>
+    <year restricted="FALSE">3071</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="" techbase="0">XL Engine</engine>
+    <armor manufacturer="ArcShield Max I" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>50</front>
+        <left>35</left>
+        <right>35</right>
+        <rear>24</rear>
+        <primaryturret>44</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Zhukov Heavy Tank (WoB) 75t, 4/6, XLFE, 9.5T/62% HFF Armor; 20 SHS; 1 C3I, 2 LVSPL, 1 MML7, 1 CASE</info>
+        <battleforce pv="10" wt="3" mv="4" s="4" m="3" l="1" e="0" ov="0" armor="6" internal="4" abilities="C3I, CASE, MHQ2" />
+        <heatsinks number="20" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Olmstead 30</commsystem>
+        <tandtsystem>Cirxese BallistaCheck, Cirxese RockerCheck</tandtsystem>
+    </fluff>
+</combatvehicle>

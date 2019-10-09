@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Crimson Hawk" model="" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1285</battle_value>
+    <cost>3134166.666666667</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant DSF-IT1" location="Itabiana">Clan</techbase>
+    <year restricted="FALSE">3071</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="York II XT" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="125" manufacturer="York" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound 6A" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>12</ct>
+        <ctr>4</ctr>
+        <lt>9</lt>
+        <ltr>3</ltr>
+        <rt>9</rt>
+        <rtr>3</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>12</ll>
+        <rl>12</rl>
+        <location index="3">HD</location>
+        <location index="4">LA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="11">CT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Crimson Hawk 25t, 5/8/5, XLFE, Std; 5.0T/100% FF Armor; 10 DHS; 2 ERLL</info>
+        <battleforce pv="13" wt="1" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="6">LT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+            <location index="10">CT</location>
+            <location index="7">LT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">LT</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 7K">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7J">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Clan Series Type I Light</jumpjet_model>
+        <commsystem>Able-Seven Sensor Suite</commsystem>
+        <tandtsystem>Multi-Spread 9</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Thanatos" model="TNS-4T" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Thanatos.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1760</battle_value>
+    <cost>1.66219375E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="StarCorps Industries" location="Crofton, Loburg">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="StarFrame Heavy" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="5">RT</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="8">RA</location>
+        <location index="9">RT</location>
+        <location index="9">RA</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="300" manufacturer="PlasmaStar" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Heavy" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>28</ct>
+        <ctr>13</ctr>
+        <lt>25</lt>
+        <ltr>7</ltr>
+        <rt>25</rt>
+        <rtr>7</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Thanatos TNS-4T 75t, 4/6/4, XLFE, ES; 13.0T/90% Armor; 12 DHS; 1 ECM, 1 C3S, 1 MRM20, 4 MPL, 1 LB20</info>
+        <battleforce pv="18" wt="3" mv="4j" s="5" m="5" l="0" e="0" ov="0" armor="7" internal="3" abilities="ECM, C3S, MHQ1, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="RAMTech 800P">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">(IS) MRM-20</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 20-X AC</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="10">LA</splitlocation>
+            <splitlocation index="3" number="1">LT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="RAMTech 800P">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="RAMTech 800P">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="RAMTech 800P">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Audi-Fokker Mark IV</jumpjet_model>
+        <commsystem>Garret T-60 FastScan</commsystem>
+        <tandtsystem>Garret F22c</tandtsystem>
+    </fluff>
+</mech>

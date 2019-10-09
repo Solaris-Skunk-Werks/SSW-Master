@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Sentinel" model="STN-3KA" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>847</battle_value>
+    <cost>3100230.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Defiance Industries" location="Hesperus II">Inner Sphere</techbase>
+    <year restricted="FALSE">2830</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Defiant V" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="240" manufacturer="Pitban" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Valiant Lamellor" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>18</ct>
+        <ctr>5</ctr>
+        <lt>15</lt>
+        <ltr>4</ltr>
+        <rt>15</rt>
+        <rtr>4</rtr>
+        <la>11</la>
+        <ra>11</ra>
+        <ll>18</ll>
+        <rl>18</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Sentinel STN-3KA 40t, 6/9/0, Std FE, Std; 8.0T/93% Armor; 13 SHS; 1 SL, 1 LL, 1 SRM2</info>
+        <battleforce pv="8" wt="2" mv="6" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="13" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="2">LT</location>
+            <location index="1">LT</location>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Holly">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Defiance B-1A">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>StarLink/Benicia Model AS829G</commsystem>
+        <tandtsystem>Targa-7, Vid-Com-17</tandtsystem>
+    </fluff>
+</mech>

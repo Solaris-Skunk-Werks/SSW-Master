@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Crow Scout Helicopter" model="(C3)" tons="15" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>288</battle_value>
+    <motive type="VTOL" cruise="13" turret="No Turret" />
+    <cost>1308750.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Yan Manufacturing" location="New Samarkand">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="195" manufacturer="DAV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>8</front>
+        <left>5</left>
+        <right>5</right>
+        <rear>4</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Crow Scout Helicopter (C3) 15t, 13/20, Std FE, 1.5T/26% Armor; 10 SHS; 1 ECM, 1 C3S, 1 BAP, 2 ERSL</info>
+        <battleforce pv="3" wt="1" mv="13" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="PRB, RCN, ECM, C3S, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Exostar">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Exostar">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Wunderland">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Apple-Churchill">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scuti Dualcom</commsystem>
+        <tandtsystem>Skyhunter IV</tandtsystem>
+    </fluff>
+</combatvehicle>

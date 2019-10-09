@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Engineering Vehicle" model="" tons="40" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>194</battle_value>
+    <motive type="Tracked" cruise="6" turret="Single Turret" />
+    <cost>521499.99999999994</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="New Earth Trading Company" location="New Earth">Inner Sphere</techbase>
+    <year restricted="FALSE">2443</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="WorkHorse" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Basic Metal Plate" techbase="2">
+        <type>Standard Armor</type>
+        <front>8</front>
+        <left>8</left>
+        <right>8</right>
+        <rear>8</rear>
+        <primaryturret>8</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Engineering Vehicle 40t, 6/9, ICE, 2.5T/22% Armor; 0 SHS; 1 BckHo, 1 LftHst</info>
+        <battleforce pv="2" wt="2" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="2" abilities="MEL, ENE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Backhoe</name>
+            <type>physical</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes Caliope HM-10</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</combatvehicle>

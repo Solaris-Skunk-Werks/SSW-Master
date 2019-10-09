@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Super Wasp" model="WSP-2A-X" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>635</battle_value>
+    <cost>3808750.0</cost>
+    <rules_level>3</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3020</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>10</ct>
+        <ctr>4</ctr>
+        <lt>7</lt>
+        <ltr>2</ltr>
+        <rt>7</rt>
+        <rtr>2</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>7</ll>
+        <rl>7</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRSuccessionWars</source>
+        <info>Super Wasp WSP-2A-X 25t, 6/9[12]/6, Std FE, Std; 4.0T/72% Armor; 10 SHS; 2 ML, 1 SRM2</info>
+        <battleforce pv="6" wt="1" mv="8/6j" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="3">LT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="3">RT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="5">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Prototype Wasp chassis rebuild:br::br:and testbed:br::br:Producer/Site: Friden Aerospace Park, Hoff:br::br:Supervising Technician: Dr. Jorge Belasco:br::br:Project Start Date: 3020:br::br:Non-Production Equipment Analysis::br::br::tab:Supercharger:br::br::br:Notes: Features the following Design Quirks: Prototype.</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Chaparral Missile Artillery Tank" model="(MG)" tons="50" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>801</battle_value>
+    <motive type="Tracked" cruise="4" turret="No Turret" />
+    <cost>2087499.9999999998</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Grumman Industries" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="Nissan" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/1" techbase="2">
+        <type>Standard Armor</type>
+        <front>16</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>36</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Chaparral Missile Artillery Tank (MG) 50t, 4/6, Std FE, 5.5T/41% Armor; 10 SHS; 2 ML, 1 MG, 1 ArwIV, 1 SRM4</info>
+        <battleforce pv="8" wt="2" mv="4" s="3" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="ARTAIS" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="AIL">(IS) Arrow IV Missile</name>
+            <type>artillery</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sapphire">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sapphire">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) SRM-4</name>
+            <type>missile</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TransComm 12</commsystem>
+        <tandtsystem>TransComm WDS40A</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Fwltur" model="FWL-3V SalvageMech" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>252</battle_value>
+    <cost>1537181.2499999998</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3085</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="105" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>8</hd>
+        <ct>16</ct>
+        <ctr>6</ctr>
+        <lt>10</lt>
+        <ltr>6</ltr>
+        <rt>10</rt>
+        <rtr>6</rtr>
+        <la>7</la>
+        <ra>7</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <info>Fwltur FWL-3V SalvageMech 35t, 3/5/0/JBst(2), Std FE, Ind; 4.0T/81% Cmrcl Armor; 10 SHS; 2 SlvgArm, 2 LftHst</info>
+        <battleforce pv="3" wt="1" mv="3/1j" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="3" abilities="ENE, SRCH" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="3">LA</location>
+            <location index="1">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <jumpbooster mp="2" />
+        <equipment>
+            <name manufacturer="">Salvage Arm</name>
+            <type>physical</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Salvage Arm</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

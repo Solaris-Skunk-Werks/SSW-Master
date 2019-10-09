@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Cavalry Attack Helicopter" model="(TAG)" tons="25" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>495</battle_value>
+    <motive type="VTOL" cruise="10" turret="No Turret" />
+    <cost>780694.4444444445</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Michaelson Heavy Industries" location="Ruchbah">Inner Sphere</techbase>
+    <year restricted="FALSE">3059</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Michaelson" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>26</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>12</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Cavalry Attack Helicopter (TAG) 25t, 10/15, ICE, 4.5T/63% FF Armor; 0 SHS; 1 LRM10, 1 TAG</info>
+        <battleforce pv="5" wt="1" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="TAG, EE, IF 1" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret Supremesound</commsystem>
+        <tandtsystem>Garret D2j</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Hyena SalvageMech" model="HYN-4B" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>405</battle_value>
+    <cost>2093075.8333333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Vining Engineering and Salvage Team (VEST)" location="Solaris VII">Inner Sphere</techbase>
+    <year restricted="FALSE">3072</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Technicron-1a" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="220" manufacturer="CoreTek" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Corning 84" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>8</hd>
+        <ct>11</ct>
+        <ctr>5</ctr>
+        <lt>8</lt>
+        <ltr>4</ltr>
+        <rt>8</rt>
+        <rtr>4</rtr>
+        <la>7</la>
+        <ra>7</ra>
+        <ll>9</ll>
+        <rl>9</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Hyena SalvageMech HYN-4B 55t, 4/6/0, ICE, Ind; 7.5T/43% Ind. Armor; 0 SHS; 1 SlvgArm, 2 LftHst, 1 MG</info>
+        <battleforce pv="4" wt="2" mv="4" s="1" m="0" l="0" e="0" ov="0" armor="3" internal="5" abilities="SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Salvage Arm</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Sipher WideCom</commsystem>
+        <tandtsystem>Hartform T100M</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Xanthos" model="XNT-3O" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1948</battle_value>
+    <cost>9344500.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Holis Industries" location="Corey">Inner Sphere</techbase>
+    <year restricted="FALSE">2579</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Hollis XNT Mark V" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Vlar" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Heavy" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>46</ct>
+        <ctr>16</ctr>
+        <lt>32</lt>
+        <ltr>10</ltr>
+        <rt>32</rt>
+        <rtr>10</rtr>
+        <la>42</la>
+        <ra>42</ra>
+        <ll>42</ll>
+        <rl>42</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Xanthos XNT-3O 100t, 3/5/0, Std FE, Std Quad; 20.5T/100% Armor; 23 SHS; 3 ML, 1 SL, 1 PPC, 1 SRM6, 1 AC20</info>
+        <battleforce pv="19" wt="4" mv="3" s="3" m="3" l="1" e="0" ov="0" armor="11" internal="8" abilities="SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="23" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">RRL</location>
+            <location index="5">RLL</location>
+            <location index="4">RLL</location>
+            <location index="5">FLL</location>
+            <location index="4">FLL</location>
+            <location index="5">RRL</location>
+            <location index="11">CT</location>
+            <location index="0">LT</location>
+            <location index="10">CT</location>
+            <location index="1">LT</location>
+            <location index="4">FRL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="GE 508">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Donal">(IS) PPC</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics Type 10">(R) (IS) Small Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>HartfordCo Com 2500</commsystem>
+        <tandtsystem>HartfordCo XKX 2</tandtsystem>
+    </fluff>
+</mech>

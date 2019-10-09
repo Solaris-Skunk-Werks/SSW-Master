@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Archer" model="ARC-2K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1356</battle_value>
+    <cost>5966773.333333335</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Earthwerks Incorporated, Vandenberg Mechanized Industries, Gorton, Kingsley &amp; Thorpe Enterprises (GKT)" location="Calloway VI (Earthwerks), New Vandenberg (VMI), Satalice (GKT)">Inner Sphere</techbase>
+    <year restricted="FALSE">2856</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Earthwerks Archer" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Maximillian 100" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>29</ct>
+        <ctr>8</ctr>
+        <lt>20</lt>
+        <ltr>5</ltr>
+        <rt>20</rt>
+        <rtr>5</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>22</ll>
+        <rl>22</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Archer ARC-2K 70t, 4/6/0, Std FE, Std; 11.0T/81% Armor; 12 SHS; 2 LRM15, 2 LL</info>
+        <battleforce pv="14" wt="3" mv="4" s="2" m="2" l="1" e="0" ov="2" armor="6" internal="6" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-15</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-15</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Neil 9000</commsystem>
+        <tandtsystem>RCA Instatrac Mark XII</tandtsystem>
+    </fluff>
+</mech>

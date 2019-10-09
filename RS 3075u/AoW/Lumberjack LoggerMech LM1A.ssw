@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Lumberjack LoggerMech" model="LM1A" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>308</battle_value>
+    <cost>2028369.9999999998</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveIndustrialMech</mech_type>
+    <techbase manufacturer="Harrow-Deerfield Heavy Industrial Works" location="Tamar (destroyed 2820)">Inner Sphere</techbase>
+    <year restricted="FALSE">2355</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="HD Forester Series 4" techbase="0">
+        <type>Primitive Industrial Structure</type>
+    </structure>
+    <engine rating="180" manufacturer="Wagner HeavyDuty" lsstart="-1" rsstart="-1" techbase="2">Primitive I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="HD Plasteel" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>6</hd>
+        <ct>10</ct>
+        <ctr>6</ctr>
+        <lt>9</lt>
+        <ltr>5</ltr>
+        <rt>9</rt>
+        <rtr>5</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>9</ll>
+        <rl>9</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Lumberjack LoggerMech LM1A 60t, 3/5/0, Pr ICE, PrmInd; 3.5T/42% Cmrcl Armor; 0 SHS; 1 StndrdCrgo, 1 LftHst, 1 ChnSw</info>
+        <battleforce pv="3" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="5" abilities="MEL, SAW, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>8.0</tons>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Deerfield-690">Chainsaw</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="4">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>TigerCom 23/C</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

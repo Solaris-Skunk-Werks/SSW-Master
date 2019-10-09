@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Harasser Missile Platform" model="&quot;Mini-Peggy&quot;" tons="25" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>351</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>476250.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Broooks Incorporated" location="Suzano, Irian, Andurien">Inner Sphere</techbase>
+    <year restricted="FALSE">3028</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="GM Classic II" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/2" techbase="2">
+        <type>Standard Armor</type>
+        <front>8</front>
+        <left>8</left>
+        <right>8</right>
+        <rear>8</rear>
+        <primaryturret>8</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Harasser Missile Platform "Mini-Peggy" 25t, 10/15, ICE, 2.5T/31% Armor; 0 SHS; 1 RSnsDisp, 2 SRM4</info>
+        <battleforce pv="4" wt="1" mv="10" s="0" m="0" l="0" e="0" ov="2" armor="1" internal="1" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Remote Sensor Dispenser</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Remote Sensors (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Maxell 500</commsystem>
+        <tandtsystem>Maxell TA 55</tandtsystem>
+    </fluff>
+</combatvehicle>

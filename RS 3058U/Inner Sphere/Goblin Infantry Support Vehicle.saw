@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Goblin Infantry Support Vehicle" model="" tons="45" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>790</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>1696500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Johnston Industries" location="New Syrtis">Inner Sphere</techbase>
+    <year restricted="FALSE">3053</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="Fireheart" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>40</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>26</rear>
+        <primaryturret>40</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Goblin Infantry Support Vehicle 45t, 4/6, Std FE, 9.5T/86% FF Armor; 10 SHS; 1 InfComp, 2 MG, 1 SRM6, 1 AMS, 1 LPL</info>
+        <battleforce pv="8" wt="2" mv="4" s="3" m="2" l="0" e="0" ov="0" armor="6" internal="2" abilities="AMS" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="MainFire Point-Defense">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Johnston Miniguns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Johnston Miniguns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sutel Precision Line">(IS) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harpoon-6">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>CommuTech XL</commsystem>
+        <tandtsystem>BlazeFire Tracker with Range Check</tandtsystem>
+    </fluff>
+</combatvehicle>

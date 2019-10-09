@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Legionnaire" model="LGN-2X1 MUSE FIRE" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2032</battle_value>
+    <cost>1.1602E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3077</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LT</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LT</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LT</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+    </structure>
+    <engine rating="350" manufacturer="Unknown" lsstart="1" rsstart="1" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type>Torso-Mounted Cockpit</type>
+        <location index="10">CT</location>
+        <location index="11">CT</location>
+        <location index="0">LT</location>
+        <location index="0">RT</location>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Laser-Reflective</type>
+        <hd>9</hd>
+        <ct>20</ct>
+        <ctr>7</ctr>
+        <lt>16</lt>
+        <ltr>6</ltr>
+        <rt>16</rt>
+        <rtr>6</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>22</ll>
+        <rl>22</rl>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="9">LA</location>
+        <location index="10">LT</location>
+        <location index="10">LA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRDavion</source>
+        <info>Legionnaire LGN-2X1 MUSE FIRE 50t, 7/11/0, XLFE, ES; 9.5T/90% LsrRflc Armor; 10 DHS; 1 RAC5, 2 ERML</info>
+        <battleforce pv="20" wt="2" mv="7" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="2">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="4">HD</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Custom LGN-2D Hybrid Refit:br::br:Producer/Site: Research and Testing facility 44-J2A, New Avalon:br::br:Supervising Technician: Major General Sandra Hall-Pujanauski:br::br:Project Start Date: 3077:br::br:Non-Production Equipment Analysis::br::br::tab:Clan  Rotary Autocannon:br::br::tab:Clan Reflective Armor:br::br::tab:Torso Mounted Cockpit</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

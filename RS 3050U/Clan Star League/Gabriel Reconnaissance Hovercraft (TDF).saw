@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Gabriel Reconnaissance Hovercraft" model="(TDF)" tons="5" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>168</battle_value>
+    <motive type="Hovercraft" cruise="13" turret="Single Turret" />
+    <cost>88916.66666666669</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Bowie Industries" location="Terra, Dicallus">Inner Sphere</techbase>
+    <year restricted="FALSE">3065</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="65" manufacturer="VOX" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Bowie" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>5</front>
+        <left>3</left>
+        <right>3</right>
+        <rear>3</rear>
+        <primaryturret>3</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Gabriel Reconnaissance Hovercraft (TDF) 5t, 13/20, Std FE, 1.0T/30% FF Armor; 10 SHS; 2 RL10</info>
+        <battleforce pv="2" wt="1" mv="13" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="0" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>CBR CommSat</commsystem>
+        <tandtsystem>Halo 901</tandtsystem>
+    </fluff>
+</combatvehicle>

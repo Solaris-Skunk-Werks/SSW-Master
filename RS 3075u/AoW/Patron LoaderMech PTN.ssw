@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Patron LoaderMech" model="PTN" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>73</battle_value>
+    <cost>570521.25</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveIndustrialMech</mech_type>
+    <techbase manufacturer="Atrean Robotics" location="Atreus">Inner Sphere</techbase>
+    <year restricted="FALSE">2470</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="AR1" techbase="0">
+        <type>Primitive Industrial Structure</type>
+    </structure>
+    <engine rating="30" manufacturer="Vlar" lsstart="-1" rsstart="-1" techbase="2">Primitive Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Type 7 IndiPlate" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>3</hd>
+        <ct>3</ct>
+        <ctr>2</ctr>
+        <lt>2</lt>
+        <ltr>2</ltr>
+        <rt>2</rt>
+        <rtr>2</rtr>
+        <la>2</la>
+        <ra>2</ra>
+        <ll>2</ll>
+        <rl>2</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Patron LoaderMech PTN 15t, 2/3/0, Pr FCE, PrmInd; 1.0T/44% Cmrcl Armor; 1 SHS; 1 StndrdCrgo, 1 LftHst</info>
+        <battleforce pv="1" wt="1" mv="2" s="0" m="0" l="0" e="0" ov="0" armor="0" internal="1" abilities="ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="AR Standard">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>0.5</tons>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Apple Communicator</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

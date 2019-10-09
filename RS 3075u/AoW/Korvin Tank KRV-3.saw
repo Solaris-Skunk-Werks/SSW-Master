@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Korvin Tank" model="KRV-3" tons="50" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>792</battle_value>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>1947500.0000000002</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="Wu Industries" location="Capricorn III, Sian (discontinued 2612)">Inner Sphere</techbase>
+    <year restricted="FALSE">2430</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Magna" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ProtecTech 4" techbase="2">
+        <type>Standard Armor</type>
+        <front>38</front>
+        <left>26</left>
+        <right>26</right>
+        <rear>17</rear>
+        <primaryturret>21</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Korvin Tank KRV-3 50t, 5/8, Std FE, 8.0T/60% Armor; 10 SHS; 5 MG, 1 LRM10, 1 LL</info>
+        <battleforce pv="8" wt="2" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Browning Large Caliber">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Browning Large Caliber">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Browning Large Caliber">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Browning Large Caliber">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Browning Large Caliber">(R) (IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Wu Heavy">(IS) Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Longbow">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>WuChat 2.4</commsystem>
+        <tandtsystem>WuSight 13.8</tandtsystem>
+    </fluff>
+</combatvehicle>

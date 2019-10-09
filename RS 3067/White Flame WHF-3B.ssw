@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="White Flame" model="WHF-3B" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\White Flame.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1637</battle_value>
+    <cost>1.4706700000000002E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Mitchell Vehicles" location="North America, Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3065</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Dennenbach-Mitchell Series 9" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="5">RT</location>
+        <location index="5">FLL</location>
+        <location index="5">FRL</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="350" manufacturer="Magna" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>34</ct>
+        <ctr>10</ctr>
+        <lt>23</lt>
+        <ltr>7</ltr>
+        <rt>23</rt>
+        <rtr>7</rtr>
+        <la>30</la>
+        <ra>30</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>White Flame WHF-3B 70t, 5/8/5, LFE, ES Quad; 15.0T/100% Armor; 11 DHS; 1 C3I, 2 ERML, 1 MPL, 1 AMS, 1 LPL</info>
+        <battleforce pv="16" wt="3" mv="5j" s="3" m="3" l="0" e="0" ov="0" armor="8" internal="4" abilities="C3I, AMS, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="4">FRL</location>
+            <location index="4">FLL</location>
+            <location index="4">RLL</location>
+            <location index="4">RRL</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Tronel XIII">(IS) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Tronel XII">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="McArthur">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Rawlings 60</jumpjet_model>
+        <commsystem>Dornman Echo II</commsystem>
+        <tandtsystem>Wayne SuperSight</tandtsystem>
+    </fluff>
+</mech>

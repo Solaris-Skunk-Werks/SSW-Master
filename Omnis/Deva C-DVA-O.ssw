@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Deva" model="C-DVA-O" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>1.99964625E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Gibson Federated BattleMechs, Martinson Armaments" location="Gibson (Gibson Federated), Terra (Martinson)">Inner Sphere</techbase>
+    <year restricted="FALSE">3069</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Celestial Series Dv1E" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="280" manufacturer="Inspiration" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="0">Heavy-Duty Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Divine Protector" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>33</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>10</ltr>
+        <rt>20</rt>
+        <rtr>10</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRO 3075</source>
+        <info>Deva C-DVA-O 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I</info>
+        <battleforce pv="9" wt="3" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Invictus (Prime)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Deva C-DVA-O Invictus (Prime) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I, 1 RBlde, 1 GR, 3 LPPC</info>
+        <battleforce pv="16" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1584</battle_value>
+        <cost>1.99964625E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Retractable Blade</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Dominus (A)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Deva C-DVA-O Dominus (A) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I, 1 RAC5, 2 ERML, 1 ERSL, 1 LPPC, 1 MML7, TC</info>
+        <battleforce pv="17" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1727</battle_value>
+        <cost>1.987161875E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Infernus (B)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Deva C-DVA-O Infernus (B) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 16 DHS; 1 ECM, 1 C3I, 2 MPL, 2 ERPPC, TC</info>
+        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ECM, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1713</battle_value>
+        <cost>2.0295875E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="16" techbase="0">
+            <type>Double Heat Sink</type>
+            <location index="2">RA</location>
+            <location index="4">RT</location>
+            <location index="5">LT</location>
+            <location index="7">RT</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="5">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="Comminus (C)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Deva C-DVA-O Comminus (C) 70t, 4/6/4, LFE, ES, HD Gyro; 13.5T/100% Armor; 13 DHS; 1 ECM, 1 C3I, 3 ERML, 1 ERSL, 1 UAC20</info>
+        <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1743</battle_value>
+        <cost>2.077686875E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="7">RT</location>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="11">CT</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Ultra AC/20</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="8">RA</splitlocation>
+            <splitlocation index="8" number="2">RT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Luminos (D)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Deva C-DVA-O Luminos (D) 70t, 4/6/4, LFE, ES, HD Gyro; 13.5T/100% Armor; 15 DHS; 1 C3I, 3 ERML, 1 ERSL, 4 MPL, 1 HPPC</info>
+        <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1711</battle_value>
+        <cost>2.029236875E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="6">LT</location>
+            <location index="8">RT</location>
+            <location index="5">LT</location>
+            <location index="7">RT</location>
+        </jumpjets>
+        <heatsinks number="15" techbase="0">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="2">RA</location>
+            <location index="4">LA</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Eminus (E)" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Deva C-DVA-O Eminus (E) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 13 DHS; 1 C3I, 2 ERML, 4 LPPC, 1 Tbolt15</info>
+        <battleforce pv="17" wt="3" mv="4" s="3" m="4" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1686</battle_value>
+        <cost>2.0646925E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Thunderbolt-15</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-15</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-15</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Caelestis (S)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3075</loadout_year>
+        <info>Deva C-DVA-O Caelestis (S) 70t, 4/6[8]/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 14 DHS; 1 LAMS, 1 C3I, 1 ERSL, 2 BLC, TC</info>
+        <battleforce pv="18" wt="3" mv="5" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, AMS, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1785</battle_value>
+        <cost>2.563228125E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="14" techbase="0">
+            <type>Double Heat Sink</type>
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Binary Laser Cannon</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Binary Laser Cannon</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Laser Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="(Achilleus)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>SBW&amp;B</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3071</loadout_year>
+        <info>Deva C-DVA-O (Achilleus) 70t, 4/6[8]/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 14 DHS; 1 C3I, 2 ERML, 2 LVSPL, TC</info>
+        <battleforce pv="16" wt="3" mv="5" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1595</battle_value>
+        <cost>2.6581625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="14" techbase="0">
+            <type>Double Heat Sink</type>
+            <location index="4">RT</location>
+            <location index="2">RA</location>
+            <location index="2">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="2">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="Exanimus (U)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-ON</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3077</loadout_year>
+        <info>Deva C-DVA-O Exanimus (U) 70t, 4/6/4, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I, 3 ERML, 1 ERSL, 2 LRT15, 1 MASS</info>
+        <battleforce pv="17" wt="3" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="7" internal="4" abilities="UMU, OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, TOR 1/2/2" />
+        <battle_value>1685</battle_value>
+        <cost>2.005861875E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Mech UMU</type>
+            <location index="4">RT</location>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="11">CT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(R) (IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRT-15</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRT-15</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-15 (Torpedo)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">MW Aquatic Survival System</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Master&apos;s Voice Cel-Alpha</commsystem>
+        <tandtsystem>Master&apos;s Sight 1-Omega</tandtsystem>
+    </fluff>
+</mech>

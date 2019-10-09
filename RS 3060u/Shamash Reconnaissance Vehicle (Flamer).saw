@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Shamash Reconnaissance Vehicle" model="(Flamer)" tons="11" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>228</battle_value>
+    <motive type="Hovercraft" cruise="13" turret="Single Turret" />
+    <cost>209230.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="York Vehicle Y2 Facility" location="">Clan</techbase>
+    <year restricted="FALSE">3069</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="143" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Compound JX2" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>9</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>7</rear>
+        <primaryturret>8</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Shamash Reconnaissance Vehicle (Flamer) 11t, 13/20, Std FE, 2.0T/49% FF Armor; 10 SHS; 2 ERFlmr</info>
+        <battleforce pv="2" wt="1" mv="13" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated Type 2M</commsystem>
+        <tandtsystem>Consolidated Type V TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Ostscout" model="OTT-7Jb" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>610</battle_value>
+    <cost>3735900.0000000005</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kong Interstellar Corporation" location="Connaught (destryoed 2802)">Inner Sphere</techbase>
+    <year restricted="FALSE">2600</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Kell/S" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">LA</location>
+        <location index="3">RA</location>
+        <location index="4">LT</location>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LT</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+    </structure>
+    <engine rating="280" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Light" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>12</ct>
+        <ctr>4</ctr>
+        <lt>9</lt>
+        <ltr>2</ltr>
+        <rt>9</rt>
+        <rtr>2</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>8</ll>
+        <rl>8</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Ostscout OTT-7Jb 35t, 8/12/8, Std FE, ES; 4.5T/61% Armor; 10 SHS; 1 ML, 1 BAP</info>
+        <battleforce pv="6" wt="1" mv="8j" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="3" abilities="PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="8">
+            <type>Standard Jump Jet</type>
+            <location index="0">LT</location>
+            <location index="2">LT</location>
+            <location index="1">LT</location>
+            <location index="2">RT</location>
+            <location index="1">RT</location>
+            <location index="3">LT</location>
+            <location index="0">RT</location>
+            <location index="3">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Ostmann Sct-A</jumpjet_model>
+        <commsystem>Barrett 4000</commsystem>
+        <tandtsystem>TRSS.2L3</tandtsystem>
+    </fluff>
+</mech>

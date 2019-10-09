@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Daimyo HQ" model="67-K2" tons="50" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>620</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1620833.333333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Buda Imperial Vehicles" location="Luthien">Inner Sphere</techbase>
+    <year restricted="FALSE">3067</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Vlar" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>34</front>
+        <left>22</left>
+        <right>22</right>
+        <rear>15</rear>
+        <primaryturret>19</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Daimyo HQ 67-K2 50t, 5/8, Std FE, 7.0T/52% Armor; 10 SHS; 1 CommEqp, 1 InfComp, 2 LPPC, 2 LMG</info>
+        <battleforce pv="6" wt="2" mv="5" s="1" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>7.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Sipher Battlesys 5.2</commsystem>
+        <tandtsystem>Eage Eye VY 9-3</tandtsystem>
+    </fluff>
+</combatvehicle>

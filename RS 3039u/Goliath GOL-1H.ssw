@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Goliath" model="GOL-1H" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1449</battle_value>
+    <cost>7541400.000000001</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Brigadier Corporation, Corean Enterprises" location="Oliver (Brigadier, destroyed 2837), Stewart (Corean)">Inner Sphere</techbase>
+    <year restricted="FALSE">2652</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Corean VIII" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="320" manufacturer="Hermes" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>19</ctr>
+        <lt>20</lt>
+        <ltr>13</ltr>
+        <rt>20</rt>
+        <rtr>13</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Goliath GOL-1H 80t, 4/6/0, Std FE, Std Quad; 14.5T/88% Armor; 17 SHS; 1 PPC, 2 MG, 2 LRM10</info>
+        <battleforce pv="14" wt="4" mv="4" s="2" m="1" l="1" e="0" ov="0" armor="8" internal="6" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="17" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">RRL</location>
+            <location index="4">FLL</location>
+            <location index="4">RLL</location>
+            <location index="4">FRL</location>
+            <location index="3">HD</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Rand">(IS) PPC</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly Long Range Missile 10 Racks">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly Long Range Missile 10 Racks">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Corean TransBand-J9</commsystem>
+        <tandtsystem>Corean B-Tech</tandtsystem>
+    </fluff>
+</mech>

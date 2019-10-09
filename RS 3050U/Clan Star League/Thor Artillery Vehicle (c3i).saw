@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Thor Artillery Vehicle" model="(c3i)" tons="55" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>482</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>2738062.5</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Ulston Armor" location="Terra (destroyed 2777)">Inner Sphere</techbase>
+    <year restricted="FALSE">3066</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="275" manufacturer="Strand" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Ulston 105" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>29</front>
+        <left>23</left>
+        <right>23</right>
+        <rear>22</rear>
+        <primaryturret>28</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Thor Artillery Vehicle (c3i) 55t, 5/8, Std FE, 7.0T/54% FF Armor; 10 SHS; 1 C3I, 1 Thmpr, 1 CASE</info>
+        <battleforce pv="5" wt="2" mv="5" s="2" m="0" l="0" e="0" ov="0" armor="4" internal="3" abilities="ARTT, CASE, C3I, MHQ2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Thumper</name>
+            <type>artillery</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Redstar III</commsystem>
+        <tandtsystem>TBR LaserTrac</tandtsystem>
+    </fluff>
+</combatvehicle>

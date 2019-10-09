@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Vedette Medium Tank" model="(RAC)" tons="50" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>712</battle_value>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>980000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="New Earth Trading Company" location="New Earth">Inner Sphere</techbase>
+    <year restricted="FALSE">3067</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Locum-Pack InterComBust" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Hellespont Lite" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>22</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>10</rear>
+        <primaryturret>12</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Vedette Medium Tank (RAC) 50t, 5/8, ICE, 4.5T/33% FF Armor; 0 SHS; 1 RAC5</info>
+        <battleforce pv="7" wt="2" mv="5" s="0" m="0" l="0" e="0" ov="2" armor="2" internal="2" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>ComStar Rover</commsystem>
+        <tandtsystem>ComStar Test-2</tandtsystem>
+    </fluff>
+</combatvehicle>

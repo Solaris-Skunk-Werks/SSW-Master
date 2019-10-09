@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Burke Defense Tank" model="" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>815</battle_value>
+    <motive type="Tracked" cruise="2" turret="Single Turret" />
+    <cost>3023125.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Foretechno (Leopard Armor)" location="Terra (destroyed 2778)">Inner Sphere</techbase>
+    <year restricted="FALSE">2580</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="150" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Acbar 55" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>27</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>15</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Burke Defense Tank 75t, 2/3, Std FE, 5.5T/32% FF Armor; 30 SHS; 3 PPC, 1 LRM10</info>
+        <battleforce pv="8" wt="3" mv="2" s="3" m="4" l="4" e="0" ov="0" armor="3" internal="4" abilities="IF 1" />
+        <heatsinks number="30" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Holly">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Chalker Model 25">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Chalker Model 25">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Chalker Model 25">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>1 Division 300</commsystem>
+        <tandtsystem>Scope 30 RNDST</tandtsystem>
+    </fluff>
+</combatvehicle>

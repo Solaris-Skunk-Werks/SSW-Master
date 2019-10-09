@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Karnov UR Transport" model="(Periphery)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>590</battle_value>
+    <motive type="VTOL" cruise="10" turret="No Turret" />
+    <cost>1060000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="New Earth Trading Company" location="New Earth">Inner Sphere</techbase>
+    <year restricted="FALSE">3064</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="DAV Gas Turbine" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Lexington Ltd. High Grade" techbase="2">
+        <type>Standard Armor</type>
+        <front>5</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>5</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Karnov UR Transport (Periphery) 30t, 10/15, ICE, 1.5T/17% Armor; 0 SHS; 6 RL10, 4 RL20</info>
+        <battleforce pv="6" wt="1" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Johnston Q Rotor 2</commsystem>
+        <tandtsystem>None (Manual gunners)</tandtsystem>
+    </fluff>
+</combatvehicle>

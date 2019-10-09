@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Grand Titan" model="T-IT-N14R Vengeance" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2237</battle_value>
+    <cost>1.7722E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3075</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="TRUE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Hardened Armor</type>
+        <hd>9</hd>
+        <ct>47</ct>
+        <ctr>10</ctr>
+        <lt>31</lt>
+        <ltr>10</ltr>
+        <rt>31</rt>
+        <rtr>10</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>32</ll>
+        <rl>32</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRPhantoms</source>
+        <info>Grand Titan T-IT-N14R Vengeance 100t, 3/5[4]/2, Std FE, Std, Cmp Gyro; 34.5T/90% Hrdnd Armor; 10 DHS; 2 ERML, 1 Thmpr</info>
+        <battleforce pv="22" wt="4" mv="3/1j" s="3" m="2" l="0" e="0" ov="0" armor="14" internal="8" abilities="ARTT, CASEII, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="2">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Thumper</name>
+            <type>artillery</type>
+            <splitlocation index="0" number="12">RT</splitlocation>
+            <splitlocation index="8" number="3">CT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="2">LT</location>
+        </equipment>
+        <armored_locations>
+            <location index="2">HD</location>
+            <location index="0">CT</location>
+            <location index="1">CT</location>
+            <location index="2">CT</location>
+            <location index="3">CT</location>
+            <location index="4">CT</location>
+            <location index="5">CT</location>
+            <location index="6">CT</location>
+            <location index="7">CT</location>
+        </armored_locations>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Custom T-IT-N14R Refit:br:Producer/Site: Regulan Defense Force / Tiger Valley?:br:Supervising Technician: Kirc Cameron-Jones:br:Project Start Date: 3075:br:Non-Production Equipment Analysis::br::tab:Thumper Artillery Piece:br::tab:Clan ER Medium Lasers:br::tab:Hardened Armor:br::tab:Armored Components:br::tab:CASE II:br::tab:Nuclear Munitions?:br::br:Notes: Equipped with a Full-Head Ejection System. Features the following Design Quirks: Cowl, Improved Life Support.</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

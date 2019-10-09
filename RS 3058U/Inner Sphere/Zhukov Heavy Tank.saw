@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Zhukov Heavy Tank" model="" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>920</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>1747812.5</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Aldis Industries" location="Betelgeuse">Inner Sphere</techbase>
+    <year restricted="FALSE">3030</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ArcShield Max I" techbase="2">
+        <type>Standard Armor</type>
+        <front>44</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>24</rear>
+        <primaryturret>44</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Zhukov Heavy Tank 75t, 3/5, ICE, 11.0T/58% Armor; 0 SHS; 2 AC10, 1 SRM6</info>
+        <battleforce pv="9" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="3" armor="6" internal="4" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Harvester 20K">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SarLon MaxiCannon">(IS) Autocannon/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SarLon MaxiCannon">(IS) Autocannon/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Olmstead 30</commsystem>
+        <tandtsystem>Cirxese BallistaCheck, Cirxese RockerCheck</tandtsystem>
+    </fluff>
+</combatvehicle>

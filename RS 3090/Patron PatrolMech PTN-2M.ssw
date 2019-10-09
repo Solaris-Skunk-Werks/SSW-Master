@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Patron PatrolMech" model="PTN-2M" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>154</battle_value>
+    <cost>767646.2500000001</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Graham-Davis Enterprises" location="Tamarind">Inner Sphere</techbase>
+    <year restricted="FALSE">3083</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="AR1" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="30" manufacturer="Vlar PowerStack" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Maximillian 60" techbase="2">
+        <type>Standard Armor</type>
+        <hd>3</hd>
+        <ct>5</ct>
+        <ctr>4</ctr>
+        <lt>4</lt>
+        <ltr>2</ltr>
+        <rt>4</rt>
+        <rtr>2</rtr>
+        <la>2</la>
+        <ra>2</ra>
+        <ll>2</ll>
+        <rl>2</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSProtop</source>
+        <info>Patron PatrolMech PTN-2M 15t, 2/3/0, FCE, Ind; 2.0T/58% Armor; 1 SHS; 3 RL10, 4 LMG</info>
+        <battleforce pv="2" wt="1" mv="2" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Death Blossom">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Death Blossom">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Death Blossom">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="LFN Linblad">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="LFN Linblad">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="LFN Linblad">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="LFN Linblad">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Ammunition Feed Problem, Protected Actuators.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Neil 2000</commsystem>
+        <tandtsystem>TRSS Eagle Eye</tandtsystem>
+    </fluff>
+</mech>

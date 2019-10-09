@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Fury Command Tank" model="(Royal)" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1255</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>4512000.000000001</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Jolassa Armored Vehicle" location="Tybalt">Inner Sphere</techbase>
+    <year restricted="FALSE">2751</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="320" manufacturer="Pitban" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="PyroTech ArmorSlab" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>60</front>
+        <left>41</left>
+        <right>41</right>
+        <rear>39</rear>
+        <primaryturret>60</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Fury Command Tank (Royal) 80t, 4/6, Std FE, 13.5T/75% FF Armor; 10 SHS; 1 GR, 1 AMS</info>
+        <battleforce pv="13" wt="4" mv="4" s="2" m="2" l="2" e="0" ov="0" armor="8" internal="4" abilities="AMS" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="1M-9">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>HIV-13</commsystem>
+        <tandtsystem>Quadrant XD</tandtsystem>
+    </fluff>
+</combatvehicle>

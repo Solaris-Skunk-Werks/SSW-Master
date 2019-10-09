@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Striker Light Tank" model="(Narc)" tons="35" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>621</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>918458.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Valiant Systems" location="Johnsondale">Inner Sphere</techbase>
+    <year restricted="FALSE">3053</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="175" manufacturer="InterFus" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Valiant Scutum" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>28</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>21</rear>
+        <primaryturret>26</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Striker Light Tank (Narc) 35t, 5/8, Std FE, 7.0T/77% FF Armor; 10 SHS; 1 Narc, 1 LRM10, 2 SRM2</info>
+        <battleforce pv="6" wt="1" mv="5" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="SNARC, IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Narc Missile Beacon</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10 (Narc Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Wunderland XXXV-1 Series</commsystem>
+        <tandtsystem>Wunderland XXXV-1 Series</tandtsystem>
+    </fluff>
+</combatvehicle>

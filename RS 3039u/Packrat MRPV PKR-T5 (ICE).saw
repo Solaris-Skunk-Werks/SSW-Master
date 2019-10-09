@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Packrat MRPV" model="PKR-T5 (ICE)" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>294</battle_value>
+    <motive type="Wheeled" cruise="7" turret="No Turret" />
+    <cost>198000.00000000003</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Bowie Industries, Gienah Combat Vehicles" location="Carlisle, Gienah">Inner Sphere</techbase>
+    <year restricted="FALSE">2846</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="140" manufacturer="Doorman" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/1" techbase="2">
+        <type>Standard Armor</type>
+        <front>12</front>
+        <left>12</left>
+        <right>12</right>
+        <rear>12</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Packrat MRPV PKR-T5 (ICE) 20t, 7/11, ICE, 3.0T/44% Armor; 0 SHS; 1 InfComp, 1 SRM6</info>
+        <battleforce pv="3" wt="1" mv="7" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="0" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Harvester 20K">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>O/P COMTES</commsystem>
+        <tandtsystem>O/P 2000JSA</tandtsystem>
+    </fluff>
+</combatvehicle>

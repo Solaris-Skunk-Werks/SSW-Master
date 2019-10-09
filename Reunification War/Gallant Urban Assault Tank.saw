@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Gallant Urban Assault Tank" model="" tons="70" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1056</battle_value>
+    <motive type="Wheeled" cruise="3" turret="Single Turret" />
+    <cost>1200375.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Freeport Armorworks/Kallon Industries" location="Helm, Loyalty">Inner Sphere</techbase>
+    <year restricted="FALSE">2574</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="Pitban" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Star Slab/7" techbase="2">
+        <type>Standard Armor</type>
+        <front>60</front>
+        <left>55</left>
+        <right>55</right>
+        <rear>60</rear>
+        <primaryturret>50</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>HistRw</source>
+        <info>Gallant Urban Assault Tank 70t, 3/5, ICE, 17.5T/98% Armor; 0 SHS; 1 AC10, 4 MG, 1 LRM10, 1 CASE, 1 SRM2</info>
+        <battleforce pv="11" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="2" armor="9" internal="3" abilities="CASE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Light Crossbow">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kali Yama">(IS) Autocannon/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Scatter Gun Light">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Scatter Gun Light">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Scatter Gun Light">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Scatter Gun Light">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harvester">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Kallon Secure Net I</commsystem>
+        <tandtsystem>Kallon Set C</tandtsystem>
+    </fluff>
+</combatvehicle>

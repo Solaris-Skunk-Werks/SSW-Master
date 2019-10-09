@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Bandit (C) Hovercraft" model="" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>3416666.666666666</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Blackwell Corporation" location="Outreach">Clan</techbase>
+    <year restricted="FALSE">2875</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="450" manufacturer="VOX" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ProTech 5" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>40</front>
+        <left>40</left>
+        <right>40</right>
+        <rear>20</rear>
+        <primaryturret>32</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.0" >
+        <source>RS3058Uu-I</source>
+        <info>Bandit (C) Hovercraft 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 CASE</info>
+        <battleforce pv="5" wt="2" mv="9" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>5.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2875</loadout_year>
+        <info>Bandit (C) Hovercraft  Prime 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 CASE, 2 SSRM6</info>
+        <battleforce pv="11" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1087</battle_value>
+        <cost>3416666.666666666</cost>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2875</loadout_year>
+        <info>Bandit (C) Hovercraft  A 50t, 9/14, Std FE, 9.0T/80% FF Armor; 12 SHS; 1 ERLL, 1 InfComp, 1 CASE, 2 SRM2</info>
+        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1145</battle_value>
+        <cost>3376666.666666666</cost>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2875</loadout_year>
+        <info>Bandit (C) Hovercraft  B 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 LRM20, 1 CASE</info>
+        <battleforce pv="12" wt="2" mv="9" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE, LRM 1/1/1, IF 1" />
+        <battle_value>1162</battle_value>
+        <cost>3441666.666666666</cost>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2875</loadout_year>
+        <info>Bandit (C) Hovercraft  C 50t, 9/14, Std FE, 9.0T/80% FF Armor; 12 SHS; 1 InfComp, 3 MPL, 1 CASE</info>
+        <battleforce pv="12" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, ENE" />
+        <battle_value>1231</battle_value>
+        <cost>3276666.666666666</cost>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2875</loadout_year>
+        <info>Bandit (C) Hovercraft  D 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 2 ERML, 1 InfComp, 1 LB2, 1 CASE</info>
+        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1093</battle_value>
+        <cost>3591666.666666666</cost>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 2-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 2-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Bandit (C) Hovercraft  E 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 ATM9, 1 CASE</info>
+        <battleforce pv="11" wt="2" mv="9" s="3" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1063</battle_value>
+        <cost>3379166.666666666</cost>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Bandit (C) Hovercraft  F 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 SSRM2, 1 PC, 1 InfComp, 2 APGR, 1 CASE</info>
+        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE, HT1" />
+        <battle_value>1119</battle_value>
+        <cost>3704166.666666666</cost>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3072</loadout_year>
+        <info>Bandit (C) Hovercraft  G 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 ECM, 4 HMG, 1 ERML, 1 BAP, 1 InfComp, 1 CASE, 4 LMG</info>
+        <battleforce pv="9" wt="2" mv="9" s="3" m="2" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE, PRB, RCN, ECM" />
+        <battle_value>915</battle_value>
+        <cost>4141666.666666666</cost>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-I</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Bandit (C) Hovercraft  H 50t, 9/14, Std FE, 9.0T/80% FF Armor; 11 SHS; 1 SSRM4, 1 TC, 1 InfComp, 1 MPL, 1 CASE, 1 HML, TC</info>
+        <battleforce pv="12" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1209</battle_value>
+        <cost>3471666.666666666</cost>
+        <heatsinks number="11" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Dalban StarLink II</commsystem>
+        <tandtsystem>Garret E5a</tandtsystem>
+    </fluff>
+</combatvehicle>

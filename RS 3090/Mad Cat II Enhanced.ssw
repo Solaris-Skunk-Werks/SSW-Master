@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Mad Cat II" model="Enhanced" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2732</battle_value>
+    <cost>2.41414E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant DSF-IT1" location="Itabaiana">Clan</techbase>
+    <year restricted="FALSE">3083</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="DSAM Endo 4" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+    </structure>
+    <engine rating="360" manufacturer="Type 79" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Double-Forged ZX20" techbase="2">
+        <type>Hardened Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>15</ctr>
+        <lt>22</lt>
+        <ltr>8</ltr>
+        <rt>22</rt>
+        <rtr>8</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>23</ll>
+        <rl>23</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSProtop</source>
+        <info>Mad Cat II Enhanced 90t, 4/6[5]/4, XLFE, ES; 25.0T/72% Hrdnd Armor; 18 DHS; 2 ERLPL, 2 ERML, 2 LRM10</info>
+        <battleforce pv="27" wt="4" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="7">LT</location>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+            <location index="7">RT</location>
+        </jumpjets>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Starlight C2">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Starlight C2">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type X &quot;Short Bow&quot;">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type X &quot;Short Bow&quot;">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Hardened Armor reduces Running MP by 1; Features the following Design Quirks: Protected Actuators, Rumble Seat.</additional>
+        <jumpjet_model>Groundthrust Mk. 5</jumpjet_model>
+        <commsystem>MegaBand System 21</commsystem>
+        <tandtsystem>Dtrac Suite 4</tandtsystem>
+    </fluff>
+</mech>

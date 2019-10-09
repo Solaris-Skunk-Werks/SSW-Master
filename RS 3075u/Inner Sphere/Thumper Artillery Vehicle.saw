@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Thumper Artillery Vehicle" model="" tons="60" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>568</battle_value>
+    <motive type="Wheeled" cruise="4" turret="No Turret" />
+    <cost>815750.0</cost>
+    <rules_level>2</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Brooks Incorporated" location="Irian, Andurien">Inner Sphere</techbase>
+    <year restricted="FALSE">2734</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="Strand" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Durallex Heavy" techbase="2">
+        <type>Standard Armor</type>
+        <front>64</front>
+        <left>42</left>
+        <right>42</right>
+        <rear>28</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Thumper Artillery Vehicle 60t, 4/6, ICE, 11.0T/70% Armor; 0 SHS; 4 MG, 1 Thmpr</info>
+        <battleforce pv="6" wt="3" mv="4" s="0" m="0" l="0" e="0" ov="2" armor="6" internal="2" abilities="ARTT, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Edward Industries">(IS) Thumper</name>
+            <type>artillery</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(R) (IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(R) (IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Irian E.A.R. 5</commsystem>
+        <tandtsystem>Irian FFE-9</tandtsystem>
+    </fluff>
+</combatvehicle>

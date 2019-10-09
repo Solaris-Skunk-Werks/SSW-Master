@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Ymir" model="BWP-2B" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1289</battle_value>
+    <cost>8657255.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Coventry Defense Conglomerate" location="Coventry (discontinued 2648)">Inner Sphere</techbase>
+    <year restricted="FALSE">2475</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="BPX-1" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="360" manufacturer="Conventry Motors" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="CDC Combat Alloy 4X" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>23</ct>
+        <ctr>8</ctr>
+        <lt>17</lt>
+        <ltr>6</ltr>
+        <rt>17</rt>
+        <rtr>6</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>23</ll>
+        <rl>23</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Ymir BWP-2B 90t, 4/6/0, Std FE, Std; 10.5T/60% Armor; 16 SHS; 1 SL, 2 LRM5, 1 AC5, 1 LL, 4 SRM2</info>
+        <battleforce pv="13" wt="4" mv="4" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="7" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="16" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Accufire Optics">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="CDC Single-Five">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="CDC Single-Five">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Arcturan Arms Longarm Series">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/5</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Accufire Optics Mini">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry B4">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry B4">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry B4">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry B4">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>CDC Triplex 14</commsystem>
+        <tandtsystem>Locator C100</tandtsystem>
+    </fluff>
+</mech>

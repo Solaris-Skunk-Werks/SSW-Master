@@ -1,0 +1,38 @@
+OTT-7J - Has hand actuators...really?
+OTL-4D - CT Mediums used to face rear, Ask the Writers http://www.classicbattletech.com/forums/index.php?topic=63999.0
+TDR-5S Thunderbolt - Shows LRM and SRM ammo in CT, always used to be 2x LRM in CT, SRM in RT
+
+
+P. 13 - LCT-5W - Are layouts supposed to be this completely different from 5W2?
+P. 14 - LCT-5W2 - Internal layout completely different from previously published RS (3085 Print)
+P. 16 - STG-3P - Internal layout completely different from previously published RS (3085 Print)
+*P. 17 - STG-5G - RS lists it as advanced, PPC Capacitor is Experimental
+*P. 23 - STG-7S - Armor non-symmetrical. Should LL really have 3, RL 5, or should it be 4/4?
+P. 38 VLK-QT2 - Internal layout completely different from previously published RS (3085 Print)
+P. 63 GRF-4N - Internal Layout different from perviously published RS (3085 Print)
+*P. 67 GRF-6CS - Armor has changed since RS PUu_C
+*P. 69 - Should be 10, not 1O
+P. 71 SCP-10M - Internal layout different from previously published RS (3085 Print)
+P. 84 SHD-11C - Internal layout different from previously published RS (3085 Print)
+P. 96 WVR-9W2 - Internal layout different from perviously published RS (3085 Print)
+P. 110 OTL-9R - Internal layout different from previously published RS (3085 Print)
+P. 117 RFL-7X - Internal layout different from previously published RS (3085 Print)
+P. 122 Rifleman C 2 - BV error - XXL engine
+*P. 133 CRD-8L - Armor layout doesn't match TRO CT should be 28/7; Internal Layout different from previously published RS (3085 Print)
+*P. 136 TDR-7SE - CT armor used to be 30/11, now 32/9
+*P. 142 TRD-10M - According to TRO, ammo should be in LT. Use 3085 Sheet.
+P. 149 ARC-9M - Internal layout different from previously published RS (3085 Print)
+P. 174 WHM-11T - Internal layout different from previously published RS (3085 Print)
+*P. 182 MAD-6L - Armor layout changed...presumably to match the 5L
+P. 216 LGB-12R - Internal Layout different from previously published RS (3085 Print)
+P. 227 MAD-6D - Internal layout different from previously published RS (3085 Print)
+
+*P. 239 - Locust IIC 8 - Shouldn't have hand or lower arm actuators (unless its a mutant)
+P. 240 - Locust IIC 9 - Check BV Calculations
+*P. 262 - Rifleman IIC 6 - used to have an ERSL in the head http://www.classicbattletech.com/forums/index.php/topic,68052.msg1630550.html#msg1630550
+P. 272 - Phoenix Hawk IIC 8 - Check BV. XXL Engine problems?
+*P. 279 - Warhammer IIC 7 - Liquid storage?
+P. 281 - Warhammer IIC 9 - Check all `Mechs with XXL engines.
+*P. 288 - Marauder IIC 7 - Streak ammo should be in RT according to TRO. Use sheet as printed in 3085 Print.
+
+Notes for Locust IIC - MML seems to be counting it as a IS XXL engine (0.5 multiplier, instead of a 0.75) - applies to all Clan XXLs

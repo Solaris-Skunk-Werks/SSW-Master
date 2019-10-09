@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Yellow Jacket Gunship" model="(Arrow IV)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>612</battle_value>
+    <motive type="VTOL" cruise="6" turret="No Turret" />
+    <cost>1430000.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Michaelson Heavy Industries" location="Ruchbah">Inner Sphere</techbase>
+    <year restricted="FALSE">3067</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="Michaelson-Omni" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>17</front>
+        <left>11</left>
+        <right>11</right>
+        <rear>7</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Yellow Jacket Gunship (Arrow IV) 30t, 6/9, ICE, 3.0T/33% Armor; 0 SHS; 1 ArwIV, 1 CASE</info>
+        <battleforce pv="6" wt="1" mv="6" s="0" m="0" l="0" e="0" ov="2" armor="2" internal="1" abilities="ARTAIS, CASE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Arrow IV Missile</name>
+            <type>artillery</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret Supremesound</commsystem>
+        <tandtsystem>Garret D2j</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Bowman" model="4" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Bowman.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1854</battle_value>
+    <cost>1.6720066666666666E7</cost>
+    <rules_level>2</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Niles Industriplex Epsilon" location="Niles">Clan</techbase>
+    <year restricted="FALSE">2923</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="BMH-7" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="10">CT</location>
+    </structure>
+    <engine rating="350" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forged Type HH34" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>29</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>8</ltr>
+        <rt>20</rt>
+        <rtr>8</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Bowman 4 70t, 5/8/0, XLFE, ES; 12.5T/92% Armor; 11 DHS; 1 ECM, 4 APod, 2 ArwIV</info>
+        <battleforce pv="19" wt="3" mv="5" s="4" m="0" l="0" e="0" ov="0" armor="7" internal="4" abilities="ARTAC, ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Class 16">(CL) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="2" number="2">RT</splitlocation>
+            <splitlocation index="2" number="10">RA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">A-Pod</name>
+            <type>equipment</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">A-Pod</name>
+            <type>equipment</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">A-Pod</name>
+            <type>equipment</type>
+            <location index="5">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">A-Pod</name>
+            <type>equipment</type>
+            <location index="5">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern Iota">ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Class 16">(CL) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="2" number="2">LT</splitlocation>
+            <splitlocation index="2" number="10">LA</splitlocation>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>CH4M</commsystem>
+        <tandtsystem>Version Omega-IX TTS</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,226 @@
+Dumper
+Ladder
+
+Handheld weapons
+Vehicular Mine Dispensers
+Vehicular Dropchutes (Reusable)
+
+Rules
+SuperHeavy `Mechs
+LAMs
+FrankenMechs
+
+Quirks
+
+Primitive Engine tech level? Experimental or Advanced?
+
+SAW
+Tech Manual
+OmniVehicles - Additional Cargo
+Tractor/Trailer Vehicles
+Crew - Needs to be selectable. 0.5 tons 1 slot per crew above minimum (see TM 236 and Errata)
+Armor - Distribution odd.
+Weapons
+Equipment
+Record Sheets
+
+LB-X (2,5,10,20, Clan/IS)
+LAC (2,5)
+Ultra AC (2,5,10,20 Clan/IS)
+Light Gauss Rifle
+Heavy Gauss Rifle
+Gauss Rifle
+Machine Guns (Light, Standard, Heavy)
+Flamer
+Flamer (Vehicle)
+ER Lasers (Micro, Small, Medium Large)
+Lasers (Small, Medium, Large)
+Pulse Lasers (Micro, Small, Medium, Large)
+Plasma Rifle
+PPCs (Light, Standard, Heavy, ER, Snub)
+LRM (5,10,15,20)
+SRM (2,4,6)
+Artemis IV
+MML (3,5,7,9)
+MRM (10,20,30,40)
+RL (10,15,20)
+Streak SRM (2,4,6)
+A-Pod - Ground Units Only
+B-Pod - Ground Units Only
+MG Array
+AP Gauss
+HAG (20,30,40)
+Heavy Lasers (Small, Medium Large)
+Plasma Cannon)
+ATM (3,6,9,12)
+
+BackHoe - Physical, need placement data
+Bay Door (?) - Doesn't Really need?
+Bridge Layer (Light, Medium, Heavy) - no VTOL, 1 per location - May no be mounted on Quad mech..need to ditch that check for vehicles.
+Bulldozer - Wheel or Tracked only
+Chainsaw - Need Locations
+Combine - Need Locations
+Dual Saw - Need Locations
+Dumper - Everything
+Environment Sealing? - Its in TacOps and TM?
+Escape Pod  (Maritime) - Naval (Hydrofoil, Submarine, Displacement), over 5 tons Rules question in
+Field Kitchen - Each adds 3 to minimum crew
+Fluid Suction System (Standard, Light) - Uhh?
+Heavy Duty Pile-Driver - Need placement data
+Ladder - need coded
+Lift/Arresting Hoist - Chart says CVs can have arresting hoist, rules fluff says you can't. VTOLs can carry in different location than ground vehicles, limit 4 per design (only 2 for `Mechs)
+Manipulator - 2 per location
+MASH - Added, needs to be tested, Extra Crew - not working
+Mining Drill - Need Locations
+Pintle - Question Asked
+Quarters (Steerage, Crew (2nd), Officer (1st))
+Refueling Drogue - VTOL only
+Rock-Cutter - Need Location
+Searchlight (Handheld, Mounted) - Handheld, mech capable? - Doesn't like the 0.015 weight
+Spot Welder - Need Locations
+Transport Bays/Cargo Bays
+Wrecking Ball - Locations needed
+
+TacOps
+Hardened - Should cost 1 slot, cannot be used on WiGE, VTOL or Hovercraft
+Modular - Can't be on Rotors
+Vehicular Stealth - Needs to add to Heat sinks. Will probably need code actual Vehicular Stealth armor to get date/etc correct.
+Armored Motive System (IS)
+Armored Motive System (Clan)
+Artemis V FCS
+Cruise Missile/50
+Cruise Missile/70
+Cruise Missile/90
+Cruise Missile/120
+Thumper Artillery Cannon
+Sniper Artillery Cannon
+Long Tom Artillery Cannon
+HVAC/2
+HVAC/5
+HVAC/10
+ProtoMech AC/2
+ProtoMech AC/4
+ProtoMech AC/8
+RAC/2 (Clan)
+RAC/5 (Clan)
+Vehicle Harjel
+Blue Shield PFD
+Booby Trap
+C3 Boosted Master
+C3 Boosted Slave
+c3 Emergency Master
+c3 Remote Sensor Launcher
+Chaff Pod
+Cockpit Command Console
+Floatation Hull
+Limited Amphibious
+Fully Amphibious
+Dune Buggy
+Enviro (Vacuum) Sealing)
+Drone Carrier Control Systems - Check price, check to make sure its workign right.
+Drone Operating System
+Combat Vehicle Fission
+Combat Vehicle Fuel Cell
+Large (ICE)
+Large (Fusion)
+Large (Light Fusion)
+Large (XL-IS)
+Large (XL-Clan)
+Large (XXL-IS)
+Large (XXL-Clan)
+XXL Fusion (IS)
+XXL Fusion (Clan)
+Combat Vehicle Escape Pod
+Electronic Warfare Equipment
+ER Flamer
+Heavy Flamer
+Fluid Gun
+Improved Heavy Gauss Rifle
+Silver Bullet Gauss
+Grenade Launcher, Vehicular
+Binary Laser (Blazer)
+Bombast Laser
+Small Chemical Laser + Ammo
+Medium Chemical Laser + Ammo
+Large Chemical Laser + Ammo
+ER Pulse Laser (Small, Medium, Large)
+Improved Heavy Laser (Small, Medium, Large)
+Variable Speed Laser (Small, Medium, Large)
+X-Pulse Laser (Small, Medium, Large)
+Laser AMS (IS)
+Laser AMS (Clan)
+Laser Insulator
+MechMortar (1,2,4,8, IS)
+MechMortar (1,2,4,8, Clan)
+Vehicular Mine Dispenser
+MineSweeper
+Enhanced LRM (5,10,15,20)
+Improved OS Launcher
+Streak LRM (5,10,15,20)
+Mobile Field Base
+GroundMobile HPG
+M-Pod
+MRM "Apollo" FCS
+PPC Capacitor
+Recon Camera
+Rifle Cannon (Light, Medium, Large)
+Hi-Res Imager
+Hyperspectral Imager
+Infrared Imager
+Look-Down Radar
+Supercharger
+Taser (BattleMech)
+Thunderbolt Launcher (5,10,15,20)
+Dual Turret (Vehicular)
+Sponson Turret (Vehicular)
+VTOL Chin Turret
+Standard Vehicular DropChute
+Camo VDC
+Stealth VDC
+Reusable VDC
+Vehicular Jump Jets
+VTOL Jet Booster
+VTOL Mast Mount
+SuperHeavy
+Fractional Accounting
+
+Misc
+Centurion
+iATMS
+Nova CEWS
+Primitive Weapons
+
+Hitch has "Unknown" manufacturer locked on it..should it really appear in weapons and equipment section on TRO
+Error when adding additional cargo to fixed omnis
+When swapping from Fusion engine to no engine trailer, HS to reset to 0
+Ammo not taking up a location.
+Comm Equipment on Printout always shows up as (1.0 tons)
+Ammo BV when no weapon is present?
+
+SSW Errata
+* BattleMech MASC and TSM Table (p. 52)
+Under “BattleMech MASC and TSM Table”, footnote text
+“*Percentage of the BattleMech's total weight (in tons). Round this figure up to the nearest full ton/critical slot.”
+Change to:
+“*Percentage of the BattleMech's total weight (in tons). Round this figure normally to the nearest full ton/critical slot.”
+
+* Commercial Armor (p. 205)
+Change Introduced to “Circa 2300 (Terran Alliance)”
+
+* C3/C3I Computer (p. 209)
+Under “Construction Rules”, at the end of the entry insert the following new paragraph:
+“The C3 Master (but not C3I units or C3 Slaves) exactly duplicates the function of Target Acquisition Gear (see p. 238). The firing arc for the TAG is based on the location the C3 Master is mounted in (which may be rear-mounted if desired).” -- Mount c3 Master rear
+
+* ’Mech Cockpit (p. 211)
+Change Introduced to “Circa 2300 (Terran Alliance)”
+
+* Power Amplifiers (p. 235)
+Change Introduced to “Circa 2300 (Terran Alliance)”
+
+* BattleMech and IndustrialMech Structural Costs and Availability (Cont.) (p. 278)
+Under Component, change the Tech Rating for both Standard Heat Sink entries from “D” to “C”
+
+2) Under “CASE”, change Introduced (Affiliation) to “2476 (TH) / 2825 (CCY)”
+
+* Industrial Equipment (p. 292)
+Under “Extended Fuel Tanks (per ton)”, change Introduced (Affiliation) to “ca 2300 (TA) / —”

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Karnov UR Transport" model="(BA)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>499</battle_value>
+    <motive type="VTOL" cruise="10" turret="No Turret" />
+    <cost>1770000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="New Earth Trading Company" location="New Earth">Inner Sphere</techbase>
+    <year restricted="FALSE">3063</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="DAV Gas Turbine" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Lexington Ltd. High Grade" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>10</front>
+        <left>8</left>
+        <right>8</right>
+        <rear>7</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Karnov UR Transport (BA) 30t, 10/15, Std FE, 2.0T/24% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 InfComp</info>
+        <battleforce pv="5" wt="1" mv="10" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ECM, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>8.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Johnston Q Rotor 2</commsystem>
+        <tandtsystem>None (Manual gunners)</tandtsystem>
+    </fluff>
+</combatvehicle>

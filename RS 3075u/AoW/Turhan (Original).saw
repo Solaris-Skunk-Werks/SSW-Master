@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Turhan" model="(Original)" tons="50" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>640</battle_value>
+    <motive type="Wheeled" cruise="4" turret="Single Turret" />
+    <cost>1224375.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="Buhallin Military Products" location="Dieron (destroyed 2776)">Inner Sphere</techbase>
+    <year restricted="FALSE">2530</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Mercury Weave" techbase="2">
+        <type>Standard Armor</type>
+        <front>28</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>22</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-AW</source>
+        <info>Turhan (Original) 50t, 4/6, Std FE, 7.5T/56% Armor; 16 SHS; 1 InfComp, 2 MG, 2 LL</info>
+        <battleforce pv="6" wt="2" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="" />
+        <heatsinks number="16" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Ramsey-65">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Amdecker 300">(IS) Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Amdecker 300">(IS) Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Ramsey-65">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>5.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>SP/2 HAYOT</commsystem>
+        <tandtsystem>Baltex K580</tandtsystem>
+    </fluff>
+</combatvehicle>

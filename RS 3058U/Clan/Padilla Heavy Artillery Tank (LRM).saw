@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Padilla Heavy Artillery Tank" model="(LRM)" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1113</battle_value>
+    <motive type="Tracked" cruise="5" turret="No Turret" />
+    <cost>1.44725E7</cost>
+    <rules_level>2</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Leopard Armor" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2830</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="375" manufacturer="Ragusson" techbase="0">XL Engine</engine>
+    <armor manufacturer="StarSlab/1" techbase="2">
+        <type>Standard Armor</type>
+        <front>28</front>
+        <left>24</left>
+        <right>24</right>
+        <rear>12</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-C</source>
+        <info>Padilla Heavy Artillery Tank (LRM) 75t, 5/8, XLFE, 5.5T/29% Armor; 10 SHS; 2 LRM20, 1 AMS</info>
+        <battleforce pv="11" wt="3" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="AMS, LRM 1/2/2, IF 2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Buzzard">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="FarFire LSR-Launcher XX">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="FarFire LSR-Launcher XX">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Teldon 19</commsystem>
+        <tandtsystem>Scope 30 RDNST</tandtsystem>
+    </fluff>
+</combatvehicle>

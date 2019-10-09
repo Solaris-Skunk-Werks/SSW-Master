@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Dragoon" model="AEM-01" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1669</battle_value>
+    <cost>1.4398433333333338E7</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Krupp Steller Technologies, Inc." location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2769</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="KruppTech 770" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="Nissan" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="PanzerFerro Type 7F" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>33</ct>
+        <ctr>10</ctr>
+        <lt>24</lt>
+        <ltr>6</ltr>
+        <rt>24</rt>
+        <rtr>6</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+        <location index="3">HD</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>LoT2</source>
+        <info>Dragoon AEM-01 70t, 4/6/3, XLFE, Std; 11.5T/95% FF Armor; 11 DHS; 1 ECM, 1 ERPPC, 2 LB10</info>
+        <battleforce pv="17" wt="3" mv="4/2j" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="3" abilities="ECM, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="3">LT</location>
+            <location index="3">RT</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Krupp 120 KgK 78 L/66">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Krupp 120 KgK 78 L/66">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Blakenburg Technologies">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Modular Weapons, Easy to Maintain, Bad Reputation, Obsolete/2780</additional>
+        <jumpjet_model>Corwin Consolidated Model 3H</jumpjet_model>
+        <commsystem>Krupp-COMM 650</commsystem>
+        <tandtsystem>KBC Hypersight Model 5</tandtsystem>
+    </fluff>
+</mech>

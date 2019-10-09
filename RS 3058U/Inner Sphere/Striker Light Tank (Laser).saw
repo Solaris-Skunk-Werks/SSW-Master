@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Striker Light Tank" model="(Laser)" tons="35" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>860</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1394333.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Valiant Systems" location="Johnsondale">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="175" manufacturer="InterFus" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Valiant Scutum" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>26</front>
+        <left>23</left>
+        <right>23</right>
+        <rear>20</rear>
+        <primaryturret>24</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Striker Light Tank (Laser) 35t, 5/8, Std FE, 6.5T/72% FF Armor; 10 SHS; 1 ECM, 1 LRM15, 2 ERML</info>
+        <battleforce pv="9" wt="1" mv="5" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="ECM, IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Valiant Arbalest">(IS) LRM-15</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Wunderland XXXV-1 Series</commsystem>
+        <tandtsystem>Wunderland XXXV-1 Series</tandtsystem>
+    </fluff>
+</combatvehicle>

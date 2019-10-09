@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="UrbanMech" model="UM-R70" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>724</battle_value>
+    <cost>1743625.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3066</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="60" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>15</ct>
+        <ctr>5</ctr>
+        <lt>10</lt>
+        <ltr>4</ltr>
+        <rt>10</rt>
+        <rtr>4</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>14</ll>
+        <rl>14</rl>
+        <location index="3">LT</location>
+        <location index="3">LA</location>
+        <location index="4">LT</location>
+        <location index="4">RT</location>
+        <location index="4">LA</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="5">LA</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="6">LA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+        <location index="10">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-I</source>
+        <info>UrbanMech UM-R70 30t, 2/3/2, Std FE, Std; 6.0T/100% FF Armor; 11 SHS; 1 RAC5, 1 ERML, 1 ERSL</info>
+        <battleforce pv="7" wt="1" mv="2j" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="2">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="11">CT</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="1">LT</location>
+            <location index="0">LT</location>
+            <location index="1">RT</location>
+            <location index="4">LL</location>
+            <location index="5">RL</location>
+            <location index="0">RT</location>
+            <location index="3">HD</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

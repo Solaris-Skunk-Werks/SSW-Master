@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Packrat MRPV" model="PKR-T5 (ML)" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>501</battle_value>
+    <motive type="Wheeled" cruise="7" turret="No Turret" />
+    <cost>429000.00000000006</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Bowie Industries, Gienah Combat Vehicles" location="Carlisle, Gienah">Inner Sphere</techbase>
+    <year restricted="FALSE">2798</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="140" manufacturer="Doorman" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/1" techbase="2">
+        <type>Standard Armor</type>
+        <front>16</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>16</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>Packrat MRPV PKR-T5 (ML) 20t, 7/11, Std FE, 4.0T/58% Armor; 10 SHS; 2 ML, 1 SRM6</info>
+        <battleforce pv="5" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="0" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Harvester 20K">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>O/P COMTES</commsystem>
+        <tandtsystem>O/P 2000JSA</tandtsystem>
+    </fluff>
+</combatvehicle>

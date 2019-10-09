@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Maxim Heavy Hover Transport" model="(BA Field Upgrade)" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>817</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>1350000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <techbase manufacturer="Scarborough Manufacturing" location="Al Na&apos;ir">Inner Sphere</techbase>
+    <year restricted="FALSE">3056</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="400" manufacturer="PowerTech Highlift" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ProtecTech 6" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>28</front>
+        <left>28</left>
+        <right>28</right>
+        <rear>17</rear>
+        <primaryturret>24</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Maxim Heavy Hover Transport (BA Field Upgrade) 50t, 8/12, ICE, 7.0T/58% FF Armor; 0 SHS; 2 SSRM2, 1 InfComp, 1 SRM6, 2 LRM5, 1 TAG</info>
+        <battleforce pv="8" wt="2" mv="8" s="0" m="0" l="0" e="0" ov="3" armor="4" internal="2" abilities="TAG, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="LongFire V">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="LongFire V">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Telos-6">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scarborough Talky 2</commsystem>
+        <tandtsystem>Scarborough Tracky 1</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Kestrel VTOL" model="(SRM)" tons="25" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>192</battle_value>
+    <motive type="VTOL" cruise="12" turret="No Turret" />
+    <cost>424722.2222222223</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <techbase manufacturer="Blackwell Coporation" location="Outreach">Inner Sphere</techbase>
+    <year restricted="FALSE">3042</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="ProTech 4" techbase="2">
+        <type>Standard Armor</type>
+        <front>8</front>
+        <left>5</left>
+        <right>5</right>
+        <rear>4</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Kestrel VTOL (SRM) 25t, 12/18, ICE, 1.5T/19% Armor; 0 SHS; 1 InfComp, 1 SRM2</info>
+        <battleforce pv="2" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Dalban StarLink Classic</commsystem>
+        <tandtsystem>Garret E2b</tandtsystem>
+    </fluff>
+</combatvehicle>

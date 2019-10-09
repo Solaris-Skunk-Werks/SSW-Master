@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Marauder" model="C" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1616</battle_value>
+    <cost>6758500.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="General Motors, Independence Weaponry" location="Kathil (GM), Quentin (Independence)">Mixed</techbase>
+    <year restricted="FALSE">3050</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Marauder" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Vlar" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Valiant Lamellor" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>35</ct>
+        <ctr>10</ctr>
+        <lt>17</lt>
+        <ltr>8</ltr>
+        <rt>17</rt>
+        <rtr>8</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>18</ll>
+        <rl>18</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-PP</source>
+        <info>Marauder C 75t, 4/6/0, Std FE, Std; 11.5T/80% Armor; 16 SHS; 2 ML, 1 UAC5, 2 LPL</info>
+        <battleforce pv="16" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="16" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="1">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Dalban Micronics</commsystem>
+        <tandtsystem>Dalban Hi-Rez</tandtsystem>
+    </fluff>
+</mech>

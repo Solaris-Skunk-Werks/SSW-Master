@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Grim Reaper" model="(Einar)" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2121</battle_value>
+    <cost>1.1468656666666668E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3073</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Reinforced Structure</type>
+    </structure>
+    <engine rating="275" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>26</ct>
+        <ctr>10</ctr>
+        <lt>18</lt>
+        <ltr>8</ltr>
+        <rt>18</rt>
+        <rtr>8</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>26</ll>
+        <rl>26</rl>
+        <location index="4">LT</location>
+        <location index="4">LA</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LT</location>
+        <location index="5">LA</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="7">RA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+        <location index="11">CT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>XTRComStar</source>
+        <info>Grim Reaper (Einar) 55t, 5[4]/8[6]/0, XLFE, Rnfrcd; 10.5T/100% FF Armor; 10 DHS; 1 LTAG, 1 LAMS, 1 ERLL, 4 ModArmor, 1 ERML, 1 LRM20</info>
+        <battleforce pv="21" wt="2" mv="4" s="4" m="4" l="3" e="0" ov="0" armor="8" internal="6" abilities="AMS, LTAG, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Laser Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Customized GRM-R Hybrid Refit:br::br:Producer/Site: Antigua 7 ’Mech bay / Various:br::br:Supervising Technician: Adept Einar Halldórsson:br::br:Project Start Date: 3073:br::br:Non-Production Equipment Analysis::br::br::tab:Clan ER Large Laser:br::br::tab:Clan ER Medium Laser:br::br::tab:Clan LRM-20:br::br::tab:Clan Laser AMS:br::br::tab:Clan Light TAG:br::br::tab:Clan Artemis V:br::br::tab:Clan CASE II:br::br::tab:Clan XL engine:br::br::tab:Modular Armor:br::br:Notes: *Modular Armor provides an additional 10 points to the RA, RT, CT and LT locations, decreases Walk MP by 1, and applies a +1 Piloting Skill target modifier.:br::br:Features the following Design Quirks: Non-Standard Parts, Difficult to Maintain, Poor Sealing:br::br::br:Notes: Design normally uses a Clan 280XL engine under the Frankenstein `Mech rules. SSW is unable to handle this at the moment.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hiryo Armored Infantry Transport" model="(MRM)" tons="40" motive="WiGE" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>644</battle_value>
+    <motive type="WiGE" cruise="8" turret="No Turret" />
+    <cost>5343000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Pesht Motors" location="Unity">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="320" manufacturer="GM" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="New Samarkand" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>34</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>25</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3075u-CE</source>
+        <info>Hiryo Armored Infantry Transport (MRM) 40t, 8/12, LFE, 6.0T/66% HFF Armor; 10 SHS; 1 MRM20, 1 InfComp</info>
+        <battleforce pv="6" wt="2" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="1" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) MRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Neil 400</commsystem>
+        <tandtsystem>Chichester ASR 26</tandtsystem>
+    </fluff>
+</combatvehicle>

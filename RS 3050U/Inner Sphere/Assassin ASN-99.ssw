@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Assassin" model="ASN-99" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Assassin.gif">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1116</battle_value>
+    <cost>7907013.333333332</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3068</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Stealth Armor</type>
+        <hd>9</hd>
+        <ct>16</ct>
+        <ctr>5</ctr>
+        <lt>14</lt>
+        <ltr>5</ltr>
+        <rt>14</rt>
+        <rtr>5</rtr>
+        <la>11</la>
+        <ra>11</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">RA</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">RA</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-I</source>
+        <info>Assassin ASN-99 40t, 7/11/7, XLFE, Std; 8.0T/93% Stlth Armor; 10 DHS; 1 ECM, 1 LPPC, 1 Swrd, 1 TAG, 2 SRM2</info>
+        <battleforce pv="11" wt="2" mv="7j" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="ECM, STL, TAG, MEL, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="7">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="5">RT</location>
+            <location index="4">LT</location>
+            <location index="3">RT</location>
+            <location index="3">LT</location>
+            <location index="4">RT</location>
+            <location index="5">LT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Sword</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>&lt;p style=&quot;margin-top: 0&quot;&gt;:br::br:&lt;/p&gt;:br:</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

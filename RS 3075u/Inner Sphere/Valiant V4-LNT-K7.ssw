@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Valiant" model="V4-LNT-K7" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>894</battle_value>
+    <cost>3271840.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="VEST, Wakazashi Enterprises, Johnston Industries" location="Solaris VII (VEST), Dover (Wakazashi), Benet III (Johnston)">Inner Sphere</techbase>
+    <year restricted="FALSE">3068</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Small Bug-B Modified" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="210" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="10">CT</location>
+    </enhancement>
+    <armor manufacturer="Valiant Gauntlet" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>9</ct>
+        <ctr>3</ctr>
+        <lt>8</lt>
+        <ltr>3</ltr>
+        <rt>8</rt>
+        <rtr>3</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>11</ll>
+        <rl>11</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Valiant V4-LNT-K7 30t, 7/11[14]/0 MASC, Std FE, Std; 5.0T/76% Armor; 10 DHS; 3 ERML, 1 Htcht</info>
+        <battleforce pv="9" wt="1" mv="9" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="3" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="BSW Light">Hatchet</name>
+            <type>physical</type>
+            <location index="4">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Olmstead 37</commsystem>
+        <tandtsystem>Irian 511</tandtsystem>
+    </fluff>
+</mech>

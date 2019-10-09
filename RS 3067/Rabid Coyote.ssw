@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Rabid Coyote" model="" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Rabid Coyote.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2081</battle_value>
+    <cost>5598806.666666667</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Ashton `Mech Production Complex" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3066</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Medium Series MVV" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="5">LL</location>
+        <location index="9">LT</location>
+        <location index="10">CT</location>
+        <location index="10">LT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="275" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound CL20" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>22</ct>
+        <ctr>8</ctr>
+        <lt>17</lt>
+        <ltr>6</ltr>
+        <rt>17</rt>
+        <rtr>6</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>23</ll>
+        <rl>23</rl>
+        <location index="2">RT</location>
+        <location index="3">RT</location>
+        <location index="4">RT</location>
+        <location index="4">RL</location>
+        <location index="5">RT</location>
+        <location index="5">RL</location>
+        <location index="6">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <info>Rabid Coyote 55t, 5/8/0, Std FE, ES; 8.5T/88% FF Armor; 12 DHS; 1 ECM, 4 MPL, 1 ATM12</info>
+        <battleforce pv="21" wt="2" mv="5" s="7" m="6" l="1" e="0" ov="0" armor="5" internal="5" abilities="ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Kolibri Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Remer Series Alpha Deuce">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>TJ7 &quot;Siren&quot; ICS</commsystem>
+        <tandtsystem>TRTTS Mark II-beta CWS</tandtsystem>
+    </fluff>
+</mech>

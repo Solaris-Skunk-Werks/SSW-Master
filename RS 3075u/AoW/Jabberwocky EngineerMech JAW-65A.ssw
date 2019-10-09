@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Jabberwocky EngineerMech" model="JAW-65A" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>250</battle_value>
+    <cost>1853156.25</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2549</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>4</hd>
+        <ct>5</ct>
+        <ctr>1</ctr>
+        <lt>3</lt>
+        <ltr>1</ltr>
+        <rt>3</rt>
+        <rtr>1</rtr>
+        <la>3</la>
+        <ra>3</ra>
+        <ll>4</ll>
+        <rl>4</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Jabberwocky EngineerMech JAW-65A 50t, 3/5/0, FCE, Ind; 2.0T/19% Armor; 8 SHS; 1 SlvgArm, 1 LftHst, 1 SptWeld</info>
+        <battleforce pv="3" wt="2" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="4" abilities="MEL, ENE, SRCH, EE, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="8" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <multislot name="Environmental Sealing">
+            <location index="1">LT</location>
+            <location index="3">HD</location>
+            <location index="4">RT</location>
+            <location index="4">LA</location>
+            <location index="5">RA</location>
+            <location index="5">LL</location>
+            <location index="5">RL</location>
+            <location index="10">CT</location>
+        </multislot>
+        <multislot name="Tracks">
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </multislot>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Salvage Arm</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Spot Welder</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

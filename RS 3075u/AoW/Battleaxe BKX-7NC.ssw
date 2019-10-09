@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Battleaxe" model="BKX-7NC" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1252</battle_value>
+    <cost>6008933.333333335</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Achernar BattleMechs" location="New Avalon">Inner Sphere</techbase>
+    <year restricted="FALSE">2480</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Achernar Special Type 4" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="DAV" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarGuard-X" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>20</ct>
+        <ctr>7</ctr>
+        <lt>18</lt>
+        <ltr>6</ltr>
+        <rt>18</rt>
+        <rtr>6</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Battleaxe BKX-7NC 70t, 4/6/0, Std FE, Std; 9.0T/66% Armor; 15 SHS; 2 PPC, 4 LRM5, 1 SRM6</info>
+        <battleforce pv="13" wt="3" mv="4" s="2" m="2" l="2" e="0" ov="2" armor="5" internal="6" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="3">LA</location>
+            <location index="4">RA</location>
+            <location index="3">RA</location>
+            <location index="4">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Donal">(IS) PPC</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Donal">(IS) PPC</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harpoon-6">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Federated-5 Shot">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Federated-5 Shot">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Federated-5 Shot">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Federated-5 Shot">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Achernar Electronics HICK-1</commsystem>
+        <tandtsystem>Federated Gatherer</tandtsystem>
+    </fluff>
+</mech>

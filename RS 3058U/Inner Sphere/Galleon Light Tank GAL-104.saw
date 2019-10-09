@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Galleon Light Tank" model="GAL-104" tons="30" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>779</battle_value>
+    <motive type="Tracked" cruise="7" turret="Single Turret" />
+    <cost>3680950.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="Vicore Industries" location="Detroit, Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3066</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="GTEM" techbase="0">XL Engine</engine>
+    <armor manufacturer="Jolassa 328" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>28</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>19</rear>
+        <primaryturret>29</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3058Uu-I</source>
+        <info>Galleon Light Tank GAL-104 30t, 7/11, XLFE, 6.5T/80% FF Armor; 12 SHS; 1 TC, 1 C3I, 1 ERLL, TC</info>
+        <battleforce pv="8" wt="1" mv="7" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="1" abilities="C3I, ENE, MHQ2" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Maxell 500 Communications</commsystem>
+        <tandtsystem>Maxell TA50</tandtsystem>
+    </fluff>
+</combatvehicle>

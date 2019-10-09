@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Daedalus" model="GTX2A &quot;Stevedore&quot;" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>649</battle_value>
+    <cost>2929050.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Mason Farquarson" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2750</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="MF-Quad Utility Classic" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="240" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="MF-Heavy Industrial" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>22</ct>
+        <ctr>7</ctr>
+        <lt>14</lt>
+        <ltr>5</ltr>
+        <rt>14</rt>
+        <rtr>5</rtr>
+        <la>19</la>
+        <ra>19</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSOK</source>
+        <info>Daedalus GTX2A "Stevedore" 60t, 4/6/0, Std FE, Ind Quad; 9.5T/70% Armor; 10 SHS; 15 StndrdCrgo, 2 LftHst</info>
+        <battleforce pv="6" wt="3" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="5" internal="5" abilities="ENE, SRCH" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="3">HD</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="8">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>None</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

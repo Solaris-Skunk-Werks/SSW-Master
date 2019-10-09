@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Puma Assault Tank" model="PAT-005" tons="95" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1353</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>5738362.5</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Odin Manufacturing, Pandora `Mech Works" location="Orestes (Odin), Terra (Pandora `Mech Works)">Inner Sphere</techbase>
+    <year restricted="FALSE">2681</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="285" manufacturer="Pitban" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="AmberStar Weave" techbase="2">
+        <type>Standard Armor</type>
+        <front>48</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>24</rear>
+        <primaryturret>48</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Puma Assault Tank PAT-005 95t, 3/5, Std FE, 11.5T/49% Armor; 17 SHS; 2 ML, 1 SL, 1 Vflmr, 1 PPC, 2 LRM20, 1 SRM4</info>
+        <battleforce pv="14" wt="4" mv="3" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="5" abilities="LRM 1/2/2, IF 2" />
+        <heatsinks number="17" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Krieger">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Krieger">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly-4">(IS) SRM-4</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly-20">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly-20">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Krieger">(R) (IS) Small Laser</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Skylight Model 5">(R) Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Donal">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>COMTEC 400E</commsystem>
+        <tandtsystem>GroundTracker EE-4</tandtsystem>
+    </fluff>
+</combatvehicle>

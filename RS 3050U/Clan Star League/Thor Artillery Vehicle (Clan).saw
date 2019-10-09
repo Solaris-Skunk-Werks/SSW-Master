@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Thor Artillery Vehicle" model="(Clan)" tons="55" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>827</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>2001749.9999999998</cost>
+    <rules_level>2</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Ulston Armor" location="Terra (destroyed 2777)">Clan</techbase>
+    <year restricted="FALSE">2870</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="275" manufacturer="Strand" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Ulston 105" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>33</front>
+        <left>27</left>
+        <right>27</right>
+        <rear>25</rear>
+        <primaryturret>32</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Thor Artillery Vehicle (Clan) 55t, 5/8, Std FE, 7.5T/62% FF Armor; 10 SHS; 2 ERML, 1 Thmpr, 1 CASE</info>
+        <battleforce pv="8" wt="2" mv="5" s="3" m="2" l="0" e="0" ov="0" armor="5" internal="3" abilities="ARTT, CASE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Thumper</name>
+            <type>artillery</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Thumper</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Redstar III</commsystem>
+        <tandtsystem>TBR LaserTrac</tandtsystem>
+    </fluff>
+</combatvehicle>

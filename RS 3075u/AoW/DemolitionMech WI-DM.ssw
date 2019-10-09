@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="DemolitionMech" model="WI-DM" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>380</battle_value>
+    <cost>1468396.8749999998</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Wesley Industries" location="Glasgow">Inner Sphere</techbase>
+    <year restricted="FALSE">2513</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Wesley Industries SN1-P35" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="105" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/Commercial" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>8</hd>
+        <ct>10</ct>
+        <ctr>5</ctr>
+        <lt>8</lt>
+        <ltr>5</ltr>
+        <rt>8</rt>
+        <rtr>5</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>DemolitionMech WI-DM 35t, 3/5/0, FCE, Ind; 8.0T/71% Ind. Armor; 1 SHS; 1 WrkBll, 1 StndrdCrgo, 1 SL, 1 RckCut</info>
+        <battleforce pv="4" wt="1" mv="3" s="1" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="MEL, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>0.5</tons>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Johnson Rock Saw">Rock Cutter</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Camberlee">Wrecking Ball</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics Type I">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>O/P CommTalk</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

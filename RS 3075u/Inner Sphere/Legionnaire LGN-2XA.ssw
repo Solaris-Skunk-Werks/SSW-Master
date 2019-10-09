@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Legionnaire" model="LGN-2XA" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1172</battle_value>
+    <cost>1.05745E7</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Corean Enterprises, Achernar BattleMechs" location="Augusta (Corean), Cahokia (Achernar)">Inner Sphere</techbase>
+    <year restricted="FALSE">3075</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="2A Type 15" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LA</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LT</location>
+        <location index="5">LA</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LT</location>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="10">CT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="350" manufacturer="Magna" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarGuard II" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>21</ct>
+        <ctr>6</ctr>
+        <lt>15</lt>
+        <ltr>4</ltr>
+        <rt>15</rt>
+        <rtr>4</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-CE</source>
+        <info>Legionnaire LGN-2XA 50t, 7/11/0, XLFE, ES; 8.5T/80% Armor; 10 DHS; 1 ArwIV</info>
+        <battleforce pv="12" wt="2" mv="7" s="2" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="ARTAIS, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="3" number="7">RT</splitlocation>
+            <splitlocation index="4" number="8">RA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Homing)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>PCE-4X &quot;Blaster&quot;</commsystem>
+        <tandtsystem>Reginald Systems TC-A</tandtsystem>
+    </fluff>
+</mech>

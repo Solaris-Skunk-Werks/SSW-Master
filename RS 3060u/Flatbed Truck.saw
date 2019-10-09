@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Flatbed Truck" model="" tons="10" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>34</battle_value>
+    <motive type="Wheeled" cruise="5" turret="No Turret" />
+    <cost>26250.0</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
+    <year restricted="FALSE">2580</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="50" manufacturer="Generic" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Lightweight steel body panels" techbase="2">
+        <type>Standard Armor</type>
+        <front>2</front>
+        <left>2</left>
+        <right>2</right>
+        <rear>2</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3060u</source>
+        <info>Flatbed Truck 10t, 5/8, ICE, 0.5T/11% Armor; 0 SHS; 1 StndrdCrgo</info>
+        <battleforce pv="0" wt="1" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="0" internal="0" abilities="ENE, EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>6.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Various</commsystem>
+        <tandtsystem>None Standard</tandtsystem>
+    </fluff>
+</combatvehicle>

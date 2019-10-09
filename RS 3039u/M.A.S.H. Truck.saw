@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="M.A.S.H. Truck" model="" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>220</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>304333.3333333334</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
+    <year restricted="FALSE">2671</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="100" manufacturer="VOX" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/Sheet" techbase="2">
+        <type>Standard Armor</type>
+        <front>12</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>10</rear>
+        <primaryturret>10</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3039u</source>
+        <info>M.A.S.H. Truck 20t, 5/8, Std FE, 4.0T/58% Armor; 10 SHS; 2 SL, 1 MASH</info>
+        <battleforce pv="2" wt="1" mv="5" s="1" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="ChisComp 32">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="ChisComp 32">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">MASH</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>7.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Achernar Electronics HICK-4</commsystem>
+        <tandtsystem>Mercy Industries of Talon</tandtsystem>
+    </fluff>
+</combatvehicle>

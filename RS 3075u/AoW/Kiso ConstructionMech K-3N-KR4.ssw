@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Kiso ConstructionMech" model="K-3N-KR4" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>954</battle_value>
+    <cost>4692916.666666666</cost>
+    <rules_level>2</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Osaka Heavy Metrics" location="Dieron, Togura, New Samarkand, Philadelphia">Inner Sphere</techbase>
+    <year restricted="FALSE">2703</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Osaka KR4" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="200" manufacturer="Nissan" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="TRUE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Tybalt Blue" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>23</ct>
+        <ctr>16</ctr>
+        <lt>22</lt>
+        <ltr>14</ltr>
+        <rt>22</rt>
+        <rtr>14</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>32</ll>
+        <rl>32</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3075u-AW</source>
+        <info>Kiso ConstructionMech K-3N-KR4 100t, 2/3/0, Std FE, Ind Quad; 15.5T/77% Armor; 10 SHS; 8 SrchLt, 1 CommEqp, 2 LftHst, 2 CrgCntnr, 1 RckCut, 1 HDPD</info>
+        <battleforce pv="10" wt="4" mv="2" s="0" m="0" l="0" e="0" ov="0" armor="8" internal="8" abilities="SRCH, MEL, ENE, SRCH" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="4">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="5">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="4">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="5">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Osaka">Heavy Duty Pile-Driver</name>
+            <type>physical</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="HM1">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Naggy">Rock Cutter</name>
+            <type>physical</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="HM1">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo Container</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo Container</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="4">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="5">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="4">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="5">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <tons>3.0</tons>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>HeadMaster 41-con</commsystem>
+        <tandtsystem>Diplan I-TT</tandtsystem>
+    </fluff>
+</mech>

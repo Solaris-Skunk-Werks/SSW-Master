@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Nightshade ECM VTOL" model="" tons="25" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>367</battle_value>
+    <motive type="VTOL" cruise="14" turret="No Turret" />
+    <cost>1375000.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Yelm Weapons" location="New Earth (destroyed c2800)">Inner Sphere</techbase>
+    <year restricted="FALSE">2597</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="350" manufacturer="Vlar" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="FiberTech Light" techbase="2">
+        <type>Standard Armor</type>
+        <front>10</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>8</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Nightshade ECM VTOL 25t, 14/21, Std FE, 2.0T/25% Armor; 10 SHS; 1 StndrdCrgo, 1 ECM, 1 ML</info>
+        <battleforce pv="4" wt="1" mv="14" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ECM, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Randall">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="NIRAD 210">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>0.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Johnston VRR 2.0</commsystem>
+        <tandtsystem>NIRAD 210</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Axman" model="AXM-6X" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2132</battle_value>
+    <cost>2.2683759999999996E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3074</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+    </structure>
+    <engine rating="325" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="TRUE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>25</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>10</ltr>
+        <rt>20</rt>
+        <rtr>10</rtr>
+        <la>19</la>
+        <ra>19</ra>
+        <ll>25</ll>
+        <rl>25</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRSteiner</source>
+        <info>Axman AXM-6X 65t, 5/8[10]/0, XLFE, ES; 12.0T/91% Armor; 10 DHS; 4 ERML, 2 Tbolt15</info>
+        <battleforce pv="21" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="1" armor="6" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Thunderbolt-15</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Thunderbolt-15</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-15</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-15</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Handheld Weapon Configurations:br::br:Weapons and Ammo Mass:br::br:Light Autocannon Weapon (6.5 tons):br::br:Light AC/5 5:br::br:Ammo (LAC) 20 1:br::br:Armor (8 points) .5:br::br:Battle Value: 86:br::br::br:Enhanced LRM Weapon (6.5 tons):br::br:NLRM-10 6:br::br:Ammo (NLRM) 6 .5:br::br:Battle Value: 111:br::br::br:ER Medium Laser Weapon (6.5 tons):br::br:ER Medium Laser 1:br::br:Heat Sinks 5:br::br:Armor (8 points) .5:br::br:Battle Value: 78:br::br::br:Heavy Flamer Weapon (6.5 tons):br::br:3 Heavy Flamers 4.5:br::br:Ammo (Flamer) 20 1:br::br:Armor (16 points) 1:br::br:Battle Value: 81:br::br::br:Fluid Gun Weapon (6.5 tons):br::br:2 Fluid Guns 4:br::br:Ammo (Fluid Gun) 40 2:br::br:Armor (8 points) .5:br::br:Battle Value: 28:br::br::br:LRM Weapon (6.5 tons):br::br:3 LRM-5s 6:br::br:Ammo (LRM) 12 .5:br::br:Battle Value: 138:br::br::br:MML Weapon (6.5 tons):br::br:MML-7 4.5:br::br:Ammo (MML) 17/14 1:br::br:Armor (16 points) 1:br::br:Battle Value: 107:br::br::br:Streak SRM Weapon (6.5 tons):br::br:Streak SRM-6 4.5:br::br:Ammo (Streak) 15 1:br::br:Armor (16 points) 1:br::br:Battle Value: 132</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

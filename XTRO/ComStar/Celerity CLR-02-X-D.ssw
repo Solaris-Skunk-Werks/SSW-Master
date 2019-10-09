@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Celerity" model="CLR-02-X-D" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>157</battle_value>
+    <cost>1.035575E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3067</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="5">FLL</location>
+        <location index="5">FRL</location>
+        <location index="5">RLL</location>
+        <location index="5">RRL</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XXL Engine</engine>
+    <gyro techbase="0">Extra-Light Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="TRUE">Small Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="7">LT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>3</hd>
+        <ct>2</ct>
+        <ctr>1</ctr>
+        <lt>2</lt>
+        <ltr>1</ltr>
+        <rt>2</rt>
+        <rtr>1</rtr>
+        <la>1</la>
+        <ra>1</ra>
+        <ll>1</ll>
+        <rl>1</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRComStar</source>
+        <info>Celerity CLR-02-X-D 15t, 16/24[32]/0 MASC, XXLFE, ES Quad, XL Gyro; 1.0T/27% Armor; 10 SHS; 1 C3I, 1 DroneOS</info>
+        <battleforce pv="2" wt="1" mv="20" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="6">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Drone Operating System</name>
+            <type>equipment</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Prototype Refit:br:Producer/Site: Undisclosed:br:Supervising Technician: Precentor Ashok Sethi:br:Project Start Date: 3052:br:Non-Production Equipment Analysis::br::tab:XXL Engines:br::tab:Drone Operating System:br:Notes: Equipped with Full Head Ejection System. Features the following Design Quirks: Prototype, Exposed Actuators, Modular Weapons:br:</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

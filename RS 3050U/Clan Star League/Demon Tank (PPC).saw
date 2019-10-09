@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Demon Tank" model="(PPC)" tons="60" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>836</battle_value>
+    <motive type="Wheeled" cruise="4" turret="Single Turret" />
+    <cost>2005250.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Leopard Armor" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2729</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="DAV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="PanzerSlab 2" techbase="2">
+        <type>Standard Armor</type>
+        <front>48</front>
+        <left>28</left>
+        <right>28</right>
+        <rear>19</rear>
+        <primaryturret>29</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Demon Tank (PPC) 60t, 4/6, Std FE, 9.5T/61% Armor; 20 SHS; 1 StndrdCrgo, 2 PPC, 1 CASE</info>
+        <battleforce pv="8" wt="3" mv="4" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="3" abilities="ENE" />
+        <heatsinks number="20" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>0.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Teledon 19</commsystem>
+        <tandtsystem>Baltex K590</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Crosscut LoggerMech" model="ED-X2" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>223</battle_value>
+    <cost>888380.0</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2700</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="90" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>4</hd>
+        <ct>5</ct>
+        <ctr>3</ctr>
+        <lt>5</lt>
+        <ltr>3</ltr>
+        <rt>5</rt>
+        <rtr>3</rtr>
+        <la>3</la>
+        <ra>3</ra>
+        <ll>4</ll>
+        <rl>4</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RSOK</source>
+        <info>Crosscut LoggerMech ED-X2 30t, 3/5/0, ICE, Ind; 4.0T/40% Ind. Armor; 0 SHS; 2 StndrdCrgo, 1 LftHst, 1 ChnSw</info>
+        <battleforce pv="2" wt="1" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="3" abilities="MEL, SAW, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Chainsaw</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

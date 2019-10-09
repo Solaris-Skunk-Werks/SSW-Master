@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Cyrano Gunship" model="(Plasma)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>927</battle_value>
+    <motive type="VTOL" cruise="12" turret="No Turret" />
+    <cost>3610000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Paulina Weapons" location="New Vandenberg">Inner Sphere</techbase>
+    <year restricted="FALSE">3071</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="360" manufacturer="DAV" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="Paulina DL" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>18</front>
+        <left>13</left>
+        <right>13</right>
+        <rear>7</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3050Uu-C</source>
+        <info>Cyrano Gunship (Plasma) 30t, 12/18, LFE, 3.0T/37% FF Armor; 10 SHS; 1 PR</info>
+        <battleforce pv="9" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret M250</commsystem>
+        <tandtsystem>Sky Tracer WL</tandtsystem>
+    </fluff>
+</combatvehicle>
