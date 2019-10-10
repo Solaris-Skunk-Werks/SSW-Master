@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>750</battle_value>
     <motive type="Tracked" cruise="6" turret="Single Turret" />
-    <cost>795625.0</cost>
+    <cost>798625.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Mithras Light Tank (ERLL) 25t, 6/9, Std FE, 3.5T/53% FF Armor; 12 SHS; 1 TC, 1 ERLL, 1 APGR, 1 CASE, TC</info>
-        <battleforce pv="8" wt="1" mv="6" s="2" m="2" l="2" e="0" ov="0" armor="2" internal="1" abilities="CASE" />
+        <battleforce pv="8" wt="1" mv="6t" s="2" m="2" l="2" e="0" ov="0" armor="2" internal="2" abilities="CASE, TUR(2/2/2)" />
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

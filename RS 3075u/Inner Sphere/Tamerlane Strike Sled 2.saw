@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>359</battle_value>
     <motive type="Hovercraft" cruise="12" turret="Single Turret" />
-    <cost>502833.33333333326</cost>
+    <cost>529833.3333333333</cost>
     <rules_level>0</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Tamerlane Strike Sled 2 20t, 12/18, Std FE, 3.0T/44% Armor; 10 SHS; 1 ML, 1 SRM2</info>
-        <battleforce pv="4" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <battleforce pv="4" wt="1" mv="12h" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

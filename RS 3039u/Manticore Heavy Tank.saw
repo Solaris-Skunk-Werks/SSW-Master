@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>993</battle_value>
     <motive type="Tracked" cruise="4" turret="Single Turret" />
-    <cost>2549600.0</cost>
+    <cost>2606600.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Manticore Heavy Tank 60t, 4/6, Std FE, 11.0T/70% Armor; 13 SHS; 1 ML, 1 PPC, 1 SRM6, 1 LRM10</info>
-        <battleforce pv="10" wt="3" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="IF 1" />
+        <battleforce pv="10" wt="3" mv="4t" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="TUR(2/3/2), IF 1" />
         <heatsinks number="13" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

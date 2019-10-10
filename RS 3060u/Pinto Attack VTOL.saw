@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>710</battle_value>
     <motive type="VTOL" cruise="10" turret="No Turret" />
-    <cost>2030000.0</cost>
+    <cost>2090000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Pinto Attack VTOL 30t, 10/15, Std FE, 4.0T/49% FF Armor; 10 SHS; 3 ML, 1 InfComp, 1 BAP, 1 LRM5</info>
-        <battleforce pv="7" wt="1" mv="10" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="PRB, RCN" />
+        <battleforce pv="7" wt="1" mv="10v" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="PRB, RCN" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

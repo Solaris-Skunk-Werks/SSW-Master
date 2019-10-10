@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Saxon APC (HQ) 35t, 10/15, Std FE, 9.0T/89% Armor; 10 SHS; 1 CommEqp, 2 ERML, 1 TAG</info>
-        <battleforce pv="7" wt="1" mv="10" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="TAG, ENE" />
+        <battleforce pv="7" wt="1" mv="10h" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="TAG, ENE, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

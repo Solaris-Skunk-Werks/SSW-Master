@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2545</battle_value>
     <motive type="Tracked" cruise="2" turret="Single Turret" />
-    <cost>1.5924666666666666E7</cost>
+    <cost>1.6357666666666666E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Mars Assault Vehicle (HAG) 100t, 2/3, XLFE, 18.5T/91% FF Armor; 12 SHS; 1 ECM, 3 LRM15, 1 ERLL, 1 GR, 2 APGR, 1 HAG30, 1 CASE</info>
-        <battleforce pv="25" wt="4" mv="2" s="4" m="4" l="3" e="0" ov="4" armor="12" internal="5" abilities="ECM, CASE, IF 1, FLK 1/1/1" />
+        <battleforce pv="25" wt="4" mv="2t" s="9" m="9" l="8" e="0" ov="0" armor="12" internal="5" abilities="ECM, CASE, TUR(3/4/3), IF 4, FLK 2/2/2" />
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

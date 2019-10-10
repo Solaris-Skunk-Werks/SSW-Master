@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1042</battle_value>
     <motive type="Wheeled" cruise="7" turret="Single Turret" />
-    <cost>6334375.0</cost>
+    <cost>6337375.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Ku Wheeled Assault Tank (IFV) "Turhan II" 50t, 7/11, XLFE, 8.0T/71% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 InfComp, 2 APGR, 1 CASE</info>
-        <battleforce pv="10" wt="2" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="ECM, CASE" />
+        <battleforce pv="10" wt="2" mv="7w" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="3" abilities="ECM, CASE, TUR(2/2/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

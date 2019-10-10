@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>997</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>2579333.333333333</cost>
+    <cost>2606333.333333333</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Sabaku Kaze Heavy Scout Hover Tank 50t, 9/14, Std FE, 8.5T/63% Armor; 14 SHS; 4 ML, 2 SL, 2 SRM4</info>
-        <battleforce pv="10" wt="2" mv="9" s="4" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="" />
+        <battleforce pv="10" wt="2" mv="9h" s="4" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="TUR(3/2/0)" />
         <heatsinks number="14" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

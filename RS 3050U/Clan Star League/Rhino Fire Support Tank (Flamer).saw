@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1439</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>4063500.0</cost>
+    <cost>4181500.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Rhino Fire Support Tank (Flamer) 80t, 3/5, Std FE, 17.0T/85% Armor; 10 SHS; 2 ML, 2 Vflmr, 1 SRM6, 2 LRM20</info>
-        <battleforce pv="14" wt="4" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="9" internal="4" abilities="LRM 1/1/1, IF 1" />
+        <battleforce pv="14" wt="4" mv="3t" s="4" m="4" l="2" e="0" ov="0" armor="9" internal="4" abilities="TUR(2/3/2, LRM 1/2/2, IF 1/2/2), LRM 1/2/2, IF 2" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

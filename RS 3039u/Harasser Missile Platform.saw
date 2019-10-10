@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>413</battle_value>
     <motive type="Hovercraft" cruise="10" turret="Single Turret" />
-    <cost>480000.0</cost>
+    <cost>534000.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Harasser Missile Platform 25t, 10/15, ICE, 1.5T/19% Armor; 0 SHS; 2 SRM6</info>
-        <battleforce pv="4" wt="1" mv="10" s="0" m="0" l="0" e="0" ov="2" armor="1" internal="1" abilities="EE" />
+        <battleforce pv="4" wt="1" mv="10h" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="2" abilities="EE, TUR(2/2/0, SRM 2/2/0), SRM 2/2/0" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

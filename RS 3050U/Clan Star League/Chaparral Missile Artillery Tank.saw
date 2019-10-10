@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>812</battle_value>
     <motive type="Tracked" cruise="4" turret="No Turret" />
-    <cost>2110000.0</cost>
+    <cost>2172000.0</cost>
     <rules_level>2</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Chaparral Missile Artillery Tank 50t, 4/6, Std FE, 5.5T/41% Armor; 10 SHS; 2 ML, 1 ArwIV, 1 SRM6</info>
-        <battleforce pv="8" wt="2" mv="4" s="3" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="ARTAIS" />
+        <battleforce pv="8" wt="2" mv="4t" s="3" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="ARTAIS" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>TR3060u</source>
         <info>BattleMech Recovery Vehicle 50t, 6/9, ICE, 0.5T/4% Armor; 0 SHS; 1 StndrdCrgo</info>
-        <battleforce pv="1" wt="2" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="0" internal="2" abilities="ENE, EE" />
+        <battleforce pv="1" wt="2" mv="6w" s="0" m="0" l="0" e="0" ov="0" armor="0" internal="2" abilities="ENE, EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

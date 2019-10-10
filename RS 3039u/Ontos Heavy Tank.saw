@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>930</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>2206912.5</cost>
+    <cost>2236912.5</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Ontos Heavy Tank 95t, 3/5, ICE, 8.0T/34% Armor; 24 SHS; 8 ML, 2 LRM5</info>
-        <battleforce pv="9" wt="4" mv="3" s="5" m="5" l="1" e="0" ov="0" armor="4" internal="5" abilities="EE, IF 1" />
+        <battleforce pv="9" wt="4" mv="3t" s="5" m="5" l="1" e="0" ov="0" armor="4" internal="5" abilities="EE, TUR(5/5/1), IF 1" />
         <heatsinks number="24" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

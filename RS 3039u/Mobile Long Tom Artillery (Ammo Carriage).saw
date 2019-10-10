@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>253</battle_value>
     <motive type="Tracked" cruise="0" turret="No Turret" />
-    <cost>55000.00000000001</cost>
+    <cost>105000.0</cost>
     <rules_level>2</rules_level>
     <era>0</era>
     <productionera>1</productionera>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>915</battle_value>
     <motive type="VTOL" cruise="9" turret="No Turret" />
-    <cost>941800.0</cost>
+    <cost>995800.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Donar Assault Helicopter 21t, 9/14, Std FE, 3.0T/50% FF Armor; 12 SHS; 2 SSRM2, 1 ERLL, 1 CASE</info>
-        <battleforce pv="9" wt="1" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="CASE" />
+        <battleforce pv="9" wt="1" mv="9v" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE" />
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

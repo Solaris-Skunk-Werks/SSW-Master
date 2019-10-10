@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>668</battle_value>
     <motive type="Wheeled" cruise="6" turret="Single Turret" />
-    <cost>939804.1666666666</cost>
+    <cost>993804.1666666666</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Chevalier Light Tank 35t, 6/9, Std FE, 6.5T/64% Armor; 12 SHS; 1 ERLL, 2 SSRM2</info>
-        <battleforce pv="7" wt="1" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="" />
+        <battleforce pv="7" wt="1" mv="6w" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="TUR(1/1/1)" />
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

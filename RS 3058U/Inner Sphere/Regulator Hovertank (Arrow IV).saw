@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1016</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>2332250.0</cost>
+    <cost>2367250.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Regulator Hovertank (Arrow IV) 45t, 9/14, Std FE, 5.0T/45% FF Armor; 10 SHS; 1 ArwIV</info>
-        <battleforce pv="10" wt="2" mv="9" s="2" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="ARTAIS" />
+        <battleforce pv="10" wt="2" mv="9h" s="2" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="ARTAIS, TUR(2/0/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

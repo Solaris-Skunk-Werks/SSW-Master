@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>757</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1036000.0</cost>
+    <cost>1149000.0</cost>
     <rules_level>3</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Marsden II Main Battle Tank (Primitive Armor) 60t, 3/5, ICE, 15.5T/66% Ind. Armor; 0 SHS; 2 MG, 2 SRM6, 1 AC5</info>
-        <battleforce pv="8" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="3" armor="5" internal="3" abilities="EE" />
+        <battleforce pv="8" wt="3" mv="3t" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="3" abilities="EE, TUR(1/1/1), SRM 2/2/0" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

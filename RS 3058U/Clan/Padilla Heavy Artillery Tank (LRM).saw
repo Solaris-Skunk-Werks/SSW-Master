@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1113</battle_value>
     <motive type="Tracked" cruise="5" turret="No Turret" />
-    <cost>1.44725E7</cost>
+    <cost>1.46565E7</cost>
     <rules_level>2</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-C</source>
         <info>Padilla Heavy Artillery Tank (LRM) 75t, 5/8, XLFE, 5.5T/29% Armor; 10 SHS; 2 LRM20, 1 AMS</info>
-        <battleforce pv="11" wt="3" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="AMS, LRM 1/2/2, IF 2" />
+        <battleforce pv="11" wt="3" mv="5t" s="2" m="3" l="3" e="0" ov="0" armor="3" internal="3" abilities="AMS, LRM 1/2/2, IF 2" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

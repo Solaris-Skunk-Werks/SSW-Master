@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>193</battle_value>
     <motive type="Wheeled" cruise="7" turret="No Turret" />
-    <cost>283556.25</cost>
+    <cost>284556.25</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Darter Scout Car (ECM) 13t, 7/11, ICE, 2.0T/38% Armor; 0 SHS; 1 ECM, 1 StndrdCrgo, 1 MG</info>
-        <battleforce pv="2" wt="1" mv="7" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="0" abilities="ECM, EE" />
+        <battleforce pv="2" wt="1" mv="7w" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="ECM, EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

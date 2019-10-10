@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Hiryo Armored Infantry Transport 40t, 8/12, LFE, 6.0T/66% HFF Armor; 10 SHS; 1 SNPPC, 1 InfComp</info>
-        <battleforce pv="7" wt="2" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="1" abilities="ENE" />
+        <battleforce pv="7" wt="2" mv="8g" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

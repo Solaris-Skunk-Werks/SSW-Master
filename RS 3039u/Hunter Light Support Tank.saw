@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>648</battle_value>
     <motive type="Tracked" cruise="5" turret="No Turret" />
-    <cost>1054125.0</cost>
+    <cost>1114125.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Hunter Light Support Tank 35t, 5/8, Std FE, 6.0T/59% Armor; 10 SHS; 1 Flmr, 1 LRM20</info>
-        <battleforce pv="6" wt="1" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="LRM 1/1/1, IF 1" />
+        <battleforce pv="6" wt="1" mv="5t" s="1" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="LRM 1/1/1, IF 1" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

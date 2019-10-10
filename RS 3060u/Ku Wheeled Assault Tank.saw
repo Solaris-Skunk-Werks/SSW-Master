@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1091</battle_value>
     <motive type="Wheeled" cruise="4" turret="Single Turret" />
-    <cost>1877187.5</cost>
+    <cost>1955187.5</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Ku Wheeled Assault Tank 50t, 4/6, Std FE, 7.0T/62% FF Armor; 14 SHS; 1 UAC/10, 1 SSRM4, 1 ERLL, 1 ERSL, 1 CASE</info>
-        <battleforce pv="11" wt="2" mv="4" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="CASE" />
+        <battleforce pv="11" wt="2" mv="4w" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="3" abilities="CASE, TUR(3/3/3)" />
         <heatsinks number="14" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

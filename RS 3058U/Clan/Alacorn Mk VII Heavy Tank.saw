@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2163</battle_value>
     <motive type="Tracked" cruise="3" turret="No Turret" />
-    <cost>1.6692E7</cost>
+    <cost>1.6932E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-C</source>
         <info>Alacorn Mk VII Heavy Tank 95t, 3/5, XLFE, 19.5T/84% Armor; 10 SHS; 2 HGR</info>
-        <battleforce pv="22" wt="4" mv="3" s="4" m="4" l="2" e="0" ov="0" armor="10" internal="4" abilities="" />
+        <battleforce pv="22" wt="4" mv="3t" s="4" m="4" l="2" e="0" ov="0" armor="10" internal="4" abilities="" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

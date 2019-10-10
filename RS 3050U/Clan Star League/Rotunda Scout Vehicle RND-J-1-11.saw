@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>400</battle_value>
     <motive type="Wheeled" cruise="9" turret="No Turret" />
-    <cost>410666.66666666674</cost>
+    <cost>437666.66666666674</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Rotunda Scout Vehicle RND-J-1-11 20t, 9/14, Std FE, 1.0T/15% FF Armor; 10 SHS; 1 LL, 1 SRM2</info>
-        <battleforce pv="4" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="0" abilities="" />
+        <battleforce pv="4" wt="1" mv="9w" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

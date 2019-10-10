@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>345</battle_value>
     <motive type="Tracked" cruise="6" turret="Single Turret" />
-    <cost>323050.0</cost>
+    <cost>324050.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Galleon Light Tank GAL-200 30t, 6/9, ICE, 4.5T/50% Armor; 3 SHS; 1 ML, 2 MG</info>
-        <battleforce pv="3" wt="1" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="EE" />
+        <battleforce pv="3" wt="1" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="EE, TUR(1/1/0)" />
         <heatsinks number="3" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

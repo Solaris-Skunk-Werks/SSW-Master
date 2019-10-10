@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>47</battle_value>
     <motive type="Tracked" cruise="5" turret="Single Turret" />
-    <cost>66916.66666666667</cost>
+    <cost>67916.66666666667</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>J-27 Ordnance Transport (Fusion) 10t, 5/8, Std FE, 0.5T/11% Armor; 10 SHS; 1 StndrdCrgo, 1 MG, 1 Hitch</info>
-        <battleforce pv="0" wt="1" mv="5" s="1" m="0" l="0" e="0" ov="0" armor="0" internal="0" abilities="" />
+        <battleforce pv="0" wt="1" mv="5t" s="1" m="0" l="0" e="0" ov="0" armor="0" internal="1" abilities="TUR(1/0/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

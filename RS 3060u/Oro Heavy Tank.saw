@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1116</battle_value>
     <motive type="Tracked" cruise="4" turret="Single Turret" />
-    <cost>3336000.0</cost>
+    <cost>3390000.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Oro Heavy Tank 60t, 4/6, Std FE, 5.5T/42% FF Armor; 15 SHS; 1 ERML, 1 CASE, 1 LB20, 1 LPL</info>
-        <battleforce pv="11" wt="3" mv="4" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="3" abilities="CASE, FLK 1/1/0" />
+        <battleforce pv="11" wt="3" mv="4t" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="3" abilities="CASE, TUR(3/3/2, FLK 1/1/0), FLK 1/1/0" />
         <heatsinks number="15" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

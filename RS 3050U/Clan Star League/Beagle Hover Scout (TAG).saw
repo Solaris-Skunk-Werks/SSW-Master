@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Beagle Hover Scout (TAG) 15t, 14/21, XLFE, 3.5T/75% HFF Armor; 10 SHS; 1 ECM, 1 BAP, 1 TAG</info>
-        <battleforce pv="3" wt="1" mv="14" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="PRB, RCN, TAG, ECM, ENE" />
+        <battleforce pv="3" wt="1" mv="14h" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="PRB, RCN, TAG, ECM, ENE, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1094</battle_value>
     <motive type="Wheeled" cruise="4" turret="Single Turret" />
-    <cost>2063750.0</cost>
+    <cost>2157750.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Demon Tank 60t, 4/6, Std FE, 10.0T/64% Armor; 10 SHS; 2 ML, 1 GR, 1 SRM6, 1 CASE</info>
-        <battleforce pv="11" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="3" abilities="CASE" />
+        <battleforce pv="11" wt="3" mv="4w" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="3" abilities="CASE, TUR(2/2/2)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

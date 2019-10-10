@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>640</battle_value>
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
-    <cost>802825.0</cost>
+    <cost>829825.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Pegasus Scout Hover Tank 35t, 8/12, ICE, 6.5T/64% Armor; 3 SHS; 1 ML, 2 SRM6</info>
-        <battleforce pv="6" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="2" armor="3" internal="2" abilities="EE" />
+        <battleforce pv="6" wt="1" mv="8h" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="EE, TUR(2/2/0, SRM 1/1/0), SRM 1/1/0" />
         <heatsinks number="3" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

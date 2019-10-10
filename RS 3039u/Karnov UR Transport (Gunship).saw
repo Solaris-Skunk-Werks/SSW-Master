@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>221</battle_value>
     <motive type="VTOL" cruise="11" turret="No Turret" />
-    <cost>630000.0</cost>
+    <cost>632000.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Karnov UR Transport (Gunship) 30t, 11/17, ICE, 1.5T/17% Armor; 0 SHS; 8 MG</info>
-        <battleforce pv="2" wt="1" mv="11" s="2" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="EE" />
+        <battleforce pv="2" wt="1" mv="11v" s="2" m="0" l="0" e="0" ov="0" armor="1" internal="2" abilities="EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Skulker Wheeled Scout Tank 20t, 7/11, ICE, 4.5T/65% Armor; 3 SHS; 1 ML</info>
-        <battleforce pv="3" wt="1" mv="7" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="0" abilities="ENE, EE" />
+        <battleforce pv="3" wt="1" mv="7w" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE, EE" />
         <heatsinks number="3" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

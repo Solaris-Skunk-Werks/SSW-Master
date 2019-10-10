@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Ripper Infantry Transport (ERML) 10t, 12/18, Std FE, 1.5T/35% FF Armor; 10 SHS; 2 ERML, 1 InfComp</info>
-        <battleforce pv="4" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="0" abilities="ENE" />
+        <battleforce pv="4" wt="1" mv="12v" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>436</battle_value>
     <motive type="Hovercraft" cruise="10" turret="Single Turret" />
-    <cost>1148916.6666666665</cost>
+    <cost>1149916.6666666665</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Saxon APC (MASH) 35t, 10/15, Std FE, 9.0T/89% Armor; 10 SHS; 1 MG, 1 MASH</info>
-        <battleforce pv="4" wt="1" mv="10" s="1" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="" />
+        <battleforce pv="4" wt="1" mv="10h" s="1" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="TUR(1/0/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

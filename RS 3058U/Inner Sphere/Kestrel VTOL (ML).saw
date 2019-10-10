@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Kestrel VTOL (ML) 25t, 12/18, ICE, 1.5T/19% Armor; 3 SHS; 1 StndrdCrgo, 1 ML</info>
-        <battleforce pv="3" wt="1" mv="12" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE, EE" />
+        <battleforce pv="3" wt="1" mv="12v" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="2" abilities="ENE, EE" />
         <heatsinks number="3" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

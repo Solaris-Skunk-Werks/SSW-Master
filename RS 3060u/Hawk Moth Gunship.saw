@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>492</battle_value>
     <motive type="VTOL" cruise="8" turret="No Turret" />
-    <cost>861666.6666666667</cost>
+    <cost>901666.6666666667</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Hawk Moth Gunship 25t, 8/12, ICE, 1.5T/20% FF Armor; 0 SHS; 1 LGR</info>
-        <battleforce pv="5" wt="1" mv="8" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="EE" />
+        <battleforce pv="5" wt="1" mv="8v" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="2" abilities="EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1160</battle_value>
     <motive type="Tracked" cruise="2" turret="Single Turret" />
-    <cost>3606729.166666667</cost>
+    <cost>3675229.166666667</cost>
     <rules_level>2</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Huitzilopochtli Assault Tank "Huey" 85t, 2/3, ICE, 5.5T/26% Armor; 10 SHS; 1 ECM, 1 ERSL, 2 MG, 1 UAC5, 2 ArwIV, 2 MPL, 1 CASE</info>
-        <battleforce pv="12" wt="4" mv="2" s="3" m="1" l="1" e="0" ov="2" armor="3" internal="4" abilities="ARTAC, ECM, CASE, EE" />
+        <battleforce pv="12" wt="4" mv="2t" s="8" m="3" l="1" e="0" ov="0" armor="3" internal="5" abilities="ARTAC, ECM, CASE, EE, TUR(3/3/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Harasser Laser Platform 25t, 10/15, ICE, 1.5T/19% Armor; 6 SHS; 2 ML</info>
-        <battleforce pv="3" wt="1" mv="10" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE, EE" />
+        <battleforce pv="3" wt="1" mv="10h" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="2" abilities="ENE, EE, TUR(1/1/0)" />
         <heatsinks number="6" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

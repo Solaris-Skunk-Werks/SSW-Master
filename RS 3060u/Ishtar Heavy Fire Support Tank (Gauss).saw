@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1616</battle_value>
     <motive type="Wheeled" cruise="3" turret="Single Turret" />
-    <cost>2922729.166666667</cost>
+    <cost>3142729.166666667</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Ishtar Heavy Fire Support Tank (Gauss) 65t, 3/5, Std FE, 7.5T/54% FF Armor; 10 SHS; 1 LRM15, 1 GR, 1 HAG20, 2 ERML, 1 CASE</info>
-        <battleforce pv="16" wt="3" mv="3" s="4" m="4" l="3" e="0" ov="0" armor="5" internal="3" abilities="CASE, IF 1, FLK 1/1/1" />
+        <battleforce pv="16" wt="3" mv="3w" s="6" m="6" l="4" e="0" ov="0" armor="5" internal="4" abilities="CASE, TUR(3/3/3, FLK 1/1/1), IF 1, FLK 1/1/1" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -2,7 +2,7 @@
 <combatvehicle name="Schiltron" model="" tons="80" motive="Wheeled" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Wheeled" cruise="3" turret="Single Turret" />
-    <cost>1.3559583333333332E7</cost>
+    <cost>1.3659583333333332E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -26,7 +26,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="2.0" >
         <source>RS3060u</source>
         <info>Schiltron 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 1 C3M</info>
-        <battleforce pv="6" wt="4" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, ENE, MHQ5" />
+        <battleforce pv="6" wt="4" mv="3w" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, ENE, MHQ5, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -47,9 +47,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Schiltron  Prime 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 2 ML, 4 SL, 2 ArwIV, 1 C3M</info>
-        <battleforce pv="14" wt="4" mv="3" s="3" m="1" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ARTAIS, ECM, C3M, TAG, MHQ5" />
+        <battleforce pv="14" wt="4" mv="3w" s="7" m="1" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ARTAIS, ECM, C3M, TAG, MHQ5, TUR(3/1/0)" />
         <battle_value>1434</battle_value>
-        <cost>1.3559583333333332E7</cost>
+        <cost>1.3659583333333332E7</cost>
         <equipment>
             <name manufacturer="">(IS) Arrow IV Missile</name>
             <type>artillery</type>
@@ -137,9 +137,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Schiltron  A 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 2 ML, 4 SL, 2 MRM10, 2 MRM40, 1 C3M</info>
-        <battleforce pv="15" wt="4" mv="3" s="3" m="2" l="0" e="0" ov="4" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5" />
+        <battleforce pv="15" wt="4" mv="3w" s="8" m="7" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, TUR(4/3/0)" />
         <battle_value>1456</battle_value>
-        <cost>1.3384583333333332E7</cost>
+        <cost>1.3424583333333332E7</cost>
         <equipment>
             <name manufacturer="">(IS) MRM-40</name>
             <type>missile</type>
@@ -237,9 +237,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Schiltron  B 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 1 ML, 2 SL, 4 LRM15, 1 C3M</info>
-        <battleforce pv="14" wt="4" mv="3" s="2" m="3" l="3" e="0" ov="3" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, IF 2" />
+        <battleforce pv="14" wt="4" mv="3w" s="4" m="6" l="5" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, TUR(3/3/3, IF 1/2/2), IF 5" />
         <battle_value>1439</battle_value>
-        <cost>1.3800208333333332E7</cost>
+        <cost>1.4280208333333332E7</cost>
         <equipment>
             <name manufacturer="">(IS) LRM-15</name>
             <type>missile</type>
@@ -322,7 +322,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Schiltron  C 80t, 3/5, XLFE, 10.0T/56% FF Armor; 32 SHS; 1 ECM, 1 C3M, 4 LL</info>
-        <battleforce pv="11" wt="4" mv="3" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, ENE, MHQ5" />
+        <battleforce pv="11" wt="4" mv="3w" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, ENE, MHQ5, TUR(4/4/0)" />
         <battle_value>1078</battle_value>
         <cost>1.2542833333333332E7</cost>
         <heatsinks number="32" techbase="2">
@@ -355,9 +355,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3063</loadout_year>
         <info>Schiltron  D 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 1 TC, 1 LRM15, 2 RAC5, 1 C3M, TC</info>
-        <battleforce pv="16" wt="4" mv="3" s="4" m="5" l="2" e="0" ov="1" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, IF 1" />
+        <battleforce pv="16" wt="4" mv="3w" s="6" m="6" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, TUR(5/5/0), IF 1" />
         <battle_value>1603</battle_value>
-        <cost>1.3297083333333332E7</cost>
+        <cost>1.3549083333333332E7</cost>
         <equipment>
             <name manufacturer="">(IS) LRM-15</name>
             <type>missile</type>
@@ -430,9 +430,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Schiltron  E 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 3 MML9, 1 C3M, 3 LAC5</info>
-        <battleforce pv="11" wt="4" mv="3" s="3" m="2" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, AC 1/1/0, IF 1" />
+        <battleforce pv="11" wt="4" mv="3w" s="5" m="4" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, TUR(2/2/0, AC 2/2/0), AC 2/2/0, SRM 3/1/0, LRM 0/1/2, IF 2" />
         <battle_value>1120</battle_value>
-        <cost>1.3209583333333332E7</cost>
+        <cost>1.3394083333333332E7</cost>
         <equipment>
             <name manufacturer="">(IS) MML-9</name>
             <type>missile</type>
@@ -515,9 +515,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Schiltron  F 80t, 3/5, XLFE, 10.0T/56% FF Armor; 10 SHS; 1 ECM, 6 MML3, 1 ERML, 1 C3M, 2 Tbolt15</info>
-        <battleforce pv="15" wt="4" mv="3" s="2" m="2" l="2" e="0" ov="4" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, IF 2" />
+        <battleforce pv="15" wt="4" mv="3w" s="5" m="6" l="5" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ECM, C3M, TAG, MHQ5, TUR(3/3/3, IF 2/2/2), IF 4" />
         <battle_value>1470</battle_value>
-        <cost>1.3515833333333332E7</cost>
+        <cost>1.3929833333333332E7</cost>
         <equipment>
             <name manufacturer="">(IS) MML-3</name>
             <type>missile</type>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1064</battle_value>
     <motive type="Wheeled" cruise="3" turret="Single Turret" />
-    <cost>3328312.5</cost>
+    <cost>3446312.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Typhoon Urban Assault Vehicle (LB-X) 70t, 3/5, Std FE, 11.0T/69% FF Armor; 10 SHS; 2 SSRM4, 1 C3S, 1 ERSL, 2 LB10</info>
-        <battleforce pv="11" wt="3" mv="3" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="C3S, FLK 1/1/1" />
+        <battleforce pv="11" wt="3" mv="3w" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="4" abilities="C3S, TUR(2/2/2, FLK 1/1/1), FLK 1/1/1" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

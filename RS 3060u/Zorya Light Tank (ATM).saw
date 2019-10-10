@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>693</battle_value>
     <motive type="Tracked" cruise="5" turret="Single Turret" />
-    <cost>1370700.0</cost>
+    <cost>1544700.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Zorya Light Tank (ATM) 35t, 5/8, FCE, 4.0T/40% Armor; 1 SHS; 1 ECM, 1 LB5, 1 ATM6, 1 CASE</info>
-        <battleforce pv="7" wt="1" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="ECM, CASE, EE" />
+        <battleforce pv="7" wt="1" mv="5t" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="ECM, CASE, EE, TUR(2/2/1)" />
         <heatsinks number="1" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

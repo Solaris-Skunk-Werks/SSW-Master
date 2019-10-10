@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1037</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>4007250.0</cost>
+    <cost>4074250.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Devastator Heavy Tank 80t, 3/5, Std FE, 9.0T/45% Armor; 10 SHS; 1 Flmr, 3 SL, 2 AC20, 1 SRM6</info>
-        <battleforce pv="10" wt="4" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="4" abilities="AC 2/2/0" />
+        <battleforce pv="10" wt="4" mv="3t" s="6" m="5" l="0" e="0" ov="0" armor="5" internal="4" abilities="TUR(5/4/0, AC 4/4/0), AC 4/4/0" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

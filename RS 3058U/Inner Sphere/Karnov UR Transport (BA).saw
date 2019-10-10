@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Karnov UR Transport (BA) 30t, 10/15, Std FE, 2.0T/24% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 InfComp</info>
-        <battleforce pv="5" wt="1" mv="10" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ECM, ENE" />
+        <battleforce pv="5" wt="1" mv="10v" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="2" abilities="ECM, ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

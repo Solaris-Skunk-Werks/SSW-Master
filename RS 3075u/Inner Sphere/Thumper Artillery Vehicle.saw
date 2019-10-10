@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>568</battle_value>
     <motive type="Wheeled" cruise="4" turret="No Turret" />
-    <cost>815750.0</cost>
+    <cost>825750.0</cost>
     <rules_level>2</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Thumper Artillery Vehicle 60t, 4/6, ICE, 11.0T/70% Armor; 0 SHS; 4 MG, 1 Thmpr</info>
-        <battleforce pv="6" wt="3" mv="4" s="0" m="0" l="0" e="0" ov="2" armor="6" internal="2" abilities="ARTT, EE" />
+        <battleforce pv="6" wt="3" mv="4w" s="2" m="0" l="0" e="0" ov="0" armor="6" internal="2" abilities="ARTT, EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

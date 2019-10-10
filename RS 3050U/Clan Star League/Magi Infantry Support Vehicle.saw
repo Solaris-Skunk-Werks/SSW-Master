@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>798</battle_value>
     <motive type="Tracked" cruise="5" turret="No Turret" />
-    <cost>3584166.666666666</cost>
+    <cost>3585166.666666666</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Magi Infantry Support Vehicle 70t, 5/8, Std FE, 9.5T/60% FF Armor; 10 SHS; 3 ML, 2 MG, 1 CASE</info>
-        <battleforce pv="8" wt="3" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="2" abilities="CASE" />
+        <battleforce pv="8" wt="3" mv="5t" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="CASE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>197</battle_value>
     <motive type="Hovercraft" cruise="9" turret="No Turret" />
-    <cost>139750.0</cost>
+    <cost>166750.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-C</source>
         <info>Maultier Hover APC (Basic) 15t, 9/14, ICE, 3.0T/52% Armor; 0 SHS; 1 InfComp, 1 SRM2</info>
-        <battleforce pv="2" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="0" abilities="EE" />
+        <battleforce pv="2" wt="1" mv="9h" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

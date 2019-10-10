@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>714</battle_value>
     <motive type="Wheeled" cruise="5" turret="Single Turret" />
-    <cost>1053000.0</cost>
+    <cost>1203000.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Light Thunderbolt Carrier 40t, 5/8, Std FE, 4.0T/39% FF Armor; 10 SHS; 5 Tbolt5</info>
-        <battleforce pv="7" wt="2" mv="5" s="2" m="3" l="3" e="0" ov="0" armor="2" internal="2" abilities="IF 2" />
+        <battleforce pv="7" wt="2" mv="5w" s="2" m="2" l="2" e="0" ov="0" armor="2" internal="2" abilities="TUR(2/2/2, IF 1/2/2), IF 2" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

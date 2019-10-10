@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>578</battle_value>
     <motive type="Wheeled" cruise="4" turret="Single Turret" />
-    <cost>726999.9999999999</cost>
+    <cost>807999.9999999999</cost>
     <rules_level>0</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Light SRM Carrier 40t, 4/6, ICE, 4.5T/40% Armor; 0 SHS; 5 SRM6</info>
-        <battleforce pv="6" wt="2" mv="4" s="0" m="0" l="0" e="0" ov="4" armor="2" internal="2" abilities="EE" />
+        <battleforce pv="6" wt="2" mv="4w" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="2" abilities="EE, TUR(3/3/0, SRM 3/3/0), SRM 3/3/0" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

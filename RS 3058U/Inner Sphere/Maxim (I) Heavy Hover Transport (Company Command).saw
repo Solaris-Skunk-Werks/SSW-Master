@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>851</battle_value>
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
-    <cost>8780000.0</cost>
+    <cost>8834000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Maxim (I) Heavy Hover Transport (Company Command) 50t, 8/12, Std FE, 6.5T/54% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 TAG, 2 C3M, 1 SSRM6</info>
-        <battleforce pv="9" wt="2" mv="8" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="TAG, C3M, ECM, MHQ10" />
+        <battleforce pv="9" wt="2" mv="8h" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="TAG, C3M, ECM, MHQ10, TUR(3/3/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

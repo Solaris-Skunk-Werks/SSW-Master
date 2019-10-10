@@ -2,7 +2,7 @@
 <combatvehicle name="Bandit (C) Hovercraft" model="" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>3416666.666666666</cost>
+    <cost>3524666.666666666</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -26,7 +26,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.0" >
         <source>RS3058Uu-I</source>
         <info>Bandit (C) Hovercraft 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 CASE</info>
-        <battleforce pv="5" wt="2" mv="9" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, ENE" />
+        <battleforce pv="5" wt="2" mv="9h" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ENE, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -48,9 +48,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Bandit (C) Hovercraft  Prime 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 CASE, 2 SSRM6</info>
-        <battleforce pv="11" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="11" wt="2" mv="9h" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, TUR(3/3/0)" />
         <battle_value>1087</battle_value>
-        <cost>3416666.666666666</cost>
+        <cost>3524666.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) Streak SRM-6</name>
             <type>missile</type>
@@ -78,9 +78,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Bandit (C) Hovercraft  A 50t, 9/14, Std FE, 9.0T/80% FF Armor; 12 SHS; 1 ERLL, 1 InfComp, 1 CASE, 2 SRM2</info>
-        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="11" wt="2" mv="9h" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, TUR(2/2/1)" />
         <battle_value>1145</battle_value>
-        <cost>3376666.666666666</cost>
+        <cost>3403666.666666666</cost>
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -111,9 +111,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Bandit (C) Hovercraft  B 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 LRM20, 1 CASE</info>
-        <battleforce pv="12" wt="2" mv="9" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE, LRM 1/1/1, IF 1" />
+        <battleforce pv="12" wt="2" mv="9h" s="2" m="2" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, TUR(2/2/2, LRM 1/1/1, IF 1/1/1), LRM 1/1/1, IF 1" />
         <battle_value>1162</battle_value>
-        <cost>3441666.666666666</cost>
+        <cost>3531666.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) LRM-20</name>
             <type>missile</type>
@@ -141,7 +141,7 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Bandit (C) Hovercraft  C 50t, 9/14, Std FE, 9.0T/80% FF Armor; 12 SHS; 1 InfComp, 3 MPL, 1 CASE</info>
-        <battleforce pv="12" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, ENE" />
+        <battleforce pv="12" wt="2" mv="9h" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ENE, TUR(3/3/0)" />
         <battle_value>1231</battle_value>
         <cost>3276666.666666666</cost>
         <heatsinks number="12" techbase="2">
@@ -169,9 +169,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Bandit (C) Hovercraft  D 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 2 ERML, 1 InfComp, 1 LB2, 1 CASE</info>
-        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="11" wt="2" mv="9h" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, TUR(1/1/1)" />
         <battle_value>1093</battle_value>
-        <cost>3591666.666666666</cost>
+        <cost>3593666.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
@@ -199,9 +199,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Bandit (C) Hovercraft  E 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 InfComp, 1 ATM9, 1 CASE</info>
-        <battleforce pv="11" wt="2" mv="9" s="3" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="11" wt="2" mv="9h" s="3" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, TUR(3/2/1)" />
         <battle_value>1063</battle_value>
-        <cost>3379166.666666666</cost>
+        <cost>3604166.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) ATM-9</name>
             <type>missile</type>
@@ -229,9 +229,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Bandit (C) Hovercraft  F 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 SSRM2, 1 PC, 1 InfComp, 2 APGR, 1 CASE</info>
-        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE, HT1" />
+        <battleforce pv="11" wt="2" mv="9h" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, HT1, TUR(2/2/1)" />
         <battle_value>1119</battle_value>
-        <cost>3704166.666666666</cost>
+        <cost>3773166.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) Streak SRM-2</name>
             <type>missile</type>
@@ -274,9 +274,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Bandit (C) Hovercraft  G 50t, 9/14, Std FE, 9.0T/80% FF Armor; 10 SHS; 1 ECM, 4 HMG, 1 ERML, 1 BAP, 1 InfComp, 1 CASE, 4 LMG</info>
-        <battleforce pv="9" wt="2" mv="9" s="3" m="2" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE, PRB, RCN, ECM" />
+        <battleforce pv="9" wt="2" mv="9h" s="3" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, PRB, RCN, ECM, TUR(2/2/0)" />
         <battle_value>915</battle_value>
-        <cost>4141666.666666666</cost>
+        <cost>4142916.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) Heavy Machine Gun</name>
             <type>ballistic</type>
@@ -349,9 +349,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Bandit (C) Hovercraft  H 50t, 9/14, Std FE, 9.0T/80% FF Armor; 11 SHS; 1 SSRM4, 1 TC, 1 InfComp, 1 MPL, 1 CASE, 1 HML, TC</info>
-        <battleforce pv="12" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="12" wt="2" mv="9h" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, TUR(2/2/0)" />
         <battle_value>1209</battle_value>
-        <cost>3471666.666666666</cost>
+        <cost>3525666.666666666</cost>
         <heatsinks number="11" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>930</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>894833.3333333334</cost>
+    <cost>948833.3333333334</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Asshur Artillery Spotter 20t, 9/14, Std FE, 3.0T/52% FF Armor; 10 SHS; 2 ERML, 1 TAG, 1 CASE, 1 SSRM6</info>
-        <battleforce pv="9" wt="1" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="TAG, CASE" />
+        <battleforce pv="9" wt="1" mv="9h" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="TAG, CASE, TUR(3/3/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

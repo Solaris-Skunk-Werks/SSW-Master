@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>983</battle_value>
     <motive type="Tracked" cruise="4" turret="Single Turret" />
-    <cost>1.4380625E7</cost>
+    <cost>1.4437625E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Zhukov Heavy Tank (WoB) 75t, 4/6, XLFE, 9.5T/62% HFF Armor; 20 SHS; 1 C3I, 2 LVSPL, 1 MML7, 1 CASE</info>
-        <battleforce pv="10" wt="3" mv="4" s="4" m="3" l="1" e="0" ov="0" armor="6" internal="4" abilities="C3I, CASE, MHQ2" />
+        <battleforce pv="10" wt="3" mv="4t" s="4" m="3" l="1" e="0" ov="0" armor="6" internal="4" abilities="C3I, CASE, MHQ2, TUR(3/2/0)" />
         <heatsinks number="20" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

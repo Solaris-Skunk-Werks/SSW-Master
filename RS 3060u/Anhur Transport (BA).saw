@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>637</battle_value>
     <motive type="VTOL" cruise="8" turret="No Turret" />
-    <cost>1710000.0</cost>
+    <cost>1713000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Anhur Transport (BA) 30t, 8/12, Std FE, 3.0T/39% FF Armor; 10 SHS; 1 ECM, 2 ERML, 1 InfComp, 2 APGR, 1 CASE</info>
-        <battleforce pv="6" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="CASE, ECM" />
+        <battleforce pv="6" wt="1" mv="8v" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, ECM" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

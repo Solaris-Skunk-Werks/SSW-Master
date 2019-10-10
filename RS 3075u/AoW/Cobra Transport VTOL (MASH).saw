@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>367</battle_value>
     <motive type="VTOL" cruise="8" turret="No Turret" />
-    <cost>1330000.0</cost>
+    <cost>1336000.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Cobra Transport VTOL (MASH) 30t, 8/12, Std FE, 3.0T/33% Armor; 10 SHS; 1 StndrdCrgo, 1 ML, 4 Pmedic, 2 AMS</info>
-        <battleforce pv="4" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="AMS, ENE" />
+        <battleforce pv="4" wt="1" mv="8v" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="AMS, ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

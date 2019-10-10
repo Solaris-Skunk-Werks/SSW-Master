@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1022</battle_value>
     <motive type="Naval (Displacement)" cruise="3" turret="Single Turret" />
-    <cost>1701093.75</cost>
+    <cost>1803593.75</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Mauna Kea Command Vessel (LRM) 85t, 3/5, ICE, 15.0T/71% Armor; 0 SHS; 2 LRM15, 1 CommEqp, 1 AC10, 5 MG</info>
-        <battleforce pv="10" wt="4" mv="3" s="0" m="0" l="0" e="0" ov="3" armor="8" internal="4" abilities="EE" />
+        <battleforce pv="10" wt="4" mv="3n" s="3" m="3" l="2" e="0" ov="0" armor="8" internal="5" abilities="EE, TUR(2/2/1, AC 1/1/0), AC 1/1/0, LRM 1/2/2, IF 2" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

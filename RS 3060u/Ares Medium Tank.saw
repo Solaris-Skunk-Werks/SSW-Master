@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1151</battle_value>
     <motive type="Tracked" cruise="5" turret="Single Turret" />
-    <cost>1980766.6666666667</cost>
+    <cost>2100766.666666667</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Ares Medium Tank 40t, 5/8, Std FE, 4.5T/48% FF Armor; 12 SHS; 1 LRM15, 1 ERLL, 1 LRM10, 1 CASE</info>
-        <battleforce pv="12" wt="2" mv="5" s="2" m="2" l="2" e="0" ov="1" armor="3" internal="2" abilities="CASE, IF 1" />
+        <battleforce pv="12" wt="2" mv="5t" s="3" m="3" l="3" e="0" ov="0" armor="3" internal="2" abilities="CASE, TUR(1/1/1), IF 2" />
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

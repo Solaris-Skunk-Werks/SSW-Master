@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>806</battle_value>
     <motive type="Hovercraft" cruise="8" turret="No Turret" />
-    <cost>1200625.0</cost>
+    <cost>1240625.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Saladin Assault Hover Tank (Ultra) 35t, 8/12, ICE, 2.0T/22% FF Armor; 0 SHS; 1 UAC20</info>
-        <battleforce pv="8" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="3" armor="1" internal="1" abilities="EE" />
+        <battleforce pv="8" wt="1" mv="8h" s="3" m="3" l="0" e="0" ov="0" armor="1" internal="2" abilities="EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

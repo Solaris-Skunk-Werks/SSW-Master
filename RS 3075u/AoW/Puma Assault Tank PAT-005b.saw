@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1546</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1.6954275E7</cost>
+    <cost>1.7249275E7</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Puma Assault Tank PAT-005b 95t, 3/5, XLFE, 11.5T/49% Armor; 23 SHS; 2 ML, 1 Vflmr, 2 SSRM2, 1 SPL, 1 ERPPC, 2 LRM20, 1 CASE</info>
-        <battleforce pv="15" wt="4" mv="3" s="4" m="5" l="3" e="0" ov="1" armor="6" internal="5" abilities="CASE, IF 2" />
+        <battleforce pv="15" wt="4" mv="3t" s="5" m="6" l="5" e="0" ov="0" armor="6" internal="5" abilities="CASE, TUR(1/1/1), IF 3" />
         <heatsinks number="23" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

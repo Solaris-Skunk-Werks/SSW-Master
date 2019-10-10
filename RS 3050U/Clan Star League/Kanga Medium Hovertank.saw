@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>648</battle_value>
     <motive type="Hovercraft" cruise="8" turret="No Turret" />
-    <cost>1275000.0</cost>
+    <cost>1337000.0</cost>
     <rules_level>3</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Kanga Medium Hovertank 50t, 8/12, ICE, 3.5T/26% Armor; 0 SHS; 1 MG, 1 LRM10, 1 AC5, 1 SRM4</info>
-        <battleforce pv="6" wt="2" mv="8" s="0" m="0" l="0" e="0" ov="2" armor="2" internal="2" abilities="EE" />
+        <battleforce pv="6" wt="2" mv="8h" s="2" m="2" l="2" e="0" ov="0" armor="2" internal="2" abilities="EE, IF 1" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

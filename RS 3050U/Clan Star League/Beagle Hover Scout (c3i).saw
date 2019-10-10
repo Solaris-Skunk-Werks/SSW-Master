@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>266</battle_value>
     <motive type="Hovercraft" cruise="14" turret="Single Turret" />
-    <cost>1943500.0</cost>
+    <cost>1945500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Beagle Hover Scout (c3i) 15t, 14/21, XLFE, 3.5T/75% HFF Armor; 10 SHS; 1 C3I, 1 AMS</info>
-        <battleforce pv="3" wt="1" mv="14" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="AMS, C3I, ENE, MHQ2" />
+        <battleforce pv="3" wt="1" mv="14h" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="AMS, C3I, ENE, MHQ2, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

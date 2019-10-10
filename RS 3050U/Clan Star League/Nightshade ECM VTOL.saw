@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Nightshade ECM VTOL 25t, 14/21, Std FE, 2.0T/25% Armor; 10 SHS; 1 StndrdCrgo, 1 ECM, 1 ML</info>
-        <battleforce pv="4" wt="1" mv="14" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ECM, ENE" />
+        <battleforce pv="4" wt="1" mv="14v" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="2" abilities="ECM, ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

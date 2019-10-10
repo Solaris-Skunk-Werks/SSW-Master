@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>415</battle_value>
     <motive type="VTOL" cruise="13" turret="No Turret" />
-    <cost>416250.0</cost>
+    <cost>416750.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Crow Scout Helicopter (Export) 15t, 13/20, Std FE, 3.0T/52% Armor; 10 SHS; 2 RL10, 2 MG, 2 ERSL</info>
-        <battleforce pv="4" wt="1" mv="13" s="2" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <battleforce pv="4" wt="1" mv="13v" s="2" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

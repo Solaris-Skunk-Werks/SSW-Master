@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>271</battle_value>
     <motive type="Hovercraft" cruise="8" turret="No Turret" />
-    <cost>550900.0</cost>
+    <cost>551900.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Centipede Scout Car 20t, 8/12, ICE, 3.5T/51% Armor; 3 SHS; 1 ML, 1 Vflmr, 1 BAP</info>
-        <battleforce pv="3" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="0" abilities="PRB, RCN, ENE, EE" />
+        <battleforce pv="3" wt="1" mv="8h" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="PRB, RCN, ENE, EE" />
         <heatsinks number="3" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

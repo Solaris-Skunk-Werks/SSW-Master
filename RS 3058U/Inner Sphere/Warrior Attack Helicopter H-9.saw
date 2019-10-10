@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>484</battle_value>
     <motive type="VTOL" cruise="10" turret="No Turret" />
-    <cost>1508333.3333333333</cost>
+    <cost>1511333.3333333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Warrior Attack Helicopter H-9 20t, 10/15, XLFE, 3.0T/48% FF Armor; 10 SHS; 1 RAC2</info>
-        <battleforce pv="5" wt="1" mv="10" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <battleforce pv="5" wt="1" mv="10v" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

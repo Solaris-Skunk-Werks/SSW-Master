@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>773</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1728000.0</cost>
+    <cost>1743500.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Schrek AC Carrier 80t, 3/5, ICE, 9.0T/45% Armor; 0 SHS; 8 MG, 3 AC5</info>
-        <battleforce pv="8" wt="4" mv="3" s="2" m="0" l="0" e="0" ov="0" armor="5" internal="4" abilities="EE, AC 1/2/2" />
+        <battleforce pv="8" wt="4" mv="3t" s="3" m="2" l="2" e="0" ov="0" armor="5" internal="4" abilities="EE, TUR(2/2/2, AC 1/2/2), AC 1/2/2" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

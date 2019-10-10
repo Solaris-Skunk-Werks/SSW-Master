@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Cobra Transport VTOL (Original) 30t, 8/12, Std FE, 3.0T/33% Armor; 10 SHS; 1 StndrdCrgo, 1 ML</info>
-        <battleforce pv="3" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE" />
+        <battleforce pv="3" wt="1" mv="8v" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

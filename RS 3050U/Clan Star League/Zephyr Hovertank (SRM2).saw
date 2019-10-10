@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>896</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>1812750.0</cost>
+    <cost>1893750.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Zephyr Hovertank (SRM2) 40t, 9/14, Std FE, 7.5T/74% FF Armor; 10 SHS; 3 ML, 1 SL, 1 SRM6, 1 SRM2</info>
-        <battleforce pv="9" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="" />
+        <battleforce pv="9" wt="2" mv="9h" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="TUR(2/2/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

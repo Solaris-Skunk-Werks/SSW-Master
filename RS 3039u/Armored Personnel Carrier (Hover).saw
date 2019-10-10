@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>102</battle_value>
     <motive type="Hovercraft" cruise="10" turret="Single Turret" />
-    <cost>105000.0</cost>
+    <cost>105500.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Armored Personnel Carrier (Hover) 10t, 10/15, ICE, 1.5T/32% Armor; 0 SHS; 1 InfComp, 2 MG</info>
-        <battleforce pv="1" wt="1" mv="10" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="0" abilities="EE" />
+        <battleforce pv="1" wt="1" mv="10h" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="EE, TUR(1/0/0)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

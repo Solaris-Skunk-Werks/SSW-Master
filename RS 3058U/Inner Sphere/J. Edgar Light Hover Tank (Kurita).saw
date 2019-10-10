@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>J. Edgar Light Hover Tank (Kurita) 25t, 11/17, Std FE, 6.0T/84% FF Armor; 10 SHS; 3 ML, 1 SL, 1 C3S</info>
-        <battleforce pv="7" wt="1" mv="11" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="1" abilities="C3S, ENE" />
+        <battleforce pv="7" wt="1" mv="11h" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="C3S, ENE, TUR(2/2/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>673</battle_value>
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
-    <cost>665125.0</cost>
+    <cost>752125.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Saracen Medium Hover Tank 35t, 8/12, ICE, 7.0T/69% Armor; 0 SHS; 1 LRM10, 3 SRM2</info>
-        <battleforce pv="7" wt="1" mv="8" s="0" m="0" l="0" e="0" ov="2" armor="4" internal="2" abilities="EE" />
+        <battleforce pv="7" wt="1" mv="8h" s="1" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="EE, TUR(1/2/1), IF 1" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

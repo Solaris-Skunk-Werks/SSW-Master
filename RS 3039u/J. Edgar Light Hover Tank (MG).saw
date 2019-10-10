@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>482</battle_value>
     <motive type="Hovercraft" cruise="11" turret="Single Turret" />
-    <cost>688750.0</cost>
+    <cost>689750.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>J. Edgar Light Hover Tank (MG) 25t, 11/17, Std FE, 6.5T/82% Armor; 10 SHS; 1 ML, 4 MG</info>
-        <battleforce pv="5" wt="1" mv="11" s="2" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="" />
+        <battleforce pv="5" wt="1" mv="11h" s="2" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="TUR(2/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>899</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>2403333.333333333</cost>
+    <cost>2511333.333333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Drillson Heavy Hover Tank (Streak) 50t, 9/14, Std FE, 7.0T/52% Armor; 10 SHS; 4 SSRM2, 1 LPL</info>
-        <battleforce pv="9" wt="2" mv="9" s="2" m="2" l="0" e="0" ov="1" armor="4" internal="2" abilities="" />
+        <battleforce pv="9" wt="2" mv="9h" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="TUR(2/2/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

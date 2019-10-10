@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>487</battle_value>
     <motive type="VTOL" cruise="10" turret="No Turret" />
-    <cost>606527.7777777779</cost>
+    <cost>663527.7777777779</cost>
     <rules_level>0</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Cavalry Attack Helicopter (LRM) 25t, 10/15, ICE, 3.5T/44% Armor; 0 SHS; 1 LRM10, 1 SRM2</info>
-        <battleforce pv="5" wt="1" mv="10" s="0" m="0" l="0" e="0" ov="1" armor="2" internal="1" abilities="EE" />
+        <battleforce pv="5" wt="1" mv="10v" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="2" abilities="EE, IF 1" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -2,7 +2,7 @@
 <combatvehicle name="Badger Tracked Transport" model="" tons="30" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Tracked" cruise="6" turret="Single Turret" />
-    <cost>962812.5</cost>
+    <cost>989812.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -26,7 +26,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.5" >
         <source>RS3058Uu-I</source>
         <info>Badger Tracked Transport 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp</info>
-        <battleforce pv="3" wt="1" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE" />
+        <battleforce pv="3" wt="1" mv="6t" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -43,9 +43,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>3008</loadout_year>
         <info>Badger Tracked Transport  Prime 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 3 ML, 1 InfComp, 1 SRM2</info>
-        <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI" />
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TUR(2/2/0)" />
         <battle_value>549</battle_value>
-        <cost>962812.5</cost>
+        <cost>989812.5</cost>
         <equipment>
             <name manufacturer="">(IS) SRM-2</name>
             <type>missile</type>
@@ -78,9 +78,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>3008</loadout_year>
         <info>Badger Tracked Transport  A 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 4 SRM2</info>
-        <battleforce pv="4" wt="1" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI" />
+        <battleforce pv="4" wt="1" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TUR(1/1/0)" />
         <battle_value>437</battle_value>
-        <cost>816562.5</cost>
+        <cost>843562.5</cost>
         <equipment>
             <name manufacturer="">(IS) SRM-2</name>
             <type>missile</type>
@@ -113,9 +113,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>3008</loadout_year>
         <info>Badger Tracked Transport  B 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 2 SRM4</info>
-        <battleforce pv="4" wt="1" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SRM 1/1/0" />
+        <battleforce pv="4" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TUR(1/1/0), SRM 1/1/0" />
         <battle_value>431</battle_value>
-        <cost>946562.5</cost>
+        <cost>973562.5</cost>
         <equipment>
             <name manufacturer="">(IS) SRM-4</name>
             <type>missile</type>
@@ -138,9 +138,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>3008</loadout_year>
         <info>Badger Tracked Transport  C 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 2 LRM5</info>
-        <battleforce pv="5" wt="1" mv="6" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, IF 1" />
+        <battleforce pv="5" wt="1" mv="6t" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TUR(1/1/1), IF 1" />
         <battle_value>450</battle_value>
-        <cost>849062.5</cost>
+        <cost>879062.5</cost>
         <equipment>
             <name manufacturer="">(IS) LRM-5</name>
             <type>missile</type>
@@ -163,7 +163,7 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>3008</loadout_year>
         <info>Badger Tracked Transport  D 30t, 6/9, Std FE, 5.5T/61% Armor; 11 SHS; 3 ML, 2 SL, 1 InfComp</info>
-        <battleforce pv="5" wt="1" mv="6" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE" />
+        <battleforce pv="5" wt="1" mv="6t" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, TUR(2/2/0)" />
         <battle_value>540</battle_value>
         <cost>986375.0</cost>
         <heatsinks number="11" techbase="2">
@@ -201,7 +201,7 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>3008</loadout_year>
         <info>Badger Tracked Transport  E 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 10 SL, 1 InfComp</info>
-        <battleforce pv="4" wt="1" mv="6" s="3" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE" />
+        <battleforce pv="4" wt="1" mv="6t" s="3" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, TUR(2/0/0)" />
         <battle_value>434</battle_value>
         <cost>934375.0</cost>
         <equipment>
@@ -261,7 +261,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Badger Tracked Transport  F 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 ERML, 1 InfComp</info>
-        <battleforce pv="4" wt="1" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE" />
+        <battleforce pv="4" wt="1" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, TUR(1/1/0)" />
         <battle_value>399</battle_value>
         <cost>881562.5</cost>
         <equipment>
@@ -276,9 +276,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Badger Tracked Transport  G 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 1 LPPC, 1 SRM2</info>
-        <battleforce pv="5" wt="1" mv="6" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI" />
+        <battleforce pv="5" wt="1" mv="6t" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TUR(1/1/1)" />
         <battle_value>474</battle_value>
-        <cost>1011562.5</cost>
+        <cost>1038562.5</cost>
         <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>

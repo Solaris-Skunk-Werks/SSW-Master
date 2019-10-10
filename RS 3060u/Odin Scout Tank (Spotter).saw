@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>338</battle_value>
     <motive type="Wheeled" cruise="8" turret="Single Turret" />
-    <cost>896683.3333333335</cost>
+    <cost>911683.3333333335</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Odin Scout Tank (Spotter) 20t, 8/12, FCE, 1.5T/25% FF Armor; 1 SHS; 1 ECM, 1 Narc, 1 BAP, 2 APGR, 1 TAG, 1 CASE</info>
-        <battleforce pv="3" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="TAG, SNARC, PRB, RCN, ECM, CASE, EE" />
+        <battleforce pv="3" wt="1" mv="8w" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="TAG, SNARC, PRB, RCN, ECM, CASE, EE, TUR(1/1/0)" />
         <heatsinks number="1" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

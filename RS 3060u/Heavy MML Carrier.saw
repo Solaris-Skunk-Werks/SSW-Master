@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>722</battle_value>
     <motive type="Tracked" cruise="2" turret="Single Turret" />
-    <cost>2076000.0000000002</cost>
+    <cost>2304000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Heavy MML Carrier 80t, 2/3, ICE, 4.0T/20% Armor; 0 SHS; 6 MML9, 4 BPod</info>
-        <battleforce pv="7" wt="4" mv="2" s="0" m="0" l="0" e="0" ov="4" armor="2" internal="4" abilities="EE" />
+        <battleforce pv="7" wt="4" mv="2t" s="6" m="5" l="3" e="0" ov="0" armor="2" internal="4" abilities="EE, TUR(6/5/3, SRM 6/5/3, LRM 6/5/3, IF 6/5/3), SRM 6/2/0, LRM 0/2/3, IF 3" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

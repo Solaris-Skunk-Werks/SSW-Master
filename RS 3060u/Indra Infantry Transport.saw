@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>897</battle_value>
     <motive type="Wheeled" cruise="5" turret="Single Turret" />
-    <cost>1056520.8333333335</cost>
+    <cost>1057020.8333333335</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Indra Infantry Transport 35t, 5/8, Std FE, 5.0T/59% FF Armor; 15 SHS; 1 InfComp, 4 MG, 1 ERPPC, 1 CASE</info>
-        <battleforce pv="9" wt="1" mv="5" s="3" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="CASE" />
+        <battleforce pv="9" wt="1" mv="5w" s="3" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="CASE, TUR(1/0/0)" />
         <heatsinks number="15" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Tamerlane Strike Sled (Rocket) 20t, 12/18, Std FE, 3.0T/44% Armor; 10 SHS; 1 ERML, 4 RL10</info>
-        <battleforce pv="5" wt="1" mv="12" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <battleforce pv="5" wt="1" mv="12h" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

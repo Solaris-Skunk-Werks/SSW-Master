@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Mantis Light Attack VTOL 15t, 11/17, Std FE, 2.5T/43% Armor; 10 SHS; 1 ECM, 1 BAP, 5 ERSL</info>
-        <battleforce pv="4" wt="1" mv="11" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="PRB, RCN, ECM, ENE" />
+        <battleforce pv="4" wt="1" mv="11v" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="PRB, RCN, ECM, ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

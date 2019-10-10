@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>545</battle_value>
     <motive type="Tracked" cruise="5" turret="Single Turret" />
-    <cost>905000.0</cost>
+    <cost>914500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Vedette Medium Tank (NETC) 50t, 5/8, ICE, 5.5T/46% FF Armor; 0 SHS; 1 UAC5, 1 MG</info>
-        <battleforce pv="5" wt="2" mv="5" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="EE" />
+        <battleforce pv="5" wt="2" mv="5t" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="3" abilities="EE, TUR(1/1/1)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>889</battle_value>
     <motive type="Hovercraft" cruise="10" turret="Single Turret" />
-    <cost>1522916.6666666665</cost>
+    <cost>1607416.6666666665</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Svantovit Infantry Fighting Vehicle (Original) 35t, 10/15, Std FE, 3.0T/35% FF Armor; 10 SHS; 2 SSRM4, 1 InfComp, 2 MG, 2 LRM5, 1 CASE</info>
-        <battleforce pv="9" wt="1" mv="10" s="3" m="3" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE, IF 1" />
+        <battleforce pv="9" wt="1" mv="10h" s="3" m="3" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE, TUR(2/2/0), IF 1" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

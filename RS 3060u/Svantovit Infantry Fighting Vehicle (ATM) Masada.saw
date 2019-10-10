@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>988</battle_value>
     <motive type="Hovercraft" cruise="11" turret="Single Turret" />
-    <cost>4156500.0</cost>
+    <cost>4384500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Svantovit Infantry Fighting Vehicle (ATM) "Masada" 35t, 11/17, XLFE, 3.0T/35% FF Armor; 10 SHS; 1 InfComp, 1 ATM9, 2 APGR, 1 CASE</info>
-        <battleforce pv="10" wt="1" mv="11" s="3" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE" />
+        <battleforce pv="10" wt="1" mv="11h" s="3" m="2" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE, TUR(3/2/1)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

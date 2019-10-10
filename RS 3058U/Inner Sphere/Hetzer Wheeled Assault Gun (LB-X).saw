@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>767</battle_value>
     <motive type="Wheeled" cruise="4" turret="No Turret" />
-    <cost>1329999.9999999998</cost>
+    <cost>1457999.9999999998</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Hetzer Wheeled Assault Gun (LB-X) 40t, 4/6, Std FE, 7.5T/67% Armor; 10 SHS; 1 LB20</info>
-        <battleforce pv="8" wt="2" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="1" abilities="FLK 1/1/0" />
+        <battleforce pv="8" wt="2" mv="4w" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="FLK 1/1/0" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

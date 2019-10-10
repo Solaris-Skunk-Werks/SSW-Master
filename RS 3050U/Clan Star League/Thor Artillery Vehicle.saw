@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>608</battle_value>
     <motive type="Wheeled" cruise="5" turret="Single Turret" />
-    <cost>1886999.9999999998</cost>
+    <cost>1895999.9999999998</cost>
     <rules_level>2</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Thor Artillery Vehicle 55t, 5/8, Std FE, 7.0T/54% FF Armor; 10 SHS; 2 ML, 1 Thmpr, 1 CASE</info>
-        <battleforce pv="6" wt="2" mv="5" s="3" m="1" l="0" e="0" ov="0" armor="4" internal="3" abilities="ARTT, CASE" />
+        <battleforce pv="6" wt="2" mv="5w" s="3" m="1" l="0" e="0" ov="0" armor="4" internal="3" abilities="ARTT, CASE, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

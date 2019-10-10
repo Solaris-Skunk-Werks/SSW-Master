@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Galleon Light Tank GAL-102 30t, 7/11, Std FE, 6.0T/74% FF Armor; 10 SHS; 2 ML, 1 BAP, 1 MPL</info>
-        <battleforce pv="7" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="1" abilities="PRB, RCN, ENE" />
+        <battleforce pv="7" wt="1" mv="7t" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="PRB, RCN, ENE, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

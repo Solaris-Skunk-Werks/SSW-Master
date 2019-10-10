@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Gabriel Reconnaissance Hovercraft (TDF) 5t, 13/20, Std FE, 1.0T/30% FF Armor; 10 SHS; 2 RL10</info>
-        <battleforce pv="2" wt="1" mv="13" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="0" abilities="" />
+        <battleforce pv="2" wt="1" mv="13h" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="TUR(1/1/1)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

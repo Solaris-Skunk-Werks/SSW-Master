@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>402</battle_value>
     <motive type="Wheeled" cruise="6" turret="Single Turret" />
-    <cost>482812.49999999994</cost>
+    <cost>512812.49999999994</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Mobile Headquarters (LRM) 25t, 6/9, Std FE, 5.0T/63% Armor; 10 SHS; 1 StndrdCrgo, 1 CommEqp, 1 LRM10</info>
-        <battleforce pv="4" wt="1" mv="6" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="IF 1" />
+        <battleforce pv="4" wt="1" mv="6w" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="TUR(1/1/1), IF 1" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

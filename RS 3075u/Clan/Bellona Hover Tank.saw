@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1018</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>2104250.0</cost>
+    <cost>2129000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>Bellona Hover Tank 45t, 9/14, Std FE, 7.5T/61% Armor; 10 SHS; 1 UAC/10, 2 Flmr, 4 LMG</info>
-        <battleforce pv="10" wt="2" mv="9" s="3" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="" />
+        <battleforce pv="10" wt="2" mv="9h" s="3" m="2" l="2" e="0" ov="0" armor="4" internal="3" abilities="TUR(2/2/2)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

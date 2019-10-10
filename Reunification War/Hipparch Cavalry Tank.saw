@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>382</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>474800.0</cost>
+    <cost>501800.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>HISTRW</source>
         <info>Hipparch Cavalry Tank 30t, 9/14, ICE, 4.0T/44% Armor; 4 SHS; 1 ML, 1 SL, 1 SRM2</info>
-        <battleforce pv="4" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="EE" />
+        <battleforce pv="4" wt="1" mv="9h" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="EE, TUR(1/1/0)" />
         <heatsinks number="4" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

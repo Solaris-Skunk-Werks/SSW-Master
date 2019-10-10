@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Schrek PPC Carrier 80t, 3/5, Std FE, 7.0T/35% Armor; 30 SHS; 3 PPC</info>
-        <battleforce pv="9" wt="4" mv="3" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="4" abilities="ENE" />
+        <battleforce pv="9" wt="4" mv="3t" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="4" abilities="ENE, TUR(3/3/3)" />
         <heatsinks number="30" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

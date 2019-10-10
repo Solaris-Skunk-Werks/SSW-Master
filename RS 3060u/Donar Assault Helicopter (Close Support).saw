@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Donar Assault Helicopter (Close Support) 21t, 9/14, Std FE, 3.0T/50% FF Armor; 14 SHS; 2 SSRM2iOS, 1 LTAG, 1 BAP, 1 CASE, 2 HML</info>
-        <battleforce pv="6" wt="1" mv="9" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="LTAG, PRB, RCN" />
+        <battleforce pv="6" wt="1" mv="9v" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="LTAG, PRB, RCN" />
         <heatsinks number="14" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

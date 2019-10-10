@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>709</battle_value>
     <motive type="Wheeled" cruise="4" turret="Single Turret" />
-    <cost>5561875.0</cost>
+    <cost>5564875.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Turhan (C3) 50t, 4/6, XLFE, 7.5T/62% FF Armor; 16 SHS; 1 InfComp, 1 MG, 1 AMS, 1 C3M, 2 LL</info>
-        <battleforce pv="7" wt="2" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="AMS, C3M, TAG, MHQ5" />
+        <battleforce pv="7" wt="2" mv="4w" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="AMS, C3M, TAG, MHQ5, TUR(2/2/0)" />
         <heatsinks number="16" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

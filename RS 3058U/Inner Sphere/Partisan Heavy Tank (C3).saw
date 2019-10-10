@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>662</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>2371500.0</cost>
+    <cost>2380500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Partisan Heavy Tank (C3) 80t, 3/5, ICE, 6.0T/30% Armor; 0 SHS; 1 C3S, 4 AC5, 1 CASE</info>
-        <battleforce pv="7" wt="4" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="4" abilities="C3S, CASE, EE, AC 2/2/2" />
+        <battleforce pv="7" wt="4" mv="3t" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="4" abilities="C3S, CASE, EE, TUR(2/2/2, AC 2/2/2), AC 2/2/2" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

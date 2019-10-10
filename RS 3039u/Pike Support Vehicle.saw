@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>648</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>984000.0</cost>
+    <cost>1016000.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Pike Support Vehicle 60t, 3/5, ICE, 9.0T/58% Armor; 0 SHS; 3 AC2, 2 SRM2</info>
-        <battleforce pv="6" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="1" armor="5" internal="3" abilities="EE" />
+        <battleforce pv="6" wt="3" mv="3t" s="1" m="1" l="1" e="0" ov="0" armor="5" internal="3" abilities="EE, TUR(1/1/1)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

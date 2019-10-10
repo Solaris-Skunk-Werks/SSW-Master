@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>930</battle_value>
     <motive type="Tracked" cruise="6" turret="Single Turret" />
-    <cost>3405500.0</cost>
+    <cost>3435500.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Myrmidon Medium Tank Type 2 40t, 6/9, LFE, 7.5T/82% HFF Armor; 10 SHS; 1 PR</info>
-        <battleforce pv="9" wt="2" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="ENE" />
+        <battleforce pv="9" wt="2" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="ENE, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

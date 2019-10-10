@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>620</battle_value>
     <motive type="Wheeled" cruise="5" turret="Single Turret" />
-    <cost>1620833.333333333</cost>
+    <cost>1621333.333333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Daimyo HQ 67-K2 50t, 5/8, Std FE, 7.0T/52% Armor; 10 SHS; 1 CommEqp, 1 InfComp, 2 LPPC, 2 LMG</info>
-        <battleforce pv="6" wt="2" mv="5" s="1" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="" />
+        <battleforce pv="6" wt="2" mv="5w" s="1" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="TUR(1/1/1)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

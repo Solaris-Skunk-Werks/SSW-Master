@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Anhur Transport 30t, 8/12, Std FE, 3.0T/39% FF Armor; 13 SHS; 1 ERML, 1 InfComp, 2 MPL, 1 CASE</info>
-        <battleforce pv="7" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE" />
+        <battleforce pv="7" wt="1" mv="8v" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE" />
         <heatsinks number="13" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Mobile Headquarters (LL) 25t, 6/9, Std FE, 5.0T/63% Armor; 10 SHS; 1 StndrdCrgo, 1 CommEqp, 1 LL</info>
-        <battleforce pv="4" wt="1" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE" />
+        <battleforce pv="4" wt="1" mv="6w" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="ENE, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -2,7 +2,7 @@
 <combatvehicle name="Badger (C) Tracked Transport" model="" tons="30" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Tracked" cruise="6" turret="Single Turret" />
-    <cost>1109062.5</cost>
+    <cost>1163062.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -26,7 +26,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.5" >
         <source>RS3058Uu-I</source>
         <info>Badger (C) Tracked Transport 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 1 CASE</info>
-        <battleforce pv="3" wt="1" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE" />
+        <battleforce pv="3" wt="1" mv="6t" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -48,9 +48,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Badger (C) Tracked Transport  Prime 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 SSRM4, 1 ERML, 1 InfComp, 1 CASE</info>
-        <battleforce pv="6" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="6" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/2/0)" />
         <battle_value>602</battle_value>
-        <cost>1109062.5</cost>
+        <cost>1163062.5</cost>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
@@ -73,9 +73,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Badger (C) Tracked Transport  A 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 6 MG, 3 ERSL, 1 CASE</info>
-        <battleforce pv="5" wt="1" mv="6" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="5" wt="1" mv="6t" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(3/2/0)" />
         <battle_value>492</battle_value>
-        <cost>936406.25</cost>
+        <cost>937406.25</cost>
         <equipment>
             <name manufacturer="">(CL) ER Small Laser</name>
             <type>energy</type>
@@ -133,9 +133,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Badger (C) Tracked Transport  B 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 SSRM2, 1 InfComp, 1 MPL, 1 CASE</info>
-        <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/2/0)" />
         <battle_value>540</battle_value>
-        <cost>954687.5</cost>
+        <cost>1008687.5</cost>
         <equipment>
             <name manufacturer="">(CL) Medium Pulse Laser</name>
             <type>energy</type>
@@ -158,9 +158,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Badger (C) Tracked Transport  C 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 1 ERSL, 1 LRM10, 1 CASE</info>
-        <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, IF 1" />
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/2/1), IF 1" />
         <battle_value>537</battle_value>
-        <cost>1013593.75</cost>
+        <cost>1043593.75</cost>
         <equipment>
             <name manufacturer="">(CL) ER Small Laser</name>
             <type>energy</type>
@@ -183,9 +183,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2875</loadout_year>
         <info>Badger (C) Tracked Transport  D 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 1 CASE, 1 SSRM6</info>
-        <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/2/0)" />
         <battle_value>506</battle_value>
-        <cost>1027812.5</cost>
+        <cost>1081812.5</cost>
         <equipment>
             <name manufacturer="">(CL) Streak SRM-6</name>
             <type>missile</type>
@@ -203,9 +203,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Badger (C) Tracked Transport  E 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 ATM3, 1 InfComp, 1 ERSL, 1 CASE</info>
-        <battleforce pv="5" wt="1" mv="6" s="2" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/1/1)" />
         <battle_value>474</battle_value>
-        <cost>932343.75</cost>
+        <cost>1082343.75</cost>
         <equipment>
             <name manufacturer="">(CL) ATM-3</name>
             <type>missile</type>
@@ -233,9 +233,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Badger (C) Tracked Transport  F 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 4 APGR, 1 CASE</info>
-        <battleforce pv="4" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="4" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/2/0)" />
         <battle_value>441</battle_value>
-        <cost>897812.5</cost>
+        <cost>903812.5</cost>
         <equipment>
             <name manufacturer="">(CL) AP Gauss Rifle</name>
             <type>ballistic</type>
@@ -273,9 +273,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Badger (C) Tracked Transport  H 30t, 6/9, Std FE, 5.5T/61% Armor; 10 SHS; 1 TC, 1 SSRM2, 1 InfComp, 1 CASE, 1 HML, TC</info>
-        <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE" />
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, TUR(2/2/0)" />
         <battle_value>516</battle_value>
-        <cost>1035937.5</cost>
+        <cost>1089937.5</cost>
         <equipment>
             <name manufacturer="">(CL) Heavy Medium Laser</name>
             <type>energy</type>

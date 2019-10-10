@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2444</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1.1125625E7</cost>
+    <cost>1.1308625E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3060u</source>
         <info>Athena Combat Vehicle (HAG) 75t, 3/5, XLFE, 12.5T/79% FF Armor; 10 SHS; 1 ECM, 1 TC, 2 ERML, 2 APGR, 2 HAG30, 1 CASE, TC</info>
-        <battleforce pv="24" wt="3" mv="3" s="4" m="4" l="2" e="0" ov="3" armor="8" internal="4" abilities="ECM, CASE, FLK 2/2/2" />
+        <battleforce pv="24" wt="3" mv="3t" s="7" m="7" l="4" e="0" ov="0" armor="8" internal="4" abilities="ECM, CASE, TUR(3/3/0), FLK 4/4/4" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -2,7 +2,7 @@
 <combatvehicle name="Epona Persuit Tank" model="" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>3471666.666666666</cost>
+    <cost>3525666.666666666</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -26,7 +26,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.0" >
         <source>RS3060u</source>
         <info>Epona Persuit Tank 50t, 9/14, Std FE, 5.0T/45% FF Armor; 10 SHS; 1 CASE</info>
-        <battleforce pv="3" wt="2" mv="9" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE" />
+        <battleforce pv="3" wt="2" mv="9h" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="OMNI, ENE, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -42,9 +42,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2884</loadout_year>
         <info>Epona Persuit Tank  Prime 50t, 9/14, Std FE, 5.0T/45% FF Armor; 16 SHS; 1 SSRM4, 4 MPL, 1 CASE</info>
-        <battleforce pv="15" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="15" wt="2" mv="9h" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="3" abilities="OMNI, CASE, TUR(4/4/0)" />
         <battle_value>1477</battle_value>
-        <cost>3471666.666666666</cost>
+        <cost>3525666.666666666</cost>
         <heatsinks number="16" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -85,9 +85,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2884</loadout_year>
         <info>Epona Persuit Tank  A 50t, 9/14, Std FE, 5.0T/45% FF Armor; 10 SHS; 2 ERML, 2 LRM20, 1 TAG, 1 CASE</info>
-        <battleforce pv="20" wt="2" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TAG, CASE, LRM 1/1/1, IF 1" />
+        <battleforce pv="20" wt="2" mv="9h" s="4" m="4" l="3" e="0" ov="0" armor="3" internal="3" abilities="OMNI, TAG, CASE, TUR(3/3/3, LRM 2/2/2, IF 2/2/2), LRM 2/2/2, IF 2" />
         <battle_value>1976</battle_value>
-        <cost>4391666.666666666</cost>
+        <cost>4511666.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
@@ -140,9 +140,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2884</loadout_year>
         <info>Epona Persuit Tank  B 50t, 9/14, Std FE, 5.0T/45% FF Armor; 10 SHS; 1 UAC/10, 2 SSRM4, 1 CASE</info>
-        <battleforce pv="13" wt="2" mv="9" s="4" m="4" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE" />
+        <battleforce pv="13" wt="2" mv="9h" s="4" m="4" l="2" e="0" ov="0" armor="3" internal="3" abilities="OMNI, CASE, TUR(2/2/2)" />
         <battle_value>1255</battle_value>
-        <cost>3866666.666666666</cost>
+        <cost>3944666.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) Streak SRM-4</name>
             <type>missile</type>
@@ -180,9 +180,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2884</loadout_year>
         <info>Epona Persuit Tank  C 50t, 9/14, Std FE, 5.0T/45% FF Armor; 15 SHS; 1 ECM, 1 ERPPC, 1 TAG, 1 CASE, 1 SSRM6</info>
-        <battleforce pv="16" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TAG, CASE, ECM" />
+        <battleforce pv="16" wt="2" mv="9h" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="3" abilities="OMNI, TAG, CASE, ECM, TUR(3/3/2)" />
         <battle_value>1563</battle_value>
-        <cost>4316666.666666666</cost>
+        <cost>4370666.666666666</cost>
         <heatsinks number="15" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -218,9 +218,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Epona Persuit Tank  D 50t, 9/14, Std FE, 5.0T/45% FF Armor; 10 SHS; 1 TC, 1 HAG20, 2 ERML, 1 CASE, TC</info>
-        <battleforce pv="18" wt="2" mv="9" s="4" m="3" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, FLK 1/1/1" />
+        <battleforce pv="18" wt="2" mv="9h" s="4" m="3" l="2" e="0" ov="0" armor="3" internal="3" abilities="OMNI, CASE, TUR(2/2/2, FLK 1/1/1), FLK 1/1/1" />
         <battle_value>1773</battle_value>
-        <cost>4091666.666666666</cost>
+        <cost>4151666.666666666</cost>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
@@ -258,9 +258,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Epona Persuit Tank  E 50t, 9/14, Std FE, 5.0T/45% FF Armor; 14 SHS; 2 PC, 6 APGR, 1 CASE</info>
-        <battleforce pv="14" wt="2" mv="9" s="4" m="4" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, HT2" />
+        <battleforce pv="14" wt="2" mv="9h" s="4" m="4" l="2" e="0" ov="0" armor="3" internal="3" abilities="OMNI, CASE, HT2, TUR(4/4/2)" />
         <battle_value>1436</battle_value>
-        <cost>4386666.666666666</cost>
+        <cost>4416666.666666666</cost>
         <heatsinks number="14" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

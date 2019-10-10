@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>734</battle_value>
     <motive type="Tracked" cruise="4" turret="Single Turret" />
-    <cost>1228000.0</cost>
+    <cost>1288500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Po Heavy Tank (Light Gauss) 60t, 4/6, ICE, 9.0T/58% Armor; 0 SHS; 3 MG, 1 LGR, 1 CASE</info>
-        <battleforce pv="7" wt="3" mv="4" s="2" m="1" l="1" e="0" ov="0" armor="5" internal="3" abilities="CASE, EE" />
+        <battleforce pv="7" wt="3" mv="4t" s="2" m="1" l="1" e="0" ov="0" armor="5" internal="3" abilities="CASE, EE, TUR(1/1/1)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

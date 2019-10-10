@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1390</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1.881E7</cost>
+    <cost>1.88105E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-CE</source>
         <info>DI Morgan Assault Tank 100t, 3/5, XLFE, 10.5T/53% HFF Armor; 45 SHS; 2 MG, 3 ERPPC</info>
-        <battleforce pv="14" wt="4" mv="3" s="4" m="3" l="3" e="0" ov="0" armor="7" internal="5" abilities="" />
+        <battleforce pv="14" wt="4" mv="3t" s="4" m="3" l="3" e="0" ov="0" armor="7" internal="5" abilities="TUR(3/3/3)" />
         <heatsinks number="45" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

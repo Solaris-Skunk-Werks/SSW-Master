@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>363</battle_value>
     <motive type="Naval (Hydrofoil)" cruise="12" turret="Single Turret" />
-    <cost>286666.6666666666</cost>
+    <cost>313666.6666666666</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039</source>
         <info>Sea Skimmer Hydrofoil (SRM2) 25t, 12/18, ICE, 2.0T/25% Armor; 0 SHS; 4 SRM2</info>
-        <battleforce pv="4" wt="1" mv="12" s="0" m="0" l="0" e="0" ov="1" armor="1" internal="1" abilities="EE" />
+        <battleforce pv="4" wt="1" mv="12n" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="2" abilities="EE, TUR(1/1/0)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

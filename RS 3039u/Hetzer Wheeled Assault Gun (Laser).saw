@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Hetzer Wheeled Assault Gun (Laser) 40t, 4/6, ICE, 7.0T/62% Armor; 12 SHS; 4 ML</info>
-        <battleforce pv="5" wt="2" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="1" abilities="ENE, EE" />
+        <battleforce pv="5" wt="2" mv="4w" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="ENE, EE" />
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

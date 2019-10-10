@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>600</battle_value>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
-    <cost>767833.3333333334</cost>
+    <cost>902833.3333333334</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Plainsman Medium Hovertank (Streak) 35t, 9/14, ICE, 5.0T/49% Armor; 0 SHS; 2 SSRM4, 1 SRM2</info>
-        <battleforce pv="6" wt="1" mv="9" s="0" m="0" l="0" e="0" ov="2" armor="3" internal="2" abilities="EE" />
+        <battleforce pv="6" wt="1" mv="9h" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="EE, TUR(2/2/0)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

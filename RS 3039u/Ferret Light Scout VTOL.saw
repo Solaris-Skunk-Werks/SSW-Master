@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>58</battle_value>
     <motive type="VTOL" cruise="15" turret="No Turret" />
-    <cost>49097.222222222226</cost>
+    <cost>49597.222222222226</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Ferret Light Scout VTOL 5t, 15/23, ICE, 0.5T/14% Armor; 0 SHS; 1 StndrdCrgo, 1 MG</info>
-        <battleforce pv="1" wt="1" mv="15" s="1" m="0" l="0" e="0" ov="0" armor="0" internal="0" abilities="EE" />
+        <battleforce pv="1" wt="1" mv="15v" s="1" m="0" l="0" e="0" ov="0" armor="0" internal="1" abilities="EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>501</battle_value>
     <motive type="Wheeled" cruise="7" turret="No Turret" />
-    <cost>429000.00000000006</cost>
+    <cost>483000.00000000006</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>2</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Packrat MRPV PKR-T5 (ML) 20t, 7/11, Std FE, 4.0T/58% Armor; 10 SHS; 2 ML, 1 SRM6</info>
-        <battleforce pv="5" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="0" abilities="" />
+        <battleforce pv="5" wt="1" mv="7w" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

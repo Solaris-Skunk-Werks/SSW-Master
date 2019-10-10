@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>653</battle_value>
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
-    <cost>1219000.0</cost>
+    <cost>1224000.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Condor Heavy Hover Tank 50t, 8/12, ICE, 6.0T/45% Armor; 6 SHS; 2 ML, 1 MG, 1 AC5</info>
-        <battleforce pv="7" wt="2" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="EE" />
+        <battleforce pv="7" wt="2" mv="8h" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="3" abilities="EE, TUR(2/2/1)" />
         <heatsinks number="6" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

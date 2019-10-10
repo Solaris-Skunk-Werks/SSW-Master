@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Sprint Scout Helicopter 10t, 13/20, Std FE, 1.0T/23% FF Armor; 10 SHS; 1 BAP, 1 TAG</info>
-        <battleforce pv="1" wt="1" mv="13" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="0" abilities="PRB, RCN, TAG, ENE" />
+        <battleforce pv="1" wt="1" mv="13v" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="PRB, RCN, TAG, ENE" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Lightning Attack Hovercraft (ERSL) 35t, 11/17, Std FE, 3.5T/38% FF Armor; 10 SHS; 7 RL15, 1 ERML, 2 ERSL</info>
-        <battleforce pv="9" wt="1" mv="11" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="" />
+        <battleforce pv="9" wt="1" mv="11h" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

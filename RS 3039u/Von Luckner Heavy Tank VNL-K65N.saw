@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1100</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>3491250.0</cost>
+    <cost>3605750.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Von Luckner Heavy Tank VNL-K65N 75t, 3/5, Std FE, 11.0T/58% Armor; 10 SHS; 1 Flmr, 1 MG, 2 SRM6, 1 AC20, 1 LRM10, 1 SRM4</info>
-        <battleforce pv="11" wt="3" mv="3" s="1" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="AC 1/1/0, SRM 1/1/0" />
+        <battleforce pv="11" wt="3" mv="3t" s="5" m="4" l="0" e="0" ov="0" armor="6" internal="4" abilities="TUR(4/4/0, AC 2/2/0, SRM 2/2/0), AC 2/2/0, SRM 2/2/0" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

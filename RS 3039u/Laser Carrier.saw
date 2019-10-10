@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Laser Carrier 60t, 3/5, ICE, 3.0T/19% Armor; 24 SHS; 8 ML</info>
-        <battleforce pv="6" wt="3" mv="3" s="4" m="4" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE, EE" />
+        <battleforce pv="6" wt="3" mv="3t" s="4" m="4" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE, EE" />
         <heatsinks number="24" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

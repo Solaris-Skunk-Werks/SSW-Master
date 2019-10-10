@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3050Uu-C</source>
         <info>Cyrano Gunship (ML) 30t, 12/18, Std FE, 1.5T/18% FF Armor; 10 SHS; 2 ML, 5 RL10, 1 BAP</info>
-        <battleforce pv="6" wt="1" mv="12" s="2" m="2" l="1" e="0" ov="0" armor="1" internal="1" abilities="PRB, RCN" />
+        <battleforce pv="6" wt="1" mv="12v" s="2" m="2" l="1" e="0" ov="0" armor="1" internal="2" abilities="PRB, RCN" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

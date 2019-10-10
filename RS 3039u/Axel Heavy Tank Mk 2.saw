@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>902</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1383937.5</cost>
+    <cost>1455437.5</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
         <info>Axel Heavy Tank Mk 2 65t, 3/5, ICE, 10.0T/60% Armor; 0 SHS; 1 Vflmr, 2 MG, 1 LRM10, 1 AC20</info>
-        <battleforce pv="9" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="3" armor="5" internal="3" abilities="EE" />
+        <battleforce pv="9" wt="3" mv="3t" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="4" abilities="EE, TUR(3/3/1, AC 2/2/0), AC 2/2/0, IF 1" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

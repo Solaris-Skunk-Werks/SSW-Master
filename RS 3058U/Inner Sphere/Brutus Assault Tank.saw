@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1115</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>3442250.0</cost>
+    <cost>3586250.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3058Uu-I</source>
         <info>Brutus Assault Tank 75t, 3/5, Std FE, 8.5T/45% Armor; 16 SHS; 2 SRM6, 1 LRM20, 2 LL, 1 SRM2</info>
-        <battleforce pv="11" wt="3" mv="3" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="4" abilities="SRM 1/1/0, IF 1" />
+        <battleforce pv="11" wt="3" mv="3t" s="4" m="5" l="2" e="0" ov="0" armor="5" internal="4" abilities="TUR(3/3/2, LRM 1/1/1, IF 1/1/1), SRM 1/1/0, LRM 1/1/1, IF 1" />
         <heatsinks number="16" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>

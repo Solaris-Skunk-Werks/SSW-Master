@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>463</battle_value>
     <motive type="Tracked" cruise="4" turret="Single Turret" />
-    <cost>302250.0</cost>
+    <cost>306750.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -27,7 +27,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3075u-AW</source>
         <info>Ignis 30t, 4/6, ICE, 9.0T/99% Armor; 0 SHS; 4 Vflmr, 1 InfComp, 1 MG</info>
-        <battleforce pv="5" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="1" armor="5" internal="1" abilities="HT1, EE" />
+        <battleforce pv="5" wt="1" mv="4t" s="1" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="HT1, EE, TUR(1/0/0)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
