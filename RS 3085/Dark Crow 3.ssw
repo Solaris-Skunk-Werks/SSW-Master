@@ -2,7 +2,7 @@
 <mech name="Dark Crow" model="3" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1635</battle_value>
-    <cost>4.282898E7</cost>
+    <cost>4.283498E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>7</productionera>

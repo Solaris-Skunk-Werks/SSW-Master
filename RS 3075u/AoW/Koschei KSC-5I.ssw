@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Koschei KSC-5I 65t, 5/8/5, XLFE, ES, Cmp Gyro; 12.5T/100% LFF Armor; 13 DHS; 1 ECM, 1 SNPPC, 5 ERSL, 1 HPPC</info>
-        <battleforce pv="20" wt="3" mv="5j" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="3" mv="5j" s="3" m="3" l="2" e="0" ov="1" armor="7" internal="3" abilities="ECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

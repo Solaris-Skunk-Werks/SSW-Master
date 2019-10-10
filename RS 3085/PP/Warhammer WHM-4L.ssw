@@ -2,7 +2,7 @@
 <mech name="Warhammer" model="WHM-4L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1743</battle_value>
-    <cost>1.4850633333333338E7</cost>
+    <cost>1.4904633333333338E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -47,7 +47,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Warhammer WHM-4L 70t, 4/6/0, XLFE, Std; 13.5T/100% Stlth Armor; 16 DHS; 1 ECM, 4 MPL, 2 ERPPC, 1 SSRM6</info>
-        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="3" abilities="ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="2" armor="7" internal="3" abilities="ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Hatamoto-Chi" model="HTM-26T" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1536</battle_value>
-    <cost>7765320.000000001</cost>
+    <cost>7792320.000000001</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Hatamoto-Chi HTM-26T 80t, 4/6/0, Std FE, Std; 14.5T/94% Armor; 17 SHS; 2 PPC, 2 SRM6</info>
-        <battleforce pv="15" wt="4" mv="4" s="1" m="2" l="2" e="0" ov="0" armor="8" internal="6" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="15" wt="4" mv="4" s="2" m="3" l="2" e="0" ov="1" armor="8" internal="6" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="17" techbase="2">

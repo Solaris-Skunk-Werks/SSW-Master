@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cougar" model="" tons="35" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>5964187.499999999</cost>
+    <cost>6024187.499999999</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -65,9 +65,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Cougar  Prime 35t, 5/8/0, XLFE, ES; 5.5T/88% FF Armor; 10 DHS; 2 LRM10, 2 LPL</info>
-        <battleforce pv="15" wt="1" mv="5" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="15" wt="1" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>1485</battle_value>
-        <cost>5964187.499999999</cost>
+        <cost>6024187.499999999</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -109,7 +109,7 @@
         <info>Cougar  A 35t, 5/8/0, XLFE, ES; 5.5T/88% FF Armor; 10 DHS; 1 SPL, 2 ERML, 2 LRM20</info>
         <battleforce pv="17" wt="1" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>1697</battle_value>
-        <cost>6514312.499999999</cost>
+        <cost>6754312.499999999</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -202,7 +202,7 @@
         <info>Cougar  C 35t, 5/8/0, XLFE, ES; 5.5T/88% FF Armor; 10 DHS; 5 ERML, 1 GR</info>
         <battleforce pv="18" wt="1" mv="5" s="4" m="5" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1785</battle_value>
-        <cost>6129984.374999999</cost>
+        <cost>6169984.374999999</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -252,9 +252,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Cougar  D 35t, 5/8/0, XLFE, ES; 5.5T/88% FF Armor; 10 DHS; 1 UAC/10, 1 ERLL, 2 SRM4</info>
-        <battleforce pv="13" wt="1" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="13" wt="1" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1309</battle_value>
-        <cost>6028734.374999999</cost>
+        <cost>6079734.374999999</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -301,7 +301,7 @@
         <info>Cougar  E 35t, 5/8/0, XLFE, ES; 5.5T/88% FF Armor; 13 DHS; 3 ERML, 2 ATM6</info>
         <battleforce pv="14" wt="1" mv="5" s="6" m="5" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1442</battle_value>
-        <cost>5902762.499999999</cost>
+        <cost>6352762.499999999</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -374,7 +374,7 @@
         <info>Cougar  F 35t, 5/8/5, XLFE, ES; 5.5T/88% FF Armor; 10 DHS; 1 SSRM4, 2 MGA+4HMG, 3 MPL, 2 BPod</info>
         <battleforce pv="14" wt="1" mv="5j" s="5" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1401</battle_value>
-        <cost>5900906.249999999</cost>
+        <cost>5955906.249999999</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -444,7 +444,7 @@
         <info>Cougar  G 35t, 5/8/0, XLFE, ES; 5.5T/88% FF Armor; 10 DHS; 1 ERLL, 1 HAG20, 2 LRM5</info>
         <battleforce pv="15" wt="1" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1, FLK 1/1/1" />
         <battle_value>1453</battle_value>
-        <cost>6143906.249999999</cost>
+        <cost>6233906.249999999</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -491,7 +491,7 @@
         <info>Cougar  H 35t, 5/8/4, XLFE, ES; 5.5T/88% FF Armor; 13 DHS; 1 ECM, 1 UAC5, 3 HML, TC</info>
         <battleforce pv="13" wt="1" mv="5/3j" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1323</battle_value>
-        <cost>6387834.374999999</cost>
+        <cost>6396834.374999999</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

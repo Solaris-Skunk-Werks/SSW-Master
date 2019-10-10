@@ -2,7 +2,7 @@
 <mech name="Duan Gung" model="D9-G9 (Vaughn)" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>851</battle_value>
-    <cost>3369583.333333334</cost>
+    <cost>3399583.333333334</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

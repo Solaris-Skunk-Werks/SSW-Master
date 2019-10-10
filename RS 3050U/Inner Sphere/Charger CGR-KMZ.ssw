@@ -2,7 +2,7 @@
 <mech name="Charger" model="CGR-KMZ" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1781</battle_value>
-    <cost>2.0082720000000004E7</cost>
+    <cost>2.0139720000000004E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Charger CGR-KMZ 80t, 4/6/6, XLFE, Std; 11.0T/75% LFF Armor; 12 DHS; 1 MML9, 2 LPPC, 1 HPPC, 1 Swrd</info>
-        <battleforce pv="18" wt="4" mv="4/6j" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="4" abilities="MEL, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="18" wt="4" mv="4/6j" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="4" abilities="MEL, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

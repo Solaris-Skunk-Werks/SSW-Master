@@ -2,7 +2,7 @@
 <mech name="Stalker" model="STK-4P" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1461</battle_value>
-    <cost>6033125.0</cost>
+    <cost>6117125.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Stalker STK-4P 75t, 3/5/0, Std FE, Std; 13.5T/94% Armor; 20 SHS; 4 ML, 2 SRM6, 1 LRM10, 2 LL</info>
-        <battleforce pv="15" wt="3" mv="3" s="3" m="4" l="1" e="0" ov="1" armor="7" internal="6" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="3" mv="3" s="3" m="4" l="1" e="0" ov="2" armor="7" internal="6" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="20" techbase="2">

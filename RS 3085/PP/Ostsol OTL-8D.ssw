@@ -2,7 +2,7 @@
 <mech name="Ostsol" model="OTL-8D" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1462</battle_value>
-    <cost>9809760.0</cost>
+    <cost>9827760.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Ostsol OTL-8D 60t, 5/8/0, LFE, Std; 10.5T/100% HFF Armor; 10 DHS; 2 ERML, 1 LPPC, 2 LAC5, TC</info>
-        <battleforce pv="15" wt="3" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="15" wt="3" mv="5" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

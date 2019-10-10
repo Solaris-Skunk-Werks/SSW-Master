@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Prowler" model="PWR-1X1" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1945</battle_value>
-    <cost>4.9847431666666664E7</cost>
+    <battle_value>1922</battle_value>
+    <cost>4.9874431666666664E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Prowler PWR-1X1 55t, 7/11/0, XXLFE, Comp, Cmp Gyro; 9.5T/100% HFF Armor; 17 DHS; 2 ERLL, 2 SRM4, TC</info>
-        <battleforce pv="19" wt="2" mv="7" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="19" wt="2" mv="7" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="0">

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Exterminator" model="EXT-4C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Exterminator.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1602</battle_value>
-    <cost>1.90998225E7</cost>
+    <battle_value>1420</battle_value>
+    <cost>1.91318225E7</cost>
     <rules_level>3</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Exterminator EXT-4C 65t, 6/9/6, XLFE, Std; 10.5T/80% Armor; 10 DHS; 4 ML, 1 SL, 1 LRM10, 1 AMS, NullSig, CLPS</info>
-        <battleforce pv="16" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="ECM, STL, AMS, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="14" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="ECM, STL, AMS, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

@@ -2,7 +2,7 @@
 <mech name="Hatchetman" model="HCT-7S" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1243</battle_value>
-    <cost>8925040.0</cost>
+    <cost>9009040.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>7</productionera>

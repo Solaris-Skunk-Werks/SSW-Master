@@ -2,7 +2,7 @@
 <mech name="Copperhead" model="CPR-HD-004" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1151</battle_value>
-    <cost>6400290.0</cost>
+    <cost>6455290.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>

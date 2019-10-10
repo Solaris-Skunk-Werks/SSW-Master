@@ -2,7 +2,7 @@
 <mech name="Bombardier" model="BMB-14K" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1249</battle_value>
-    <cost>1.3729622499999998E7</cost>
+    <cost>1.3874122499999998E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Bombardier BMB-14K 65t, 5/8/0, XLFE, Std; 13.0T/99% Armor; 10 DHS; 1 MGA+3MG, 1 C3S, 4 MML7</info>
-        <battleforce pv="12" wt="3" mv="5" s="1" m="0" l="0" e="0" ov="0" armor="7" internal="3" abilities="C3S, MHQ1, SRCH, ES, SEAL, SOA, SRM 3/1/0, LRM 0/1/2, IF 2" />
+        <battleforce pv="12" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="C3S, MHQ1, SRCH, ES, SEAL, SOA, SRM 3/1/0, LRM 0/1/2, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

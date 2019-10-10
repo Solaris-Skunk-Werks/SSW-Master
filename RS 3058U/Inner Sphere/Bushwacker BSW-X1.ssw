@@ -2,7 +2,7 @@
 <mech name="Bushwacker" model="BSW-X1" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1223</battle_value>
-    <cost>9766136.666666668</cost>
+    <cost>9802636.666666668</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-I</source>
         <info>Bushwacker BSW-X1 55t, 5/8/0, XLFE, Std; 9.0T/87% FF Armor; 11 DHS; 1 ERLL, 1 AC10, 2 MG, 2 LRM5</info>
-        <battleforce pv="12" wt="2" mv="5" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0, IF 1" />
+        <battleforce pv="12" wt="2" mv="5" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

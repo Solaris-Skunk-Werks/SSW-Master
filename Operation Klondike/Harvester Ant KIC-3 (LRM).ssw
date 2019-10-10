@@ -2,7 +2,7 @@
 <mech name="Harvester Ant" model="KIC-3 (LRM)" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>214</battle_value>
-    <cost>791700.0</cost>
+    <cost>821700.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>

@@ -2,7 +2,7 @@
 <mech name="Zeus" model="ZEU-6Y" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1323</battle_value>
-    <cost>7456800.000000001</cost>
+    <cost>7491300.000000001</cost>
     <rules_level>3</rules_level>
     <era>1</era>
     <productionera>3</productionera>

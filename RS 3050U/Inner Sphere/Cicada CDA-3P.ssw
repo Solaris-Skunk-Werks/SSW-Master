@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Cicada CDA-3P 40t, 7/11/0, XLFE, Std; 8.0T/93% Armor; 10 DHS; 4 ERML, 1 HPPC</info>
-        <battleforce pv="15" wt="2" mv="7" s="2" m="3" l="1" e="0" ov="0" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="7" s="2" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

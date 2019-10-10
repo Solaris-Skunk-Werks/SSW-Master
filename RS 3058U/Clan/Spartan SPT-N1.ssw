@@ -2,7 +2,7 @@
 <mech name="Spartan" model="SPT-N1" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1498</battle_value>
-    <cost>2.022144E7</cost>
+    <cost>2.033344E7</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>

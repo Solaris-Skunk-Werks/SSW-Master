@@ -2,7 +2,7 @@
 <mech name="Thunderbolt" model="TDR-10M (Salazar)" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1763</battle_value>
-    <cost>1.3562285E7</cost>
+    <cost>1.3639285E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -47,7 +47,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BD:ST</source>
         <info>Thunderbolt TDR-10M (Salazar) 65t, 4/6/3, XLFE, Std, XL Gyro; 13.5T/100% Stlth Armor; 12 DHS; 1 PR, 1 Flmr, 1 ECM, 1 SVSPL, 1 SNPPC, 1 LPPC, 1 MPL, 1 MML5</info>
-        <battleforce pv="18" wt="3" mv="4/2j" s="3" m="2" l="1" e="0" ov="1" armor="7" internal="3" abilities="ECM, STL, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="3" mv="4/2j" s="3" m="2" l="1" e="0" ov="2" armor="7" internal="3" abilities="ECM, STL, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

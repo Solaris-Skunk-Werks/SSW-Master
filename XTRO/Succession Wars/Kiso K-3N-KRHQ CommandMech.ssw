@@ -2,7 +2,7 @@
 <mech name="Kiso" model="K-3N-KRHQ CommandMech" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>940</battle_value>
-    <cost>5024166.666666666</cost>
+    <cost>5024666.666666666</cost>
     <rules_level>3</rules_level>
     <era>1</era>
     <productionera>2</productionera>

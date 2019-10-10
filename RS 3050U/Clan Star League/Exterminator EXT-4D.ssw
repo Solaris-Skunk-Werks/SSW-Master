@@ -2,7 +2,7 @@
 <mech name="Exterminator" model="EXT-4D" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Exterminator.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1385</battle_value>
-    <cost>1.57998225E7</cost>
+    <cost>1.58318225E7</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>

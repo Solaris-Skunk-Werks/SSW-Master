@@ -2,7 +2,7 @@
 <mech name="Piranha" model="" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>998</battle_value>
-    <cost>2779740.0</cost>
+    <cost>2780740.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>4</productionera>

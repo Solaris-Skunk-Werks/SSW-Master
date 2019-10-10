@@ -2,7 +2,7 @@
 <mech name="Anubis" model="ABS-3R" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Anubis ABS-3L.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>970</battle_value>
-    <cost>5231525.0</cost>
+    <cost>5261525.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>

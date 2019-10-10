@@ -2,7 +2,7 @@
 <mech name="Quickdraw" model="QKD-4H" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1242</battle_value>
-    <cost>5423360.0</cost>
+    <cost>5480360.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Quickdraw QKD-4H 60t, 5/8/5, Std FE, Std; 8.0T/64% Armor; 13 SHS; 4 ML, 1 LRM10, 1 SRM4</info>
-        <battleforce pv="12" wt="3" mv="5j" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="5" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="12" wt="3" mv="5j" s="2" m="2" l="1" e="0" ov="1" armor="4" internal="5" abilities="SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

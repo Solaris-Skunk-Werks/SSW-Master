@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Uziel" model="UZL-2S Jacob II" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1322</battle_value>
-    <cost>1.2485E7</cost>
+    <battle_value>1271</battle_value>
+    <cost>1.2557E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>SBW&amp;B</source>
         <info>Uziel UZL-2S Jacob II 50t, 5/8[10]/0, XLFE, ES, XL Gyro; 9.0T/90% LFF Armor; 10 DHS; 2 MPL, 1 SSRM6, 2 LAC5</info>
-        <battleforce pv="13" wt="2" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="13" wt="2" mv="6" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

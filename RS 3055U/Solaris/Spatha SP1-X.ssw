@@ -2,7 +2,7 @@
 <mech name="Spatha" model="SP1-X" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2201</battle_value>
-    <cost>5.260256E7</cost>
+    <cost>5.265656E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -54,7 +54,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Spatha SP1-X 60t, 6[7]/9[11]/0 TSM, XXLFE, Std; 11.0T/88% LsrRflc Armor; 13 DHS; 1 LAMS, 1 ERPPC, 2 MXPL, 1 Swrd, 1 SSRM6</info>
-        <battleforce pv="22" wt="3" mv="6" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="3" abilities="TSM, AMS, MEL, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="22" wt="3" mv="6" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="3" abilities="TSM, AMS, MEL, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

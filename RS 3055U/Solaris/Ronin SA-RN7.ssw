@@ -2,7 +2,7 @@
 <mech name="Ronin" model="SA-RN7" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1180</battle_value>
-    <cost>8209175.000000001</cost>
+    <cost>8269175.000000001</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Ronin SA-RN7 50t, 5/8/0, XLFE, ES; 9.5T/100% FF Armor; 10 DHS; 1 Clw, 1 ERSL, 2 LRM10, 2 MPod, 1 LPL</info>
-        <battleforce pv="12" wt="2" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="2" abilities="MEL, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="12" wt="2" mv="5" s="2" m="3" l="2" e="0" ov="0" armor="6" internal="2" abilities="MEL, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

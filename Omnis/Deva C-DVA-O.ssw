@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Deva" model="C-DVA-O" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.99964625E7</cost>
+    <cost>2.00164625E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -69,7 +69,7 @@
         <info>Deva C-DVA-O Invictus (Prime) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I, 1 RBlde, 1 GR, 3 LPPC</info>
         <battleforce pv="16" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1584</battle_value>
-        <cost>1.99964625E7</cost>
+        <cost>2.00164625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -116,7 +116,7 @@
         <info>Deva C-DVA-O Dominus (A) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I, 1 RAC5, 2 ERML, 1 ERSL, 1 LPPC, 1 MML7, TC</info>
         <battleforce pv="17" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1727</battle_value>
-        <cost>1.987161875E7</cost>
+        <cost>1.996461875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -241,9 +241,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Deva C-DVA-O Comminus (C) 70t, 4/6/4, LFE, ES, HD Gyro; 13.5T/100% Armor; 13 DHS; 1 ECM, 1 C3I, 3 ERML, 1 ERSL, 1 UAC20</info>
-        <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="0" e="0" ov="1" armor="7" internal="4" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1743</battle_value>
-        <cost>2.077686875E7</cost>
+        <cost>2.083686875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -316,7 +316,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Deva C-DVA-O Luminos (D) 70t, 4/6/4, LFE, ES, HD Gyro; 13.5T/100% Armor; 15 DHS; 1 C3I, 3 ERML, 1 ERSL, 4 MPL, 1 HPPC</info>
-        <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="2" armor="7" internal="4" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1711</battle_value>
         <cost>2.029236875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
@@ -387,9 +387,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Deva C-DVA-O Eminus (E) 70t, 4/6/0, LFE, ES, HD Gyro; 13.5T/100% Armor; 13 DHS; 1 C3I, 2 ERML, 4 LPPC, 1 Tbolt15</info>
-        <battleforce pv="17" wt="3" mv="4" s="3" m="4" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="17" wt="3" mv="4" s="3" m="4" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1686</battle_value>
-        <cost>2.0646925E7</cost>
+        <cost>2.0746925E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">
@@ -550,9 +550,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Deva C-DVA-O Exanimus (U) 70t, 4/6/4, LFE, ES, HD Gyro; 13.5T/100% Armor; 11 DHS; 1 C3I, 3 ERML, 1 ERSL, 2 LRT15, 1 MASS</info>
-        <battleforce pv="17" wt="3" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="7" internal="4" abilities="UMU, OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, TOR 1/2/2" />
+        <battleforce pv="17" wt="3" mv="4u" s="3" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="UMU, OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, TOR 1/2/2" />
         <battle_value>1685</battle_value>
-        <cost>2.005861875E7</cost>
+        <cost>2.023861875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

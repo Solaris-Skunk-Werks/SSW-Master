@@ -2,7 +2,7 @@
 <mech name="Urbanmech" model="UM-R60" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>504</battle_value>
-    <cost>1464125.0</cost>
+    <cost>1470125.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Urbanmech UM-R60 30t, 2/3/2, Std FE, Std; 6.0T/91% Armor; 11 SHS; 1 SL, 1 AC10</info>
-        <battleforce pv="5" wt="1" mv="2j" s="1" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="5" wt="1" mv="2j" s="2" m="1" l="0" e="0" ov="0" armor="3" internal="3" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="2">

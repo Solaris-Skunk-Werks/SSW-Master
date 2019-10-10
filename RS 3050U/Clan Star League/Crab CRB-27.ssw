@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Crab CRB-27 50t, 5/8/0, Std FE, Std; 9.0T/95% FF Armor; 16 SHS; 1 ML, 1 SL, 2 LL</info>
-        <battleforce pv="12" wt="2" mv="5" s="3" m="2" l="0" e="0" ov="0" armor="5" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="12" wt="2" mv="5" s="3" m="2" l="0" e="0" ov="1" armor="5" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="2">

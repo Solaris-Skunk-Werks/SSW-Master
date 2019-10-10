@@ -2,7 +2,7 @@
 <mech name="Jupiter" model="" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2784</battle_value>
-    <cost>2.3946E7</cost>
+    <cost>2.4042E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Jupiter 100t, 3/5/0, XLFE, ES; 19.5T/100% Armor; 17 DHS; 2 LRM15, 4 UAC5, 2 ERPPC</info>
-        <battleforce pv="28" wt="4" mv="3" s="5" m="5" l="5" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="28" wt="4" mv="3" s="6" m="6" l="6" e="0" ov="1" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">

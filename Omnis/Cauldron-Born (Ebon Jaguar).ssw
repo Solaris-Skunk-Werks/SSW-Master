@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cauldron-Born (Ebon Jaguar)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.7972281249999996E7</cost>
+    <cost>1.8123281249999996E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -64,7 +64,7 @@
         <info>Cauldron-Born (Ebon Jaguar)  Prime 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 ERML, 1 GR, 1 LB5, 1 LRM10, 1 SRM2</info>
         <battleforce pv="20" wt="3" mv="5" s="3" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1952</battle_value>
-        <cost>1.7972281249999996E7</cost>
+        <cost>1.8123281249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -136,7 +136,7 @@
         <info>Cauldron-Born (Ebon Jaguar)  A 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 Flmr, 2 ERLL, 3 ERML, 2 MG, 1 MPL, 1 UAC20</info>
         <battleforce pv="24" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="3" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2429</battle_value>
-        <cost>1.8606499999999996E7</cost>
+        <cost>1.8667499999999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -216,7 +216,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3047</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  B 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 BAP, 2 MPL, 2 ERPPC, 1 TAG, 2 LPL</info>
-        <battleforce pv="25" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="2" armor="6" internal="4" abilities="OMNI, TAG, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="25" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="3" armor="6" internal="4" abilities="OMNI, TAG, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2535</battle_value>
         <cost>1.8756031249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -268,9 +268,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3047</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  C 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 2 LRM15, 2 SRM6, 2 UAC2</info>
-        <battleforce pv="18" wt="3" mv="5" s="1" m="1" l="1" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, LRM 2/2/2, IF 2" />
+        <battleforce pv="18" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, LRM 2/2/2, IF 2" />
         <battle_value>1831</battle_value>
-        <cost>1.7992906249999996E7</cost>
+        <cost>1.8222906249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -362,7 +362,7 @@
         <info>Cauldron-Born (Ebon Jaguar)  D 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 2 UAC/10, 1 ERLL, 2 ERML</info>
         <battleforce pv="22" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2228</battle_value>
-        <cost>1.8302281249999996E7</cost>
+        <cost>1.8350281249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -417,9 +417,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  H 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 1 MPL, 1 HLL, 2 HML, 1 UAC20, TC</info>
-        <battleforce pv="24" wt="3" mv="5" s="6" m="6" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="3" mv="5" s="6" m="6" l="0" e="0" ov="2" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2359</battle_value>
-        <cost>1.8298156249999996E7</cost>
+        <cost>1.8358156249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -482,7 +482,7 @@
         <info>Cauldron-Born (Ebon Jaguar)  E 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 HAG20, 1 ERML, 1 ATM12, 1 LPL</info>
         <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2391</battle_value>
-        <cost>1.8312593749999996E7</cost>
+        <cost>1.8627593749999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -544,7 +544,7 @@
         <info>Cauldron-Born (Ebon Jaguar)  X 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 1 RAC5, 1 AECM, 1 ERSPL, 3 ERMPL, TC</info>
         <battleforce pv="24" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, AECM, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2435</battle_value>
-        <cost>1.9721281249999996E7</cost>
+        <cost>1.9757281249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -615,9 +615,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  U 65t, 5/8/5, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 2 ERSL, 2 LRT15, 2 LPL</info>
-        <battleforce pv="26" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/2" />
+        <battleforce pv="26" wt="3" mv="5u" s="5" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 1/1/1" />
         <battle_value>2593</battle_value>
-        <cost>1.8437374999999996E7</cost>
+        <cost>1.8497374999999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -681,9 +681,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  (Samantha) 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 ERSL, 1 ERPPC, 3 LRM10, 1 UAC20</info>
-        <battleforce pv="24" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="24" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="2" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2372</battle_value>
-        <cost>1.8490484374999996E7</cost>
+        <cost>1.8590484374999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

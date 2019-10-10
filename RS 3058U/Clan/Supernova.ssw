@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Supernova 90t, 3/5/3, Std FE, Std; 14.5T/83% Armor; 26 DHS; 6 ERLL</info>
-        <battleforce pv="28" wt="4" mv="3j" s="5" m="5" l="5" e="0" ov="0" armor="8" internal="7" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="28" wt="4" mv="3j" s="5" m="5" l="5" e="0" ov="1" armor="8" internal="7" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

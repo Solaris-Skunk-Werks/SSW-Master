@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Ostscout OTT-9CS 35t, 8/12/8, XLFE, ES; 6.0T/81% Armor; 10 SHS; 1 ECM, 1 C3I, 2 ERML, 1 ERSL, 1 BAP, 1 TAG</info>
-        <battleforce pv="9" wt="1" mv="8j" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="C3I, PRB, RCN, ECM, TAG, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="9" wt="1" mv="8j" s="1" m="1" l="0" e="0" ov="1" armor="3" internal="2" abilities="C3I, PRB, RCN, ECM, TAG, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="8">

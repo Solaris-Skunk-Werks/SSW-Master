@@ -2,7 +2,7 @@
 <mech name="Victor" model="VTR-9K" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1717</battle_value>
-    <cost>8391720.0</cost>
+    <cost>8458720.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>

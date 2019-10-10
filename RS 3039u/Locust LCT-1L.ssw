@@ -2,7 +2,7 @@
 <mech name="Locust" model="LCT-1L" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>474</battle_value>
-    <cost>1847199.9999999998</cost>
+    <cost>1848199.9999999998</cost>
     <rules_level>1</rules_level>
     <era>4</era>
     <productionera>3</productionera>

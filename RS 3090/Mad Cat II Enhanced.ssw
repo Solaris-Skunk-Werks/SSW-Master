@@ -2,7 +2,7 @@
 <mech name="Mad Cat II" model="Enhanced" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2732</battle_value>
-    <cost>2.41414E7</cost>
+    <cost>2.42014E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>7</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSProtop</source>
         <info>Mad Cat II Enhanced 90t, 4/6[5]/4, XLFE, ES; 25.0T/72% Hrdnd Armor; 18 DHS; 2 ERLPL, 2 ERML, 2 LRM10</info>
-        <battleforce pv="27" wt="4" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="27" wt="4" mv="4j" s="4" m="4" l="3" e="0" ov="0" armor="13" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

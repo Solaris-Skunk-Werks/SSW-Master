@@ -2,7 +2,7 @@
 <mech name="Battlemaster" model="BLR-10S2" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1930</battle_value>
-    <cost>1.53140225E7</cost>
+    <cost>1.53680225E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Battlemaster BLR-10S2 85t, 3/5/0, CFE, Std, HD Gyro; 16.5T/100% Armor; 19 DHS; 1 ECM, 1 SSRM4, 1 C3S, 6 ERML, 1 ERSL, 1 ERPPC, 2 BPod</info>
-        <battleforce pv="19" wt="4" mv="3" s="4" m="4" l="1" e="0" ov="0" armor="9" internal="9" abilities="ECM, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="4" mv="3" s="4" m="4" l="1" e="0" ov="1" armor="9" internal="9" abilities="ECM, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="19" techbase="0">

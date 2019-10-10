@@ -2,7 +2,7 @@
 <mech name="Longbow" model="LGB-13NAIS" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1806</battle_value>
-    <cost>9247687.5</cost>
+    <cost>9279187.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Longbow LGB-13NAIS 85t, 3/5/0, Std FE, ES; 16.5T/100% Armor; 10 DHS; 1 ECM, 1 C3S, 2 ERML, 1 ERSL, 2 BPod, 6 LAC5</info>
-        <battleforce pv="18" wt="4" mv="3" s="2" m="2" l="0" e="0" ov="0" armor="9" internal="7" abilities="C3S, ECM, CASE, MHQ1, SRCH, ES, SEAL, SOA, AC 3/3/0" />
+        <battleforce pv="18" wt="4" mv="3" s="5" m="5" l="0" e="0" ov="0" armor="9" internal="7" abilities="C3S, ECM, CASE, MHQ1, SRCH, ES, SEAL, SOA, AC 3/3/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

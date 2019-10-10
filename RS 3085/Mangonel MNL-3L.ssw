@@ -2,7 +2,7 @@
 <mech name="Mangonel" model="MNL-3L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1552</battle_value>
-    <cost>1.3421500000000002E7</cost>
+    <cost>1.3441500000000002E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Mangonel MNL-3L 70t, 5/8/0, LFE, ES; 8.0T/66% FF Armor; 10 DHS; 4 ERML, 2 LGR</info>
-        <battleforce pv="16" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="5" s="3" m="4" l="2" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

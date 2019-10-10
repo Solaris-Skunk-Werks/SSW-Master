@@ -2,7 +2,7 @@
 <mech name="Hellfire" model="3" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Hellfire.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2138</battle_value>
-    <cost>1.236576E7</cost>
+    <cost>1.249476E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -46,7 +46,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Hellfire 3 60t, 4/6[8]/0 MASC, XLFE, Std; 10.0T/96% FF Armor; 15 DHS; 2 Flmr, 4 PC, 2 ERFlmr, 2 SRM6</info>
-        <battleforce pv="21" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="3" abilities="CASE, HT2, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="21" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="3" abilities="CASE, HT2, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="15" techbase="1">

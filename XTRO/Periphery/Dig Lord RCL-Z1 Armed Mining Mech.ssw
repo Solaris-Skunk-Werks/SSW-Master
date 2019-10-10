@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dig Lord" model="RCL-Z1 Armed Mining `Mech" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>685</battle_value>
-    <cost>2787558.75</cost>
+    <battle_value>681</battle_value>
+    <cost>2850558.75</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>6</productionera>

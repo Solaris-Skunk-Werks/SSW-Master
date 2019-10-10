@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Black Lanner" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.7993401041666668E7</cost>
+    <cost>1.8050401041666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -66,9 +66,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  Prime 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 ECM, 1 ERLL, 2 ERML, 1 SRM6, 1 LRM10</info>
-        <battleforce pv="23" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="23" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="3" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2268</battle_value>
-        <cost>1.7993401041666668E7</cost>
+        <cost>1.8050401041666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -118,7 +118,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  A 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 ECM, 1 BAP, 2 MPL, 1 ERPPC, 1 TAG</info>
-        <battleforce pv="23" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ECM, TAG, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="3" abilities="OMNI, ECM, TAG, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2308</battle_value>
         <cost>1.8046197916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -160,9 +160,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  B 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 LRM20</info>
-        <battleforce pv="20" wt="2" mv="9" s="0" m="0" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="20" wt="2" mv="9" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>1961</battle_value>
-        <cost>1.7523072916666668E7</cost>
+        <cost>1.7613072916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -197,9 +197,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  C 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 13 DHS; 6 ERML, 1 SSRM6</info>
-        <battleforce pv="25" wt="2" mv="9" s="5" m="5" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="25" wt="2" mv="9" s="5" m="5" l="0" e="0" ov="1" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2523</battle_value>
-        <cost>1.7654822916666668E7</cost>
+        <cost>1.7708822916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -255,9 +255,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  D 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 Flmr, 1 BAP, 4 MG, 2 ERSL, 2 SRM6, 2 MPL</info>
-        <battleforce pv="18" wt="2" mv="9" s="4" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="18" wt="2" mv="9" s="5" m="4" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>1809</battle_value>
-        <cost>1.7581197916666668E7</cost>
+        <cost>1.7635697916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -342,9 +342,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Black Lanner  E 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 3 ERML, 1 ATM12</info>
-        <battleforce pv="23" wt="2" mv="9" s="5" m="4" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="9" s="5" m="4" l="1" e="0" ov="1" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2331</battle_value>
-        <cost>1.7600572916666668E7</cost>
+        <cost>1.7825572916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -430,7 +430,7 @@
         <info>Black Lanner  X 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 iHML, 1 RAC2</info>
         <battleforce pv="17" wt="2" mv="9" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1672</battle_value>
-        <cost>1.8152760416666668E7</cost>
+        <cost>1.8158760416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

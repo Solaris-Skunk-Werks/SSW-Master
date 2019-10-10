@@ -2,7 +2,7 @@
 <mech name="Hammerhands" model="HMH-3D" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1381</battle_value>
-    <cost>6118000.0</cost>
+    <cost>6169000.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Hammerhands HMH-3D 75t, 3/5/3, Std FE, Std; 11.5T/80% Armor; 13 SHS; 2 ML, 2 AC10, 1 SRM6</info>
-        <battleforce pv="14" wt="3" mv="3j" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="6" abilities="SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <battleforce pv="14" wt="3" mv="3j" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="6" abilities="SRCH, ES, SEAL, SOA, AC 2/2/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

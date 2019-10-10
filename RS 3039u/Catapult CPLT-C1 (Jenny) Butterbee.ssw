@@ -2,7 +2,7 @@
 <mech name="Catapult" model="CPLT-C1 (Jenny) &quot;Butterbee&quot;" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1242</battle_value>
-    <cost>5641625.0</cost>
+    <cost>5749625.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Catapult CPLT-C1 (Jenny) "Butterbee" 65t, 4/6/4, Std FE, Std; 10.0T/76% Armor; 15 SHS; 4 ML, 4 SRM6</info>
-        <battleforce pv="12" wt="3" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="12" wt="3" mv="4j" s="3" m="3" l="0" e="0" ov="1" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

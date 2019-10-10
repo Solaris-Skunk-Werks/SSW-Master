@@ -2,7 +2,7 @@
 <mech name="&quot;Rock Hound&quot; ProspectorMech" model="AM-PRM-RH7" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>523</battle_value>
-    <cost>1902853.3333333335</cost>
+    <cost>1929853.3333333335</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>

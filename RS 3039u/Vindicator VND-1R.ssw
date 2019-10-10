@@ -2,7 +2,7 @@
 <mech name="Vindicator" model="VND-1R" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1024</battle_value>
-    <cost>3137582.5</cost>
+    <cost>3167582.5</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>

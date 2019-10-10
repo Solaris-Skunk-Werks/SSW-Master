@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stooping Hawk" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>7159320.833333334</cost>
+    <cost>7195320.833333334</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -62,9 +62,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2900</loadout_year>
         <info>Stooping Hawk  Prime 55t, 5/8/5, Std FE, ES; 9.0T/93% FF Armor; 10 DHS; 1 UAC/10, 2 ERML, 2 MPL</info>
-        <battleforce pv="21" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2147</battle_value>
-        <cost>7159320.833333334</cost>
+        <cost>7195320.833333334</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -164,7 +164,7 @@
         <info>Stooping Hawk  B 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 10 DHS; 3 LRM15, 1 ERLL</info>
         <battleforce pv="21" wt="2" mv="5" s="4" m="4" l="4" e="0" ov="1" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>2111</battle_value>
-        <cost>7546820.833333334</cost>
+        <cost>7786820.833333334</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -333,7 +333,7 @@
         <info>Stooping Hawk  E 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 10 DHS; 3 ATM3, 2 ERML, 1 LB10</info>
         <battleforce pv="17" wt="2" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1674</battle_value>
-        <cost>6936508.333333334</cost>
+        <cost>7193508.333333334</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -398,9 +398,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Stooping Hawk  F 55t, 5/8/8, Std FE, ES; 9.0T/93% FF Armor; 12 DHS; 2 SSRM4, 2 MPL, 2 HML, 1 HSL</info>
-        <battleforce pv="20" wt="2" mv="5/8j" s="5" m="4" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="2" mv="5/8j" s="5" m="4" l="0" e="0" ov="2" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1988</battle_value>
-        <cost>9904758.333333332</cost>
+        <cost>9958758.333333332</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="8">
@@ -468,7 +468,7 @@
         <info>Stooping Hawk  G 55t, 5/8/0, Std FE, ES; 9.0T/93% FF Armor; 12 DHS; 3 PrmAC4, 4 ERML</info>
         <battleforce pv="17" wt="2" mv="5" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1657</battle_value>
-        <cost>6977195.833333334</cost>
+        <cost>6986795.833333334</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">

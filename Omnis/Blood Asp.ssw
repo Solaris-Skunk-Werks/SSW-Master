@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blood Asp" model="" tons="90" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.91935E7</cost>
+    <cost>2.92875E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -55,9 +55,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Blood Asp  Prime 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 18 DHS; 2 GR, 2 MPL, 1 SSRM6, 4 HML</info>
-        <battleforce pv="27" wt="4" mv="4" s="9" m="9" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="4" mv="4" s="8" m="8" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2654</battle_value>
-        <cost>2.91935E7</cost>
+        <cost>2.92875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -134,7 +134,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3060</loadout_year>
         <info>Blood Asp  A 90t, 4/6/3, XLFE, ES; 16.0T/92% Armor; 25 DHS; 1 ECM, 2 ERPPC, 2 HLL, TC</info>
-        <battleforce pv="35" wt="4" mv="4/2j" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="35" wt="4" mv="4/2j" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>3452</battle_value>
         <cost>2.9656625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -198,7 +198,7 @@
         <info>Blood Asp  B 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 16 DHS; 1 ECM, 1 GR, 4 MPL, 2 LRM20</info>
         <battleforce pv="29" wt="4" mv="4" s="8" m="8" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>2885</battle_value>
-        <cost>2.9737375E7</cost>
+        <cost>3.0037375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -290,7 +290,7 @@
         <info>Blood Asp  C 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 14 DHS; 2 UAC/10, 1 ERLL, 1 LB20</info>
         <battleforce pv="23" wt="4" mv="4" s="6" m="6" l="4" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>2270</battle_value>
-        <cost>2.96008125E7</cost>
+        <cost>2.97028125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -352,7 +352,7 @@
         <info>Blood Asp  D 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 16 DHS; 2 ERLL, 1 GR, 3 UAC2, 2 HML</info>
         <battleforce pv="24" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2396</battle_value>
-        <cost>2.92125E7</cost>
+        <cost>2.92535E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -424,7 +424,7 @@
         <info>Blood Asp  E 90t, 4/6/4, XLFE, ES; 16.0T/92% Armor; 20 DHS; 4 ATM3, 2 MPL, 2 ERPPC, TC</info>
         <battleforce pv="32" wt="4" mv="4j" s="7" m="6" l="4" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3179</battle_value>
-        <cost>2.92752E7</cost>
+        <cost>2.94252E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
@@ -507,7 +507,7 @@
         <info>Blood Asp  F 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 19 DHS; 1 PC, 2 APGR, 2 MPL, 2 ERPPC, 4 SSRM6</info>
         <battleforce pv="29" wt="4" mv="4" s="7" m="7" l="3" e="0" ov="4" armor="9" internal="5" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>2908</battle_value>
-        <cost>3.0017625E7</cost>
+        <cost>3.0194625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">
@@ -605,9 +605,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3074</loadout_year>
         <info>Blood Asp  G 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 16 DHS; 2 ERLL, 2 MPL, 1 HAG40, 2 HML, TC</info>
-        <battleforce pv="32" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
+        <battleforce pv="32" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="3" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
         <battle_value>3192</battle_value>
-        <cost>2.9476125E7</cost>
+        <cost>2.9596125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">

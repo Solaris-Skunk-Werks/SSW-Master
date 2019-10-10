@@ -2,7 +2,7 @@
 <mech name="Crossbow" model="CRS-6C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1204</battle_value>
-    <cost>5110400.0</cost>
+    <cost>5116400.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Crossbow CRS-6C 60t, 5/8/0, Std FE, Std; 8.0T/64% Armor; 10 SHS; 1 ML, 1 PPC, 1 AC10</info>
-        <battleforce pv="12" wt="3" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="5" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="12" wt="3" mv="5" s="2" m="2" l="1" e="0" ov="1" armor="4" internal="5" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="2">

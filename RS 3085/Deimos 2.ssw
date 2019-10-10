@@ -2,7 +2,7 @@
 <mech name="Deimos" model="2" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2394</battle_value>
-    <cost>2.3317708333333336E7</cost>
+    <cost>2.3379708333333336E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Deimos 2 85t, 4/6[8]/0 MASC, XLFE, ES; 13.0T/95% FF Armor; 10 DHS; 1 LAMS, 2 LRM15, 2 ERML, 6 UAC2</info>
-        <battleforce pv="24" wt="4" mv="5" s="2" m="3" l="2" e="0" ov="0" armor="8" internal="5" abilities="AMS, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="24" wt="4" mv="5" s="3" m="4" l="3" e="0" ov="1" armor="8" internal="5" abilities="AMS, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="10" techbase="1">

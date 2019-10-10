@@ -2,7 +2,7 @@
 <mech name="Mad Cat III" model="" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2400</battle_value>
-    <cost>1.309905E7</cost>
+    <cost>1.369905E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>7</productionera>
@@ -46,7 +46,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
         <source>RSProtop</source>
         <info>Mad Cat III 55t, 6/9/0, XLFE, E-Comp; 8.5T/88% FF Armor; 10 DHS; 6 ERMcL, 4 ERML, 2 LRM20</info>
-        <battleforce pv="24" wt="2" mv="6" s="5" m="5" l="2" e="0" ov="1" armor="5" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="24" wt="2" mv="6" s="5" m="5" l="2" e="0" ov="3" armor="5" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="10" techbase="1">

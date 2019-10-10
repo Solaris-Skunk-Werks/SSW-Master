@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Piranha 2 20t, 9/14/0, XLFE, ES; 4.0T/93% Armor; 11 DHS; 12 ERMcL, 2 HML, 1 HSL</info>
-        <battleforce pv="9" wt="1" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="9" wt="1" mv="9" s="4" m="4" l="0" e="0" ov="1" armor="2" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">

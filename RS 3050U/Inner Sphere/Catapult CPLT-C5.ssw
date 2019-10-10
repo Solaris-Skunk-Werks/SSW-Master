@@ -2,7 +2,7 @@
 <mech name="Catapult" model="CPLT-C5" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1748</battle_value>
-    <cost>6474875.0</cost>
+    <cost>6524875.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>4</productionera>

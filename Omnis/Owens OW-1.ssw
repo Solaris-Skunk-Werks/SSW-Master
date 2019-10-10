@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Owens" model="OW-1" tons="35" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>7832250.000000001</cost>
+    <cost>7862250.000000001</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -65,7 +65,7 @@
         <info>Owens OW-1 Prime 35t, 8/12/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 1 ML, 2 SL, 1 C3S, 1 BAP, 2 LRM5, 1 TAG</info>
         <battleforce pv="8" wt="1" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>839</battle_value>
-        <cost>7832250.000000001</cost>
+        <cost>7862250.000000001</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -107,7 +107,7 @@
         <info>Owens OW-1 A 35t, 8/12/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 2 SSRM2, 1 C3S, 1 SPL, 2 MG, 1 BAP, 1 TAG</info>
         <battleforce pv="7" wt="1" mv="8" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>680</battle_value>
-        <cost>7720031.250000001</cost>
+        <cost>7775031.250000001</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -154,7 +154,7 @@
         <info>Owens OW-1 B 35t, 8/12/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 4 SL, 1 C3S, 1 BAP, 1 SRM6, 1 TAG</info>
         <battleforce pv="8" wt="1" mv="8" s="3" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>752</battle_value>
-        <cost>8005218.750000001</cost>
+        <cost>8059218.750000001</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -223,7 +223,7 @@
         <info>Owens OW-1 D 35t, 8/12/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 1 Narc, 1 C3S, 1 BAP, 1 SRM4, 1 TAG</info>
         <battleforce pv="7" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, SNARC, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>655</battle_value>
-        <cost>7895531.250000001</cost>
+        <cost>7928531.250000001</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -255,7 +255,7 @@
         <info>Owens OW-1 E 35t, 8/12/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 1 ML, 1 MRM10, 1 C3S, 1 BAP, 1 MPL, 1 TAG</info>
         <battleforce pv="8" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>833</battle_value>
-        <cost>7878656.250000001</cost>
+        <cost>7883656.250000001</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -288,7 +288,7 @@
         <battleforce pv="12" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="1" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, MHQ1, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1215</battle_value>
-        <cost>8114906.250000001</cost>
+        <cost>8119906.250000001</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

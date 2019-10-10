@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Sunder" model="SD1-O" tons="90" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.75179375E7</cost>
+    <cost>2.75919375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -49,9 +49,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Sunder SD1-O Prime 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 2 ML, 1 AC20, 3 SRM4, 2 LL</info>
-        <battleforce pv="17" wt="4" mv="4" s="3" m="3" l="0" e="0" ov="0" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, AC 2/2/0, SRM 2/2/0" />
+        <battleforce pv="17" wt="4" mv="4" s="6" m="6" l="0" e="0" ov="0" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, AC 2/2/0, SRM 2/2/0" />
         <battle_value>1747</battle_value>
-        <cost>2.75179375E7</cost>
+        <cost>2.75919375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -123,7 +123,7 @@
         <info>Sunder SD1-O A 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 1 GR, 2 MPL, 3 LRM5, 1 ERPPC</info>
         <battleforce pv="20" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="0" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2003</battle_value>
-        <cost>2.7626E7</cost>
+        <cost>2.7726E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -188,9 +188,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Sunder SD1-O B 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 2 ML, 1 LRM10, 2 MPL, 1 LRM20, 2 C3M</info>
-        <battleforce pv="16" wt="4" mv="4" s="3" m="3" l="0" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3M, TAG, MHQ10, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="16" wt="4" mv="4" s="4" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3M, TAG, MHQ10, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <battle_value>1597</battle_value>
-        <cost>3.4154875E7</cost>
+        <cost>3.4304875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -267,7 +267,7 @@
         <info>Sunder SD1-O C 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 1 ML, 2 SSRM4, 1 C3S, 1 MRM30, 1 MRM40</info>
         <battleforce pv="17" wt="4" mv="4" s="7" m="7" l="0" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1735</battle_value>
-        <cost>2.81948125E7</cost>
+        <cost>2.82738125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -339,7 +339,7 @@
         <info>Sunder SD1-O D 90t, 4/6/3, XLFE, Std; 16.5T/95% Armor; 15 DHS; 2 PPC, 1 LB20</info>
         <battleforce pv="19" wt="4" mv="4/2j" s="3" m="4" l="2" e="0" ov="0" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>1947</battle_value>
-        <cost>2.8462E7</cost>
+        <cost>2.8516E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">
@@ -381,10 +381,10 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Sunder SD1-O R 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 4 ERML, 1 LB10, 2 SSRM6, 2 LPL</info>
-        <battleforce pv="25" wt="4" mv="4" s="5" m="5" l="2" e="0" ov="1" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
+        <battleforce pv="25" wt="4" mv="4" s="5" m="5" l="2" e="0" ov="3" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
         <techbase>Mixed</techbase>
         <battle_value>2462</battle_value>
-        <cost>2.88241875E7</cost>
+        <cost>2.89641875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -459,9 +459,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Sunder SD1-O E 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 2 SNPPC, 1 ERML, 1 LB10, 2 SSRM6</info>
-        <battleforce pv="19" wt="4" mv="4" s="5" m="5" l="1" e="0" ov="0" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="19" wt="4" mv="4" s="5" m="4" l="1" e="0" ov="1" armor="9" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1876</battle_value>
-        <cost>2.883725E7</cost>
+        <cost>2.892325E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -516,9 +516,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Sunder SD1-O X 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 8 EnLRM5, 1 C3S, 3 ERML, 1 MPL, 2 BPod</info>
-        <battleforce pv="18" wt="4" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="18" wt="4" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>1763</battle_value>
-        <cost>2.775425E7</cost>
+        <cost>2.787825E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -623,9 +623,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Sunder SD1-O (Samual) 90t, 4/6/0, XLFE, Std; 16.5T/95% Armor; 15 DHS; 4 Flmr, 2 APod, 12 MG, 1 ERPPC, 6 SRM4</info>
-        <battleforce pv="16" wt="4" mv="4" s="3" m="1" l="1" e="0" ov="0" armor="9" internal="4" abilities="OMNI, HT1, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
+        <battleforce pv="16" wt="4" mv="4" s="6" m="4" l="1" e="0" ov="0" armor="9" internal="4" abilities="OMNI, HT1, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
         <battle_value>1593</battle_value>
-        <cost>2.75013125E7</cost>
+        <cost>2.76113125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

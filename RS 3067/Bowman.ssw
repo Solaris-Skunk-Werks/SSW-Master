@@ -2,7 +2,7 @@
 <mech name="Bowman" model="" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Bowman.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2308</battle_value>
-    <cost>1.6834136666666668E7</cost>
+    <cost>1.6914136666666668E7</cost>
     <rules_level>2</rules_level>
     <era>1</era>
     <productionera>3</productionera>

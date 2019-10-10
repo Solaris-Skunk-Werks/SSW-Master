@@ -2,7 +2,7 @@
 <mech name="Werewolf" model="WER-LF-005" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1082</battle_value>
-    <cost>7290826.666666667</cost>
+    <cost>7345826.666666667</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>4</productionera>

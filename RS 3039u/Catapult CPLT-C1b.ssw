@@ -2,7 +2,7 @@
 <mech name="Catapult" model="CPLT-C1b" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1570</battle_value>
-    <cost>6123425.0</cost>
+    <cost>6243425.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Catapult CPLT-C1b 65t, 4/6/4, Std FE, Std; 10.0T/85% FF Armor; 12 DHS; 4 ML, 2 LRM15</info>
-        <battleforce pv="16" wt="3" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="16" wt="3" mv="4j" s="3" m="4" l="2" e="0" ov="0" armor="6" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

@@ -2,7 +2,7 @@
 <mech name="Annihilator" model="ANH-1G" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\SSW\images\Annihilator ANH-1X.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2274</battle_value>
-    <cost>8336666.666666666</cost>
+    <cost>8456666.666666666</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>

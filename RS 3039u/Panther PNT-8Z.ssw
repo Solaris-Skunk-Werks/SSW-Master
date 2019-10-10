@@ -2,7 +2,7 @@
 <mech name="Panther" model="PNT-8Z" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>741</battle_value>
-    <cost>2330460.0000000005</cost>
+    <cost>2357460.0000000005</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>

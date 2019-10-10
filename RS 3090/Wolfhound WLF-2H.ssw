@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSProtop</source>
         <info>Wolfhound WLF-2H 35t, 6/9[12]/0, XLFE, ES; 7.5T/100% Armor; 11 DHS; 2 ERML, 1 ERSL, 1 HPPC</info>
-        <battleforce pv="15" wt="1" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="1" mv="8" s="2" m="2" l="1" e="0" ov="1" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

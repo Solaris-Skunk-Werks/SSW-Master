@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hatamoto-Kaeru" model="HTM-35X" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1961</battle_value>
-    <cost>2.2342440000000004E7</cost>
+    <battle_value>1906</battle_value>
+    <cost>2.2429440000000004E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRKurita</source>
         <info>Hatamoto-Kaeru HTM-35X 80t, 4/6/4, XLFE, Comp; 14.0T/100% FF Armor; 10 DHS; 2 SRT4, 5 ML, 2 SNPPC, 2 LRT15, 1 MASS</info>
-        <battleforce pv="20" wt="4" mv="4j" s="2" m="2" l="0" e="0" ov="1" armor="8" internal="2" abilities="UMU, SRCH, ES, SEAL, SOA, TOR 1/1/1" />
+        <battleforce pv="19" wt="4" mv="4u" s="3" m="3" l="1" e="0" ov="4" armor="8" internal="2" abilities="UMU, SRCH, ES, SEAL, SOA, TOR 1/1/1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

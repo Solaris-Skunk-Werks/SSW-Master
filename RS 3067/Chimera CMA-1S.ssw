@@ -2,7 +2,7 @@
 <mech name="Chimera" model="CMA-1S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Chimera.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1173</battle_value>
-    <cost>6722800.0</cost>
+    <cost>6733300.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>

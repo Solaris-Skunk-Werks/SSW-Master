@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Perseus" model="P1" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.0061015625E7</cost>
+    <cost>2.0259015625E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -62,9 +62,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Perseus P1 Prime 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 12 DHS; 4 ERML, 1 ERSL, 1 MPL, 1 SRM4, 1 LRM20, 1 UAC10</info>
-        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="3" armor="7" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1713</battle_value>
-        <cost>2.0061015625E7</cost>
+        <cost>2.0259015625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -156,7 +156,7 @@
         <info>Perseus P1 B 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 14 DHS; 1 ERLL, 1 GR, 1 AMS, 2 LPL</info>
         <battleforce pv="18" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, AMS, SRCH, ES, SEAL, SOA" />
         <battle_value>1776</battle_value>
-        <cost>1.9283359375E7</cost>
+        <cost>1.9307359375E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">
@@ -213,7 +213,7 @@
         <info>Perseus P1 C 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 14 DHS; 1 SSRM2, 3 ERML, 1 MPL, 1 UAC10, 1 LGR</info>
         <battleforce pv="16" wt="3" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="7" internal="3" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1644</battle_value>
-        <cost>1.918765625E7</cost>
+        <cost>1.931765625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">
@@ -295,7 +295,7 @@
         <info>Perseus P1 A 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 12 DHS; 1 ECM, 2 MPL, 1 SRM6, 1 TAG, 2 LRM20</info>
         <battleforce pv="17" wt="3" mv="4" s="4" m="6" l="4" e="0" ov="0" armor="7" internal="3" abilities="OMNI, ECM, TAG, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>1661</battle_value>
-        <cost>2.01403125E7</cost>
+        <cost>2.04883125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -382,7 +382,7 @@
         <info>Perseus P1 D 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 12 DHS; 1 ECM, 3 ERML, 1 BAP, 1 ERSL, 1 SRM6, 1 LB10, 1 LRM20</info>
         <battleforce pv="17" wt="3" mv="4" s="4" m="5" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, ECM, PRB, RCN, SRCH, ES, SEAL, SOA, IF 2, FLK 1/1/1" />
         <battle_value>1714</battle_value>
-        <cost>2.0629765625E7</cost>
+        <cost>2.0949765625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -474,7 +474,7 @@
         <info>Perseus P1 E 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 12 DHS; 1 SRM6iOS, 1 BAP, 1 CommEqp, 1 ERSL, 2 VGL, 1 ERML, 1 GR, 1 MVSPL, 1 LVSPL</info>
         <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA" />
         <battle_value>1658</battle_value>
-        <cost>2.017640625E7</cost>
+        <cost>2.021640625E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -551,7 +551,7 @@
         <info>Perseus P1 P 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 12 DHS; 1 ML, 1 SSRM4, 1 ECM, 1 PPC, 1 RAC5, 1 MRM20, 4 ERSL, 1 TAG</info>
         <battleforce pv="18" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="2" armor="7" internal="3" abilities="OMNI, TAG, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1777</battle_value>
-        <cost>1.963171875E7</cost>
+        <cost>1.973171875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -658,7 +658,7 @@
         <info>Perseus P1 W 75t, 4/6/0, XLFE, ES; 14.0T/97% Armor; 12 DHS; 1 C3I, 1 GR, 3 ERML, 1 LB20</info>
         <battleforce pv="19" wt="3" mv="4" s="4" m="5" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, C3I, MHQ2, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>1864</battle_value>
-        <cost>2.130515625E7</cost>
+        <cost>2.141915625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

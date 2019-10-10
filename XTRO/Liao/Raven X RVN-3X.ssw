@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raven X" model="RVN-3X" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1050</battle_value>
-    <cost>7718625.000000001</cost>
+    <battle_value>1021</battle_value>
+    <cost>7723625.000000001</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="TRUE">
         <source>XTRLiao</source>
         <info>Raven X RVN-3X 35t, 6/9/0, XLFE, Comp, XL Gyro; 5.0T/75% FF Armor; 10 DHS; 1 LAMS, 1 BlAP, 1 MRM20, 1 AECM, 2 MXPL</info>
-        <battleforce pv="11" wt="1" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="1" abilities="AMS, AECM, BH, RCN, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="10" wt="1" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="1" abilities="AMS, AECM, BH, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

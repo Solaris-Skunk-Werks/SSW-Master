@@ -2,7 +2,7 @@
 <mech name="Griffin" model="GRF-1S" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1253</battle_value>
-    <cost>4737006.666666667</cost>
+    <cost>4767006.666666667</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Griffin GRF-1S 55t, 5/8/5, Std FE, Std; 9.5T/82% Armor; 16 SHS; 2 ML, 1 LRM5, 1 LL</info>
-        <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="1" e="0" ov="1" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Pariah (Septicemia)" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.2964070833333334E7</cost>
+    <cost>1.3084070833333334E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -64,7 +64,7 @@
         <info>Pariah (Septicemia)  Prime 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 ERLL, 1 HAG40, TC</info>
         <battleforce pv="25" wt="2" mv="5" s="5" m="4" l="4" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 3/3/3" />
         <battle_value>2511</battle_value>
-        <cost>1.2964070833333334E7</cost>
+        <cost>1.3084070833333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -111,7 +111,7 @@
         <info>Pariah (Septicemia)  A 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 16 DHS; 2 ATM12, 6 HSL</info>
         <battleforce pv="19" wt="2" mv="5" s="10" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1935</battle_value>
-        <cost>1.3052614583333334E7</cost>
+        <cost>1.3502614583333334E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -257,9 +257,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  C 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 12 DHS; 3 PC, 8 APGR, 4 MPL, 2 MGA+4MG</info>
-        <battleforce pv="22" wt="2" mv="5" s="6" m="5" l="2" e="0" ov="4" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="22" wt="2" mv="5" s="5" m="4" l="2" e="0" ov="4" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>2227</battle_value>
-        <cost>1.3979708333333334E7</cost>
+        <cost>1.4007208333333334E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
@@ -378,9 +378,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  D 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 3 ERSL, 1 ERPPC, 1 UAC20, TC</info>
-        <battleforce pv="27" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="2" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2718</battle_value>
-        <cost>1.3523523958333334E7</cost>
+        <cost>1.3563523958333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -438,7 +438,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  E 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 15 DHS; 1 LTAG, 6 ERML, 1 NCEWS, 2 ERPPC, TC</info>
-        <battleforce pv="30" wt="2" mv="5" s="5" m="5" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="30" wt="2" mv="5" s="5" m="5" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2950</battle_value>
         <cost>1.5664945833333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -514,7 +514,7 @@
         <info>Pariah (Septicemia)  A-Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 16 DHS; 1 LTAG, 6 iHSL, 1 NCEWS, 2 iATM12</info>
         <battleforce pv="24" wt="2" mv="5" s="11" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2388</battle_value>
-        <cost>1.6927614583333336E7</cost>
+        <cost>1.7527614583333336E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -664,9 +664,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  C-Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 12 DHS; 2 MGA+3MG, 1 NCEWS, 3 PC, 6 APGR, 4 MPL</info>
-        <battleforce pv="23" wt="2" mv="5" s="6" m="5" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="5" s="5" m="4" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>2264</battle_value>
-        <cost>1.6052833333333334E7</cost>
+        <cost>1.6080333333333334E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
@@ -780,9 +780,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  D-Z 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 NCEWS, 1 ERPPC, 1 UAC20, TC</info>
-        <battleforce pv="27" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2704</battle_value>
-        <cost>1.5589383333333334E7</cost>
+        <cost>1.5629383333333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -832,7 +832,7 @@
         <info>Pariah (Septicemia)  F 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 2 ArwIV</info>
         <battleforce pv="16" wt="2" mv="5" s="4" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ARTAC, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1586</battle_value>
-        <cost>1.3246364583333334E7</cost>
+        <cost>1.3286364583333334E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -874,7 +874,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  US 55t, 5/8/7, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 ECM, 1 Talons, 2 ERML, 4 ERSL, 2 SptWeld, 1 ERPPC, 1 LqdCrgo</info>
-        <battleforce pv="23" wt="2" mv="5/7j" s="3" m="3" l="1" e="0" ov="1" armor="6" internal="3" abilities="OMNI, MEL, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="5/7j" s="3" m="3" l="1" e="0" ov="2" armor="6" internal="3" abilities="OMNI, MEL, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2298</battle_value>
         <cost>1.5522345833333334E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
@@ -957,9 +957,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  UW 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 6 SRT4, 5 HrJl, 2 LRT15, 1 MASS</info>
-        <battleforce pv="19" wt="2" mv="5j" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="UMU, OMNI, BHJ, CASE, SRCH, ES, SEAL, SOA, TOR 5/5/2" />
+        <battleforce pv="19" wt="2" mv="5u" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="UMU, OMNI, BHJ, CASE, SRCH, ES, SEAL, SOA, TOR 4/4/2" />
         <battle_value>1913</battle_value>
-        <cost>1.4705883333333334E7</cost>
+        <cost>1.4879883333333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -1079,7 +1079,7 @@
         <info>Pariah (Septicemia)  Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 ERLL, 1 iATM12, 1 MPL, 1 HPG</info>
         <battleforce pv="21" wt="2" mv="5" s="6" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, HPG, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2072</battle_value>
-        <cost>7.763196570833334E9</cost>
+        <cost>7.763646570833334E9</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>

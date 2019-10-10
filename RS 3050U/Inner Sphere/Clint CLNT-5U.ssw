@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Clint CLNT-5U 40t, 6/9/6, LFE, ES; 8.0T/93% Armor; 12 DHS; 1 ERLL, 1 C3S, 3 ERML, 1 TAG</info>
-        <battleforce pv="13" wt="2" mv="6j" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="C3S, TAG, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="2" mv="6j" s="2" m="2" l="1" e="0" ov="1" armor="4" internal="2" abilities="C3S, TAG, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

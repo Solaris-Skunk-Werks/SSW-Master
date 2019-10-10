@@ -2,7 +2,7 @@
 <mech name="Reptar" model="EPT-C-1" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>514</battle_value>
-    <cost>1808657.4999999998</cost>
+    <cost>1821507.4999999998</cost>
     <rules_level>2</rules_level>
     <era>3</era>
     <productionera>7</productionera>

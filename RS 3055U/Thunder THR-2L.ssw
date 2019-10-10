@@ -2,7 +2,7 @@
 <mech name="Thunder" model="THR-2L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1951</battle_value>
-    <cost>1.9041161666666668E7</cost>
+    <cost>1.9183161666666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Thunder THR-2L 70t, 5[6]/8[9]/0 TSM, XLFE, Std; 13.0T/96% Stlth Armor; 11 DHS; 1 ECM, 2 ERML, 1 ERSL, 1 SSRM6, 1 LB20</info>
-        <battleforce pv="20" wt="3" mv="5" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="3" abilities="TSM, ECM, STL, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="20" wt="3" mv="5" s="3" m="3" l="0" e="0" ov="1" armor="7" internal="3" abilities="TSM, ECM, STL, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

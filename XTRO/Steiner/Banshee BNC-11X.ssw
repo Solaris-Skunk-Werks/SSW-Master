@@ -2,7 +2,7 @@
 <mech name="Banshee" model="BNC-11X" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2030</battle_value>
-    <cost>2.64500275E7</cost>
+    <cost>2.64750275E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRSteiner</source>
         <info>Banshee BNC-11X 95t, 4[3]/6[5]/0, XLFE, ES; 18.0T/98% Armor; 14 DHS; 7 ModArmor, 1 ERSL, 1 SBGR, 2 BmbstLsr</info>
-        <battleforce pv="20" wt="4" mv="3" s="4" m="4" l="1" e="0" ov="0" armor="12" internal="5" abilities="SRCH, ES, SEAL, SOA, FLK 0/1/1" />
+        <battleforce pv="20" wt="4" mv="3" s="4" m="4" l="1" e="0" ov="0" armor="12" internal="5" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">

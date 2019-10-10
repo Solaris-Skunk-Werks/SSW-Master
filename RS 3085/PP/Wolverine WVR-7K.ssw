@@ -2,7 +2,7 @@
 <mech name="Wolverine" model="WVR-7K" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1331</battle_value>
-    <cost>9878356.666666668</cost>
+    <cost>9932356.666666668</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Wolverine WVR-7K 55t, 5/8/5, XLFE, Std; 12.0T/100% Armor; 13 DHS; 1 SPL, 2 SRM6, 1 MPL, 1 LPL</info>
-        <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="13" wt="2" mv="5j" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="3" abilities="SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

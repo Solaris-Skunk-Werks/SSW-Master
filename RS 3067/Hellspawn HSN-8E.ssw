@@ -2,7 +2,7 @@
 <mech name="Hellspawn" model="HSN-8E" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Hellspawn.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1341</battle_value>
-    <cost>8636200.0</cost>
+    <cost>8756200.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Hellspawn HSN-8E 45t, 6/9/6, XLFE, ES; 6.5T/68% Armor; 10 DHS; 1 ECM, 2 ERML, 2 LRM10, 1 MPL</info>
-        <battleforce pv="13" wt="2" mv="6j" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="2" abilities="ECM, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="13" wt="2" mv="6j" s="3" m="3" l="2" e="0" ov="1" armor="3" internal="2" abilities="ECM, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

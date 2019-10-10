@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Fenris (Ice Ferret)" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.24457125E7</cost>
+    <cost>1.24997125E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -64,7 +64,7 @@
         <info>Fenris (Ice Ferret)  Prime 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SSRM2, 1 BAP, 1 ERSL, 1 ERPPC</info>
         <battleforce pv="17" wt="2" mv="8" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1678</battle_value>
-        <cost>1.24457125E7</cost>
+        <cost>1.24997125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -101,7 +101,7 @@
         <info>Fenris (Ice Ferret)  A 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 2 ERML, 1 AMS, 1 LB2</info>
         <battleforce pv="13" wt="2" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1323</battle_value>
-        <cost>1.2325634375E7</cost>
+        <cost>1.2329634375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -141,9 +141,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2948</loadout_year>
         <info>Fenris (Ice Ferret)  B 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERLL, 1 SPL, 1 SRM6, 1 SRM4</info>
-        <battleforce pv="15" wt="2" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="15" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1461</battle_value>
-        <cost>1.22383625E7</cost>
+        <cost>1.22923625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -185,7 +185,7 @@
         <info>Fenris (Ice Ferret)  C 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERSL, 3 LRM5</info>
         <battleforce pv="12" wt="2" mv="8" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1211</battle_value>
-        <cost>1.2411003125E7</cost>
+        <cost>1.2591003125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -232,7 +232,7 @@
         <info>Fenris (Ice Ferret)  D 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 4 MPL, 1 AMS</info>
         <battleforce pv="17" wt="2" mv="8" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1653</battle_value>
-        <cost>1.21187375E7</cost>
+        <cost>1.21207375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -274,7 +274,7 @@
         <info>Fenris (Ice Ferret)  E 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERML, 1 ATM9, 1 ERSL</info>
         <battleforce pv="15" wt="2" mv="8" s="4" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1483</battle_value>
-        <cost>1.20650875E7</cost>
+        <cost>1.22900875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -316,7 +316,7 @@
         <info>Fenris (Ice Ferret)  H 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 13 DHS; 1 ERLL, 1 SRM6, 2 HML</info>
         <battleforce pv="16" wt="2" mv="8" s="4" m="4" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1619</battle_value>
-        <cost>1.23833625E7</cost>
+        <cost>1.24103625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -357,7 +357,7 @@
         <info>Fenris (Ice Ferret)  L 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 PC, 3 APGR, TC</info>
         <battleforce pv="14" wt="2" mv="8" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>1380</battle_value>
-        <cost>1.2144384375E7</cost>
+        <cost>1.2174384375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -412,9 +412,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Fenris (Ice Ferret)  U 45t, 8/12/7, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SRT4, 2 ERML, 1 LRT5</info>
-        <battleforce pv="15" wt="2" mv="8/5j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="8/5u" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1549</battle_value>
-        <cost>1.2839025E7</cost>
+        <cost>1.2896025E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="7">

@@ -2,7 +2,7 @@
 <mech name="Stalking Spider" model="3" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1643</battle_value>
-    <cost>6629000.000000001</cost>
+    <cost>6656000.000000001</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

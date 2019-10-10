@@ -2,7 +2,7 @@
 <mech name="Wolverine II" model="WVR-7H" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\SSW\images\Wolverine II WVR-7H.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1301</battle_value>
-    <cost>5556956.666666667</cost>
+    <cost>5628956.666666667</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>0</productionera>

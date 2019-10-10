@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="&quot;Gestalt&quot;" model="D2X-G" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2491</battle_value>
+    <battle_value>2288</battle_value>
     <cost>1.3516465E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JFR</source>
         <info>"Gestalt" D2X-G 45t, 7/11/6, XLFE, Std, NA; 7.5T/97% HFF Armor; 10 DHS; 1 AECM, 2 ERML, 1 HPPC, VoidSig</info>
-        <battleforce pv="25" wt="2" mv="7/4j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="MAS, AECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="7/4j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="MAS, AECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

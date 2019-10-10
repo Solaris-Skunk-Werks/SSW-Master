@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Blackjack" model="BJ2-O" tons="50" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>8881249.999999998</cost>
+    <cost>8899749.999999998</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -73,7 +73,7 @@
         <info>Blackjack BJ2-O Prime 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 4 ML, 4 MG, 2 UAC5</info>
         <battleforce pv="12" wt="2" mv="4j" s="5" m="4" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1201</battle_value>
-        <cost>8881249.999999998</cost>
+        <cost>8899749.999999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -148,9 +148,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Blackjack BJ2-O A 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 2 ML, 1 SL, 2 LRM20</info>
-        <battleforce pv="13" wt="2" mv="4j" s="2" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="13" wt="2" mv="4j" s="3" m="4" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <battle_value>1318</battle_value>
-        <cost>8902343.749999998</cost>
+        <cost>9022343.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -207,7 +207,7 @@
         <info>Blackjack BJ2-O B 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 1 SL, 1 C3S, 1 GR, 1 LRM10</info>
         <battleforce pv="13" wt="2" mv="4j" s="2" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1323</battle_value>
-        <cost>9221093.749999998</cost>
+        <cost>9381093.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -259,7 +259,7 @@
         <info>Blackjack BJ2-O C 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 2 ML, 1 SL, 2 LB10</info>
         <battleforce pv="12" wt="2" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1189</battle_value>
-        <cost>9464843.749999998</cost>
+        <cost>9496843.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -304,7 +304,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Blackjack BJ2-O D 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 13 DHS; 2 ML, 1 SL, 1 PPC, 2 MPL, 2 LL</info>
-        <battleforce pv="14" wt="2" mv="4j" s="4" m="4" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="4j" s="4" m="4" l="1" e="0" ov="1" armor="5" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1375</battle_value>
         <cost>8973593.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -364,7 +364,7 @@
         <info>Blackjack BJ2-O E 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 1 ERLL, 1 ERSL, 1 LRM10, 1 LGR</info>
         <battleforce pv="13" wt="2" mv="4j" s="2" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1260</battle_value>
-        <cost>8892968.749999998</cost>
+        <cost>8992968.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -414,9 +414,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Blackjack BJ2-O F 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 12 DHS; 2 ERML, 1 ERSL, 1 ERPPC, 1 UAC10</info>
-        <battleforce pv="14" wt="2" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="4j" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1405</battle_value>
-        <cost>9299843.749999998</cost>
+        <cost>9323843.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">
@@ -466,10 +466,10 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Blackjack BJ2-O R 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 1 GR, 1 ERSL, 3 MPL, 1 LPL</info>
-        <battleforce pv="20" wt="2" mv="4j" s="5" m="5" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="2" mv="4j" s="5" m="5" l="3" e="0" ov="1" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>2010</battle_value>
-        <cost>9042968.749999998</cost>
+        <cost>9082968.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -519,9 +519,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Blackjack BJ2-O X 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 12 DHS; 2 SSRM4, 4 LPPC</info>
-        <battleforce pv="13" wt="2" mv="4j" s="2" m="2" l="2" e="0" ov="1" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="2" mv="4j" s="2" m="2" l="2" e="0" ov="2" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1320</battle_value>
-        <cost>1.0403749999999998E7</cost>
+        <cost>1.0457749999999998E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">
@@ -571,9 +571,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Blackjack BJ2-O U 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 5 HrJl, 1 ERSL, 2 LPPC, 6 LRT5</info>
-        <battleforce pv="12" wt="2" mv="4j" s="1" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, BHJ, SRCH, ES, SEAL, SOA, TOR 1/2/2" />
+        <battleforce pv="12" wt="2" mv="4j" s="2" m="3" l="3" e="0" ov="1" armor="5" internal="2" abilities="OMNI, BHJ, SRCH, ES, SEAL, SOA, TOR 1/2/2" />
         <battle_value>1223</battle_value>
-        <cost>9839843.749999998</cost>
+        <cost>9929843.749999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

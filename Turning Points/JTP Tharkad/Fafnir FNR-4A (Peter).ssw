@@ -2,7 +2,7 @@
 <mech name="Fafnir" model="FNR-4A (Peter)" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2458</battle_value>
-    <cost>1.3406E7</cost>
+    <cost>1.3486E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JTPTharkad</source>
         <info>Fafnir FNR-4A (Peter) 100t, 3/5/0, Std FE, ES, Cmp Gyro; 19.5T/100% Armor; 13 DHS; 1 ECM, 2 ERLL, 1 HGR, 1 C3S, 10 RL10, 3 MPL</info>
-        <battleforce pv="25" wt="4" mv="3" s="5" m="5" l="3" e="0" ov="0" armor="10" internal="8" abilities="ECM, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="25" wt="4" mv="3" s="5" m="5" l="3" e="0" ov="2" armor="10" internal="8" abilities="ECM, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

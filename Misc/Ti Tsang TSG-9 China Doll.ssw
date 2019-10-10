@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BattleCorps</source>
         <info>Ti Ts'ang TSG-9 "China Doll" 60t, 5/8[10]/8, XLFE, ES; 12.5T/100% Armor; 12 DHS; 5 ERML, 2 ERSL, 1 Htcht</info>
-        <battleforce pv="17" wt="3" mv="6/8j" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="3" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="6/8j" s="3" m="3" l="0" e="0" ov="1" armor="7" internal="3" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="8">

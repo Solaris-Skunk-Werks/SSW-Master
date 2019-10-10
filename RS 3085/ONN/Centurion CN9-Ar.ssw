@@ -2,7 +2,7 @@
 <mech name="Centurion" model="CN9-Ar" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1226</battle_value>
-    <cost>3803500.0</cost>
+    <cost>3863500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <info>Centurion CN9-Ar 50t, 4/6/0, Std FE, Std; 8.5T/80% Armor; 10 DHS; 1 ML, 1 LPPC, 1 MPL, 1 LRM10, 1 HPPC</info>
-        <battleforce pv="12" wt="2" mv="4" s="2" m="3" l="3" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="12" wt="2" mv="4" s="2" m="3" l="3" e="0" ov="1" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

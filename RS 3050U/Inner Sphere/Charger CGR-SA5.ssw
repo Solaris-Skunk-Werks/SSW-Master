@@ -2,7 +2,7 @@
 <mech name="Charger" model="CGR-SA5" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2105</battle_value>
-    <cost>1.753452E7</cost>
+    <cost>1.766252E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Charger CGR-SA5 80t, 4/6[8]/0 MASC, LFE, ES; 15.5T/100% Armor; 12 DHS; 3 ERML, 2 SSRM6, 1 LB20</info>
-        <battleforce pv="21" wt="4" mv="5" s="5" m="5" l="0" e="0" ov="0" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="21" wt="4" mv="5" s="4" m="4" l="0" e="0" ov="1" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

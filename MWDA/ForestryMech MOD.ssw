@@ -2,7 +2,7 @@
 <mech name="ForestryMech" model="MOD" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>275</battle_value>
-    <cost>1309078.125</cost>
+    <cost>1310078.125</cost>
     <rules_level>1</rules_level>
     <era>3</era>
     <productionera>0</productionera>

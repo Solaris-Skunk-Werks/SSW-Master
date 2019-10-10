@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Apollo" model="APL-4M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1343</battle_value>
-    <cost>9514623.333333332</cost>
+    <battle_value>1302</battle_value>
+    <cost>9654623.333333332</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>7</productionera>

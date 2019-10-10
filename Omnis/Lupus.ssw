@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Lupus" model="" tons="60" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>8911200.0</cost>
+    <cost>9091200.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -62,9 +62,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
         <info>Lupus  Prime 60t, 5/8/5, Std FE, ES; 9.0T/86% FF Armor; 10 DHS; 1 ECM, 2 ERML, 2 LRM20</info>
-        <battleforce pv="24" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battleforce pv="24" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>2428</battle_value>
-        <cost>8911200.0</cost>
+        <cost>9091200.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -124,7 +124,7 @@
         <info>Lupus  A 60t, 5/8/0, Std FE, ES; 9.0T/86% FF Armor; 12 DHS; 1 UAC/10, 2 ERML, 1 LPL</info>
         <battleforce pv="19" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1927</battle_value>
-        <cost>7394000.0</cost>
+        <cost>7430000.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
@@ -174,9 +174,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
         <info>Lupus  B 60t, 5/8/0, Std FE, ES; 9.0T/86% FF Armor; 11 DHS; 2 ERML, 2 ERSL, 2 MPL, 1 LB20</info>
-        <battleforce pv="20" wt="3" mv="5" s="5" m="5" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="20" wt="3" mv="5" s="5" m="5" l="0" e="0" ov="1" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>1985</battle_value>
-        <cost>7908200.0</cost>
+        <cost>7982200.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">

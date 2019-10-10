@@ -2,7 +2,7 @@
 <mech name="Centurion" model="CN9-H" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>848</battle_value>
-    <cost>3951000.0</cost>
+    <cost>3983000.0</cost>
     <rules_level>4</rules_level>
     <era>2</era>
     <productionera>0</productionera>

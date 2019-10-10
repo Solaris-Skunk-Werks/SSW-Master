@@ -2,7 +2,7 @@
 <mech name="Ursus" model="3" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1284</battle_value>
-    <cost>5723500.0</cost>
+    <cost>5748400.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>6</productionera>

@@ -2,7 +2,7 @@
 <mech name="Annihilator" model="ANH-3A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Annihilator.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1712</battle_value>
-    <cost>1.2532333333333332E7</cost>
+    <cost>1.2537333333333332E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Annihilator ANH-3A 100t, 2/3/0, CFE, Std, Cmp Gyro; 18.5T/100% LFF Armor; 12 DHS; 8 LAC2, 4 ERML, TC</info>
-        <battleforce pv="17" wt="4" mv="2" s="3" m="3" l="0" e="0" ov="0" armor="10" internal="10" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/2" />
+        <battleforce pv="17" wt="4" mv="2" s="4" m="4" l="2" e="0" ov="0" armor="10" internal="10" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Marauder II" model="MAD-5A" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2058</battle_value>
-    <cost>2.2456E7</cost>
+    <cost>2.25E7</cost>
     <rules_level>1</rules_level>
     <era>4</era>
     <productionera>4</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Marauder II MAD-5A 100t, 3/5/3, XLFE, Std; 19.0T/99% Armor; 29 SHS; 2 ML, 2 ERPPC, 1 LB10</info>
-        <battleforce pv="21" wt="4" mv="3j" s="3" m="3" l="3" e="0" ov="0" armor="10" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="21" wt="4" mv="3j" s="3" m="3" l="3" e="0" ov="1" armor="10" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

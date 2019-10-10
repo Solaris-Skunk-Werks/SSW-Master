@@ -165,7 +165,7 @@
         <info>Cephalus  B 25t, 10/15/0, XXLFE, ES; 6.0T/94% FL Armor; 10 DHS; 1 TSR, 1 LTAG, 1 NCEWS, NullSig, CLPS</info>
         <battleforce pv="8" wt="1" mv="10" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ECM, STL, LTAG, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>785</battle_value>
-        <cost>2.3485677083333332E7</cost>
+        <cost>2.3487677083333332E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -191,8 +191,8 @@
         <loadout_year>3072</loadout_year>
         <info>Cephalus  C 25t, 10/15/0, XXLFE, ES; 6.0T/94% FL Armor; 10 DHS; 1 Flmr, 1 PC, 1 NCEWS, NullSig, CLPS</info>
         <battleforce pv="12" wt="1" mv="10" s="2" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ECM, STL, ENE, HT1, SRCH, ES, SEAL, SOA" />
-        <battle_value>1215</battle_value>
-        <cost>2.3544270833333332E7</cost>
+        <battle_value>1209</battle_value>
+        <cost>2.3568270833333332E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -223,7 +223,7 @@
         <loadout_year>3072</loadout_year>
         <info>Cephalus  D 25t, 10/15/0, XXLFE, ES; 6.0T/94% FL Armor; 10 DHS; 1 iHLL, 3 iHSL, 1 NCEWS, NullSig, CLPS</info>
         <battleforce pv="15" wt="1" mv="10" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ECM, STL, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1471</battle_value>
+        <battle_value>1450</battle_value>
         <cost>2.3954427083333332E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
@@ -280,9 +280,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Cephalus  U 25t, 10/15/7, XXLFE, ES; 6.0T/94% FL Armor; 10 DHS; 1 NCEWS, 1 LRT5, NullSig, CLPS</info>
-        <battleforce pv="9" wt="1" mv="10/5j" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="UMU, OMNI, ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="9" wt="1" mv="10/5u" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="UMU, OMNI, ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>878</battle_value>
-        <cost>2.3540364583333332E7</cost>
+        <cost>2.3570364583333332E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="7">

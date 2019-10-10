@@ -2,7 +2,7 @@
 <mech name="Sha Yu" model="SYU-4B" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Sha Yu.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1267</battle_value>
-    <cost>7990733.333333332</cost>
+    <cost>8050733.333333332</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -61,7 +61,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Sha Yu SYU-4B 40t, 7/11/0, XLFE, ES; 8.5T/99% Stlth Armor; 11 DHS; 1 ECM, 1 C3S, 2 ERML, 1 LRM5, 3 MPL</info>
-        <battleforce pv="13" wt="2" mv="7" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="ECM, STL, C3S, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="2" mv="7" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="2" abilities="ECM, STL, C3S, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

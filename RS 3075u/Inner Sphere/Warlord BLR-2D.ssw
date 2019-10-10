@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Warlord BLR-2D 80t, 4/6/0, Std FE, ES; 14.5T/94% Armor; 16 DHS; 6 ERML, 2 HPPC</info>
-        <battleforce pv="20" wt="4" mv="4" s="3" m="4" l="2" e="0" ov="1" armor="8" internal="6" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="4" mv="4" s="3" m="4" l="2" e="0" ov="2" armor="8" internal="6" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">

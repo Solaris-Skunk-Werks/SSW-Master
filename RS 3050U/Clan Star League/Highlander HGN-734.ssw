@@ -2,7 +2,7 @@
 <mech name="Highlander" model="HGN-734" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2214</battle_value>
-    <cost>1.564498E7</cost>
+    <cost>1.577298E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Highlander HGN-734 90t, 3/5/3, LFE, Std; 17.5T/100% Armor; 14 DHS; 1 ERLL, 2 ERML, 1 MPL, 2 SSRM6, 1 LB20</info>
-        <battleforce pv="22" wt="4" mv="3j" s="5" m="5" l="1" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="22" wt="4" mv="3j" s="4" m="4" l="1" e="0" ov="2" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

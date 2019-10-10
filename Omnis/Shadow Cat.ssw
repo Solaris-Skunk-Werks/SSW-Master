@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shadow Cat" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.1713009375E7</cost>
+    <cost>1.1753009375E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -77,7 +77,7 @@
         <info>Shadow Cat  Prime 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 10 DHS; 2 ERML, 1 GR, 1 BAP</info>
         <battleforce pv="22" wt="2" mv="8/6j" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2156</battle_value>
-        <cost>1.1713009375E7</cost>
+        <cost>1.1753009375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -119,7 +119,7 @@
         <info>Shadow Cat  A 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 13 DHS; 2 ERLL, 1 BAP, 1 SSRM6</info>
         <battleforce pv="22" wt="2" mv="8/6j" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2220</battle_value>
-        <cost>1.184378125E7</cost>
+        <cost>1.195178125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -167,7 +167,7 @@
         <info>Shadow Cat  B 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 10 DHS; 1 ECM, 2 LRM15, 2 ERML, 1 BAP</info>
         <battleforce pv="24" wt="2" mv="8/6j" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>2420</battle_value>
-        <cost>1.260865625E7</cost>
+        <cost>1.284865625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -229,7 +229,7 @@
         <info>Shadow Cat  C 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 10 DHS; 1 Narc, 3 ERML, 2 ATM6</info>
         <battleforce pv="22" wt="2" mv="8/6j" s="5" m="4" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, SNARC, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2199</battle_value>
-        <cost>1.166615625E7</cost>
+        <cost>1.190315625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -296,7 +296,7 @@
         <info>Shadow Cat  H 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 14 DHS; 1 HLL, 1 LRM20, TC</info>
         <battleforce pv="22" wt="2" mv="8/6j" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>2155</battle_value>
-        <cost>1.1665884375E7</cost>
+        <cost>1.1785884375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="14" techbase="1">
@@ -338,9 +338,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Shadow Cat  J 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 10 DHS; 1 HAG20, 1 BAP, 6 APGR</info>
-        <battleforce pv="18" wt="2" mv="8/6j" s="4" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="18" wt="2" mv="8/6j" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1802</battle_value>
-        <cost>1.188365625E7</cost>
+        <cost>1.194665625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

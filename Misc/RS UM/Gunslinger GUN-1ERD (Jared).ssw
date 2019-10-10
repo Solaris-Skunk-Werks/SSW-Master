@@ -2,7 +2,7 @@
 <mech name="Gunslinger" model="GUN-1ERD (Jared)" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1813</battle_value>
-    <cost>1.67115125E7</cost>
+    <cost>1.70175125E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSUM</source>
         <info>Gunslinger GUN-1ERD (Jared) 85t, 3/5/0, XLFE, Std; 16.5T/100% Armor; 13 DHS; 1 ECM, 4 ML, 4 SSRM4, 1 SL, 2 LRM15, 1 BAP, 2 MPL</info>
-        <battleforce pv="18" wt="4" mv="3" s="5" m="5" l="0" e="0" ov="0" armor="9" internal="4" abilities="ECM, PRB, RCN, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="18" wt="4" mv="3" s="6" m="6" l="2" e="0" ov="0" armor="9" internal="4" abilities="ECM, PRB, RCN, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

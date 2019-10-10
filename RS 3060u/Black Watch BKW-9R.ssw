@@ -2,7 +2,7 @@
 <mech name="Black Watch" model="BKW-9R" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2144</battle_value>
-    <cost>8063317.5</cost>
+    <cost>8197317.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

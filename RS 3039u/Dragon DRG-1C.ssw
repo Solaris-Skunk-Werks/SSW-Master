@@ -2,7 +2,7 @@
 <mech name="Dragon" model="DRG-1C" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1215</battle_value>
-    <cost>4894400.0</cost>
+    <cost>4955400.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>

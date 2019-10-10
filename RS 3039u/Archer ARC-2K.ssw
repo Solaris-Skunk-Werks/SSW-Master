@@ -2,7 +2,7 @@
 <mech name="Archer" model="ARC-2K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1356</battle_value>
-    <cost>5966773.333333335</cost>
+    <cost>6086773.333333335</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>

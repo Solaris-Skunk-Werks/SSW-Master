@@ -2,7 +2,7 @@
 <mech name="Patron PatrolMech" model="PTN-2M" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>154</battle_value>
-    <cost>767646.2500000001</cost>
+    <cost>768146.2500000001</cost>
     <rules_level>1</rules_level>
     <era>3</era>
     <productionera>7</productionera>

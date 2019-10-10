@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Volkh VKH-7 45t, 5/8[9]/0, XXLFE, ES; 17.5T/92% Hrdnd Armor; 10 DHS; 1 ERLL, 2 Lnc, 1 ERML, TC</info>
-        <battleforce pv="16" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="7" internal="2" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="9" internal="2" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

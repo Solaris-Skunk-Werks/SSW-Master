@@ -2,7 +2,7 @@
 <mech name="Stalker" model="STK-3F Jamison" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2707</battle_value>
-    <cost>9311975.0</cost>
+    <cost>9479975.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Stalker STK-3F Jamison 85t, 3/5/0, Std FE, Std; 13.5T/98% FF Armor; 18 DHS; 4 ERML, 2 LRM20, 2 SSRM6, 2 LPL</info>
-        <battleforce pv="27" wt="4" mv="3" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="27" wt="4" mv="3" s="6" m="6" l="3" e="0" ov="3" armor="9" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">

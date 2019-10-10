@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vindicator" model="VND-3LD Dao" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1814</battle_value>
-    <cost>8327640.0</cost>
+    <battle_value>1639</battle_value>
+    <cost>8329640.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRLiao</source>
         <info>Vindicator VND-3LD Dao 45t, 4/6[8]/4, CFE, ES, Cmp Gyro; 8.0T/100% FF Armor; 10 DHS; 1 TSR, 1 LAMS, 1 ERPPC</info>
-        <battleforce pv="18" wt="2" mv="5/4j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="5" abilities="AMS, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="2" mv="5/4j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="5" abilities="AMS, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

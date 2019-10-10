@@ -2,7 +2,7 @@
 <mech name="BattleMaster" model="BLR-6X" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1966</battle_value>
-    <cost>1.8460027666666666E8</cost>
+    <cost>1.8465427666666666E8</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>BattleMaster BLR-6X 85t, 5/8/0, XXLFE, ES; 15.0T/91% Armor; 16 DHS; 2 ERML, 1 ERPPC, 1 HPPC, 1 SSRM6</info>
-        <battleforce pv="20" wt="4" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="4" mv="5" s="4" m="4" l="2" e="0" ov="1" armor="8" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Arctic Fox" model="AF1" tons="30" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>5058300.0</cost>
+    <cost>5085300.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -65,9 +65,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Arctic Fox AF1 Prime 30t, 6/9/0, XLFE, ES; 6.0T/91% Armor; 10 DHS; 2 ML, 1 ERPPC, 2 SRM4</info>
-        <battleforce pv="10" wt="1" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="10" wt="1" mv="6" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>983</battle_value>
-        <cost>5058300.0</cost>
+        <cost>5085300.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -165,7 +165,7 @@
         <info>Arctic Fox AF1 B 30t, 6/9/0, XLFE, ES; 6.0T/91% Armor; 10 DHS; 1 ML, 1 LB10</info>
         <battleforce pv="7" wt="1" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>735</battle_value>
-        <cost>4954462.5</cost>
+        <cost>4986462.5</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -219,7 +219,7 @@
         <info>Arctic Fox AF1 D 30t, 6/9/0, XLFE, ES; 6.0T/91% Armor; 10 DHS; 2 LRM10</info>
         <battleforce pv="7" wt="1" mv="6" s="1" m="2" l="2" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>744</battle_value>
-        <cost>4895800.0</cost>
+        <cost>5015800.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -293,7 +293,7 @@
         <info>Arctic Fox AF1 F 30t, 6/9/0, XLFE, ES; 6.0T/91% Armor; 10 DHS; 3 ERML, 2 MML7</info>
         <battleforce pv="9" wt="1" mv="6" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>891</battle_value>
-        <cost>4977050.0</cost>
+        <cost>5034050.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -338,9 +338,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Arctic Fox AF1 U 30t, 6/9/5, XLFE, ES; 6.0T/91% Armor; 10 DHS; 1 LRT10, 1 LPPC, 1 MASS</info>
-        <battleforce pv="8" wt="1" mv="6/3j" s="1" m="2" l="2" e="0" ov="0" armor="3" internal="1" abilities="UMU, OMNI, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="8" wt="1" mv="6/3u" s="1" m="2" l="2" e="0" ov="0" armor="3" internal="1" abilities="UMU, OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>821</battle_value>
-        <cost>5058462.5</cost>
+        <cost>5088462.5</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

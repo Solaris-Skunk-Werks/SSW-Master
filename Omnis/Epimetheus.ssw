@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Epimetheus" model="" tons="80" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.75988E7</cost>
+    <cost>2.76108E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -66,9 +66,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3053</loadout_year>
         <info>Epimetheus  Prime 80t, 5/8/0, XLFE, ES; 11.5T/89% FF Armor; 12 DHS; 1 UAC/10, 2 ERLL, 2 MPL, TC</info>
-        <battleforce pv="25" wt="4" mv="5" s="4" m="4" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="25" wt="4" mv="5" s="4" m="4" l="3" e="0" ov="2" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2517</battle_value>
-        <cost>2.75988E7</cost>
+        <cost>2.76108E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">

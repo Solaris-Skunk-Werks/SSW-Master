@@ -2,7 +2,7 @@
 <mech name="Blood Kite" model="" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Blood Kite.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2776</battle_value>
-    <cost>9308275.0</cost>
+    <cost>9515275.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Blood Kite 85t, 3/5/3, Std FE, ES; 15.0T/91% Armor; 21 DHS; 3 LRM15, 3 ERLL, 3 SRM4</info>
-        <battleforce pv="28" wt="4" mv="3j" s="3" m="3" l="3" e="0" ov="0" armor="8" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, LRM 2/2/2, IF 2" />
+        <battleforce pv="28" wt="4" mv="3j" s="6" m="6" l="5" e="0" ov="0" armor="8" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, LRM 2/2/2, IF 2" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Vixen (Incubus) 4 30t, 9/14/0, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 2 ERMcL, 2 McPL, 2 MPL, 1 HLL</info>
-        <battleforce pv="16" wt="1" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="1" mv="9" s="3" m="3" l="0" e="0" ov="1" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="10" techbase="1">

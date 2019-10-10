@@ -2,7 +2,7 @@
 <mech name="Wyvern" model="WVE-6N" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1005</battle_value>
-    <cost>3154765.0</cost>
+    <cost>3211765.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Wyvern WVE-6N 45t, 4/6/4, Std FE, Std; 8.5T/89% Armor; 12 SHS; 2 SL, 1 SRM6, 1 LRM10, 1 LL</info>
-        <battleforce pv="10" wt="2" mv="4j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="10" wt="2" mv="4j" s="2" m="2" l="1" e="0" ov="1" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

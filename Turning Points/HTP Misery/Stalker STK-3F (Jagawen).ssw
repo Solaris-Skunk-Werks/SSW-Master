@@ -2,7 +2,7 @@
 <mech name="Stalker" model="STK-3F (Jagawen)" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1570</battle_value>
-    <cost>7201125.0</cost>
+    <cost>7255125.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>HTPMisery</source>
         <info>Stalker STK-3F (Jagawen) 85t, 3/5/0, Std FE, Std; 13.5T/82% Armor; 26 SHS; 4 ML, 4 SRM6, 2 LL</info>
-        <battleforce pv="16" wt="4" mv="3" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="16" wt="4" mv="3" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="26" techbase="2">

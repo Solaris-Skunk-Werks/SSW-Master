@@ -2,7 +2,7 @@
 <mech name="Grim Reaper" model="(Einar)" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2121</battle_value>
-    <cost>1.1468656666666668E7</cost>
+    <cost>1.1768656666666668E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>

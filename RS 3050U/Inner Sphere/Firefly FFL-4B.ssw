@@ -2,7 +2,7 @@
 <mech name="Firefly" model="FFL-4B" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>870</battle_value>
-    <cost>2301000.0</cost>
+    <cost>2333000.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>

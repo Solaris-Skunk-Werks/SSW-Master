@@ -177,7 +177,7 @@
         <info>Battle Cobra BTL-C-2O B 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 4 MRM10, 1 C3I</info>
         <battleforce pv="9" wt="2" mv="5" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>895</battle_value>
-        <cost>4895333.333333334</cost>
+        <cost>4910333.333333334</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -224,7 +224,7 @@
         <info>Battle Cobra BTL-C-2O C 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 1 C3I, 2 iNarc</info>
         <battleforce pv="7" wt="2" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, INARC, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>726</battle_value>
-        <cost>5420333.333333334</cost>
+        <cost>5457833.333333334</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -308,7 +308,7 @@
         <info>Battle Cobra BTL-C-2O E 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 1 C3I, 2 MML9</info>
         <battleforce pv="8" wt="2" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>840</battle_value>
-        <cost>4982833.333333334</cost>
+        <cost>5069833.333333334</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -345,7 +345,7 @@
         <info>Battle Cobra BTL-C-2O F 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 2 PR, 1 C3I</info>
         <battleforce pv="13" wt="2" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, ENE, MHQ2, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>1300</battle_value>
-        <cost>5455333.333333334</cost>
+        <cost>5485333.333333334</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

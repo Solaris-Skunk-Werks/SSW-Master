@@ -2,7 +2,7 @@
 <mech name="Phoenix" model="PX-4R" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>996</battle_value>
-    <cost>4207250.0</cost>
+    <cost>4240250.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Phoenix PX-4R 50t, 5/8/5, Std FE, Std; 9.0T/85% Armor; 10 SHS; 1 AC10, 1 SRM2</info>
-        <battleforce pv="10" wt="2" mv="5j" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="10" wt="2" mv="5j" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

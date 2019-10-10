@@ -2,7 +2,7 @@
 <mech name="Atlas" model="AS7-RS" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1849</battle_value>
-    <cost>9102000.0</cost>
+    <cost>9201000.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>2</productionera>

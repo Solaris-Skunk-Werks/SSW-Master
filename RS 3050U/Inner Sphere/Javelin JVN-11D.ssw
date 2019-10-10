@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Javelin JVN-11D 30t, 6/9/6, XLFE, ES; 6.0T/91% Armor; 11 DHS; 1 C3S, 3 ERML, 2 MPL, TC</info>
-        <battleforce pv="11" wt="1" mv="6j" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="1" abilities="C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="11" wt="1" mv="6j" s="3" m="3" l="0" e="0" ov="1" armor="3" internal="1" abilities="C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

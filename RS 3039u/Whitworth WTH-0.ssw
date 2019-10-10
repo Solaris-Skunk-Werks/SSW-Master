@@ -2,7 +2,7 @@
 <mech name="Whitworth" model="WTH-0" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>863</battle_value>
-    <cost>2738633.3333333335</cost>
+    <cost>2792633.3333333335</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Whitworth WTH-0 40t, 4/6/4, Std FE, Std; 8.0T/93% Armor; 14 SHS; 2 ML, 1 Flmr, 2 SRM6</info>
-        <battleforce pv="9" wt="2" mv="4j" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="9" wt="2" mv="4j" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

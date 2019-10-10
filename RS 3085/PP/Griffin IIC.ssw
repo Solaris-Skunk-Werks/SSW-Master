@@ -2,7 +2,7 @@
 <mech name="Griffin IIC" model="" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1608</battle_value>
-    <cost>4171509.9999999995</cost>
+    <cost>4231510.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Griffin IIC 40t, 6/9/6, Std FE, ES; 7.0T/98% FF Armor; 10 DHS; 1 ERLL, 1 ERSL, 4 LRM5</info>
-        <battleforce pv="16" wt="2" mv="6j" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="16" wt="2" mv="6j" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

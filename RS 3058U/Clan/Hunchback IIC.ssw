@@ -2,7 +2,7 @@
 <mech name="Hunchback IIC" model="" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1679</battle_value>
-    <cost>8049999.999999999</cost>
+    <cost>8089999.999999999</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Hunchback IIC 50t, 4/6/4, XLFE, ES; 6.0T/57% Armor; 12 DHS; 2 ERML, 2 UAC20</info>
-        <battleforce pv="17" wt="2" mv="4j" s="5" m="5" l="0" e="0" ov="1" armor="3" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="2" mv="4j" s="4" m="4" l="0" e="0" ov="2" armor="3" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

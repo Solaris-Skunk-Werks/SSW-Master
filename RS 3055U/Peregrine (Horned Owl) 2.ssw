@@ -2,7 +2,7 @@
 <mech name="Peregrine (Horned Owl)" model="2" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1191</battle_value>
-    <cost>3467610.0</cost>
+    <cost>3587610.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Peregrine (Horned Owl) 2 35t, 6/9/6, Std FE, ES; 5.0T/81% FF Armor; 10 DHS; 6 LRM5</info>
-        <battleforce pv="12" wt="1" mv="6j" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="12" wt="1" mv="6j" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

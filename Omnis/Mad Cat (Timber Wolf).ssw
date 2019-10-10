@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mad Cat (Timber Wolf)" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\timberwolf.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.40996875E7</cost>
+    <cost>2.41606875E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -62,9 +62,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  Prime 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 ERLL, 2 ERML, 2 MG, 1 MPL, 2 LRM20</info>
-        <battleforce pv="27" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="27" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2737</battle_value>
-        <cost>2.40996875E7</cost>
+        <cost>2.41606875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -139,9 +139,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  A 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 20 DHS; 1 ERSL, 3 MPL, 2 ERPPC, 1 SSRM6</info>
-        <battleforce pv="29" wt="3" mv="5" s="7" m="7" l="3" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="29" wt="3" mv="5" s="7" m="7" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2854</battle_value>
-        <cost>2.3534765625E7</cost>
+        <cost>2.3588765625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="20" techbase="1">
@@ -201,7 +201,7 @@
         <info>Mad Cat (Timber Wolf)  B 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 1 GR, 1 SPL, 1 LRM10, 1 SRM4, 1 LPL</info>
         <battleforce pv="22" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2224</battle_value>
-        <cost>2.3564296875E7</cost>
+        <cost>2.3698296875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -251,9 +251,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  C 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 LRM15, 2 ERLL, 1 ERML, 1 UAC5, 1 AMS</info>
-        <battleforce pv="25" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="8" internal="4" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="25" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="0" armor="8" internal="4" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2500</battle_value>
-        <cost>2.4174609375E7</cost>
+        <cost>2.4245609375E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -320,7 +320,7 @@
         <info>Mad Cat (Timber Wolf)  D 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 1 ERSL, 2 ERPPC, 4 SSRM6</info>
         <battleforce pv="27" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2682</battle_value>
-        <cost>2.3972265625E7</cost>
+        <cost>2.4134265625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -382,7 +382,7 @@
         <info>Mad Cat (Timber Wolf)  E 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 18 DHS; 1 LTAG, 2 ERLL, 2 ATM9</info>
         <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="4" e="0" ov="0" armor="8" internal="4" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2444</battle_value>
-        <cost>2.35878125E7</cost>
+        <cost>2.40378125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -453,9 +453,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Mad Cat (Timber Wolf)  F 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 ERLL, 3 ERML, 3 APGR, 2 LRM20</info>
-        <battleforce pv="28" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="28" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2764</battle_value>
-        <cost>2.42965625E7</cost>
+        <cost>2.43595625E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -535,9 +535,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Mad Cat (Timber Wolf)  H 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 18 DHS; 1 ERSL, 2 HLL, 2 LRM20</info>
-        <battleforce pv="26" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="26" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>2627</battle_value>
-        <cost>2.4290546875E7</cost>
+        <cost>2.4530546875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -598,9 +598,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Mad Cat (Timber Wolf)  S 75t, 5/8/5, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 MG, 1 ERSL, 4 SRM6, 2 MPL, 1 LPL</info>
-        <battleforce pv="25" wt="3" mv="5j" s="4" m="3" l="1" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
+        <battleforce pv="25" wt="3" mv="5j" s="6" m="6" l="1" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
         <battle_value>2462</battle_value>
-        <cost>2.3936171875E7</cost>
+        <cost>2.4044671875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -763,9 +763,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Mad Cat (Timber Wolf)  (Pryde) 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERML, 1 ERSL, 2 LRM20</info>
-        <battleforce pv="29" wt="3" mv="5/3j" s="3" m="3" l="2" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="29" wt="3" mv="5/3j" s="4" m="4" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2900</battle_value>
-        <cost>2.4483046875E7</cost>
+        <cost>2.4543046875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
@@ -831,9 +831,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Mad Cat (Timber Wolf)  U 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERMcL, 3 HrJl, 2 LRT15</info>
-        <battleforce pv="26" wt="3" mv="5/3j" s="5" m="5" l="5" e="0" ov="0" armor="8" internal="4" abilities="UMU, OMNI, BHJ, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="26" wt="3" mv="5/3u" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="4" abilities="UMU, OMNI, BHJ, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2627</battle_value>
-        <cost>2.50490625E7</cost>
+        <cost>2.51090625E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
@@ -909,9 +909,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Mad Cat (Timber Wolf)  Z 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERLL, 1 NCEWS, 2 iATM9, 2 ERMPL</info>
-        <battleforce pv="30" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3003</battle_value>
-        <cost>2.75078125E7</cost>
+        <battleforce pv="29" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2923</battle_value>
+        <cost>2.81078125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -976,9 +976,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Mad Cat (Timber Wolf)  (Bounty Hunter 2) 75t, 5/8/3, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 3 SSRM4, 1 CoolPd, 2 ERML, 1 ERSL, 2 APGR, 3 SRM4, 1 LPL, TC</info>
-        <battleforce pv="28" wt="3" mv="5/2j" s="5" m="5" l="1" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="28" wt="3" mv="5/2j" s="6" m="6" l="1" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>2799</battle_value>
-        <cost>2.3944921875E7</cost>
+        <cost>2.4028921875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

@@ -2,7 +2,7 @@
 <mech name="Barghest" model="BGS-4T" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1734</battle_value>
-    <cost>7686833.333333335</cost>
+    <cost>7766833.333333335</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>7</productionera>

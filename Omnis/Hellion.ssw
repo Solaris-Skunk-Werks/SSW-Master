@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hellion" model="" tons="30" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>6463925.0</cost>
+    <cost>6547925.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -70,7 +70,7 @@
         <info>Hellion  Prime 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 3 SSRM2, 4 ERML, 1 LRM10</info>
         <battleforce pv="19" wt="1" mv="9" s="4" m="4" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1873</battle_value>
-        <cost>6463925.0</cost>
+        <cost>6547925.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -130,9 +130,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Hellion  A 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 1 ERML, 3 LRM10</info>
-        <battleforce pv="15" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="15" wt="1" mv="9" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>1543</battle_value>
-        <cost>6399250.0</cost>
+        <cost>6489250.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -177,7 +177,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Hellion  B 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 13 DHS; 1 HLL, 4 HML, 1 HSL</info>
-        <battleforce pv="16" wt="1" mv="9" s="4" m="3" l="0" e="0" ov="1" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="1" mv="9" s="4" m="3" l="0" e="0" ov="3" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1569</battle_value>
         <cost>6659900.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
@@ -225,9 +225,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Hellion  C 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 4 ERML, 1 ATM6, TC</info>
-        <battleforce pv="21" wt="1" mv="9" s="5" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="1" mv="9" s="5" m="4" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2095</battle_value>
-        <cost>6366425.0</cost>
+        <cost>6591425.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -282,9 +282,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Hellion  D 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 1 LRM15, 1 ERLL, 2 HML</info>
-        <battleforce pv="18" wt="1" mv="9" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="18" wt="1" mv="9" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1761</battle_value>
-        <cost>6561425.0</cost>
+        <cost>6621425.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -326,7 +326,7 @@
         <info>Hellion  E 30t, 7/11[14]/5 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 4 Flmr, 1 ECM, 2 APGR, 1 SRM4, 2 HML</info>
         <battleforce pv="13" wt="1" mv="9/3j" s="3" m="2" l="0" e="0" ov="2" armor="4" internal="2" abilities="OMNI, ECM, CASE, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>1292</battle_value>
-        <cost>6780800.0</cost>
+        <cost>6810800.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -406,7 +406,7 @@
         <info>Hellion  F 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 1 ERLL, 1 ERML, 1 ERFlmr, 1 BAP, 1 SRM6, 2 APGR</info>
         <battleforce pv="16" wt="1" mv="9" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1594</battle_value>
-        <cost>6668837.5</cost>
+        <cost>6698837.5</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

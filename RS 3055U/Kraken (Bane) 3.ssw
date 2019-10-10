@@ -2,7 +2,7 @@
 <mech name="Kraken (Bane)" model="3" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2941</battle_value>
-    <cost>2.3058E7</cost>
+    <cost>2.3538E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Kraken (Bane) 3 100t, 3/5/0, XLFE, Std; 19.0T/99% Armor; 19 DHS; 8 LRM15, 1 SSRM4OS</info>
-        <battleforce pv="29" wt="4" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 7/7/7, IF 7" />
+        <battleforce pv="29" wt="4" mv="3" s="8" m="8" l="8" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 7/7/7, IF 7" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">

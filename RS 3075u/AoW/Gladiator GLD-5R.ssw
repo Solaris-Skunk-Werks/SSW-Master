@@ -2,7 +2,7 @@
 <mech name="Gladiator" model="GLD-5R" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1425</battle_value>
-    <cost>9879390.0</cost>
+    <cost>9993390.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

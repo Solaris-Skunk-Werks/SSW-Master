@@ -2,7 +2,7 @@
 <mech name="Thug" model="THG-12K" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1824</battle_value>
-    <cost>9386040.0</cost>
+    <cost>9413040.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Thug THG-12K 80t, 4/6/0, Std FE, ES; 15.5T/100% Armor; 17 DHS; 1 ECM, 1 C3S, 2 ERPPC, 2 SRM6</info>
-        <battleforce pv="18" wt="4" mv="4" s="2" m="2" l="2" e="0" ov="0" armor="8" internal="6" abilities="ECM, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="18" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="6" abilities="ECM, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="17" techbase="0">

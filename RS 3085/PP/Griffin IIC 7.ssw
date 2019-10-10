@@ -2,7 +2,7 @@
 <mech name="Griffin IIC" model="7" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1952</battle_value>
-    <cost>8027693.333333332</cost>
+    <cost>8141693.333333332</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>7</productionera>

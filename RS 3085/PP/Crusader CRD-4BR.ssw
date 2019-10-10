@@ -2,7 +2,7 @@
 <mech name="Crusader" model="CRD-4BR" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1407</battle_value>
-    <cost>5590310.0</cost>
+    <cost>5765310.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Crusader CRD-4BR 65t, 4/6/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 ML, 2 LRM15, 2 SSRM2, 2 MG</info>
-        <battleforce pv="14" wt="3" mv="4" s="3" m="2" l="0" e="0" ov="0" armor="6" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="14" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

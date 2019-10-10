@@ -2,7 +2,7 @@
 <mech name="Banshee" model="BNC-7S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2126</battle_value>
-    <cost>2.0657520000000004E7</cost>
+    <cost>2.0724520000000004E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Banshee BNC-7S 95t, 4/6/0, LFE, ES; 15.5T/85% Armor; 14 DHS; 4 ERML, 1 GR, 1 SRM6, 1 ERPPC</info>
-        <battleforce pv="21" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="2" armor="8" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">

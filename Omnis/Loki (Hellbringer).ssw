@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Loki (Hellbringer)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.8958156249999996E7</cost>
+    <cost>1.9014656249999996E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -50,7 +50,7 @@
         <info>Loki (Hellbringer)  Prime 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 ECM, 4 APod, 3 ERML, 1 BAP, 2 MG, 2 ERPPC, 1 AMS, 1 SSRM6, TC</info>
         <battleforce pv="27" wt="3" mv="5" s="5" m="4" l="2" e="0" ov="3" armor="4" internal="4" abilities="OMNI, ECM, PRB, RCN, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2654</battle_value>
-        <cost>1.8958156249999996E7</cost>
+        <cost>1.9014656249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -157,7 +157,7 @@
         <info>Loki (Hellbringer)  A 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 Narc, 2 ERLL, 1 ERML, 1 BAP, 2 MG, 1 UAC5, 1 LRM20</info>
         <battleforce pv="19" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="1" armor="4" internal="4" abilities="OMNI, SNARC, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1948</battle_value>
-        <cost>1.8622484374999996E7</cost>
+        <cost>1.8698484374999996E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -234,7 +234,7 @@
         <info>Loki (Hellbringer)  B 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 GR, 1 ERSL, 1 LB5, 2 SRM6</info>
         <battleforce pv="16" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1592</battle_value>
-        <cost>1.7855234374999996E7</cost>
+        <cost>1.7992234374999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -289,9 +289,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Loki (Hellbringer)  C 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 ERLL, 2 ERML, 2 ERSL, 1 ATM6, 1 LB20</info>
-        <battleforce pv="21" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="21" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="1" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>2076</battle_value>
-        <cost>1.8274231249999996E7</cost>
+        <cost>1.8573231249999996E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -368,7 +368,7 @@
         <info>Loki (Hellbringer)  D 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 4 PC, 4 MPL, 1 McPL, 4 BPod</info>
         <battleforce pv="21" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="3" armor="4" internal="4" abilities="OMNI, ENE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>2145</battle_value>
-        <cost>1.8840593749999996E7</cost>
+        <cost>1.8888593749999996E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -463,9 +463,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Loki (Hellbringer)  E 65t, 5/8/5, XLFE, Std; 8.0T/61% Armor; 13 DHS; 2 ERLL, 1 HAG20, 1 LRM10</info>
-        <battleforce pv="23" wt="3" mv="5j" s="4" m="3" l="3" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1, FLK 1/1/1" />
+        <battleforce pv="23" wt="3" mv="5j" s="4" m="3" l="3" e="0" ov="1" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1, FLK 1/1/1" />
         <battle_value>2304</battle_value>
-        <cost>1.8385296874999996E7</cost>
+        <cost>1.8475296874999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -518,9 +518,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Loki (Hellbringer)  H 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 LRM15, 2 APod, 1 BAP, 1 UAC5, 1 ERPPC, 1 HLL, 4 HSL</info>
-        <battleforce pv="20" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="1" armor="4" internal="4" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="20" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="2" armor="4" internal="4" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1952</battle_value>
-        <cost>1.8343531249999996E7</cost>
+        <cost>1.8421531249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -607,7 +607,7 @@
         <info>Loki (Hellbringer)  F 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 4 ERML, 1 SRM6, 2 LB10</info>
         <battleforce pv="18" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1839</battle_value>
-        <cost>1.8430156249999996E7</cost>
+        <cost>1.8489156249999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

@@ -58,7 +58,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Black Hawk-KU BHKU-O Prime 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 16 DHS; 6 ML, 2 SL, 4 MPL</info>
-        <battleforce pv="17" wt="3" mv="5j" s="6" m="5" l="0" e="0" ov="0" armor="7" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="5j" s="6" m="5" l="0" e="0" ov="1" armor="7" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1731</battle_value>
         <cost>1.4595E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
@@ -137,7 +137,7 @@
         <info>Black Hawk-KU BHKU-O A 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 2 ERPPC, 2 AMS</info>
         <battleforce pv="18" wt="3" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1770</battle_value>
-        <cost>1.5154E7</cost>
+        <cost>1.5158E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -179,7 +179,7 @@
         <info>Black Hawk-KU BHKU-O B 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 1 UAC5, 1 LPL</info>
         <battleforce pv="13" wt="3" mv="5j" s="2" m="2" l="1" e="0" ov="0" armor="7" internal="3" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1303</battle_value>
-        <cost>1.431E7</cost>
+        <cost>1.4319E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -206,7 +206,7 @@
         <info>Black Hawk-KU BHKU-O C 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 1 ML, 1 GR</info>
         <battleforce pv="16" wt="3" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1597</battle_value>
-        <cost>1.424E7</cost>
+        <cost>1.426E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -231,9 +231,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Black Hawk-KU BHKU-O D 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 1 ERLL, 1 LRM20</info>
-        <battleforce pv="15" wt="3" mv="5j" s="1" m="1" l="1" e="0" ov="0" armor="7" internal="3" abilities="OMNI, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="15" wt="3" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>1539</battle_value>
-        <cost>1.4466E7</cost>
+        <cost>1.4526E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -263,7 +263,7 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3063</loadout_year>
         <info>Black Hawk-KU BHKU-O E 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 19 DHS; 12 ERML</info>
-        <battleforce pv="20" wt="3" mv="5j" s="4" m="4" l="0" e="0" ov="1" armor="7" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="3" mv="5j" s="4" m="4" l="0" e="0" ov="2" armor="7" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1982</battle_value>
         <cost>1.5546E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
@@ -343,7 +343,7 @@
         <loadout_productionera>0</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Black Hawk-KU BHKU-O (Albert) 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 16 DHS; 4 ERML, 1 ERPPC, 1 C3M</info>
-        <battleforce pv="24" wt="3" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="3" abilities="OMNI, C3M, TAG, ENE, MHQ5, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="3" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="3" abilities="OMNI, C3M, TAG, ENE, MHQ5, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>2377</battle_value>
         <cost>1.78492E7</cost>
@@ -394,7 +394,7 @@
         <battleforce pv="22" wt="3" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="3" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>2193</battle_value>
-        <cost>1.5346E7</cost>
+        <cost>1.5454E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -471,7 +471,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3067</loadout_year>
         <info>Black Hawk-KU BHKU-O X 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 14 ML, 2 CoolPd, 1 C3S</info>
-        <battleforce pv="19" wt="3" mv="5j" s="5" m="5" l="0" e="0" ov="1" armor="7" internal="3" abilities="OMNI, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="3" mv="5j" s="5" m="5" l="0" e="0" ov="2" armor="7" internal="3" abilities="OMNI, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1941</battle_value>
         <cost>1.5374E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>

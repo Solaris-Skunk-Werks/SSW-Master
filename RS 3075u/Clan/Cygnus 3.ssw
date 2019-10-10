@@ -2,7 +2,7 @@
 <mech name="Cygnus" model="3" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2569</battle_value>
-    <cost>2.6752375E7</cost>
+    <cost>2.6932375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Cygnus 3 95t, 4/6/0, XLFE, ES; 16.5T/90% Armor; 10 DHS; 4 HAG20</info>
-        <battleforce pv="26" wt="4" mv="4" s="6" m="5" l="5" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 5/5/5" />
+        <battleforce pv="26" wt="4" mv="4" s="4" m="4" l="4" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 4/4/4" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="10" techbase="1">

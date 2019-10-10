@@ -2,7 +2,7 @@
 <mech name="Flashfire" model="FLS-P4" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>712</battle_value>
-    <cost>3957200.0</cost>
+    <cost>3984200.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Flashfire FLS-P4 30t, 6/9/6, XLFE, ES; 5.0T/76% Armor; 10 DHS; 4 Flmr, 1 SRM6, 2 MPL</info>
-        <battleforce pv="7" wt="1" mv="6j" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="HT1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="7" wt="1" mv="6j" s="3" m="2" l="0" e="0" ov="1" armor="3" internal="1" abilities="HT1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

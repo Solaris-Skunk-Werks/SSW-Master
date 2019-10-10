@@ -2,7 +2,7 @@
 <mech name="BattleAxe" model="BKX-1X" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1079</battle_value>
-    <cost>5068550.000000001</cost>
+    <cost>5126050.000000001</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>

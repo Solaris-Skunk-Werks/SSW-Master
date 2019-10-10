@@ -122,7 +122,7 @@
         <info>Firestarter FS9-O A 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 2 Flmr, 1 SL, 1 LB10</info>
         <battleforce pv="10" wt="2" mv="6j" s="2" m="1" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>976</battle_value>
-        <cost>1.01355E7</cost>
+        <cost>1.01675E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -194,9 +194,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3056</loadout_year>
         <info>Firestarter FS9-O C 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 2 Flmr, 1 SL, 1 C3S, 2 LRM10</info>
-        <battleforce pv="10" wt="2" mv="6j" s="1" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="10" wt="2" mv="6j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3S, MHQ1, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>1006</battle_value>
-        <cost>1.0230203125E7</cost>
+        <cost>1.0290203125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -238,7 +238,7 @@
         <info>Firestarter FS9-O D 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 1 ECM, 1 ML, 2 Flmr, 1 C3S, 1 LRM5, 1 ERPPC</info>
         <battleforce pv="13" wt="2" mv="6j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3S, ECM, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1322</battle_value>
-        <cost>1.0876359375E7</cost>
+        <cost>1.0906359375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -280,7 +280,7 @@
         <info>Firestarter FS9-O E 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 2 Flmr, 1 MRM20, 1 SPL, 1 MPL, 1 Swrd</info>
         <battleforce pv="10" wt="2" mv="6j" s="3" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, MEL, SRCH, ES, SEAL, SOA" />
         <battle_value>998</battle_value>
-        <cost>9810337.5</cost>
+        <cost>9815337.5</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -358,7 +358,7 @@
         <info>Firestarter FS9-O G 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 3 ML, 2 Flmr, 1 LB5</info>
         <battleforce pv="11" wt="2" mv="6j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1063</battle_value>
-        <cost>1.0151359375E7</cost>
+        <cost>1.0175359375E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -406,7 +406,7 @@
         <battleforce pv="17" wt="2" mv="6j" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA, IF 1" />
         <techbase>Mixed</techbase>
         <battle_value>1713</battle_value>
-        <cost>1.04816875E7</cost>
+        <cost>1.06016875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -443,7 +443,7 @@
         <info>Firestarter FS9-O H 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 1 ECM, 2 Flmr, 2 SPL, 1 ERML, 2 MG, 1 BAP, 2 MPL, 1 AMS</info>
         <battleforce pv="11" wt="2" mv="6j" s="4" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1119</battle_value>
-        <cost>1.08296875E7</cost>
+        <cost>1.08321875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -520,7 +520,7 @@
         <info>Firestarter FS9-O X 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 2 Flmr, 1 BlAP, 1 SSRM2, 1 AECM, 1 LXPL</info>
         <battleforce pv="12" wt="2" mv="6j" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AECM, BH, RCN, SRCH, ES, SEAL, SOA" />
         <battle_value>1190</battle_value>
-        <cost>1.21854375E7</cost>
+        <cost>1.22394375E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

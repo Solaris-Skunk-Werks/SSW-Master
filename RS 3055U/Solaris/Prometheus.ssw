@@ -2,7 +2,7 @@
 <mech name="Prometheus" model="" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2401</battle_value>
-    <cost>1.9824E7</cost>
+    <cost>1.99115E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -60,7 +60,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Prometheus 75t, 5/8/0, XLFE, ES; 11.5T/89% FF Armor; 13 DHS; 2 LRM15, 6 MG, 2 SRM6, 1 ERPPC, 1 MPL, 1 LPL</info>
-        <battleforce pv="24" wt="3" mv="5" s="3" m="2" l="2" e="0" ov="0" armor="7" internal="3" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0, LRM 1/1/1, IF 1" />
+        <battleforce pv="24" wt="3" mv="5" s="5" m="4" l="3" e="0" ov="2" armor="7" internal="3" abilities="SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Man O&apos; War (Gargoyle)" model="" tons="80" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\gargoyle.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.58628125E7</cost>
+    <cost>2.59408125E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -55,9 +55,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Man O' War (Gargoyle)  Prime 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 1 ERSL, 2 LB5, 2 SRM6</info>
-        <battleforce pv="15" wt="4" mv="5" s="1" m="2" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, FLK 0/1/1" />
+        <battleforce pv="15" wt="4" mv="5" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, FLK 0/1/1" />
         <battle_value>1537</battle_value>
-        <cost>2.58628125E7</cost>
+        <cost>2.59408125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -112,7 +112,7 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Man O' War (Gargoyle)  A 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 1 ERML, 1 ERSL, 1 MPL, 2 ERPPC, 1 LPL</info>
-        <battleforce pv="27" wt="4" mv="5" s="4" m="4" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="4" mv="5" s="4" m="4" l="3" e="0" ov="3" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2689</battle_value>
         <cost>2.62349625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
@@ -156,7 +156,7 @@
         <info>Man O' War (Gargoyle)  B 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 1 GR, 1 LRM10, 1 SRM4</info>
         <battleforce pv="18" wt="4" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1843</battle_value>
-        <cost>2.58609E7</cost>
+        <cost>2.60149E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -201,9 +201,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Man O' War (Gargoyle)  C 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 2 APod, 6 ERML, 1 ERSL, 1 UAC20</info>
-        <battleforce pv="24" wt="4" mv="5" s="6" m="6" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="4" mv="5" s="6" m="6" l="0" e="0" ov="2" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2437</battle_value>
-        <cost>2.64554625E7</cost>
+        <cost>2.64954625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -329,7 +329,7 @@
         <info>Man O' War (Gargoyle)  E 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 18 DHS; 2 ERMcL, 1 SSRM6, 4 HML, 1 ATM12, TC</info>
         <battleforce pv="23" wt="4" mv="5" s="9" m="8" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2257</battle_value>
-        <cost>2.64369E7</cost>
+        <cost>2.67159E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -411,7 +411,7 @@
         <info>Man O' War (Gargoyle)  G 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 4 ERML, 3 APGR, 1 LB20</info>
         <battleforce pv="22" wt="4" mv="5" s="5" m="5" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>2156</battle_value>
-        <cost>2.649E7</cost>
+        <cost>2.6567E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -481,9 +481,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Man O' War (Gargoyle)  H 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 1 UAC/10, 2 ERML, 1 LRM10, 1 HLL</info>
-        <battleforce pv="22" wt="4" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="22" wt="4" mv="5" s="5" m="5" l="2" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2183</battle_value>
-        <cost>2.62434E7</cost>
+        <cost>2.62974E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -535,7 +535,7 @@
         <info>Man O' War (Gargoyle)  M 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 1 HAG20, 1 ERPPC, 3 SRM2</info>
         <battleforce pv="22" wt="4" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2182</battle_value>
-        <cost>2.5995E7</cost>
+        <cost>2.6112E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -592,7 +592,7 @@
         <info>Man O' War (Gargoyle)  (Conal) 80t, 5/8/0, XLFE, Std; 11.0T/85% FF Armor; 16 DHS; 1 LTAG, 1 ECM, 2 APod, 2 ERPPC, 2 SSRM6</info>
         <battleforce pv="26" wt="4" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, LTAG, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2580</battle_value>
-        <cost>2.670015E7</cost>
+        <cost>2.675415E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

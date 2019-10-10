@@ -2,7 +2,7 @@
 <mech name="Grasshopper" model="GHR-6K" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1597</battle_value>
-    <cost>7268973.333333335</cost>
+    <cost>7322973.333333335</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>

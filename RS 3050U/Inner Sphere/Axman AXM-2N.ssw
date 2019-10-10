@@ -2,7 +2,7 @@
 <mech name="Axman" model="AXM-2N" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1458</battle_value>
-    <cost>1.189001E7</cost>
+    <cost>1.195001E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Axman AXM-2N 65t, 4/6/4, XLFE, Std; 10.0T/85% FF Armor; 10 DHS; 3 ML, 2 LRM15, 1 LPL, 1 Htcht</info>
-        <battleforce pv="15" wt="3" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="MEL, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="15" wt="3" mv="4j" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="MEL, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

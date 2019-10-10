@@ -2,7 +2,7 @@
 <mech name="Canis" model="2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2822</battle_value>
-    <cost>1.55484E7</cost>
+    <cost>1.56684E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Canis 2 80t, 3/5/3, XLFE, ES; 15.0T/97% Armor; 16 DHS; 1 ERLL, 2 HAG20, 2 LPL</info>
-        <battleforce pv="28" wt="4" mv="3j" s="5" m="5" l="5" e="0" ov="0" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
+        <battleforce pv="28" wt="4" mv="3j" s="5" m="5" l="5" e="0" ov="1" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

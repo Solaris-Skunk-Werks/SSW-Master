@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Strider" model="SR1-O" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>4893437.5</cost>
+    <cost>5001437.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -75,7 +75,7 @@
         <info>Strider SR1-O Prime 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 1 SL, 1 BAP, 2 SRM6</info>
         <battleforce pv="9" wt="2" mv="6" s="3" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>867</battle_value>
-        <cost>4893437.5</cost>
+        <cost>5001437.5</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -127,7 +127,7 @@
         <info>Strider SR1-O A 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 1 SL, 2 Narc, 1 C3S, 1 BAP, 1 TAG</info>
         <battleforce pv="7" wt="2" mv="6" s="1" m="0" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, SNARC, PRB, RCN, TAG, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>723</battle_value>
-        <cost>5138437.5</cost>
+        <cost>5150437.5</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -187,9 +187,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3057</loadout_year>
         <info>Strider SR1-O B 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 LRM10</info>
-        <battleforce pv="9" wt="2" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="9" wt="2" mv="6" s="1" m="2" l="2" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>910</battle_value>
-        <cost>4243750.0</cost>
+        <cost>4303750.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -231,7 +231,7 @@
         <info>Strider SR1-O C 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 1 C3S, 2 LRM5, 1 LL</info>
         <battleforce pv="9" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>944</battle_value>
-        <cost>4611250.0</cost>
+        <cost>4671250.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -283,7 +283,7 @@
         <info>Strider SR1-O D 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 1 SL, 2 SSRM2, 1 C3S, 1 BAP, 2 MPL, 1 TAG</info>
         <battleforce pv="9" wt="2" mv="6" s="3" m="2" l="0" e="0" ov="1" armor="4" internal="3" abilities="OMNI, PRB, RCN, TAG, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>873</battle_value>
-        <cost>5050937.5</cost>
+        <cost>5104937.5</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -350,7 +350,7 @@
         <info>Strider SR1-O E 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 1 ML, 2 SSRM6</info>
         <battleforce pv="10" wt="2" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>976</battle_value>
-        <cost>4383750.0</cost>
+        <cost>4491750.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -397,7 +397,7 @@
         <info>Strider SR1-O F "Grand Jenner" 40t, 6/9/6, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 SSRM4, 2 ML</info>
         <battleforce pv="10" wt="2" mv="6j" s="2" m="2" l="0" e="0" ov="1" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1032</battle_value>
-        <cost>4852750.0</cost>
+        <cost>4906750.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">
@@ -454,7 +454,7 @@
         <battleforce pv="13" wt="2" mv="6" s="3" m="3" l="0" e="0" ov="1" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1339</battle_value>
-        <cost>4523750.0</cost>
+        <cost>4631750.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -506,7 +506,7 @@
         <info>Strider SR1-O G 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 ERSL, 2 MML7</info>
         <battleforce pv="9" wt="2" mv="6" s="3" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>883</battle_value>
-        <cost>4300625.0</cost>
+        <cost>4357625.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -558,7 +558,7 @@
         <info>Strider SR1-O X 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 MML3, 1 BmbstLsr</info>
         <battleforce pv="9" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>889</battle_value>
-        <cost>4401250.0</cost>
+        <cost>4458250.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

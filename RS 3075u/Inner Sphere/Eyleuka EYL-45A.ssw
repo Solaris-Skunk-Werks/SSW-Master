@@ -2,7 +2,7 @@
 <mech name="Eyleuka" model="EYL-45A" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1387</battle_value>
-    <cost>1.3921531666666668E7</cost>
+    <cost>1.4008531666666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -47,7 +47,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Eyleuka EYL-45A 55t, 5/8/7, XLFE, Std, Cmp Gyro; 9.5T/82% Stlth Armor; 10 DHS; 1 ECM, 1 ERLL, 2 ERML, 1 MML9, 1 TAG</info>
-        <battleforce pv="14" wt="2" mv="5/7j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="3" abilities="ECM, STL, TAG, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="5/7j" s="2" m="2" l="1" e="0" ov="1" armor="5" internal="3" abilities="ECM, STL, TAG, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="7">

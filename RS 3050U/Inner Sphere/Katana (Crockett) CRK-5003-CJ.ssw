@@ -2,7 +2,7 @@
 <mech name="Katana (Crockett)" model="CRK-5003-CJ" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1844</battle_value>
-    <cost>1.0362775E7</cost>
+    <cost>1.0448775E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Katana (Crockett) CRK-5003-CJ 85t, 3/5/5, Std FE, Std; 12.5T/76% Armor; 15 DHS; 1 C3S, 2 ERML, 2 LPPC, 2 SRM6, 1 LB10</info>
-        <battleforce pv="18" wt="4" mv="3/5j" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="7" abilities="C3S, MHQ1, SRCH, ES, SEAL, SOA, SRM 2/2/0, FLK 1/1/1" />
+        <battleforce pv="18" wt="4" mv="3/5j" s="4" m="5" l="2" e="0" ov="0" armor="7" internal="7" abilities="C3S, MHQ1, SRCH, ES, SEAL, SOA, SRM 2/2/0, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

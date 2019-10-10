@@ -2,7 +2,7 @@
 <mech name="Shadow Hawk IIC" model="6" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1907</battle_value>
-    <cost>8446902.5</cost>
+    <cost>8536902.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

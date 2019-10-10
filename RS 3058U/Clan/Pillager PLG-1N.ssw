@@ -2,7 +2,7 @@
 <mech name="Pillager" model="PLG-1N" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1812</battle_value>
-    <cost>9496000.0</cost>
+    <cost>9563000.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Pillager PLG-1N 100t, 3/5/2, Std FE, Std; 17.0T/89% Armor; 16 SHS; 3 ML, 2 AC20, 1 SRM4</info>
-        <battleforce pv="18" wt="4" mv="3/1j" s="2" m="2" l="0" e="0" ov="0" armor="9" internal="8" abilities="SRCH, ES, SEAL, SOA, AC 3/3/0" />
+        <battleforce pv="18" wt="4" mv="3/1j" s="5" m="5" l="0" e="0" ov="0" armor="9" internal="8" abilities="SRCH, ES, SEAL, SOA, AC 3/3/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="2">

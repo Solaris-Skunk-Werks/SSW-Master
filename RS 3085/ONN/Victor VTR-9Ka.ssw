@@ -2,7 +2,7 @@
 <mech name="Victor" model="VTR-9Ka" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1594</battle_value>
-    <cost>9468120.0</cost>
+    <cost>9528120.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <info>Victor VTR-9Ka 80t, 4/6/5, Std FE, ES; 12.5T/81% Armor; 12 SHS; 1 ML, 1 AC20</info>
-        <battleforce pv="16" wt="4" mv="4/5j" s="1" m="1" l="0" e="0" ov="0" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <battleforce pv="16" wt="4" mv="4/5j" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

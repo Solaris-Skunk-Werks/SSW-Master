@@ -2,7 +2,7 @@
 <mech name="Warhammer IIC" model="6" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2661</battle_value>
-    <cost>9316650.0</cost>
+    <cost>9436650.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Warhammer IIC 6 80t, 4/6/0, Std FE, ES; 12.0T/93% FF Armor; 15 DHS; 1 ERSL, 1 HAG30, 2 ERPPC</info>
-        <battleforce pv="27" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
+        <battleforce pv="27" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="1" armor="8" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="15" techbase="1">

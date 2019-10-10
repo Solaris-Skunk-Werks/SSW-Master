@@ -2,7 +2,7 @@
 <mech name="Stiletto" model="STO-4A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Stiletto.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>859</battle_value>
-    <cost>5167125.0</cost>
+    <cost>5251125.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>

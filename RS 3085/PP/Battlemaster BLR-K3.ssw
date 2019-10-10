@@ -2,7 +2,7 @@
 <mech name="Battlemaster" model="BLR-K3" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1851</battle_value>
-    <cost>2.3273863333333336E7</cost>
+    <cost>2.3327863333333336E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Battlemaster BLR-K3 85t, 4/6/0, XLFE, Std; 16.0T/97% Armor; 18 DHS; 2 ERLL, 4 ERML, 1 ERPPC, 1 C3M, 1 SSRM6</info>
-        <battleforce pv="19" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="9" internal="4" abilities="C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="1" armor="9" internal="4" abilities="C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="0">

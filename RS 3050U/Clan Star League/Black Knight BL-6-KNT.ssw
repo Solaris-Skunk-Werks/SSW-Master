@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Black Knight BL-6-KNT 75t, 4/6/0, Std FE, ES; 13.0T/90% Armor; 20 SHS; 4 ML, 1 SL, 1 PPC, 1 BAP, 2 LL</info>
-        <battleforce pv="16" wt="3" mv="4" s="3" m="3" l="1" e="0" ov="1" armor="7" internal="6" abilities="PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="4" s="3" m="3" l="1" e="0" ov="2" armor="7" internal="6" abilities="PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="20" techbase="2">

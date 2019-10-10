@@ -2,7 +2,7 @@
 <mech name="Mauler" model="MAL-1R" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1460</battle_value>
-    <cost>1.81678E7</cost>
+    <cost>1.82898E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Mauler MAL-1R 90t, 3/5/0, XLFE, Std; 11.5T/74% FF Armor; 11 DHS; 2 LRM15, 2 ERLL, 4 AC2</info>
-        <battleforce pv="15" wt="4" mv="3" s="2" m="2" l="2" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="15" wt="4" mv="3" s="2" m="3" l="3" e="0" ov="1" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

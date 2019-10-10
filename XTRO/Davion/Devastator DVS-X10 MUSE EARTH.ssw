@@ -60,7 +60,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRDavion</source>
         <info>Devastator DVS-X10 MUSE EARTH 100t, 4/6[10]/0 MASC, XXLFE, E-Comp, Cmp Gyro; 19.5T/100% Rctv Armor; 16 DHS; 2 HPPC, 2 MVSPL</info>
-        <battleforce pv="33" wt="4" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="8" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="33" wt="4" mv="6" s="3" m="3" l="2" e="0" ov="1" armor="8" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Griffin" model="GRF-2N" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1606</battle_value>
-    <cost>5860756.666666667</cost>
+    <cost>5914756.666666667</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
         <info>Griffin GRF-2N 55t, 5/8/5, Std FE, ES; 10.0T/97% FF Armor; 11 DHS; 1 ECM, 2 SRM6, 1 ERPPC</info>
-        <battleforce pv="16" wt="2" mv="5j" s="1" m="1" l="1" e="0" ov="0" armor="6" internal="5" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="16" wt="2" mv="5j" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="5" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

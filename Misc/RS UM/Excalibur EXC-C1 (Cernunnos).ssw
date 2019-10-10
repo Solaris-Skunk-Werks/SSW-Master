@@ -2,7 +2,7 @@
 <mech name="Excalibur" model="EXC-C1 (Cernunnos)" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1778</battle_value>
-    <cost>1.6630986666666666E7</cost>
+    <cost>1.6718986666666666E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSUM</source>
         <info>Excalibur EXC-C1 (Cernunnos) 70t, 5/8/0, XLFE, Std; 12.0T/88% Armor; 11 DHS; 1 ECM, 2 ML, 1 ERPPC, 1 LB20</info>
-        <battleforce pv="18" wt="3" mv="5" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="18" wt="3" mv="5" s="3" m="3" l="1" e="0" ov="1" armor="6" internal="3" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

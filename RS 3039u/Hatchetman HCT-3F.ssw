@@ -2,7 +2,7 @@
 <mech name="Hatchetman" model="HCT-3F" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>854</battle_value>
-    <cost>3111990.0</cost>
+    <cost>3123990.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Hatchetman HCT-3F 45t, 4/6/4, Std FE, Std; 6.5T/68% Armor; 11 SHS; 2 ML, 1 AC10, 1 Htcht</info>
-        <battleforce pv="9" wt="2" mv="4j" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="4" abilities="MEL, SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="9" wt="2" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="4" abilities="MEL, SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

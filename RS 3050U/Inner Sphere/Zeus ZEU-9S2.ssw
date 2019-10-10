@@ -2,7 +2,7 @@
 <mech name="Zeus" model="ZEU-9S2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1769</battle_value>
-    <cost>1.7821200000000004E7</cost>
+    <cost>1.7981200000000004E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>3</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Zeus ZEU-9S2 80t, 4/6/0, XLFE, Std; 11.0T/80% FF Armor; 12 DHS; 2 LRM15, 1 ERLL, 1 GR</info>
-        <battleforce pv="18" wt="4" mv="4" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="18" wt="4" mv="4" s="3" m="5" l="5" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

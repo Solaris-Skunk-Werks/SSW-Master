@@ -2,7 +2,7 @@
 <mech name="Cougar-XR" model="" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1783</battle_value>
-    <cost>5909130.0</cost>
+    <cost>6209130.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -47,7 +47,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
         <source>XTRClans</source>
         <info>Cougar-XR 35t, 5/8/5[7], XLFE, ES; 7.0T/94% LsrRflc Armor; 10 DHS; 2 LRM15, 1 ERMPL, PartWing</info>
-        <battleforce pv="18" wt="1" mv="5/7j" s="4" m="4" l="3" e="0" ov="0" armor="3" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battleforce pv="18" wt="1" mv="5/7j" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">

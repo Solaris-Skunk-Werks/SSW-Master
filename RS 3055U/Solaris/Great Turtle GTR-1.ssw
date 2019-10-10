@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Great Turtle GTR-1 100t, 3/5[4]/3, Std FE, ES Quad, Cmp Gyro; 40.5T/100% Hrdnd Armor; 14 DHS; 3 MXPL, 1 LXPL, TC</info>
-        <battleforce pv="32" wt="4" mv="3j" s="3" m="3" l="0" e="0" ov="0" armor="16" internal="8" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="32" wt="4" mv="3j" s="3" m="3" l="0" e="0" ov="1" armor="22" internal="8" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

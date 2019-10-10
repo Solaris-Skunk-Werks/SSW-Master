@@ -2,7 +2,7 @@
 <mech name="Commando" model="COM-7B" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>602</battle_value>
-    <cost>2742500.0</cost>
+    <cost>2769500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Commando COM-7B 25t, 6/9/4, LFE, ES; 4.5T/81% Armor; 10 DHS; 2 Flmr, 1 ERML, 2 SRM4</info>
-        <battleforce pv="6" wt="1" mv="6/3j" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="6" wt="1" mv="6/3j" s="3" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

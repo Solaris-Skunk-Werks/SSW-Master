@@ -2,7 +2,7 @@
 <mech name="Koschei" model="KSC-4L" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1503</battle_value>
-    <cost>6829817.499999999</cost>
+    <cost>6949817.499999999</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>

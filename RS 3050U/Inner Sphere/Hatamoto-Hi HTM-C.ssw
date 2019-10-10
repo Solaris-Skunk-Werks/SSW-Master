@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Hatamoto-Hi HTM-C 80t, 4/6/0, Std FE, ES; 15.5T/100% Armor; 18 SHS; 1 C3S, 2 PPC, 4 MPL</info>
-        <battleforce pv="16" wt="4" mv="4" s="3" m="3" l="2" e="0" ov="1" armor="8" internal="6" abilities="C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="4" mv="4" s="3" m="3" l="2" e="0" ov="2" armor="8" internal="6" abilities="C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="2">

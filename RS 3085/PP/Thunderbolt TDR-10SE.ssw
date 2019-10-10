@@ -2,7 +2,7 @@
 <mech name="Thunderbolt" model="TDR-10SE" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2008</battle_value>
-    <cost>7872260.0</cost>
+    <cost>7902260.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Thunderbolt TDR-10SE 65t, 4/6[8]/4 MASC, Std FE, ES; 12.5T/95% Armor; 12 DHS; 1 ECM, 3 ERML, 1 LRM10, 1 ERPPC, TC</info>
-        <battleforce pv="20" wt="3" mv="5/4j" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="5" abilities="ECM, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="20" wt="3" mv="5/4j" s="3" m="3" l="2" e="0" ov="1" armor="7" internal="5" abilities="ECM, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

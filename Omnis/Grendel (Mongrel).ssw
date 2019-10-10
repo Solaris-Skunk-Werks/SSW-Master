@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grendel (Mongrel)" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.23478375E7</cost>
+    <cost>1.24018375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -72,9 +72,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3053</loadout_year>
         <info>Grendel (Mongrel)  Prime 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERLL, 3 ERML, 1 ERSL, 1 SSRM6</info>
-        <battleforce pv="23" wt="2" mv="7j" s="4" m="4" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="7j" s="4" m="4" l="1" e="0" ov="1" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2290</battle_value>
-        <cost>1.23478375E7</cost>
+        <cost>1.24018375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
@@ -124,9 +124,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3053</loadout_year>
         <info>Grendel (Mongrel)  A 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 2 LRM15, 1 ERSL, 1 MPL</info>
-        <battleforce pv="20" wt="2" mv="7j" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="20" wt="2" mv="7j" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2031</battle_value>
-        <cost>1.21448375E7</cost>
+        <cost>1.22648375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -178,7 +178,7 @@
         <info>Grendel (Mongrel)  B 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 ERML, 1 ERSL, 1 UAC5, 2 MPL</info>
         <battleforce pv="19" wt="2" mv="7j" s="4" m="4" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1903</battle_value>
-        <cost>1.20360875E7</cost>
+        <cost>1.20450875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -220,7 +220,7 @@
         <info>Grendel (Mongrel)  C 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 ERML, 1 AMS, 1 LB10</info>
         <battleforce pv="15" wt="2" mv="7j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1465</battle_value>
-        <cost>1.2432571875E7</cost>
+        <cost>1.2454571875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -255,9 +255,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3053</loadout_year>
         <info>Grendel (Mongrel)  D 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 ERML, 1 SPL, 1 SRM6, 1 ERPPC, 1 MPL</info>
-        <battleforce pv="22" wt="2" mv="7j" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="22" wt="2" mv="7j" s="3" m="3" l="1" e="0" ov="2" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2212</battle_value>
-        <cost>1.2262196875E7</cost>
+        <cost>1.2316196875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -304,7 +304,7 @@
         <info>Grendel (Mongrel)  E 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 ERSL, 1 MPL, 2 ATM6</info>
         <battleforce pv="18" wt="2" mv="7j" s="5" m="4" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1806</battle_value>
-        <cost>1.19635875E7</cost>
+        <cost>1.22635875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -354,9 +354,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Grendel (Mongrel)  H 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 14 DHS; 1 SSRM4, 2 ERML, 1 ERSL, 1 HLL</info>
-        <battleforce pv="20" wt="2" mv="7j" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="2" mv="7j" s="4" m="4" l="0" e="0" ov="1" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1965</battle_value>
-        <cost>1.22608375E7</cost>
+        <cost>1.23148375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="14" techbase="1">
@@ -405,7 +405,7 @@
         <info>Grendel (Mongrel)  F 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 2 PC, 1 ATM6</info>
         <battleforce pv="20" wt="2" mv="7j" s="4" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>1997</battle_value>
-        <cost>1.2677259375E7</cost>
+        <cost>1.2851259375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

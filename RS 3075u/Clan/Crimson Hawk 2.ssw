@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Crimson Hawk 2 25t, 5/8/5, XLFE, Std; 5.0T/100% FF Armor; 10 DHS; 2 HLL</info>
-        <battleforce pv="13" wt="1" mv="5j" s="2" m="2" l="0" e="0" ov="1" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="1" mv="5j" s="2" m="2" l="0" e="0" ov="2" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">

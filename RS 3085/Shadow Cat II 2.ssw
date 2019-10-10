@@ -2,7 +2,7 @@
 <mech name="Shadow Cat II" model="2" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2106</battle_value>
-    <cost>1.474368E7</cost>
+    <cost>1.480368E7</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Shadow Cat II 2 60t, 6/9/6[7], XLFE, ES; 7.5T/72% FF Armor; 11 DHS; 1 ERLPL, 2 LRM10, 1 ERMPL, PartWing</info>
-        <battleforce pv="21" wt="3" mv="6/7j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="21" wt="3" mv="6/7j" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

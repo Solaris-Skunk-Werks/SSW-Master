@@ -2,7 +2,7 @@
 <mech name="Warhammer" model="WHM-6R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1299</battle_value>
-    <cost>6023383.333333335</cost>
+    <cost>6051383.333333335</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>

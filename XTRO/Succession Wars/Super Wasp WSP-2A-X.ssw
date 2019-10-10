@@ -2,7 +2,7 @@
 <mech name="Super Wasp" model="WSP-2A-X" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>635</battle_value>
-    <cost>3808750.0</cost>
+    <cost>3835750.0</cost>
     <rules_level>3</rules_level>
     <era>1</era>
     <productionera>2</productionera>

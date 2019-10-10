@@ -2,7 +2,7 @@
 <mech name="Icestorm" model="" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>728</battle_value>
-    <cost>4390000.0</cost>
+    <cost>4417000.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>

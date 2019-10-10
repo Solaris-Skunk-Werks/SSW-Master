@@ -2,7 +2,7 @@
 <mech name="Spirit" model="2" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Spirit.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1773</battle_value>
-    <cost>6021630.0</cost>
+    <cost>6246630.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

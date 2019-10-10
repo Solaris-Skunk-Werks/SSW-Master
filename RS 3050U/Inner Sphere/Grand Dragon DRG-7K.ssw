@@ -2,7 +2,7 @@
 <mech name="Grand Dragon" model="DRG-7K" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1702</battle_value>
-    <cost>1.563328E7</cost>
+    <cost>1.563828E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Grand Dragon DRG-7K 60t, 6/9[12]/0 MASC, XLFE, ES; 10.0T/80% Armor; 15 DHS; 1 MRM10, 1 C3S, 3 ERML, 1 ERPPC</info>
-        <battleforce pv="17" wt="3" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="3" abilities="C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="8" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="3" abilities="C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="15" techbase="0">

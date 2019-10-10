@@ -2,7 +2,7 @@
 <mech name="Grand Crusader II" model="GRN-D-04" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2292</battle_value>
-    <cost>1.863E7</cost>
+    <cost>1.8724E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Grand Crusader II GRN-D-04 80t, 4[5]/6[8]/4 TSM, LFE, ES; 15.5T/100% Armor; 11 DHS; 1 C3I, 2 ERML, 1 ERPPC, 1 LGR, 1 SSRM6</info>
-        <battleforce pv="23" wt="4" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="8" internal="4" abilities="TSM, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="4" mv="4j" s="3" m="3" l="2" e="0" ov="1" armor="8" internal="4" abilities="TSM, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

@@ -2,7 +2,7 @@
 <mech name="Osprey" model="OSP-26 (Lawrence)" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1461</battle_value>
-    <cost>1.1573333333333332E7</cost>
+    <cost>1.1630333333333332E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BD:LL</source>
         <info>Osprey OSP-26 (Lawrence) 55t, 4/6/5, XLFE, ES, Cmp Gyro; 11.0T/95% Armor; 10 DHS; 1 C3S, 1 BAP, 2 MPL, 1 HPPC, 1 MML7</info>
-        <battleforce pv="15" wt="2" mv="4/5j" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="C3S, PRB, RCN, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="4/5j" s="3" m="3" l="2" e="0" ov="1" armor="6" internal="3" abilities="C3S, PRB, RCN, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

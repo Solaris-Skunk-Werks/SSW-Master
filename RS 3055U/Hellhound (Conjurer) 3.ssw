@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Hellhound (Conjurer) 3 50t, 6/9/6, Std FE, ES; 8.5T/96% FF Armor; 13 DHS; 1 ERLL, 2 HML, TC</info>
-        <battleforce pv="18" wt="2" mv="6j" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="2" mv="6j" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

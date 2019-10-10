@@ -2,7 +2,7 @@
 <mech name="Awesome" model="AWS-9M" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\CJ\HeavyMetalbv2\Pro\Bmps\3025 Awesome1.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1812</battle_value>
-    <cost>1.7992920000000004E7</cost>
+    <cost>1.8046920000000004E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>

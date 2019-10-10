@@ -2,7 +2,7 @@
 <mech name="Rakshasa" model="MDG-1A" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1795</battle_value>
-    <cost>1.873375E7</cost>
+    <cost>1.885375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Rakshasa MDG-1A 75t, 5/8/0, XLFE, ES; 11.5T/89% FF Armor; 15 DHS; 2 ML, 2 ERLL, 2 LRM10, 1 MPL</info>
-        <battleforce pv="18" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="7" internal="3" abilities="SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="18" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="1" armor="7" internal="3" abilities="SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="15" techbase="0">

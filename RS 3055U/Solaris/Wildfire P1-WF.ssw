@@ -2,7 +2,7 @@
 <mech name="Wildfire" model="P1-WF" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1292</battle_value>
-    <cost>1.614228E7</cost>
+    <cost>1.619728E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>4</productionera>

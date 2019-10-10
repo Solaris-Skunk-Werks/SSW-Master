@@ -2,7 +2,7 @@
 <mech name="Blade" model="BLD-XS" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>944</battle_value>
-    <cost>5924767.5</cost>
+    <cost>5930767.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Blade BLD-XS 35t, 7/11/0, XLFE, ES, XL Gyro; 7.0T/99% LFF Armor; 10 DHS; 2 ML, 1 AC10</info>
-        <battleforce pv="9" wt="1" mv="7" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="9" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

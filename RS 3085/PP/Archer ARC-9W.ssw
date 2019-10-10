@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Archer" model="ARC-9W" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2004</battle_value>
-    <cost>2.1137006666666668E7</cost>
+    <battle_value>1774</battle_value>
+    <cost>2.1317006666666668E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Archer ARC-9W 70t, 5/8/0, XLFE, ES; 10.5T/77% Armor; 12 DHS; 2 LRM15, 2 ERLL, 1 AECM, VoidSig</info>
-        <battleforce pv="20" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="3" abilities="MAS, AECM, CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="18" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="3" abilities="MAS, AECM, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Volkh" model="VKH-1" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1635</battle_value>
-    <cost>2.6730315E7</cost>
+    <cost>2.6757315E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Volkh VKH-1 45t, 5/8[9]/0, XXLFE, ES; 17.5T/92% Hrdnd Armor; 10 DHS; 2 Lnc, 4 ERML, 1 SRM4, TC</info>
-        <battleforce pv="16" wt="2" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="2" abilities="MEL, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="2" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="9" internal="2" abilities="MEL, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

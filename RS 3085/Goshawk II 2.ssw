@@ -2,7 +2,7 @@
 <mech name="Goshawk II" model="2" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1767</battle_value>
-    <cost>9653520.0</cost>
+    <cost>9707520.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>7</productionera>

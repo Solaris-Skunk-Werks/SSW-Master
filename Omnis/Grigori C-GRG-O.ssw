@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grigori" model="C-GRG-O" tons="60" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.23376E7</cost>
+    <cost>1.24566E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -63,7 +63,7 @@
         <info>Grigori C-GRG-O Invictus (Prime) 60t, 4/6/0, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 10 DHS; 1 SSRM4, 1 LRM15, 1 C3I, 1 MRM20, 1 RBlde, 1 LPPC</info>
         <battleforce pv="12" wt="3" mv="4" s="3" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1245</battle_value>
-        <cost>1.23376E7</cost>
+        <cost>1.24566E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -123,9 +123,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Grigori C-GRG-O Dominus (A) 60t, 4/6/4, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 12 DHS; 1 C3I, 2 ERML, 2 MPL, 1 HPPC, 1 SSRM6</info>
-        <battleforce pv="15" wt="3" mv="4j" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="3" mv="4j" s="4" m="4" l="1" e="0" ov="2" armor="6" internal="3" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1536</battle_value>
-        <cost>1.28696E7</cost>
+        <cost>1.29236E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -189,7 +189,7 @@
         <info>Grigori C-GRG-O Infernus (B) 60t, 4/6/4, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 10 DHS; 1 PR, 1 C3I, 1 ERSL, 1 MPL, 2 MML7</info>
         <battleforce pv="14" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1408</battle_value>
-        <cost>1.30437E7</cost>
+        <cost>1.31777E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -256,9 +256,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Grigori C-GRG-O Comminus (C) 60t, 4/6/4, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 10 DHS; 1 ECM, 3 MRM10, 1 C3I, 2 ERML, 2 SSRM6</info>
-        <battleforce pv="14" wt="3" mv="4j" s="4" m="4" l="0" e="0" ov="2" armor="6" internal="3" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="3" mv="4j" s="3" m="3" l="0" e="0" ov="2" armor="6" internal="3" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1438</battle_value>
-        <cost>1.30516E7</cost>
+        <cost>1.31106E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -330,7 +330,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Grigori C-GRG-O Luminos (D) 60t, 4/6/6, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 10 DHS; 1 C3I, 2 ERML, 2 ERSL, 1 LPPC, 1 HPPC</info>
-        <battleforce pv="16" wt="3" mv="4/6j" s="2" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="4/6j" s="2" m="3" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1568</battle_value>
         <cost>1.43866E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
@@ -381,9 +381,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Grigori C-GRG-O Eminus (E) 60t, 4/6/0, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 12 DHS; 1 C3I, 5 ERML, 1 ERSL, 1 ERPPC, 1 Tbolt15</info>
-        <battleforce pv="15" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="2" armor="6" internal="3" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1544</battle_value>
-        <cost>1.32581E7</cost>
+        <cost>1.33581E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">
@@ -456,7 +456,7 @@
         <battleforce pv="14" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, CASEII, MHQ2, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <techbase>Mixed</techbase>
         <battle_value>1378</battle_value>
-        <cost>1.30016E7</cost>
+        <cost>1.31116E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -508,7 +508,7 @@
         <info>Grigori C-GRG-O (Rufus) 60t, 4/6[8]/4, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 10 DHS; 1 C3I, 1 ERSL, 1 LPPC, 2 MML7, 1 MVSPL</info>
         <battleforce pv="14" wt="3" mv="5/4j" s="4" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1422</battle_value>
-        <cost>1.81725E7</cost>
+        <cost>1.83465E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -575,9 +575,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Grigori C-GRG-O (Tamiel) 60t, 4/6/4, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 10 DHS; 1 ECM, 1 C3I, 2 Tbolt10, 1 SNPPC</info>
-        <battleforce pv="14" wt="3" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="14" wt="3" mv="4j" s="2" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>1426</battle_value>
-        <cost>1.32456E7</cost>
+        <cost>1.33456E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -629,7 +629,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Grigori C-GRG-O Exanimus (U) 60t, 4/6/4, LFE, Std, XL Gyro; 11.0T/93% LFF Armor; 11 DHS; 1 C3I, 2 ERML, 1 BAP, 2 ERSL, 1 ERPPC, 1 HPPC, 1 MASS</info>
-        <battleforce pv="16" wt="3" mv="4j" s="2" m="3" l="2" e="0" ov="1" armor="6" internal="3" abilities="UMU, OMNI, C3I, PRB, RCN, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="4u" s="2" m="3" l="2" e="0" ov="2" armor="6" internal="3" abilities="UMU, OMNI, C3I, PRB, RCN, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1604</battle_value>
         <cost>1.33306E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>

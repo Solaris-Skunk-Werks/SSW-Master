@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Pendragon" model="PDG-1X MUSE RED" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2296</battle_value>
-    <cost>2.2708725000000004E7</cost>
+    <battle_value>2230</battle_value>
+    <cost>2.2988725000000004E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRDavion</source>
         <info>Pendragon PDG-1X MUSE RED 95t, 3/5/0, XLFE, Comp; 14.5T/95% FF Armor; 13 DHS; 1 C3S, 3 ERML, 1 ERPPC, 2 ExLRM20</info>
-        <battleforce pv="23" wt="4" mv="3" s="2" m="3" l="2" e="0" ov="3" armor="9" internal="2" abilities="C3S, CASEII, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="22" wt="4" mv="3" s="2" m="3" l="2" e="0" ov="3" armor="9" internal="2" abilities="C3S, CASEII, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="1">

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Exterminator" model="EXT-6CS" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1714</battle_value>
-    <cost>1.904001E7</cost>
+    <battle_value>1592</battle_value>
+    <cost>1.912701E7</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRComStar</source>
         <info>Exterminator EXT-6CS 65t, 6/9/0, XLFE, ES; 13.0T/99% Armor; 10 DHS; 2 MPL, 2 LPPC, 1 MML7, NullSig, CLPS</info>
-        <battleforce pv="17" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="ECM, STL, CASEII, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="ECM, STL, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

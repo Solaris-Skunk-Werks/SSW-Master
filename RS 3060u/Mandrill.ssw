@@ -2,7 +2,7 @@
 <mech name="Mandrill" model="" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1209</battle_value>
-    <cost>3744065.0</cost>
+    <cost>3864065.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Mandrill 30t, 4/6/4, XLFE, ES; 5.0T/91% FF Armor; 10 DHS; 1 ERSL, 2 LRM20</info>
-        <battleforce pv="12" wt="1" mv="4j" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="12" wt="1" mv="4j" s="3" m="3" l="3" e="0" ov="0" armor="3" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

@@ -2,7 +2,7 @@
 <mech name="Buster HaulerMech" model="BC XV (AC)" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>443</battle_value>
-    <cost>1681875.0</cost>
+    <cost>1716375.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>

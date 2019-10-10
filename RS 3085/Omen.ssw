@@ -2,7 +2,7 @@
 <mech name="Omen" model="" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2750</battle_value>
-    <cost>1.71495E7</cost>
+    <cost>1.74205E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>7</productionera>

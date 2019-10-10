@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Stealth" model="STH-5X" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2222</battle_value>
-    <cost>1.191204E7</cost>
+    <battle_value>2155</battle_value>
+    <cost>1.196604E7</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>6</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRSteiner</source>
         <info>Stealth STH-5X 45t, 7/11[14]/7 MASC, XLFE, Comp; 8.0T/93% FF Armor; 10 DHS; 1 ECM, 3 ERML, 2 ERFlmr, 1 BAP, 1 SSRM6, CLPS</info>
-        <battleforce pv="22" wt="2" mv="9/7j" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="1" abilities="ECM, STL, PRB, RCN, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="22" wt="2" mv="9/7j" s="3" m="3" l="0" e="0" ov="1" armor="5" internal="1" abilities="ECM, STL, PRB, RCN, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="7">

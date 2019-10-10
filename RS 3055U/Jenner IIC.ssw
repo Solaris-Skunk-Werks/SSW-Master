@@ -2,7 +2,7 @@
 <mech name="Jenner IIC" model="" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1047</battle_value>
-    <cost>7344675.000000001</cost>
+    <cost>7452675.000000001</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Jenner IIC 35t, 9/14/7, XLFE, ES; 3.5T/56% FF Armor; 10 DHS; 1 SSRM4, 2 SRM6</info>
-        <battleforce pv="10" wt="1" mv="9/5j" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="10" wt="1" mv="9/5j" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="7">

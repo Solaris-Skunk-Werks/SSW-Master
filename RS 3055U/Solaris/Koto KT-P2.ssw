@@ -2,7 +2,7 @@
 <mech name="Koto" model="KT-P2" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>631</battle_value>
-    <cost>3427604.166666666</cost>
+    <cost>3428104.166666666</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>

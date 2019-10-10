@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Coyotl" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>9099416.666666666</cost>
+    <cost>9183416.666666666</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -57,7 +57,7 @@
         <info>Coyotl  Prime 40t, 7/11/0, XLFE, ES; 8.5T/99% Armor; 11 DHS; 1 SSRM4, 1 LRM10, 1 MPL, 1 ERPPC</info>
         <battleforce pv="20" wt="2" mv="7" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1974</battle_value>
-        <cost>9099416.666666666</cost>
+        <cost>9183416.666666666</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">
@@ -103,7 +103,7 @@
         <info>Coyotl  A 40t, 7/11/7, XLFE, ES; 8.5T/99% Armor; 10 DHS; 2 SSRM4, 1 SPL, 1 LPL</info>
         <battleforce pv="18" wt="2" mv="7j" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1753</battle_value>
-        <cost>9383266.666666666</cost>
+        <cost>9437266.666666666</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="7">

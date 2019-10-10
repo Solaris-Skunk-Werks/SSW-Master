@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRMarik</source>
         <info>Awesome AWS-11M 80t, 3/5/0, Std FE, Std, Cmp Gyro; 15.0T/97% Armor; 20 DHS; 8 LPPC</info>
-        <battleforce pv="18" wt="4" mv="3" s="3" m="3" l="3" e="0" ov="0" armor="8" internal="6" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="4" mv="3" s="3" m="3" l="3" e="0" ov="1" armor="8" internal="6" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="20" techbase="1">

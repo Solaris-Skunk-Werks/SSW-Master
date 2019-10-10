@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>OTPRCorsair</source>
         <info>Battlemaster BLR-1G (Red Corsair) 85t, 4/6/0, XLFE, ES; 16.0T/97% Armor; 21 DHS; 6 MPL, 2 ERPPC, 1 LPL</info>
-        <battleforce pv="27" wt="4" mv="4" s="6" m="6" l="4" e="0" ov="0" armor="9" internal="5" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="4" mv="4" s="6" m="6" l="4" e="0" ov="2" armor="9" internal="5" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="21" techbase="1">

@@ -116,7 +116,7 @@
         <info>Ryoken (Stormcrow)  A 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 10 DHS; 4 MPL, 1 LRM20, 2 SSRM6</info>
         <battleforce pv="23" wt="2" mv="6" s="5" m="5" l="1" e="0" ov="2" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2319</battle_value>
-        <cost>1.50966125E7</cost>
+        <cost>1.52646125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -181,9 +181,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2930</loadout_year>
         <info>Ryoken (Stormcrow)  B 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 13 DHS; 6 ERML, 1 UAC20</info>
-        <battleforce pv="23" wt="2" mv="6" s="5" m="5" l="0" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="6" s="5" m="5" l="0" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2281</battle_value>
-        <cost>1.5369509375E7</cost>
+        <cost>1.5409509375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -246,7 +246,7 @@
         <info>Ryoken (Stormcrow)  C 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 10 DHS; 2 MPL, 1 LB10, 1 LPL</info>
         <battleforce pv="19" wt="2" mv="6" s="4" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1881</battle_value>
-        <cost>1.4821196875E7</cost>
+        <cost>1.4865196875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -291,9 +291,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2930</loadout_year>
         <info>Ryoken (Stormcrow)  D 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 10 DHS; 1 Narc, 2 LRM20, 2 SRM2</info>
-        <battleforce pv="19" wt="2" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, SNARC, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="19" wt="2" mv="6" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, SNARC, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>1863</battle_value>
-        <cost>1.49803625E7</cost>
+        <cost>1.54603625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -380,7 +380,7 @@
         <info>Ryoken (Stormcrow)  E 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 12 DHS; 2 ERML, 1 BAP, 4 ERSL, 2 ATM9</info>
         <battleforce pv="21" wt="2" mv="6" s="7" m="6" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2110</battle_value>
-        <cost>1.5265175E7</cost>
+        <cost>1.5715175E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
@@ -472,7 +472,7 @@
         <info>Ryoken (Stormcrow)  F 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 12 DHS; 4 ERML, 2 PC, 2 ERSL, 4 APGR</info>
         <battleforce pv="22" wt="2" mv="6" s="5" m="5" l="2" e="0" ov="2" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>2227</battle_value>
-        <cost>1.5562E7</cost>
+        <cost>1.564E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
@@ -589,7 +589,7 @@
         <info>Ryoken (Stormcrow)  G 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 16 DHS; 5 ERML, 1 HAG20</info>
         <battleforce pv="22" wt="2" mv="6" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2152</battle_value>
-        <cost>1.5094384375E7</cost>
+        <cost>1.5154384375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -648,7 +648,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Ryoken (Stormcrow)  H 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 22 DHS; 3 ERML, 2 HLL</info>
-        <battleforce pv="21" wt="2" mv="6" s="5" m="5" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="2" mv="6" s="5" m="5" l="0" e="0" ov="1" armor="6" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2061</battle_value>
         <cost>1.493715625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -700,9 +700,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Ryoken (Stormcrow)  I 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 13 DHS; 2 LRM15, 2 ERLL, 2 ERML, 1 BAP</info>
-        <battleforce pv="23" wt="2" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="23" wt="2" mv="6" s="3" m="3" l="3" e="0" ov="2" armor="6" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2319</battle_value>
-        <cost>1.57708625E7</cost>
+        <cost>1.58308625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -763,9 +763,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Ryoken (Stormcrow)  (Kotare) 55t, 6/9/0, XLFE, ES; 9.5T/98% FF Armor; 13 DHS; 5 ERML, 1 LRM20, 2 SSRM6</info>
-        <battleforce pv="24" wt="2" mv="6" s="5" m="5" l="1" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="24" wt="2" mv="6" s="5" m="5" l="1" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2382</battle_value>
-        <cost>1.53446125E7</cost>
+        <cost>1.55126125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -843,7 +843,7 @@
         <info>Ryoken (Stormcrow)  Z 55t, 6/9[12]/0, XLFE, ES; 9.5T/98% FF Armor; 12 DHS; 2 iHML, 1 NCEWS, 2 iATM9</info>
         <battleforce pv="29" wt="2" mv="8" s="8" m="6" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2855</battle_value>
-        <cost>2.44415625E7</cost>
+        <cost>2.53415625E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">

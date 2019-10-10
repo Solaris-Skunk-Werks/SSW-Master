@@ -2,7 +2,7 @@
 <mech name="Axman" model="AXM-6T" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1830</battle_value>
-    <cost>1.7407884999999996E7</cost>
+    <cost>1.7607884999999996E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>7</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSProtop</source>
         <info>Axman AXM-6T 65t, 5/8/0, XLFE, ES; 11.5T/92% LFF Armor; 10 DHS; 4 ERML, 2 Tbolt15</info>
-        <battleforce pv="18" wt="3" mv="5" s="3" m="4" l="2" e="0" ov="0" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="18" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="2" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

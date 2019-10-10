@@ -2,7 +2,7 @@
 <mech name="Arctic Wolf" model="" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1330</battle_value>
-    <cost>7457893.333333332</cost>
+    <cost>7571893.333333332</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Arctic Wolf 40t, 7/11/0, XLFE, ES; 6.0T/70% Armor; 10 DHS; 1 Narc, 6 SRM6, 2 SRM4</info>
-        <battleforce pv="13" wt="2" mv="7" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="SNARC, CASE, SRCH, ES, SEAL, SOA, SRM 4/4/0" />
+        <battleforce pv="13" wt="2" mv="7" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="2" abilities="SNARC, CASE, SRCH, ES, SEAL, SOA, SRM 4/4/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="10" techbase="1">

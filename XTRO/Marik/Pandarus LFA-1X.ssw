@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Pandarus" model="LFA-1X" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1589</battle_value>
-    <cost>7638750.0</cost>
+    <battle_value>1486</battle_value>
+    <cost>7848750.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRMarik</source>
         <info>Pandarus LFA-1X 75t, 4/6/0, Std FE, Comp; 13.0T/90% Armor; 10 DHS; 1 ERML, 3 ExLRM10</info>
-        <battleforce pv="16" wt="3" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="15" wt="3" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

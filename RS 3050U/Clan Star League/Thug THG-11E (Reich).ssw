@@ -2,7 +2,7 @@
 <mech name="Thug" model="THG-11E (Reich)" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Thug.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2612</battle_value>
-    <cost>9260040.0</cost>
+    <cost>9368040.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>

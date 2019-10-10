@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raptor" model="RTX1-O" tons="25" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>3869791.666666667</cost>
+    <cost>3900291.666666667</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -67,7 +67,7 @@
         <info>Raptor RTX1-O Prime 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 2 ML, 2 SL, 2 MG, 3 LRM5</info>
         <battleforce pv="7" wt="1" mv="7" s="3" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>721</battle_value>
-        <cost>3869791.666666667</cost>
+        <cost>3900291.666666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -169,9 +169,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Raptor RTX1-O B 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 1 SL, 3 SRM6</info>
-        <battleforce pv="6" wt="1" mv="7" s="1" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="6" wt="1" mv="7" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>613</battle_value>
-        <cost>3945963.541666667</cost>
+        <cost>3999963.541666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -213,7 +213,7 @@
         <info>Raptor RTX1-O C 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 12 DHS; 6 ML, 2 SPL, 1 AMS</info>
         <battleforce pv="9" wt="1" mv="7" s="4" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>870</battle_value>
-        <cost>4153385.416666667</cost>
+        <cost>4155385.416666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">
@@ -280,7 +280,7 @@
         <info>Raptor RTX1-O D 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 2 SL, 3 SSRM2, 1 C3S, 2 MG, 1 BAP, 1 TAG</info>
         <battleforce pv="5" wt="1" mv="7" s="3" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, C3S, PRB, RCN, TAG, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>490</battle_value>
-        <cost>4455729.166666667</cost>
+        <cost>4510229.166666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -352,7 +352,7 @@
         <info>Raptor RTX1-O E 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 1 SL, 3 MRM10</info>
         <battleforce pv="6" wt="1" mv="7" s="3" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>597</battle_value>
-        <cost>3805338.541666667</cost>
+        <cost>3815338.541666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -445,7 +445,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Raptor RTX1-O R 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 2 ERLL, 1 C3S, 2 ERML, 1 ERSL</info>
-        <battleforce pv="14" wt="1" mv="7" s="3" m="3" l="2" e="0" ov="0" armor="2" internal="1" abilities="OMNI, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="1" mv="7" s="3" m="3" l="2" e="0" ov="1" armor="2" internal="1" abilities="OMNI, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1393</battle_value>
         <cost>4836588.541666667</cost>
@@ -490,7 +490,7 @@
         <info>Raptor RTX1-O G 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 1 PR, 3 SPL, 1 ERSL</info>
         <battleforce pv="9" wt="1" mv="7" s="3" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>857</battle_value>
-        <cost>4052213.541666667</cost>
+        <cost>4072213.541666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -535,9 +535,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Raptor RTX1-O U 25t, 7/11/7, XLFE, ES; 3.5T/63% Armor; 10 DHS; 2 SRT4, 3 ERML</info>
-        <battleforce pv="9" wt="1" mv="7j" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="UMU, OMNI, SRCH, ES, SEAL, SOA, TOR 1/1/0" />
+        <battleforce pv="9" wt="1" mv="7u" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="UMU, OMNI, SRCH, ES, SEAL, SOA, TOR 1/1/0" />
         <battle_value>914</battle_value>
-        <cost>4498697.916666667</cost>
+        <cost>4525697.916666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="7">

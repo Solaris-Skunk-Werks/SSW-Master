@@ -2,7 +2,7 @@
 <mech name="Crockett" model="CRK-5003-1" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Crockett.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1923</battle_value>
-    <cost>8222325.0</cost>
+    <cost>8320325.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Crockett CRK-5003-1 85t, 3/5/3, Std FE, Std; 16.5T/100% Armor; 15 DHS; 2 SL, 2 ERLL, 2 SRM6, 1 LB10</info>
-        <battleforce pv="19" wt="4" mv="3j" s="3" m="2" l="2" e="0" ov="0" armor="9" internal="7" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0, FLK 1/1/1" />
+        <battleforce pv="19" wt="4" mv="3j" s="4" m="4" l="2" e="0" ov="0" armor="9" internal="7" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

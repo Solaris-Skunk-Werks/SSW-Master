@@ -2,7 +2,7 @@
 <mech name="Cataphract" model="CTF-4L" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2002</battle_value>
-    <cost>7958833.333333335</cost>
+    <cost>7998833.333333335</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -61,7 +61,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Cataphract CTF-4L 70t, 4/6/0, Std FE, ES; 13.5T/100% Stlth Armor; 13 DHS; 1 ECM, 2 ERML, 1 GR, 1 ERPPC</info>
-        <battleforce pv="20" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="6" abilities="ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="1" armor="7" internal="6" abilities="ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Deimos" model="" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.325565625E7</cost>
+    <cost>2.335065625E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -83,9 +83,9 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Deimos  Prime 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 LRM15, 2 ERML, 6 UAC2, 1 AMS</info>
-        <battleforce pv="22" wt="4" mv="4" s="3" m="3" l="2" e="0" ov="0" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="22" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2188</battle_value>
-        <cost>2.325565625E7</cost>
+        <cost>2.335065625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -167,7 +167,7 @@
         <info>Deimos  A 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 16 DHS; 1 ECM, 2 ERML, 2 MPL, 2 ERPPC, 2 LB10, 1 AMS</info>
         <battleforce pv="28" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2785</battle_value>
-        <cost>2.455528125E7</cost>
+        <cost>2.462128125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -237,9 +237,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Deimos  B 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 16 DHS; 1 ECM, 2 ERML, 4 LRM10, 2 ERPPC, 1 AMS, 2 LPL</info>
-        <battleforce pv="30" wt="4" mv="4" s="3" m="3" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="30" wt="4" mv="4" s="4" m="4" l="4" e="0" ov="4" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2965</battle_value>
-        <cost>2.416215625E7</cost>
+        <cost>2.434415625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -331,7 +331,7 @@
         <info>Deimos  C 85t, 3/5[6]/4 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 UAC/10, 1 ECM, 2 ERLL, 2 SPL, 2 ERML, 1 AMS</info>
         <battleforce pv="27" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2737</battle_value>
-        <cost>2.529528125E7</cost>
+        <cost>2.534528125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
@@ -405,7 +405,7 @@
         <info>Deimos  S 85t, 3/5[6]/4 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 UAC/10, 2 ERLL, 2 SPL, 2 ERML, 1 LqdCrgo, 1 AMS</info>
         <battleforce pv="27" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2664</battle_value>
-        <cost>2.48330125E7</cost>
+        <cost>2.48830125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

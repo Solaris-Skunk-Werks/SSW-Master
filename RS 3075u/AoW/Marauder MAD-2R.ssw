@@ -2,7 +2,7 @@
 <mech name="Marauder" model="MAD-2R" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1630</battle_value>
-    <cost>7395500.0</cost>
+    <cost>7400000.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>

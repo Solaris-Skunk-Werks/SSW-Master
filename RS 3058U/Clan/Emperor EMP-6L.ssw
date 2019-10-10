@@ -2,7 +2,7 @@
 <mech name="Emperor" model="EMP-6L" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2681</battle_value>
-    <cost>1.27585E7</cost>
+    <cost>1.28185E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Emperor EMP-6L 90t, 3[4]/5[6]/3 TSM, Std FE, Std; 17.5T/100% Stlth Armor; 12 DHS; 1 ECM, 1 GR, 4 MPL, 1 ERPPC</info>
-        <battleforce pv="27" wt="4" mv="3j" s="3" m="4" l="2" e="0" ov="0" armor="9" internal="7" abilities="TSM, ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="4" mv="3j" s="3" m="4" l="2" e="0" ov="2" armor="9" internal="7" abilities="TSM, ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

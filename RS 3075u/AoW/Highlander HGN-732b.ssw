@@ -2,7 +2,7 @@
 <mech name="Highlander" model="HGN-732b" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Highlander.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2335</battle_value>
-    <cost>9205880.0</cost>
+    <cost>9419880.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>

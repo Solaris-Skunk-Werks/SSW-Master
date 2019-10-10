@@ -2,7 +2,7 @@
 <mech name="BattleMaster" model="C" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>3025</battle_value>
-    <cost>2.0648343333333336E7</cost>
+    <cost>2.0993343333333336E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>BattleMaster C 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 15 DHS; 2 ERML, 4 MPL, 1 HAG30, 1 ATM6, TC</info>
-        <battleforce pv="30" wt="4" mv="4" s="8" m="7" l="3" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
+        <battleforce pv="30" wt="4" mv="4" s="8" m="7" l="3" e="0" ov="1" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="15" techbase="1">

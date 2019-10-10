@@ -60,7 +60,7 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2870</loadout_year>
         <info>Black Hawk (Nova)  Prime 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 18 DHS; 12 ERML</info>
-        <battleforce pv="27" wt="2" mv="5j" s="5" m="5" l="0" e="0" ov="2" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="2" mv="5j" s="5" m="5" l="0" e="0" ov="4" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2663</battle_value>
         <cost>1.1586250000000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -141,7 +141,7 @@
         <info>Black Hawk (Nova)  A 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 MPL, 2 ERPPC, 2 AMS</info>
         <battleforce pv="24" wt="2" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="5" internal="3" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2422</battle_value>
-        <cost>1.1423125000000002E7</cost>
+        <cost>1.1425125000000002E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -183,7 +183,7 @@
         <info>Black Hawk (Nova)  B 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 2 MG, 1 UAC5, 1 ERSL, 1 LPL</info>
         <battleforce pv="15" wt="2" mv="5j" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1543</battle_value>
-        <cost>1.0659531250000002E7</cost>
+        <cost>1.0669531250000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -230,7 +230,7 @@
         <info>Black Hawk (Nova)  C 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 SPL, 1 GR, 1 SRM4</info>
         <battleforce pv="15" wt="2" mv="5j" s="2" m="3" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1515</battle_value>
-        <cost>1.0621562500000002E7</cost>
+        <cost>1.0668562500000002E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -265,9 +265,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2870</loadout_year>
         <info>Black Hawk (Nova)  D 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 LB5, 1 LRM20</info>
-        <battleforce pv="15" wt="2" mv="5j" s="1" m="1" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="15" wt="2" mv="5j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>1450</battle_value>
-        <cost>1.0854062500000002E7</cost>
+        <cost>1.0938062500000002E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -309,7 +309,7 @@
         <info>Black Hawk (Nova)  E 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 3 ERML, 1 ATM12</info>
         <battleforce pv="21" wt="2" mv="5j" s="6" m="5" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2078</battle_value>
-        <cost>1.0941250000000002E7</cost>
+        <cost>1.1391250000000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -371,7 +371,7 @@
         <info>Black Hawk (Nova)  F 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 3 ERML, 1 HAG20</info>
         <battleforce pv="20" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1976</battle_value>
-        <cost>1.1022812500000002E7</cost>
+        <cost>1.1112812500000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -416,7 +416,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Black Hawk (Nova)  H 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 20 DHS; 10 HML</info>
-        <battleforce pv="18" wt="2" mv="5j" s="6" m="6" l="0" e="0" ov="2" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="2" mv="5j" s="6" m="6" l="0" e="0" ov="4" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1832</battle_value>
         <cost>1.1659375000000002E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -489,7 +489,7 @@
         <info>Black Hawk (Nova)  S 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 BAP, 4 MG, 6 MPL, 1 AMS</info>
         <battleforce pv="21" wt="2" mv="5j" s="6" m="5" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, AMS, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2056</battle_value>
-        <cost>1.1203750000000002E7</cost>
+        <cost>1.1206250000000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -572,7 +572,7 @@
         <battleforce pv="14" wt="2" mv="5j" s="6" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ECM, LPRB, RCN, MEL, BHJ, CASE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1413</battle_value>
-        <cost>1.1416937500000002E7</cost>
+        <cost>1.1417437500000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

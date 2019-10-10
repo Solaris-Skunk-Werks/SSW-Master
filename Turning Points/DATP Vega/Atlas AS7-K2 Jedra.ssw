@@ -2,7 +2,7 @@
 <mech name="Atlas" model="AS7-K2 Jedra" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1971</battle_value>
-    <cost>2.8489333333333332E7</cost>
+    <cost>2.8583333333333332E7</cost>
     <rules_level>1</rules_level>
     <era>3</era>
     <productionera>8</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>DATPVega</source>
         <info>Atlas AS7-K2 Jedra 100t, 4/6/0, XLFE, Std; 16.5T/96% FF Armor; 12 DHS; 5 ERML, 2 LGR, 2 SRM4</info>
-        <battleforce pv="20" wt="4" mv="4" s="3" m="4" l="2" e="0" ov="0" armor="10" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="20" wt="4" mv="4" s="4" m="5" l="2" e="0" ov="0" armor="10" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

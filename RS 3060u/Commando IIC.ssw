@@ -2,7 +2,7 @@
 <mech name="Commando IIC" model="" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>978</battle_value>
-    <cost>2305000.0</cost>
+    <cost>2359000.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Commando IIC 25t, 6/9/0, Std FE, ES; 4.5T/81% Armor; 10 DHS; 2 ERML, 1 SRM6, 3 SRM4</info>
-        <battleforce pv="10" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
+        <battleforce pv="10" wt="1" mv="6" s="4" m="4" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="10" techbase="1">

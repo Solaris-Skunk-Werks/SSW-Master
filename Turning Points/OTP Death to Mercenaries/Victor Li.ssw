@@ -2,7 +2,7 @@
 <mech name="Victor" model="Li" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1625</battle_value>
-    <cost>8199120.000000001</cost>
+    <cost>8229120.000000001</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>HTPDeath</source>
         <info>Victor Li 80t, 4/6/4, Std FE, Std; 11.5T/74% Armor; 19 SHS; 10 ML, 1 LRM15</info>
-        <battleforce pv="16" wt="4" mv="4j" s="3" m="4" l="1" e="0" ov="1" armor="6" internal="6" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="4" mv="4j" s="3" m="4" l="1" e="0" ov="2" armor="6" internal="6" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

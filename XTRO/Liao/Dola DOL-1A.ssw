@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dola" model="DOL-1A" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>936</battle_value>
+    <battle_value>911</battle_value>
     <cost>6911840.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>

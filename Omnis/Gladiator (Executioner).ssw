@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Gladiator (Executioner)" model="" tons="95" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\executioner.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>3.5613134375E7</cost>
+    <cost>3.5654134375E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -69,7 +69,7 @@
         <info>Gladiator (Executioner)  Prime 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 19 DHS; 2 ERLL, 1 GR, 2 MG</info>
         <battleforce pv="27" wt="4" mv="5/4j" s="4" m="4" l="4" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2749</battle_value>
-        <cost>3.5613134375E7</cost>
+        <cost>3.5654134375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">
@@ -127,7 +127,7 @@
         <info>Gladiator (Executioner)  A 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 19 DHS; 4 ERML, 2 MG, 3 LPL</info>
         <battleforce pv="31" wt="4" mv="5/4j" s="5" m="5" l="3" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3112</battle_value>
-        <cost>3.5826171875E7</cost>
+        <cost>3.5827171875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">
@@ -195,7 +195,7 @@
         <info>Gladiator (Executioner)  B 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 19 DHS; 1 ERML, 1 ERPPC, 1 AMS, 1 UAC20</info>
         <battleforce pv="29" wt="4" mv="5/4j" s="6" m="6" l="2" e="0" ov="0" armor="9" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2940</battle_value>
-        <cost>3.619240625E7</cost>
+        <cost>3.625440625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">
@@ -253,7 +253,7 @@
         <info>Gladiator (Executioner)  C 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 16 DHS; 1 ERSL, 1 LRM20, 1 UAC20, TC</info>
         <battleforce pv="27" wt="4" mv="5/4j" s="6" m="6" l="2" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>2740</battle_value>
-        <cost>3.594378125E7</cost>
+        <cost>3.612378125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -308,9 +308,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>3001</loadout_year>
         <info>Gladiator (Executioner)  D 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 19 DHS; 5 SPL, 1 ERSL, 2 SRM6, 3 MPL, 1 LPL</info>
-        <battleforce pv="27" wt="4" mv="5/4j" s="6" m="6" l="1" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="27" wt="4" mv="5/4j" s="7" m="7" l="1" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>2698</battle_value>
-        <cost>3.523836875E7</cost>
+        <cost>3.531936875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">
@@ -403,7 +403,7 @@
         <info>Gladiator (Executioner)  E 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 17 DHS; 2 ERLL, 2 ATM9, 2 HML, 1 HSL</info>
         <battleforce pv="30" wt="4" mv="5/4j" s="6" m="5" l="3" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2988</battle_value>
-        <cost>3.6339509375E7</cost>
+        <cost>3.6714509375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -477,9 +477,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Gladiator (Executioner)  H 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 16 DHS; 1 Flmr, 2 ERML, 1 HLL, 1 UAC20, TC</info>
-        <battleforce pv="31" wt="4" mv="5/4j" s="5" m="5" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="31" wt="4" mv="5/4j" s="5" m="5" l="0" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3059</battle_value>
-        <cost>3.6001915625E7</cost>
+        <cost>3.6081915625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -539,9 +539,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Gladiator (Executioner)  K 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 18 DHS; 2 ERLL, 3 ERML, 1 HAG20, 1 LAP</info>
-        <battleforce pv="31" wt="4" mv="5/4j" s="5" m="5" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="31" wt="4" mv="5/4j" s="5" m="5" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>3125</battle_value>
-        <cost>3.6402884375E7</cost>
+        <cost>3.6492884375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -606,9 +606,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Gladiator (Executioner)  P 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 16 DHS; 1 PC, 1 LRM10, 1 HAG30, 3 HML</info>
-        <battleforce pv="31" wt="4" mv="5/4j" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, IF 1, FLK 2/2/2" />
+        <battleforce pv="31" wt="4" mv="5/4j" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, IF 1, FLK 2/2/2" />
         <battle_value>3052</battle_value>
-        <cost>3.6812384375E7</cost>
+        <cost>3.6944384375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

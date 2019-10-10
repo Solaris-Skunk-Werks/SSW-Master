@@ -2,7 +2,7 @@
 <mech name="Kodiak" model="2" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2856</battle_value>
-    <cost>2.9155333333333332E7</cost>
+    <cost>2.9249333333333332E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Kodiak 2 100t, 4/6/4, XLFE, ES; 17.5T/91% Armor; 20 DHS; 1 ERLL, 4 ERML, 1 SSRM6, 1 UAC20</info>
-        <battleforce pv="29" wt="4" mv="4j" s="7" m="7" l="1" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="29" wt="4" mv="4j" s="7" m="7" l="1" e="0" ov="1" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

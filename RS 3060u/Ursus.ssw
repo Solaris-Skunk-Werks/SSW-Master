@@ -2,7 +2,7 @@
 <mech name="Ursus" model="" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1778</battle_value>
-    <cost>4450000.0</cost>
+    <cost>4507000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Ursus 50t, 4/6/0, Std FE, Std; 8.5T/96% FF Armor; 16 DHS; 1 ECM, 1 ERLL, 2 ERML, 1 SRM6, 1 LRM10, 2 MPL</info>
-        <battleforce pv="18" wt="2" mv="4" s="5" m="5" l="2" e="0" ov="0" armor="5" internal="4" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="18" wt="2" mv="4" s="5" m="5" l="2" e="0" ov="1" armor="5" internal="4" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">

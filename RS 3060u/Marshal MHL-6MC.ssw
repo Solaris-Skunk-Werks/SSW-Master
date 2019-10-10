@@ -2,7 +2,7 @@
 <mech name="Marshal" model="MHL-6MC" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1467</battle_value>
-    <cost>7622977.5</cost>
+    <cost>7710227.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

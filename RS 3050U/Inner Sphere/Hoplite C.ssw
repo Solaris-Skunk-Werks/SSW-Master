@@ -2,7 +2,7 @@
 <mech name="Hoplite" model="C" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1736</battle_value>
-    <cost>5042408.333333333</cost>
+    <cost>5138408.333333333</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>

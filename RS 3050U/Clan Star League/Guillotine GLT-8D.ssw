@@ -2,7 +2,7 @@
 <mech name="Guillotine" model="GLT-8D" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1891</battle_value>
-    <cost>7272883.333333335</cost>
+    <cost>7326883.333333335</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Guillotine GLT-8D 70t, 4/6/4, Std FE, ES; 12.5T/92% Armor; 14 DHS; 2 ERLL, 4 ERML, 1 SSRM6, TC</info>
-        <battleforce pv="19" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="2" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

@@ -2,7 +2,7 @@
 <mech name="Javelin" model="JVN-11B" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>678</battle_value>
-    <cost>2803840.0</cost>
+    <cost>2857840.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Javelin JVN-11B 30t, 6/9/0, Std FE, Std; 5.0T/85% FF Armor; 10 DHS; 1 ECM, 1 BAP, 2 SRM4</info>
-        <battleforce pv="7" wt="1" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="7" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="3" abilities="ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

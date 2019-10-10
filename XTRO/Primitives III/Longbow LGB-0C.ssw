@@ -2,7 +2,7 @@
 <mech name="Longbow" model="LGB-0C" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1295</battle_value>
-    <cost>7660695.833333334</cost>
+    <cost>7840695.833333334</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPrimitives III</source>
         <info>Longbow LGB-0C 85t, 3/5/0, Pr FE, Prm; 13.5T/55% Pr. Armor; 15 SHS; 2 ML, 1 SL, 2 LRM20</info>
-        <battleforce pv="13" wt="4" mv="3" s="2" m="1" l="0" e="0" ov="0" armor="5" internal="7" abilities="SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="13" wt="4" mv="3" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="7" abilities="SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="15" techbase="2">

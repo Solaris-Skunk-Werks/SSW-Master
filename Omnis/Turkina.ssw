@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Turkina" model="" tons="95" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.666259375E7</cost>
+    <cost>2.677659375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -58,9 +58,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Turkina  Prime 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 19 DHS; 2 LRM15, 2 LB5, 2 ERPPC</info>
-        <battleforce pv="29" wt="4" mv="3j" s="4" m="4" l="4" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2, FLK 1/1/1" />
+        <battleforce pv="29" wt="4" mv="3j" s="5" m="6" l="6" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2, FLK 1/1/1" />
         <battle_value>2944</battle_value>
-        <cost>2.666259375E7</cost>
+        <cost>2.677659375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="19" techbase="1">
@@ -132,9 +132,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Turkina  A 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 15 DHS; 2 GR, 2 LRM20</info>
-        <battleforce pv="29" wt="4" mv="3j" s="3" m="3" l="3" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="29" wt="4" mv="3j" s="5" m="6" l="6" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2906</battle_value>
-        <cost>2.587284375E7</cost>
+        <cost>2.607284375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -204,7 +204,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3058</loadout_year>
         <info>Turkina  B 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 25 DHS; 2 ERLL, 2 ERML, 2 MPL, 2 LPL, TC</info>
-        <battleforce pv="34" wt="4" mv="3j" s="7" m="7" l="4" e="0" ov="0" armor="10" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="34" wt="4" mv="3j" s="7" m="7" l="4" e="0" ov="1" armor="10" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>3420</battle_value>
         <cost>2.550721875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -276,7 +276,7 @@
         <info>Turkina  C 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 17 DHS; 2 Flmr, 2 APod, 1 BAP, 2 MG, 2 MPL, 1 SSRM6, 2 LPL, 1 LB20</info>
         <battleforce pv="28" wt="4" mv="3j" s="6" m="5" l="2" e="0" ov="2" armor="10" internal="5" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>2798</battle_value>
-        <cost>2.667721875E7</cost>
+        <cost>2.683971875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -388,7 +388,7 @@
         <info>Turkina  D 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 17 DHS; 2 ERML, 4 ATM12</info>
         <battleforce pv="31" wt="4" mv="3j" s="12" m="8" l="4" e="0" ov="2" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3132</battle_value>
-        <cost>2.677959375E7</cost>
+        <cost>2.752959375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -485,7 +485,7 @@
         <info>Turkina  H 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 20 DHS; 2 UAC/10, 2 MPL, 3 HML, TC</info>
         <battleforce pv="27" wt="4" mv="3j" s="9" m="9" l="4" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2712</battle_value>
-        <cost>2.587284375E7</cost>
+        <cost>2.592084375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="20" techbase="1">
@@ -565,7 +565,7 @@
         <info>Turkina  E 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 15 DHS; 1 HAG40, 6 SSRM6</info>
         <battleforce pv="31" wt="4" mv="3j" s="10" m="10" l="3" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 3/2/2" />
         <battle_value>3147</battle_value>
-        <cost>2.653096875E7</cost>
+        <cost>2.686696875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -652,7 +652,7 @@
         <info>Turkina  X 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 17 DHS; 1 ECM, 1 Talons, 6 MPL, 2 LRM20</info>
         <battleforce pv="31" wt="4" mv="3j" s="8" m="8" l="4" e="0" ov="0" armor="10" internal="5" abilities="OMNI, ECM, MEL, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>3056</battle_value>
-        <cost>2.77021875E7</cost>
+        <cost>2.86021875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -757,9 +757,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Turkina  U 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 15 DHS; 1 Talons, 2 LRM15, 1 CoolPd, 5 HrJl, 10 ERSL, 1 ATM9, 1 BAP, 2 LqdCrgo, TC</info>
-        <battleforce pv="25" wt="4" mv="3j" s="7" m="7" l="1" e="0" ov="0" armor="10" internal="5" abilities="OMNI, PRB, RCN, BHJ, MEL, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="25" wt="4" mv="3j" s="8" m="8" l="2" e="0" ov="0" armor="10" internal="5" abilities="OMNI, PRB, RCN, BHJ, MEL, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2520</battle_value>
-        <cost>2.983670625E7</cost>
+        <cost>3.004670625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -923,7 +923,7 @@
         <info>Turkina  Z 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 17 DHS; 1 LTAG, 1 NCEWS, 4 iATM12</info>
         <battleforce pv="39" wt="4" mv="3j" s="15" m="10" l="5" e="0" ov="0" armor="10" internal="5" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3935</battle_value>
-        <cost>3.258084375E7</cost>
+        <cost>3.408084375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">

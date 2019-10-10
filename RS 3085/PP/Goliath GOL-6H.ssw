@@ -2,7 +2,7 @@
 <mech name="Goliath" model="GOL-6H" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1681</battle_value>
-    <cost>1.40373E7</cost>
+    <cost>1.409755E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Goliath GOL-6H 80t, 4/6/0, LFE, Std Quad; 15.0T/91% Armor; 12 DHS; 2 MGA+3LMG, 2 LRM10, 1 HPPC, 4 BPod</info>
-        <battleforce pv="17" wt="4" mv="4" s="2" m="2" l="2" e="0" ov="0" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="17" wt="4" mv="4" s="3" m="4" l="3" e="0" ov="0" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

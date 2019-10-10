@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Avatar" model="AV1-O" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.7087479166666668E7</cost>
+    <cost>1.7300479166666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -70,7 +70,7 @@
         <info>Avatar AV1-O Prime 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 ML, 2 MG, 2 LRM10, 2 MPL, 1 LB10</info>
         <battleforce pv="14" wt="3" mv="4" s="4" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2, FLK 1/1/1" />
         <battle_value>1395</battle_value>
-        <cost>1.7087479166666668E7</cost>
+        <cost>1.7300479166666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -155,9 +155,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Avatar AV1-O A 70t, 4/6/4, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 ML, 1 ERLL, 2 SRM6, 1 AC20</info>
-        <battleforce pv="15" wt="3" mv="4j" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, AC 1/1/0, SRM 1/1/0" />
+        <battleforce pv="15" wt="3" mv="4j" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, AC 1/1/0, SRM 1/1/0" />
         <battle_value>1481</battle_value>
-        <cost>1.6989729166666668E7</cost>
+        <cost>1.7073729166666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -231,7 +231,7 @@
         <info>Avatar AV1-O B 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 ML, 2 LRM15, 2 LRM10</info>
         <battleforce pv="15" wt="3" mv="4" s="3" m="5" l="4" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 4" />
         <battle_value>1496</battle_value>
-        <cost>1.7137416666666668E7</cost>
+        <cost>1.7497416666666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -301,9 +301,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Avatar AV1-O C 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 ML, 1 PPC, 1 UAC5, 2 LRM10, 1 C3M</info>
-        <battleforce pv="14" wt="3" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="14" wt="3" mv="4" s="3" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>1406</battle_value>
-        <cost>1.9566291666666668E7</cost>
+        <cost>1.9635291666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -363,9 +363,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Avatar AV1-O D 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 12 DHS; 2 ML, 1 C3S, 2 MRM20, 2 ERML, 1 LGR</info>
-        <battleforce pv="15" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="1" armor="6" internal="3" abilities="OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1475</battle_value>
-        <cost>1.7123604166666668E7</cost>
+        <cost>1.7153604166666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">
@@ -437,7 +437,7 @@
         <info>Avatar AV1-O E 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 16 DHS; 1 ECM, 2 ML, 1 C3I, 1 ERML, 1 ERPPC, 1 UAC10</info>
         <battleforce pv="16" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3I, ECM, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1563</battle_value>
-        <cost>1.8686541666666668E7</cost>
+        <cost>1.8722541666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">
@@ -508,7 +508,7 @@
         <info>Avatar AV1-O F 70t, 4/6/4, XLFE, Std; 12.0T/88% Armor; 15 DHS; 2 ML, 1 ERPPC, 1 LB20</info>
         <battleforce pv="17" wt="3" mv="4j" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>1667</battle_value>
-        <cost>1.7556041666666668E7</cost>
+        <cost>1.7664041666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -574,10 +574,10 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Avatar AV1-O R 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 1 SSRM4, 2 ML, 1 ERLL, 1 GR, 1 MRM40</info>
-        <battleforce pv="18" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1833</battle_value>
-        <cost>1.7101291666666668E7</cost>
+        <cost>1.7185291666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -639,7 +639,7 @@
         <info>Avatar AV1-O G 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 ML, 2 GR</info>
         <battleforce pv="18" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1775</battle_value>
-        <cost>1.6378791666666668E7</cost>
+        <cost>1.6458791666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -691,7 +691,7 @@
         <info>Avatar AV1-O H 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 16 DHS; 2 ML, 2 MML3, 2 HPPC</info>
         <battleforce pv="16" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1604</battle_value>
-        <cost>1.6859041666666668E7</cost>
+        <cost>1.7033041666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">
@@ -755,9 +755,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Avatar AV1-O I 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 16 DHS; 2 ML, 2 ERML, 2 Tbolt15</info>
-        <battleforce pv="16" wt="3" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battleforce pv="16" wt="3" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>1606</battle_value>
-        <cost>1.6916416666666668E7</cost>
+        <cost>1.7116416666666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">
@@ -828,7 +828,7 @@
         <info>Avatar AV1-O U 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 SRT4, 2 ML, 1 SPL, 2 LRT15, 1 C3M</info>
         <battleforce pv="14" wt="3" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA" />
         <battle_value>1359</battle_value>
-        <cost>2.0174041666666668E7</cost>
+        <cost>2.0348041666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

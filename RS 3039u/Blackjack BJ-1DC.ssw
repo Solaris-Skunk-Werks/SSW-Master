@@ -2,7 +2,7 @@
 <mech name="Blackjack" model="BJ-1DC" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>917</battle_value>
-    <cost>2972500.0</cost>
+    <cost>2973500.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>

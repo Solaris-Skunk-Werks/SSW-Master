@@ -2,7 +2,7 @@
 <mech name="Stalker" model="STK-7C3BS" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1712</battle_value>
-    <cost>9274975.0</cost>
+    <cost>9331975.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <info>Stalker STK-7C3BS 85t, 3/5/0, Std FE, Std; 13.5T/82% Armor; 18 DHS; 1 SVSPL, 1 BC3S, 2 ERPPC, 4 MPL, 2 MML5</info>
-        <battleforce pv="17" wt="4" mv="3" s="5" m="5" l="2" e="0" ov="0" armor="7" internal="7" abilities="C3BSS, CASEII, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="17" wt="4" mv="3" s="5" m="5" l="2" e="0" ov="1" armor="7" internal="7" abilities="C3BSS, CASEII, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Arctic Wolf II" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>9738166.666666666</cost>
+    <cost>9828166.666666666</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -72,9 +72,9 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Arctic Wolf II  Prime 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 11 DHS; 2 LRM15, 1 SPL, 2 ERML</info>
-        <battleforce pv="21" wt="2" mv="7j" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="21" wt="2" mv="7j" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2111</battle_value>
-        <cost>9738166.666666666</cost>
+        <cost>9828166.666666666</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">
@@ -130,7 +130,7 @@
         <info>Arctic Wolf II  A 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 10 DHS; 4 SSRM4, 1 ECM, 2 SPL, 1 BAP</info>
         <battleforce pv="16" wt="2" mv="7j" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1645</battle_value>
-        <cost>1.0193166666666666E7</cost>
+        <cost>1.0301166666666666E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -190,9 +190,9 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Arctic Wolf II  B 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 11 DHS; 1 SPL, 4 SRM4, 1 LPL</info>
-        <battleforce pv="17" wt="2" mv="7j" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="17" wt="2" mv="7j" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>1678</battle_value>
-        <cost>9571916.666666666</cost>
+        <cost>9625916.666666666</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">
@@ -248,7 +248,7 @@
         <info>Arctic Wolf II  C 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 12 DHS; 2 ERLL, 2 SRM4</info>
         <battleforce pv="19" wt="2" mv="7j" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1913</battle_value>
-        <cost>9738166.666666666</cost>
+        <cost>9792166.666666666</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">

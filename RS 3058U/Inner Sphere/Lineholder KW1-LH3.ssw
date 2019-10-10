@@ -2,7 +2,7 @@
 <mech name="Lineholder" model="KW1-LH3" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1214</battle_value>
-    <cost>4562166.666666667</cost>
+    <cost>4592166.666666667</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Zeus" model="ZEU-X2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2150</battle_value>
-    <cost>8.76738E7</cost>
+    <battle_value>2120</battle_value>
+    <cost>8.76788E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS MWDA</source>
         <info>Zeus ZEU-X2 80t, 5/8/0, XXLFE, Comp; 14.5T/94% Rctv Armor; 18 DHS; 1 MRM20, 1 ERPPC, 2 MXPL</info>
-        <battleforce pv="22" wt="4" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="4" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Marco" model="MR-8D" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>436</battle_value>
-    <cost>1460011.25</cost>
+    <cost>1487011.25</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>

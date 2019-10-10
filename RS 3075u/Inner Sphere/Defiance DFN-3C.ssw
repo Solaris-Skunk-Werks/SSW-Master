@@ -2,7 +2,7 @@
 <mech name="Defiance" model="DFN-3C" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1817</battle_value>
-    <cost>1.9415375E7</cost>
+    <cost>1.9474875E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Defiance DFN-3C 75t, 4[5]/6[8]/0 TSM, XLFE, ES, Cmp Gyro; 12.0T/83% Armor; 12 DHS; 2 SL, 1 MG, 2 SRM6, 2 MPL, 2 ERPPC, 1 LB10</info>
-        <battleforce pv="18" wt="3" mv="4" s="4" m="3" l="2" e="0" ov="3" armor="6" internal="3" abilities="TSM, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
+        <battleforce pv="18" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="3" armor="6" internal="3" abilities="TSM, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

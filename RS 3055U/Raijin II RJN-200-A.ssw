@@ -2,7 +2,7 @@
 <mech name="Raijin II" model="RJN-200-A" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1763</battle_value>
-    <cost>1.22115E7</cost>
+    <cost>1.22655E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Raijin II RJN-200-A 50t, 6[7]/9[11]/6 TSM, XLFE, ES; 11.0T/100% Armor; 11 DHS; 1 SSRM4, 1 C3I, 3 ERML, 1 ERPPC</info>
-        <battleforce pv="18" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="2" abilities="TSM, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="1" armor="6" internal="2" abilities="TSM, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

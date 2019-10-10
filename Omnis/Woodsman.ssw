@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Woodsman" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.1688359375E7</cost>
+    <cost>1.1778859375E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -59,9 +59,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2866</loadout_year>
         <info>Woodsman  Prime 75t, 4/6[8]/0 MASC, Std FE, ES; 13.5T/94% Armor; 17 DHS; 2 LRM15, 2 ERLL, 3 ERML, 2 MG, 1 ERSL</info>
-        <battleforce pv="26" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="6" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="7" internal="6" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2623</battle_value>
-        <cost>1.1688359375E7</cost>
+        <cost>1.1778859375E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -149,7 +149,7 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2866</loadout_year>
         <info>Woodsman  A 75t, 4/6[8]/0 MASC, Std FE, ES; 13.5T/94% Armor; 17 DHS; 1 ERSL, 2 ERPPC, 2 MPL, 1 LPL</info>
-        <battleforce pv="27" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="6" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="7" internal="6" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2741</battle_value>
         <cost>1.1332890625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cougar" model="X3" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1453</battle_value>
-    <cost>6932700.0</cost>
+    <battle_value>1410</battle_value>
+    <cost>6992700.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>8</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS MWDA</source>
         <info>Cougar X3 35t, 5/8/0, XLFE, Comp, HD Gyro; 5.5T/88% FF Armor; 11 DHS; 1 SLRM10, 1 ERLPL, 1 ERMPL, TC</info>
-        <battleforce pv="15" wt="1" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="1" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">

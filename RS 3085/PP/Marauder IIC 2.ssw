@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Marauder IIC 2 85t, 4/6/4, Std FE, ES; 12.5T/91% FF Armor; 24 DHS; 1 ERLL, 2 MPL, 2 HLL</info>
-        <battleforce pv="24" wt="4" mv="4j" s="5" m="5" l="1" e="0" ov="0" armor="8" internal="7" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="4" mv="4j" s="5" m="5" l="1" e="0" ov="1" armor="8" internal="7" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

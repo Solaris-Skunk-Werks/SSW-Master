@@ -2,7 +2,7 @@
 <mech name="Kintaro" model="KTO-21" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1295</battle_value>
-    <cost>6432706.666666667</cost>
+    <cost>6563206.666666667</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Kintaro KTO-21 55t, 5/8/0, Std FE, ES; 9.5T/92% FF Armor; 10 DHS; 1 C3I, 1 iNarc, 2 ERML, 2 SRM6</info>
-        <battleforce pv="13" wt="2" mv="5" s="1" m="1" l="0" e="0" ov="0" armor="6" internal="5" abilities="INARC, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="13" wt="2" mv="5" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="5" abilities="INARC, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

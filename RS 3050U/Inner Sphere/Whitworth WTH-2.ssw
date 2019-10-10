@@ -2,7 +2,7 @@
 <mech name="Whitworth" model="WTH-2" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>936</battle_value>
-    <cost>2996933.3333333335</cost>
+    <cost>3116933.3333333335</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>4</productionera>

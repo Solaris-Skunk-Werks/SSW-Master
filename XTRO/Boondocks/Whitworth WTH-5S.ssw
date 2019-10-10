@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Whitworth" model="WTH-5S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1320</battle_value>
-    <cost>7789133.333333333</cost>
+    <battle_value>1230</battle_value>
+    <cost>7843133.333333333</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRBoondocks</source>
         <info>Whitworth WTH-5S 40t, 4/6[8]/4, XLFE, Comp; 8.0T/93% Armor; 10 DHS; 1 ECM, 2 MXPL, 2 SSRM6</info>
-        <battleforce pv="13" wt="2" mv="5/4j" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="1" abilities="ECM, CASEII, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="12" wt="2" mv="5/4j" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="1" abilities="ECM, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

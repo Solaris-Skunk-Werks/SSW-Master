@@ -2,7 +2,7 @@
 <mech name="Barghest" model="BGS-7S" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1526</battle_value>
-    <cost>1.6492266666666666E7</cost>
+    <cost>1.6606266666666666E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Barghest BGS-7S 70t, 5/8/0, XLFE, Std Quad; 14.0T/100% LFF Armor; 12 DHS; 1 ERFlmr, 1 MPL, 2 LPPC, 1 MML7, 2 MVSPL</info>
-        <battleforce pv="15" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="0" armor="8" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="15" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="1" armor="8" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

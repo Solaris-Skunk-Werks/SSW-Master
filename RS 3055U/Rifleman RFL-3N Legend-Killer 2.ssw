@@ -2,7 +2,7 @@
 <mech name="Rifleman" model="RFL-3N &quot;Legend-Killer 2&quot;" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1209</battle_value>
-    <cost>4923200.0</cost>
+    <cost>4927700.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS 3055Up</source>
         <info>Rifleman RFL-3N "Legend-Killer 2" 60t, 4/6/4, Std FE, Std; 12.5T/100% Armor; 11 SHS; 2 ML, 2 AC5</info>
-        <battleforce pv="12" wt="3" mv="4j" s="1" m="1" l="0" e="0" ov="0" armor="7" internal="5" abilities="SRCH, ES, SEAL, SOA, AC 1/1/1" />
+        <battleforce pv="12" wt="3" mv="4j" s="2" m="2" l="1" e="0" ov="0" armor="7" internal="5" abilities="SRCH, ES, SEAL, SOA, AC 1/1/1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

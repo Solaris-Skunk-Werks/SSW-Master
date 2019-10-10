@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Arctic Wolf" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>8823500.0</cost>
+    <cost>9039500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -65,7 +65,7 @@
         <info>Arctic Wolf  Prime 40t, 6/9/6, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 4 SSRM6</info>
         <battleforce pv="16" wt="2" mv="6j" s="5" m="5" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1641</battle_value>
-        <cost>8823500.0</cost>
+        <cost>9039500.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">
@@ -124,9 +124,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3067</loadout_year>
         <info>Arctic Wolf  A 40t, 6/9/0, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 ECM, 2 LRM15, 2 SPL, 2 SRM6</info>
-        <battleforce pv="16" wt="2" mv="6" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, LRM 2/2/2, IF 2" />
+        <battleforce pv="16" wt="2" mv="6" s="5" m="5" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, LRM 2/2/2, IF 2" />
         <battle_value>1587</battle_value>
-        <cost>8953000.0</cost>
+        <cost>9127000.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -203,7 +203,7 @@
         <info>Arctic Wolf  J 40t, 6/9/4, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 4 SSRM4, 1 ECM, 1 PC, 1 BAP, 1 HML</info>
         <battleforce pv="18" wt="2" mv="6/3j" s="4" m="4" l="1" e="0" ov="2" armor="4" internal="2" abilities="OMNI, ECM, PRB, RCN, CASE, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>1786</battle_value>
-        <cost>9768500.0</cost>
+        <cost>9888500.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

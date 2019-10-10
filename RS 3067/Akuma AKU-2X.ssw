@@ -2,7 +2,7 @@
 <mech name="Akuma" model="AKU-2X" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Akuma.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2122</battle_value>
-    <cost>1.151248E7</cost>
+    <cost>1.155948E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="TRUE">
         <source>RS3067u</source>
         <info>Akuma AKU-2X 90t, 3/5/0, Std FE, ES, Cmp Gyro; 17.5T/100% Armor; 13 DHS; 1 C3S, 1 MPL, 1 HPPC, 1 MRM40, 1 LB10</info>
-        <battleforce pv="21" wt="4" mv="3" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="7" abilities="C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="21" wt="4" mv="3" s="5" m="5" l="2" e="0" ov="1" armor="9" internal="7" abilities="C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

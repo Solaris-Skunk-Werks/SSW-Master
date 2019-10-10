@@ -2,7 +2,7 @@
 <mech name="Phoenix Hawk" model="PXH-3M" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1307</battle_value>
-    <cost>8450890.0</cost>
+    <cost>8455890.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>3</productionera>

@@ -2,7 +2,7 @@
 <mech name="Rampage" model="RMP-2G" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1444</battle_value>
-    <cost>6880705.0</cost>
+    <cost>6953705.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>ISP2</source>
         <info>Rampage RMP-2G 85t, 3/5/0, Std FE, Std; 14.0T/85% Armor; 23 SHS; 1 Flmr, 2 ML, 1 AC10, 1 MG, 1 LRM10, 1 LL</info>
-        <battleforce pv="14" wt="4" mv="3" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0, IF 1" />
+        <battleforce pv="14" wt="4" mv="3" s="4" m="4" l="1" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="23" techbase="2">

@@ -61,7 +61,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Sha Yu SYU-6B 40t, 7/11/0, XLFE, ES; 7.5T/88% Stlth Armor; 11 DHS; 2 ML, 1 ECM, 2 SNPPC</info>
-        <battleforce pv="14" wt="2" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="ECM, STL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="7" s="2" m="2" l="0" e="0" ov="1" armor="4" internal="2" abilities="ECM, STL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

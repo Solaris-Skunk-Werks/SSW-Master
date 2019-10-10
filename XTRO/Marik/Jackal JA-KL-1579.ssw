@@ -2,7 +2,7 @@
 <mech name="Jackal" model="JA-KL-1579" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1269</battle_value>
-    <cost>5795140.0</cost>
+    <cost>5797140.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>

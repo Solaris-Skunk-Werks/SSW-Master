@@ -2,7 +2,7 @@
 <mech name="Kyudo" model="KY2-D-01" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>748</battle_value>
-    <cost>3415620.0</cost>
+    <cost>3445620.0</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>

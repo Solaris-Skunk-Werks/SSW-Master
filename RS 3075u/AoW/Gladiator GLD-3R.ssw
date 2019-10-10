@@ -2,7 +2,7 @@
 <mech name="Gladiator" model="GLD-3R" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1282</battle_value>
-    <cost>4833106.666666667</cost>
+    <cost>4893106.666666667</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Gladiator GLD-3R 55t, 5/8/5, Std FE, Std; 9.5T/82% Armor; 12 SHS; 2 ML, 2 LRM10</info>
-        <battleforce pv="13" wt="2" mv="5j" s="1" m="1" l="0" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JSBD</source>
         <info>Stag II STG-24G 45t, 7/11/0, XLFE, ES; 7.5T/88% FF Armor; 12 DHS; 3 ML, 2 SL, 1 EnERPPC, 2 MPL</info>
-        <battleforce pv="16" wt="2" mv="7" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="2" mv="7" s="4" m="4" l="1" e="0" ov="1" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

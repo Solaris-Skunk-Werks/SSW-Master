@@ -2,7 +2,7 @@
 <mech name="Shogun" model="SHG-2E" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1823</battle_value>
-    <cost>7744100.0</cost>
+    <cost>7858100.0</cost>
     <rules_level>1</rules_level>
     <era>4</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Shogun SHG-2E 85t, 3/5/3, Std FE, Std; 15.5T/94% Armor; 17 SHS; 2 LRM15, 1 PPC, 2 SRM6</info>
-        <battleforce pv="18" wt="4" mv="3j" s="1" m="1" l="1" e="0" ov="0" armor="8" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, LRM 1/1/1, IF 1" />
+        <battleforce pv="18" wt="4" mv="3j" s="2" m="3" l="2" e="0" ov="0" armor="8" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Fire Falcon" model="" tons="25" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>4622395.833333333</cost>
+    <cost>4676395.833333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -66,7 +66,7 @@
         <info>Fire Falcon  Prime 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 2 SSRM4, 2 ERML, 2 ERSL, 1 MPL</info>
         <battleforce pv="15" wt="1" mv="8" s="5" m="5" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1451</battle_value>
-        <cost>4622395.833333333</cost>
+        <cost>4676395.833333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -118,7 +118,7 @@
         <info>Fire Falcon  A 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ERSL, 1 LRM10, 1 UAC2</info>
         <battleforce pv="8" wt="1" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>822</battle_value>
-        <cost>4401692.708333333</cost>
+        <cost>4432692.708333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -153,7 +153,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3056</loadout_year>
         <info>Fire Falcon  B 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 2 ERLL, TC</info>
-        <battleforce pv="16" wt="1" mv="8" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="1" mv="8" s="2" m="2" l="2" e="0" ov="1" armor="3" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1570</battle_value>
         <cost>4540364.583333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -180,9 +180,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3056</loadout_year>
         <info>Fire Falcon  C 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 SPL, 1 BAP, 1 ERSL, 4 MG, 2 SRM6, 1 MPL</info>
-        <battleforce pv="10" wt="1" mv="8" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="10" wt="1" mv="8" s="4" m="3" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1004</battle_value>
-        <cost>4770442.708333333</cost>
+        <cost>4797942.708333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -252,9 +252,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3056</loadout_year>
         <info>Fire Falcon  D 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 Narc, 1 ERML, 1 TAG, 2 SRM4</info>
-        <battleforce pv="8" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SNARC, TAG, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="8" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SNARC, TAG, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>826</battle_value>
-        <cost>4587239.583333333</cost>
+        <cost>4707239.583333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -311,7 +311,7 @@
         <info>Fire Falcon  E 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ATM12</info>
         <battleforce pv="11" wt="1" mv="8" s="3" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1094</battle_value>
-        <cost>4509114.583333333</cost>
+        <cost>4734114.583333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -391,7 +391,7 @@
         <info>Fire Falcon  F 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ERLL, 2 ERMcL, 2 ERSL, 1 BAP, 2 MGA+4MG</info>
         <battleforce pv="11" wt="1" mv="8" s="4" m="3" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1135</battle_value>
-        <cost>4720052.083333333</cost>
+        <cost>4721052.083333333</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

@@ -2,7 +2,7 @@
 <mech name="Thug" model="THG-11E" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Thug.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1640</battle_value>
-    <cost>8316840.000000001</cost>
+    <cost>8370840.000000001</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Thug THG-11E 80t, 4/6/0, Std FE, ES; 15.5T/100% Armor; 18 DHS; 2 PPC, 2 SRM6</info>
-        <battleforce pv="16" wt="4" mv="4" s="2" m="2" l="2" e="0" ov="0" armor="8" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="16" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="0">

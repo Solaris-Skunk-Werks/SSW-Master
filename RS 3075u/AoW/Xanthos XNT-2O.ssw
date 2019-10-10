@@ -2,7 +2,7 @@
 <mech name="Xanthos" model="XNT-2O" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1300</battle_value>
-    <cost>9567000.0</cost>
+    <cost>9606000.0</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u</source>
         <info>Xanthos XNT-2O 100t, 3/5/0, Pr FE, Prm Quad; 15.0T/50% Pr. Armor; 18 SHS; 2 ML, 2 SL, 1 AC10, 1 SRM4, 1 LL</info>
-        <battleforce pv="13" wt="4" mv="3" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="8" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="13" wt="4" mv="3" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="8" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="2">

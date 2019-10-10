@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Preta" model="C-PRT-O" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>9786321.875</cost>
+    <cost>9788321.875</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -69,7 +69,7 @@
         <info>Preta C-PRT-O Invictus (Prime) 45t, 6/9/0, LFE, ES; 9.0T/94% Armor; 11 DHS; 1 C3I, 1 SNPPC, 1 RBlde, 1 LPPC, 1 AMS</info>
         <battleforce pv="11" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3I, MEL, SAW, AMS, CASE, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1067</battle_value>
-        <cost>9786321.875</cost>
+        <cost>9788321.875</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">
@@ -203,7 +203,7 @@
         <info>Preta C-PRT-O Comminus (C) 45t, 6/9/0, LFE, ES; 9.0T/94% Armor; 10 DHS; 1 PR, 1 C3I, 1 BAP, 1 ERSL, 2 MPL, 1 TAG</info>
         <battleforce pv="12" wt="2" mv="6" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3I, TAG, PRB, RCN, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1187</battle_value>
-        <cost>9775265.625</cost>
+        <cost>9795265.625</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -301,7 +301,7 @@
         <info>Preta C-PRT-O Eminus (E) 45t, 6/9/0, LFE, ES; 9.0T/94% Armor; 10 DHS; 1 C3I, 2 ERML, 1 RL10, 1 Tbolt15</info>
         <battleforce pv="12" wt="2" mv="6" s="2" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1211</battle_value>
-        <cost>9616400.0</cost>
+        <cost>9666400.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -421,7 +421,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Preta C-PRT-O Exanimus (U) 45t, 6/9/6, LFE, ES; 9.0T/94% Armor; 11 DHS; 1 LAMS, 1 C3I, 1 SNPPC, 1 RBlde, 1 ERSL</info>
-        <battleforce pv="11" wt="2" mv="6j" s="2" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="UMU, OMNI, C3I, MEL, SAW, AMS, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="11" wt="2" mv="6u" s="2" m="1" l="0" e="0" ov="0" armor="5" internal="2" abilities="UMU, OMNI, C3I, MEL, SAW, AMS, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1055</battle_value>
         <cost>1.0258025E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>

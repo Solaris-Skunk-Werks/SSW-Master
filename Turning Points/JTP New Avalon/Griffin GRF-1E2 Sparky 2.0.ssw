@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JTPNewAvalon</source>
         <info>Griffin GRF-1E2 "Sparky 2.0" 55t, 5/8/5, LFE, Std; 10.0T/97% FF Armor; 14 DHS; 2 ML, 3 ERML, 1 ERPPC, TC</info>
-        <battleforce pv="19" wt="2" mv="5j" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="2" mv="5j" s="3" m="3" l="1" e="0" ov="1" armor="6" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

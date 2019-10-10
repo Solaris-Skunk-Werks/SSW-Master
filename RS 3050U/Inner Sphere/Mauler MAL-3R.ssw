@@ -2,7 +2,7 @@
 <mech name="Mauler" model="MAL-3R" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1877</battle_value>
-    <cost>1.9114475E7</cost>
+    <cost>1.9298475E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Mauler MAL-3R 90t, 3/5/3, XLFE, Std; 16.0T/100% FF Armor; 10 DHS; 1 SL, 2 LRM15, 1 C3S, 2 LB10</info>
-        <battleforce pv="19" wt="4" mv="3j" s="2" m="2" l="2" e="0" ov="0" armor="9" internal="4" abilities="C3S, MHQ1, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2, FLK 1/1/1" />
+        <battleforce pv="19" wt="4" mv="3j" s="3" m="3" l="3" e="0" ov="0" armor="9" internal="4" abilities="C3S, MHQ1, SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2, FLK 1/1/1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

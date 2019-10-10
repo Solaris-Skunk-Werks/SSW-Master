@@ -2,7 +2,7 @@
 <mech name="Dervish" model="DV-1S" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>864</battle_value>
-    <cost>4080633.333333333</cost>
+    <cost>4194633.333333333</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPrimitives III</source>
         <info>Dervish DV-1S 55t, 4/6/3, Pr FE, Prm; 10.0T/58% Pr. Armor; 10 SHS; 2 LRM10, 2 SRM2</info>
-        <battleforce pv="9" wt="2" mv="4/2j" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="5" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="9" wt="2" mv="4/2j" s="1" m="2" l="2" e="0" ov="0" armor="4" internal="5" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

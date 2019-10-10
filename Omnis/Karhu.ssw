@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Karhu" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.1323740624999996E7</cost>
+    <cost>2.1335740624999996E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -62,9 +62,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
         <info>Karhu  Prime 65t, 5/8/7, XLFE, ES; 10.5T/95% FF Armor; 12 DHS; 1 ECM, 1 ERML, 1 PC, 1 RBlde, 1 ERPPC</info>
-        <battleforce pv="25" wt="3" mv="5/7j" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, MEL, SAW, ECM, ENE, HT1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="25" wt="3" mv="5/7j" s="3" m="3" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, MEL, SAW, ECM, ENE, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>2488</battle_value>
-        <cost>2.1323740624999996E7</cost>
+        <cost>2.1335740624999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="7">
@@ -116,7 +116,7 @@
         <info>Karhu  A 65t, 5/8/5, XLFE, ES; 10.5T/95% FF Armor; 12 DHS; 1 GR, 1 ERML, 1 LRM10, 1 McPL, 1 LPL</info>
         <battleforce pv="26" wt="3" mv="5j" s="4" m="4" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2560</battle_value>
-        <cost>1.8333115624999996E7</cost>
+        <cost>1.8403115624999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -176,7 +176,7 @@
         <info>Karhu  B 65t, 5/8/5, XLFE, ES; 10.5T/95% FF Armor; 14 DHS; 1 ECM, 3 ERML, 1 UAC20, TC</info>
         <battleforce pv="28" wt="3" mv="5j" s="6" m="6" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2787</battle_value>
-        <cost>1.8819968749999996E7</cost>
+        <cost>1.8899968749999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -251,7 +251,7 @@
         <info>Karhu  C 65t, 5/8/5, XLFE, ES; 10.5T/95% FF Armor; 12 DHS; 1 ERLL, 1 ERML, 1 RBlde, 2 UAC5</info>
         <battleforce pv="21" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, MEL, SAW, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2092</battle_value>
-        <cost>1.8468724999999996E7</cost>
+        <cost>1.8486724999999996E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -304,9 +304,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
         <info>Karhu  D 65t, 5/8/0, XLFE, ES; 10.5T/95% FF Armor; 16 DHS; 1 ECM, 3 ERML, 1 BAP, 2 ERPPC, 2 AMS, 1 SSRM6, TC</info>
-        <battleforce pv="31" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, PRB, RCN, ECM, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="31" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="7" internal="4" abilities="OMNI, PRB, RCN, ECM, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3118</battle_value>
-        <cost>1.9511834374999996E7</cost>
+        <cost>1.9567834374999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -391,7 +391,7 @@
         <battleforce pv="19" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, PRB, RCN, C3S, MEL, SAW, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1924</battle_value>
-        <cost>1.8777584374999996E7</cost>
+        <cost>1.8797584374999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="15" techbase="1">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Night Gyr" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.051328125E7</cost>
+    <cost>2.053728125E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -69,9 +69,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  Prime 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 20 DHS; 1 UAC/10, 3 MPL, 2 ERPPC</info>
-        <battleforce pv="28" wt="3" mv="4j" s="6" m="6" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="28" wt="3" mv="4j" s="6" m="6" l="4" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2830</battle_value>
-        <cost>2.051328125E7</cost>
+        <cost>2.053728125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="20" techbase="1">
@@ -132,9 +132,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  A 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 16 DHS; 3 MPL, 2 SSRM6, 1 LPL, 1 UAC20</info>
-        <battleforce pv="27" wt="3" mv="4j" s="7" m="7" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="3" mv="4j" s="6" m="6" l="1" e="0" ov="3" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2680</battle_value>
-        <cost>2.051546875E7</cost>
+        <cost>2.062946875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -208,7 +208,7 @@
         <info>Night Gyr  B 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 2 GR, 2 LB2</info>
         <battleforce pv="21" wt="3" mv="4j" s="3" m="4" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2140</battle_value>
-        <cost>2.018953125E7</cost>
+        <cost>2.025283125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -260,7 +260,7 @@
         <info>Night Gyr  C 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 18 DHS; 2 ERLL, 2 ERML, 3 UAC2, TC</info>
         <battleforce pv="25" wt="3" mv="4j" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2468</battle_value>
-        <cost>2.020265625E7</cost>
+        <cost>2.020465625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -329,9 +329,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  D 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 1 MPL, 4 LRM20, 1 LPL</info>
-        <battleforce pv="29" wt="3" mv="4j" s="6" m="6" l="5" e="0" ov="3" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 4" />
+        <battleforce pv="29" wt="3" mv="4j" s="5" m="5" l="4" e="0" ov="2" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>2889</battle_value>
-        <cost>2.168796875E7</cost>
+        <cost>2.204796875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -401,9 +401,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Night Gyr  E 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 18 DHS; 1 SRM6, 6 MPL, 1 ATM6, 2 LPL</info>
-        <battleforce pv="27" wt="3" mv="4j" s="7" m="6" l="2" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="3" mv="4j" s="7" m="6" l="2" e="0" ov="3" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2717</battle_value>
-        <cost>2.019171875E7</cost>
+        <cost>2.036871875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -489,7 +489,7 @@
         <info>Night Gyr  H 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 17 DHS; 1 ECM, 1 UAC/10, 1 GR, 1 MPL, 1 HLL</info>
         <battleforce pv="24" wt="3" mv="4j" s="6" m="6" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2428</battle_value>
-        <cost>2.064890625E7</cost>
+        <cost>2.071290625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">
@@ -554,7 +554,7 @@
         <info>Night Gyr  F 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 1 ECM, 1 HAG20, 2 ERML, 1 HAG30, TC</info>
         <battleforce pv="30" wt="3" mv="4j" s="6" m="5" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 4/3/3" />
         <battle_value>2958</battle_value>
-        <cost>2.097703125E7</cost>
+        <cost>2.118703125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

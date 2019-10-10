@@ -2,7 +2,7 @@
 <mech name="Firebee" model="FRB-1E (WAM-B)" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>514</battle_value>
-    <cost>2419335.0</cost>
+    <cost>2503335.0</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>

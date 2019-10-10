@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Flamberge" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.9517841666666668E7</cost>
+    <cost>1.9721841666666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -41,7 +41,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS 3085</source>
         <info>Flamberge 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 11 DHS; 2 SRM6</info>
-        <battleforce pv="10" wt="3" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="10" wt="3" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">
@@ -65,9 +65,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Flamberge  Prime 70t, 4/6/6, XLFE, ES; 13.5T/100% Armor; 15 DHS; 4 MPL, 2 SRM6, 2 ATM6</info>
-        <battleforce pv="23" wt="3" mv="4/6j" s="6" m="5" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="23" wt="3" mv="4/6j" s="8" m="7" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>2266</battle_value>
-        <cost>1.9517841666666668E7</cost>
+        <cost>1.9721841666666668E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">
@@ -143,9 +143,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Flamberge  A 70t, 4/6/5, XLFE, ES; 13.5T/100% Armor; 15 DHS; 4 SRM6, 1 ERPPC, 1 LPL, TC</info>
-        <battleforce pv="26" wt="3" mv="4/5j" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="26" wt="3" mv="4/5j" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>2575</battle_value>
-        <cost>1.8820416666666668E7</cost>
+        <cost>1.8901416666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -210,9 +210,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Flamberge  B 70t, 4/6/4, XLFE, ES; 13.5T/100% Armor; 17 DHS; 1 ERLL, 3 PC, 2 ERML, 2 SRM6, TC</info>
-        <battleforce pv="28" wt="3" mv="4j" s="4" m="4" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="28" wt="3" mv="4j" s="6" m="6" l="3" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>2750</battle_value>
-        <cost>1.8918166666666668E7</cost>
+        <cost>1.9032166666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
@@ -308,9 +308,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Flamberge  C 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 17 DHS; 1 ERLL, 1 ERML, 1 ArwIV, 2 MPL, 2 SRM6, 1 TAG, TC</info>
-        <battleforce pv="22" wt="3" mv="4" s="5" m="3" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, TAG, ARTAC, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="22" wt="3" mv="4" s="7" m="5" l="1" e="0" ov="0" armor="7" internal="4" abilities="OMNI, TAG, ARTAC, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>2206</battle_value>
-        <cost>1.7528416666666668E7</cost>
+        <cost>1.7617416666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="17" techbase="1">

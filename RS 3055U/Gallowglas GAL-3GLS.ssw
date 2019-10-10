@@ -2,7 +2,7 @@
 <mech name="Gallowglas" model="GAL-3GLS" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2291</battle_value>
-    <cost>1.2932920000000002E7</cost>
+    <cost>1.2972920000000002E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Gallowglas GAL-3GLS 70t, 4[5]/6[8]/0 TSM, LFE, ES; 13.0T/96% Armor; 10 DHS; 2 ERLL, 1 ERML, 1 GR, TC</info>
-        <battleforce pv="23" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="TSM, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="1" armor="7" internal="4" abilities="TSM, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Hunchback" model="HBK-5M" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1056</battle_value>
-    <cost>3628000.0</cost>
+    <cost>3638000.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Hunchback HBK-5M 50t, 4/6/0, Std FE, Std; 10.0T/95% Armor; 13 DHS; 2 ML, 1 SPL, 1 AC20</info>
-        <battleforce pv="11" wt="2" mv="4" s="2" m="1" l="0" e="0" ov="0" armor="5" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="11" wt="2" mv="4" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

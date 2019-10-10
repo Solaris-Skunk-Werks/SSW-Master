@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulture Mk IV" model="" tons="60" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.5999E7</cost>
+    <cost>1.6062E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>8</productionera>
@@ -67,9 +67,9 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3135</loadout_year>
         <info>Vulture Mk IV  Prime 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 1 LB5, 1 ERPPC, 4 SRM6, 2 ERSPL</info>
-        <battleforce pv="21" wt="3" mv="5" s="2" m="2" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="21" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>2110</battle_value>
-        <cost>1.5999E7</cost>
+        <cost>1.6062E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -134,9 +134,9 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3135</loadout_year>
         <info>Vulture Mk IV  A 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 1 UAC/10, 2 ERSL, 4 LRM5, 1 LPL</info>
-        <battleforce pv="22" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="22" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2177</battle_value>
-        <cost>1.5414E7</cost>
+        <cost>1.5498E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -206,9 +206,9 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3135</loadout_year>
         <info>Vulture Mk IV  B 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 2 ERSL, 1 ERPPC, 1 MPL, 2 SLRM15</info>
-        <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2649</battle_value>
-        <cost>1.6404E7</cost>
+        <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2606</battle_value>
+        <cost>1.6524E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -260,7 +260,7 @@
         <info>Vulture Mk IV  C 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 13 DHS; 1 iHLL, 1 GR, 2 ERML, TC</info>
         <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2584</battle_value>
-        <cost>1.5851E7</cost>
+        <cost>1.5891E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
@@ -311,7 +311,7 @@
         <info>Vulture Mk IV  D 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 14 DHS; 2 iHML, 2 McPL, 2 ATM12</info>
         <battleforce pv="23" wt="3" mv="5" s="9" m="6" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2346</battle_value>
-        <cost>1.6313E7</cost>
+        <cost>1.6763E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="14" techbase="1">

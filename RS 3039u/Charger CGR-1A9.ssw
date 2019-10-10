@@ -2,7 +2,7 @@
 <mech name="Charger" model="CGR-1A9" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1397</battle_value>
-    <cost>7913370.000000001</cost>
+    <cost>7973370.000000001</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Charger CGR-1A9 80t, 4/6/4, Std FE, Std; 10.0T/65% Armor; 22 SHS; 4 ML, 1 SL, 1 LRM20</info>
-        <battleforce pv="14" wt="4" mv="4j" s="3" m="2" l="0" e="0" ov="0" armor="5" internal="6" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="14" wt="4" mv="4j" s="3" m="4" l="2" e="0" ov="0" armor="5" internal="6" abilities="SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

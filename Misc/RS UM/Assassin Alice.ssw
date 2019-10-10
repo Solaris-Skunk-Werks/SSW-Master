@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSUM</source>
         <info>Assassin Alice 40t, 7/11/7, LFE, ES; 7.5T/98% FF Armor; 10 DHS; 1 ECM, 1 C3S, 4 ERML, 1 BAP, TC</info>
-        <battleforce pv="15" wt="2" mv="7j" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="ECM, PRB, RCN, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="7j" s="2" m="2" l="0" e="0" ov="1" armor="4" internal="2" abilities="ECM, PRB, RCN, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="7">

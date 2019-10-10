@@ -2,7 +2,7 @@
 <mech name="Ostwar" model="OWR-2Mb" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1638</battle_value>
-    <cost>1.4108049999999996E7</cost>
+    <cost>1.4135049999999996E7</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Ostwar OWR-2Mb 65t, 5/8/0, XLFE, ES; 12.0T/91% Armor; 18 DHS; 3 ERLL, 2 SRM6</info>
-        <battleforce pv="16" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="16" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="18" techbase="0">

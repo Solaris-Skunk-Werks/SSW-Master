@@ -2,7 +2,7 @@
 <mech name="Atlas" model="AS8-D" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2432</battle_value>
-    <cost>1.321E7</cost>
+    <cost>1.3303E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

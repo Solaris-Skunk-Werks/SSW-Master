@@ -2,7 +2,7 @@
 <mech name="Axman" model="AXM-3Sr" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1734</battle_value>
-    <cost>1.065933E7</cost>
+    <cost>1.070733E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

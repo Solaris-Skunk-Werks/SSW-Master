@@ -2,7 +2,7 @@
 <mech name="Hunchback" model="HBK-7R" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1248</battle_value>
-    <cost>7814499.999999999</cost>
+    <cost>7838499.999999999</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>7</productionera>

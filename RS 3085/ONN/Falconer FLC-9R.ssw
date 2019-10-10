@@ -2,7 +2,7 @@
 <mech name="Falconer" model="FLC-9R" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1979</battle_value>
-    <cost>1.891925E7</cost>
+    <cost>1.895125E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <info>Falconer FLC-9R 75t, 5/8/5, XLFE, ES; 11.5T/80% Armor; 11 DHS; 4 ML, 1 HPPC, 1 LB10</info>
-        <battleforce pv="20" wt="3" mv="5j" s="3" m="4" l="2" e="0" ov="0" armor="6" internal="3" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="20" wt="3" mv="5j" s="3" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

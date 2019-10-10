@@ -2,7 +2,7 @@
 <mech name="Thunder Hawk" model="TDK-7X" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2577</battle_value>
-    <cost>2.1922E7</cost>
+    <cost>2.2042E7</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>

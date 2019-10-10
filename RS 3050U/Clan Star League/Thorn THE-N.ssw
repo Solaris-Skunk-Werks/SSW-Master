@@ -2,7 +2,7 @@
 <mech name="Thorn" model="THE-N" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Thorn.jpg">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>546</battle_value>
-    <cost>1617120.0</cost>
+    <cost>1647120.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>0</productionera>

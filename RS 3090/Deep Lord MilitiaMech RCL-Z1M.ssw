@@ -2,7 +2,7 @@
 <mech name="Deep Lord MilitiaMech" model="RCL-Z1M" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>713</battle_value>
-    <cost>2557965.0</cost>
+    <cost>2617965.0</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>7</productionera>

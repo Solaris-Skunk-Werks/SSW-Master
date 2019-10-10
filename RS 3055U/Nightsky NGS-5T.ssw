@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Nightsky NGS-5T 50t, 6/9/6, XLFE, Std; 9.5T/90% Armor; 11 DHS; 1 SPL, 1 ERPPC, 2 MPL, 1 Htcht</info>
-        <battleforce pv="14" wt="2" mv="6j" s="3" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="6j" s="3" m="2" l="1" e="0" ov="1" armor="5" internal="2" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

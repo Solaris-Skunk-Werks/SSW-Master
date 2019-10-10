@@ -2,7 +2,7 @@
 <mech name="Onslaught" model="SA-OS2" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1693</battle_value>
-    <cost>1.99801875E7</cost>
+    <cost>2.00171875E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Onslaught SA-OS2 75t, 5/8/5, XLFE, ES; 12.0T/83% Armor; 10 DHS; 1 AECM, 6 MG, 2 SRM6, 1 LXPL, 1 LAC5</info>
-        <battleforce pv="17" wt="3" mv="5j" s="3" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="AECM, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="17" wt="3" mv="5j" s="4" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="AECM, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

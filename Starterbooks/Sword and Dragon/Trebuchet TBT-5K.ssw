@@ -2,7 +2,7 @@
 <mech name="Trebuchet" model="TBT-5K" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>996</battle_value>
-    <cost>4004000.0</cost>
+    <cost>4035500.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>0</productionera>

@@ -2,7 +2,7 @@
 <mech name="Highlander IIC" model="" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2979</battle_value>
-    <cost>9418680.0</cost>
+    <cost>9772680.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Highlander IIC 90t, 3/5/3, Std FE, Std; 14.5T/100% FF Armor; 12 DHS; 1 GR, 3 MPL, 1 LRM20, 2 SSRM6</info>
-        <battleforce pv="30" wt="4" mv="3j" s="7" m="8" l="3" e="0" ov="0" armor="9" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="30" wt="4" mv="3j" s="7" m="7" l="3" e="0" ov="1" armor="9" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

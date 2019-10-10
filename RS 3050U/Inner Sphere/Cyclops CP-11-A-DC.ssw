@@ -2,7 +2,7 @@
 <mech name="Cyclops" model="CP-11-A-DC" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1507</battle_value>
-    <cost>9979560.0</cost>
+    <cost>1.005656E7</cost>
     <rules_level>2</rules_level>
     <era>1</era>
     <productionera>3</productionera>

@@ -2,7 +2,7 @@
 <mech name="Thunderbolt" model="TDR-9Nr" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1635</battle_value>
-    <cost>1.6006209999999996E7</cost>
+    <cost>1.6060209999999996E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Thunderbolt TDR-9Nr 65t, 5/8/0, XLFE, ES; 12.0T/91% Armor; 13 DHS; 1 ECM, 1 BlAP, 1 C3S, 1 LVSPL, 3 ERML, 1 LPPC, 1 SSRM6, 2 BPod</info>
-        <battleforce pv="16" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="3" abilities="ECM, BH, RCN, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="1" armor="6" internal="3" abilities="ECM, BH, RCN, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

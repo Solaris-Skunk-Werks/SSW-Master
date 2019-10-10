@@ -2,7 +2,7 @@
 <mech name="Spindrift Aquatic SecurityMech" model="SDT-1" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>441</battle_value>
-    <cost>1776760.0</cost>
+    <cost>1803760.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -43,7 +43,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRBoondocks</source>
         <info>Spindrift Aquatic SecurityMech SDT-1 30t, 4/6/4, Std FE, Ind; 4.5T/61% Armor; 10 SHS; 1 HrJl, 1 ERSL, 1 SRT6</info>
-        <battleforce pv="4" wt="1" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="3" abilities="UMU, BHJ, SRCH, SEAL, SOA" />
+        <battleforce pv="4" wt="1" mv="4u" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="3" abilities="UMU, BHJ, SRCH, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

@@ -2,7 +2,7 @@
 <mech name="Ha Otoko" model="2" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2348</battle_value>
-    <cost>1.248401E7</cost>
+    <cost>1.265801E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Ha Otoko 2 65t, 4/6/0, XLFE, Std; 13.0T/99% Armor; 13 DHS; 1 PC, 4 ERML, 1 LRM10, 1 HAG30</info>
-        <battleforce pv="23" wt="3" mv="4" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="CASE, HT1, SRCH, ES, SEAL, SOA, IF 1, FLK 2/1/1" />
+        <battleforce pv="23" wt="3" mv="4" s="5" m="5" l="3" e="0" ov="2" armor="7" internal="4" abilities="CASE, HT1, SRCH, ES, SEAL, SOA, IF 1, FLK 2/1/1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">

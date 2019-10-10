@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Aquagladius AQS-4 50t, 6/9/6, LFE, ES; 10.0T/100% LFF Armor; 10 DHS; 4 ERML, 3 HrJl, 1 LXPL</info>
-        <battleforce pv="15" wt="2" mv="6j" s="2" m="2" l="0" e="0" ov="1" armor="6" internal="3" abilities="UMU, BHJ, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="6u" s="2" m="2" l="0" e="0" ov="1" armor="6" internal="3" abilities="UMU, BHJ, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">

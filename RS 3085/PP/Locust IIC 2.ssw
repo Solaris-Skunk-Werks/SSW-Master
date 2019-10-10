@@ -2,7 +2,7 @@
 <mech name="Locust IIC" model="2" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>937</battle_value>
-    <cost>2094791.6666666665</cost>
+    <cost>2148791.6666666665</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>2</productionera>

@@ -2,7 +2,7 @@
 <mech name="Marauder IIC" model="8" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2554</battle_value>
-    <cost>9795595.833333334</cost>
+    <cost>9825595.833333334</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Marauder IIC 8 85t, 4/6/0, Std FE, ES; 11.5T/84% FF Armor; 21 DHS; 1 ERSL, 1 LRM10, 4 MPL, 2 ERPPC</info>
-        <battleforce pv="26" wt="4" mv="4" s="7" m="7" l="4" e="0" ov="0" armor="7" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="26" wt="4" mv="4" s="7" m="7" l="4" e="0" ov="1" armor="7" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="21" techbase="1">

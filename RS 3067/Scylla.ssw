@@ -2,7 +2,7 @@
 <mech name="Scylla" model="" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Scylla.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2897</battle_value>
-    <cost>2.9737333333333332E7</cost>
+    <cost>2.9859333333333332E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Scylla 100t, 4/6/4, XLFE, ES; 15.5T/97% FF Armor; 17 DHS; 1 ERLL, 2 ERML, 1 LB10, 2 LRM20</info>
-        <battleforce pv="29" wt="4" mv="4j" s="3" m="3" l="2" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2, FLK 1/1/1" />
+        <battleforce pv="29" wt="4" mv="4j" s="5" m="5" l="4" e="0" ov="0" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

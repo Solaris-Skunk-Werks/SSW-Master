@@ -2,7 +2,7 @@
 <mech name="Cyclops" model="CP-11-H" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1525</battle_value>
-    <cost>9637560.0</cost>
+    <cost>9657560.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Cyclops CP-11-H 90t, 4/6/0, Std FE, Std; 12.0T/77% FF Armor; 12 DHS; 2 ML, 1 AC20, 6 RL20</info>
-        <battleforce pv="15" wt="4" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <battleforce pv="15" wt="4" mv="4" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="7" abilities="SRCH, ES, SEAL, SOA, AC 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

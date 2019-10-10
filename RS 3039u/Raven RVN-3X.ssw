@@ -2,7 +2,7 @@
 <mech name="Raven" model="RVN-3X" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>691</battle_value>
-    <cost>3561075.0</cost>
+    <cost>3588075.0</cost>
     <rules_level>3</rules_level>
     <era>4</era>
     <productionera>3</productionera>

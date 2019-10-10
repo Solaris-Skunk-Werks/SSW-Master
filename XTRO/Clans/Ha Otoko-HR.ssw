@@ -2,7 +2,7 @@
 <mech name="Ha Otoko-HR" model="" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1547</battle_value>
-    <cost>9748860.0</cost>
+    <cost>9980860.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRClan</source>
         <info>Ha Otoko-HR 65t, 4/6/0, LFE, Std; 13.0T/99% Armor; 12 DHS; 2 Mrtr8, 2 LRM20</info>
-        <battleforce pv="15" wt="3" mv="4" s="1" m="2" l="2" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 3" />
+        <battleforce pv="15" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 3" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="0">

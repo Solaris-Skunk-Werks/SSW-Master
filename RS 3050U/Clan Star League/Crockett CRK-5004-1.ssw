@@ -2,7 +2,7 @@
 <mech name="Crockett" model="CRK-5004-1" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1955</battle_value>
-    <cost>9628325.0</cost>
+    <cost>9714325.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Crockett CRK-5004-1 85t, 3/5/3, Std FE, Std; 16.5T/100% Armor; 15 DHS; 1 C3I, 2 ERLL, 2 ERSL, 1 LB10, 2 SRM4</info>
-        <battleforce pv="20" wt="4" mv="3j" s="3" m="3" l="2" e="0" ov="0" armor="9" internal="7" abilities="C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, SRM 1/1/0, FLK 1/1/1" />
+        <battleforce pv="20" wt="4" mv="3j" s="4" m="4" l="2" e="0" ov="0" armor="9" internal="7" abilities="C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, SRM 1/1/0, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

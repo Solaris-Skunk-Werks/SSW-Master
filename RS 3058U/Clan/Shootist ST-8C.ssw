@@ -2,7 +2,7 @@
 <mech name="Shootist" model="ST-8C" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1528</battle_value>
-    <cost>7845103.333333335</cost>
+    <cost>7865103.333333335</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <info>Shootist ST-8C 70t, 4/6/0, Std FE, Std; 12.0T/99% FF Armor; 13 DHS; 1 C3I, 1 ERLL, 2 ERML, 1 AC20</info>
-        <battleforce pv="15" wt="3" mv="4" s="2" m="2" l="1" e="0" ov="0" armor="7" internal="6" abilities="C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <battleforce pv="15" wt="3" mv="4" s="4" m="4" l="1" e="0" ov="0" armor="7" internal="6" abilities="C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, AC 2/2/0" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

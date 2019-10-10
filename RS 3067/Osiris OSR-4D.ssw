@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Osiris OSR-4D 30t, 8/12/8, XLFE, ES; 5.5T/93% FF Armor; 10 DHS; 5 ERML, 1 MPL</info>
-        <battleforce pv="12" wt="1" mv="8j" s="2" m="2" l="0" e="0" ov="1" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="12" wt="1" mv="8j" s="2" m="2" l="0" e="0" ov="2" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="8">

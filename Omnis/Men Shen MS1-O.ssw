@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Men Shen" model="MS1-O" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.651234375E7</cost>
+    <cost>1.657234375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -73,7 +73,7 @@
         <info>Men Shen MS1-O Prime 55t, 6/9[12]/0 MASC, XLFE, ES; 11.0T/95% Armor; 10 DHS; 1 LRM15, 1 BAP, 4 MPL</info>
         <battleforce pv="16" wt="2" mv="8" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1550</battle_value>
-        <cost>1.651234375E7</cost>
+        <cost>1.657234375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -115,7 +115,7 @@
         <info>Men Shen MS1-O A 55t, 6/9[12]/0 MASC, XLFE, ES; 11.0T/95% Armor; 10 DHS; 3 ERML, 1 BAP, 1 TAG, 1 LB10</info>
         <battleforce pv="15" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, TAG, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1529</battle_value>
-        <cost>1.685140625E7</cost>
+        <cost>1.688340625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -162,7 +162,7 @@
         <info>Men Shen MS1-O B 55t, 6/9[12]/0 MASC, XLFE, ES; 11.0T/95% Armor; 10 DHS; 4 ERML, 1 BAP, 2 LB2</info>
         <battleforce pv="15" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA" />
         <battle_value>1484</battle_value>
-        <cost>1.671578125E7</cost>
+        <cost>1.671778125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -243,9 +243,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3060</loadout_year>
         <info>Men Shen MS1-O D 55t, 6/9[12]/0 MASC, XLFE, ES; 11.0T/95% Armor; 11 DHS; 1 BAP, 2 MPL, 1 ERPPC, 2 SRM4</info>
-        <battleforce pv="16" wt="2" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="16" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1581</battle_value>
-        <cost>1.657240625E7</cost>
+        <cost>1.659940625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">
@@ -291,7 +291,7 @@
         <info>Men Shen MS1-O E 55t, 6/9[12]/0 MASC, XLFE, ES; 11.0T/95% Armor; 10 DHS; 2 ML, 1 PR, 1 BAP, 2 MGA+4LMG</info>
         <battleforce pv="16" wt="2" mv="8" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA" />
         <battle_value>1625</battle_value>
-        <cost>1.6255625E7</cost>
+        <cost>1.6276625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -382,9 +382,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Men Shen MS1-O U 55t, 6/9[12]/6 MASC, XLFE, ES; 11.0T/95% Armor; 10 DHS; 2 SRT4, 1 SNPPC, 2 ERML, 1 BAP, 1 TAG</info>
-        <battleforce pv="17" wt="2" mv="8/6j" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="UMU, OMNI, PRB, RCN, TAG, SRCH, ES, SEAL, SOA, TOR 1/1/0" />
+        <battleforce pv="17" wt="2" mv="8/6u" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="UMU, OMNI, PRB, RCN, TAG, SRCH, ES, SEAL, SOA, TOR 1/1/0" />
         <battle_value>1725</battle_value>
-        <cost>1.750240625E7</cost>
+        <cost>1.752940625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">
@@ -440,7 +440,7 @@
         <info>Men Shen MS1-O (Li) 55t, 6/9[12]/0 MASC, XLFE, ES; 11.0T/95% Armor; 10 DHS; 1 LRM15, 1 BAP, 4 MPL</info>
         <battleforce pv="16" wt="2" mv="8" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, PRB, RCN, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1550</battle_value>
-        <cost>1.651234375E7</cost>
+        <cost>1.657234375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>

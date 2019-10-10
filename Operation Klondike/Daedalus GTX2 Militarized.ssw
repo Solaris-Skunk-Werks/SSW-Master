@@ -2,7 +2,7 @@
 <mech name="Daedalus" model="GTX2 &quot;Militarized&quot;" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>857</battle_value>
-    <cost>3308549.9999999995</cost>
+    <cost>3309549.9999999995</cost>
     <rules_level>3</rules_level>
     <era>1</era>
     <productionera>0</productionera>

@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Ostsol OTL-6D 60t, 5[6]/8[9]/0 TSM, XLFE, Std; 11.5T/100% FF Armor; 14 DHS; 2 ERLL, 2 SPL, 2 ERML, 2 MPL, TC</info>
-        <battleforce pv="19" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="1" armor="7" internal="3" abilities="TSM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="2" armor="7" internal="3" abilities="TSM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">

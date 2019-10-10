@@ -2,7 +2,7 @@
 <mech name="Blackjack" model="BJ-4" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1063</battle_value>
-    <cost>5252625.0</cost>
+    <cost>5270625.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Blackjack BJ-4 45t, 4/6/4, LFE, Std; 8.0T/88% LFF Armor; 10 DHS; 2 ERML, 2 LAC5, TC</info>
-        <battleforce pv="11" wt="2" mv="4j" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="11" wt="2" mv="4j" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

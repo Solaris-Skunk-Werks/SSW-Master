@@ -2,7 +2,7 @@
 <mech name="Flamberge" model="2" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2468</battle_value>
-    <cost>1.5625323333333338E7</cost>
+    <cost>1.5679323333333338E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Flamberge 2 70t, 4/6/6[7], XLFE, ES; 13.5T/100% Armor; 14 DHS; 1 McPL, 2 SRM6, 4 MPL, 1 LPL, PartWing</info>
-        <battleforce pv="25" wt="3" mv="4/7j" s="5" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="25" wt="3" mv="4/7j" s="6" m="6" l="2" e="0" ov="0" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

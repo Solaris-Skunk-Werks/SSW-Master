@@ -2,7 +2,7 @@
 <mech name="Jackrabbit" model="JKR-9W" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>549</battle_value>
-    <cost>1975000.0</cost>
+    <cost>2033500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

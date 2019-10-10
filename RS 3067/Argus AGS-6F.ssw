@@ -2,7 +2,7 @@
 <mech name="Argus" model="AGS-6F" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Argus.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1524</battle_value>
-    <cost>9620000.0</cost>
+    <cost>9687000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Argus AGS-6F 60t, 5/8/0, LFE, ES; 11.5T/97% LFF Armor; 10 DHS; 2 ERML, 1 SRM6, 1 AC20</info>
-        <battleforce pv="15" wt="3" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/0" />
+        <battleforce pv="15" wt="3" mv="5" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 2/2/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

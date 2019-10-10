@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Raptor II" model="RPT-3X" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1423</battle_value>
-    <cost>1.0794233333333332E7</cost>
+    <battle_value>1304</battle_value>
+    <cost>1.0902233333333332E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -60,7 +60,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Raptor II RPT-3X 40t, 7/11[14]/0 MASC, XLFE, ES; 7.5T/93% LFF Armor; 11 DHS; 1 ECM, 2 ERML, 2 SSRM6, VoidSig</info>
-        <battleforce pv="14" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="MAS, ECM, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="MAS, ECM, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

@@ -2,7 +2,7 @@
 <mech name="Cerberus" model="MR-6B" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2128</battle_value>
-    <cost>2.696785E7</cost>
+    <cost>2.700985E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Cerberus MR-6B 95t, 4/6/0, XLFE, Std; 15.0T/91% FF Armor; 15 DHS; 1 C3I, 2 ERML, 1 GR, 4 MPL, 1 ERPPC, 1 AMS</info>
-        <battleforce pv="21" wt="4" mv="4" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="C3I, AMS, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="4" mv="4" s="5" m="5" l="2" e="0" ov="2" armor="9" internal="4" abilities="C3I, AMS, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="15" techbase="0">

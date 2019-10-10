@@ -2,7 +2,7 @@
 <mech name="Phoenix Hawk IIC" model="2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2892</battle_value>
-    <cost>2.209344E7</cost>
+    <cost>2.233344E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>2</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Phoenix Hawk IIC 2 80t, 5/8/5, XLFE, ES; 9.5T/74% FF Armor; 10 DHS; 4 LRM20</info>
-        <battleforce pv="29" wt="4" mv="5j" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 4/4/4, IF 4" />
+        <battleforce pv="29" wt="4" mv="5j" s="4" m="4" l="4" e="0" ov="0" armor="6" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 4/4/4, IF 4" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">

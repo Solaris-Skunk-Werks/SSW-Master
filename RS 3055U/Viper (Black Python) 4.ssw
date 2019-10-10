@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Viper (Black Python) 4 75t, 5/8/4, XLFE, ES; 11.5T/95% FF Armor; 18 DHS; 4 SPL, 1 ERML, 2 MPL, 2 HLL, TC</info>
-        <battleforce pv="26" wt="3" mv="5/3j" s="5" m="5" l="0" e="0" ov="1" armor="7" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="26" wt="3" mv="5/3j" s="5" m="5" l="0" e="0" ov="3" armor="7" internal="4" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">

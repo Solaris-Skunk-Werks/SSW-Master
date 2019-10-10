@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Phantom" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Phantom.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.11482875E7</cost>
+    <cost>1.11782875E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -64,7 +64,7 @@
         <info>Phantom  Prime 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ECM, 1 ERML, 1 BAP, 1 ERSL, 1 LRM5, 1 TAG</info>
         <battleforce pv="12" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, TAG, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1159</battle_value>
-        <cost>1.11482875E7</cost>
+        <cost>1.11782875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -111,7 +111,7 @@
         <info>Phantom  A 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERML, 5 ERSL, 2 LRM5</info>
         <battleforce pv="14" wt="2" mv="9" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1410</battle_value>
-        <cost>1.04976375E7</cost>
+        <cost>1.05276375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -166,9 +166,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Phantom  B 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERML, 1 BAP, 1 ERSL, 2 SRM4</info>
-        <battleforce pv="11" wt="2" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1096</battle_value>
-        <cost>1.09613875E7</cost>
+        <cost>1.10153875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -282,7 +282,7 @@
         <info>Phantom  D 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 SSRM4, 3 ERML, 1 ERSL</info>
         <battleforce pv="16" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1581</battle_value>
-        <cost>1.07513875E7</cost>
+        <cost>1.08053875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -324,7 +324,7 @@
         <info>Phantom  E 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ATM3, 8 McPL</info>
         <battleforce pv="10" wt="2" mv="9" s="4" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>975</battle_value>
-        <cost>1.04167E7</cost>
+        <cost>1.04917E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -443,7 +443,7 @@
         <info>Phantom  F 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ECM, 2 ERML, 1 Hflmr, 1 HML</info>
         <battleforce pv="14" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1375</battle_value>
-        <cost>1.09732875E7</cost>
+        <cost>1.09752875E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Masakari (Warhawk)" model="" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\warhawk.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.6355947916666668E7</cost>
+    <cost>2.6385947916666668E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -62,9 +62,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2999</loadout_year>
         <info>Masakari (Warhawk)  Prime 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 1 LRM10, 4 ERPPC, TC</info>
-        <battleforce pv="32" wt="4" mv="4" s="5" m="5" l="5" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="32" wt="4" mv="4" s="5" m="5" l="5" e="0" ov="3" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3194</battle_value>
-        <cost>2.6355947916666668E7</cost>
+        <cost>2.6385947916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -111,7 +111,7 @@
         <info>Masakari (Warhawk)  A 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 1 LRM15, 2 ERLL, 1 LB10, 1 SSRM6, TC</info>
         <battleforce pv="24" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1, FLK 1/1/1" />
         <battle_value>2399</battle_value>
-        <cost>2.5984213541666668E7</cost>
+        <cost>2.6100213541666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -171,9 +171,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2999</loadout_year>
         <info>Masakari (Warhawk)  B 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 1 Narc, 1 GR, 3 ERML, 1 ERSL, 2 SRM6, TC</info>
-        <battleforce pv="23" wt="4" mv="4" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="5" abilities="OMNI, SNARC, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="23" wt="4" mv="4" s="6" m="7" l="2" e="0" ov="0" armor="9" internal="5" abilities="OMNI, SNARC, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>2320</battle_value>
-        <cost>2.5443666666666668E7</cost>
+        <cost>2.5759666666666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -318,7 +318,7 @@
         <info>Masakari (Warhawk)  D 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 1 UAC/10, 2 ERLL, 1 ATM9, 1 ERSL, TC</info>
         <battleforce pv="25" wt="4" mv="4" s="7" m="6" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2474</battle_value>
-        <cost>2.5653526041666668E7</cost>
+        <cost>2.5902526041666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -385,7 +385,7 @@
         <info>Masakari (Warhawk)  E 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 3 PC, 1 SRM6, 1 ERPPC, 1 LPL, TC</info>
         <battleforce pv="29" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>2895</battle_value>
-        <cost>2.6853135416666668E7</cost>
+        <cost>2.6928135416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -455,9 +455,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Masakari (Warhawk)  H 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 25 DHS; 1 LRM10, 2 HLL, 2 LPL, TC</info>
-        <battleforce pv="26" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="26" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2601</battle_value>
-        <cost>2.5592822916666668E7</cost>
+        <cost>2.5622822916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="25" techbase="1">
@@ -510,7 +510,7 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3067</loadout_year>
         <info>Masakari (Warhawk)  (Tara) 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 23 DHS; 1 ERSL, 4 ERPPC, TC</info>
-        <battleforce pv="34" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="34" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="2" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>3428</battle_value>
         <cost>2.6076713541666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -558,9 +558,9 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Masakari (Warhawk)  F 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 2 ERPPC, 1 LRM10, 1 UAC2, 1 LRM20, TC</info>
-        <battleforce pv="28" wt="4" mv="4" s="4" m="4" l="4" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="28" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2775</battle_value>
-        <cost>2.6032197916666668E7</cost>
+        <cost>2.6123197916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>

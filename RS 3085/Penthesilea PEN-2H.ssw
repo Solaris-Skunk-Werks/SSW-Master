@@ -2,7 +2,7 @@
 <mech name="Penthesilea" model="PEN-2H" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1899</battle_value>
-    <cost>9853375.0</cost>
+    <cost>9885375.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Penthesilea PEN-2H 75t, 4/6/3, Std FE, ES, Cmp Gyro; 12.0T/93% FF Armor; 13 DHS; 3 ERML, 1 LPPC, 1 ERPPC, 1 LB10</info>
-        <battleforce pv="19" wt="3" mv="4/2j" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="19" wt="3" mv="4/2j" s="3" m="3" l="2" e="0" ov="1" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

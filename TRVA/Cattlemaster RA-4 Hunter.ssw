@@ -2,7 +2,7 @@
 <mech name="Cattlemaster" model="RA-4 &quot;Hunter&quot;" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>260</battle_value>
-    <cost>854958.3333333333</cost>
+    <cost>855458.3333333333</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>

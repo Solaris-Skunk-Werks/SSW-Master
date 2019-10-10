@@ -2,7 +2,7 @@
 <mech name="Assassin" model="&quot;Servitor&quot;" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Assassin.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1019</battle_value>
-    <cost>7337563.333333332</cost>
+    <cost>7364563.333333332</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>

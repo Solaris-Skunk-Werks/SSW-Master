@@ -2,7 +2,7 @@
 <mech name="Champion" model="CHP-3P" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1503</battle_value>
-    <cost>1.31216E7</cost>
+    <cost>1.31726E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <info>Champion CHP-3P 60t, 5/8/0, XLFE, ES; 10.5T/84% Armor; 11 DHS; 1 C3I, 1 iNarc, 4 ERML, 1 UAC10</info>
-        <battleforce pv="15" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="INARC, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="1" armor="6" internal="3" abilities="INARC, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

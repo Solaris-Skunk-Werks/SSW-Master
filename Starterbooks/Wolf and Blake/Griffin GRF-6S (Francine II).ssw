@@ -2,7 +2,7 @@
 <mech name="Griffin" model="GRF-6S (Francine II)" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2249</battle_value>
-    <cost>1.354979E7</cost>
+    <cost>1.360979E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -59,7 +59,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>SBW&amp;B</source>
         <info>Griffin GRF-6S (Francine II) 55t, 5/8[10]/5, LFE, ES; 11.5T/99% LsrRflc Armor; 10 DHS; 1 LRM15, 1 SNPPC, 3 ERML</info>
-        <battleforce pv="22" wt="2" mv="6/5j" s="2" m="2" l="1" e="0" ov="1" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="22" wt="2" mv="6/5j" s="2" m="2" l="1" e="0" ov="2" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

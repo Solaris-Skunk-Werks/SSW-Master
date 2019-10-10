@@ -2,7 +2,7 @@
 <mech name="Atlas" model="AS7-CM" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Atlas.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2036</battle_value>
-    <cost>2.4972E7</cost>
+    <cost>2.5074E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>4</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-I</source>
         <info>Atlas AS7-CM 100t, 3/5/0, XLFE, Std; 19.0T/99% Armor; 20 SHS; 1 ERLL, 1 GR, 2 MPL, 1 AMS, 1 LRM20, 1 C3M</info>
-        <battleforce pv="20" wt="4" mv="3" s="3" m="3" l="3" e="0" ov="0" armor="10" internal="4" abilities="AMS, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battleforce pv="20" wt="4" mv="3" s="3" m="4" l="4" e="0" ov="0" armor="10" internal="4" abilities="AMS, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="20" techbase="2">

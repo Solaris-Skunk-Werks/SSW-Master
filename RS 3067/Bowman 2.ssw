@@ -2,7 +2,7 @@
 <mech name="Bowman" model="2" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Bowman.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2567</battle_value>
-    <cost>1.6874936666666668E7</cost>
+    <cost>1.6994936666666668E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>Bowman 2 70t, 5/8/0, XLFE, ES; 12.5T/92% Armor; 18 DHS; 1 ECM, 1 ERLL, 4 APod, 3 ERML, 2 LRM20</info>
-        <battleforce pv="26" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="7" internal="4" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="26" wt="3" mv="5" s="6" m="6" l="4" e="0" ov="0" armor="7" internal="4" abilities="ECM, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">

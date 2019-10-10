@@ -2,7 +2,7 @@
 <mech name="Rifleman" model="RFL-3N &quot;Legend-Killer&quot;" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1101</battle_value>
-    <cost>4054400.0</cost>
+    <cost>4058900.0</cost>
     <rules_level>0</rules_level>
     <era>1</era>
     <productionera>3</productionera>

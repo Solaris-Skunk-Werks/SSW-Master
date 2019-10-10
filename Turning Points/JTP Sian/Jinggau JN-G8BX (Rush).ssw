@@ -2,7 +2,7 @@
 <mech name="Jinggau" model="JN-G8BX (Rush)" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1337</battle_value>
-    <cost>1.5599649999999996E7</cost>
+    <cost>1.5629649999999996E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -56,7 +56,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JTPSian</source>
         <info>Jinggau JN-G8BX (Rush) 65t, 5/8/4, XLFE, ES, XL Gyro; 11.5T/92% LFF Armor; 13 DHS; 1 C3S, 4 MXPL, 1 SnpCnn, 1 TAG</info>
-        <battleforce pv="13" wt="3" mv="5/3j" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="3" abilities="TAG, C3S, ARTSC, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="13" wt="3" mv="5/3j" s="3" m="3" l="0" e="0" ov="1" armor="7" internal="3" abilities="TAG, C3S, ARTSC, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

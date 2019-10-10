@@ -2,7 +2,7 @@
 <mech name="Trebuchet" model="TBT-XK7" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1543</battle_value>
-    <cost>9797000.0</cost>
+    <cost>9851000.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPeriphery</source>
         <info>Trebuchet TBT-XK7 50t, 5/8/5[4] TSM, XLFE, ES; 10.5T/99% Armor; 10 DHS; 1 ERML, 3 ModArmor, 1 SmlShld, 1 ERFlmr, 1 MPL, 1 ChnWhp, 2 SSRM6</info>
-        <battleforce pv="15" wt="2" mv="4j" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="2" abilities="TSM, MEL, SHLD, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="4j" s="3" m="3" l="0" e="0" ov="1" armor="7" internal="2" abilities="TSM, MEL, SHLD, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">

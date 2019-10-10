@@ -2,7 +2,7 @@
 <mech name="Patron MilitiaMech" model="PTN-2" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>143</battle_value>
-    <cost>783208.7500000001</cost>
+    <cost>783458.7500000001</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>

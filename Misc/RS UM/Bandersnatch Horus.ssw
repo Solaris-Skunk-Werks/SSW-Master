@@ -2,7 +2,7 @@
 <mech name="Bandersnatch" model="Horus" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1584</battle_value>
-    <cost>1.5449875E7</cost>
+    <cost>1.5489875E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSUM</source>
         <info>Bandersnatch Horus 75t, 4/6/0, XLFE, ES; 14.5T/100% Armor; 11 DHS; 2 ML, 1 ERLL, 2 AC20</info>
-        <battleforce pv="16" wt="3" mv="4" s="2" m="2" l="1" e="0" ov="0" armor="8" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 3/3/0" />
+        <battleforce pv="16" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="0" armor="8" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, AC 3/3/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

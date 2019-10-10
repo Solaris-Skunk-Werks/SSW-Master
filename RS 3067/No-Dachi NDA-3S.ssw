@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>No-Dachi NDA-3S 70t, 5[6]/8[9]/0 TSM, XLFE, ES; 13.5T/100% Armor; 14 DHS; 1 ECM, 3 SL, 1 SPL, 2 ERML, 1 Mace, 3 MPL, 2 MVSPL</info>
-        <battleforce pv="17" wt="3" mv="5" s="5" m="4" l="0" e="0" ov="0" armor="7" internal="3" abilities="TSM, ECM, MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="5" s="5" m="4" l="0" e="0" ov="1" armor="7" internal="3" abilities="TSM, ECM, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">

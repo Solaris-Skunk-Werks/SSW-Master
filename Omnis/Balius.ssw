@@ -118,7 +118,7 @@
         <info>Balius  A 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 1 ERLL, 3 ERML, 1 HAG20</info>
         <battleforce pv="22" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2201</battle_value>
-        <cost>2.030015625E7</cost>
+        <cost>2.039015625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -240,9 +240,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3075</loadout_year>
         <info>Balius  C 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 2 ERML, 2 ATM9, 2 MPL</info>
-        <battleforce pv="21" wt="3" mv="6" s="6" m="4" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="3" mv="6" s="6" m="4" l="2" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2103</battle_value>
-        <cost>2.017640625E7</cost>
+        <cost>2.047640625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -302,7 +302,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3075</loadout_year>
         <info>Balius  D 65t, 6/9/6, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 4 ERML, 2 MPL, 1 ERPPC</info>
-        <battleforce pv="24" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="1" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="2" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2417</battle_value>
         <cost>2.095603125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -358,9 +358,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Balius  U 65t, 6/9/5, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 ECM, 1 Flmr, 1 ERLL, 4 SRT6</info>
-        <battleforce pv="20" wt="3" mv="6/3j" s="1" m="1" l="1" e="0" ov="0" armor="7" internal="4" abilities="UMU, OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/0" />
+        <battleforce pv="20" wt="3" mv="6/3u" s="4" m="3" l="1" e="0" ov="2" armor="7" internal="4" abilities="UMU, OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/0" />
         <battle_value>2014</battle_value>
-        <cost>2.082609375E7</cost>
+        <cost>2.093409375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">

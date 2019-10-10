@@ -2,7 +2,7 @@
 <mech name="Behemoth (Stone Rhino)" model="2" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>3107</battle_value>
-    <cost>2.3878E7</cost>
+    <cost>2.396E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Behemoth (Stone Rhino) 2 100t, 3/5/3, XLFE, Std; 19.0T/99% Armor; 16 DHS; 2 APod, 2 GR, 2 HLL, 1 AMS, 4 HML, 2 HSL</info>
-        <battleforce pv="31" wt="4" mv="3j" s="5" m="5" l="2" e="0" ov="1" armor="10" internal="5" abilities="AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="31" wt="4" mv="3j" s="5" m="5" l="2" e="0" ov="3" armor="10" internal="5" abilities="AMS, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

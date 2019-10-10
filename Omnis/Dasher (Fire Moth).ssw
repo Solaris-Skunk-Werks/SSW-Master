@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dasher (Fire Moth)" model="" tons="20" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>4127800.0000000005</cost>
+    <cost>4181800.0000000005</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -68,9 +68,9 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2874</loadout_year>
         <info>Dasher (Fire Moth)  Prime 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 2 ERML, 1 SRM6, 1 SRM4</info>
-        <battleforce pv="13" wt="1" mv="13" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="13" wt="1" mv="13" s="3" m="3" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1251</battle_value>
-        <cost>4127800.0000000005</cost>
+        <cost>4181800.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -112,7 +112,7 @@
         <info>Dasher (Fire Moth)  A 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 SSRM4, 1 BAP, 1 TAG, 1 AMS</info>
         <battleforce pv="6" wt="1" mv="13" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, AMS, TAG, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>639</battle_value>
-        <cost>4337800.0</cost>
+        <cost>4393800.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -154,7 +154,7 @@
         <info>Dasher (Fire Moth)  B 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 ECM, 1 APod, 2 MG, 2 MPL</info>
         <battleforce pv="11" wt="1" mv="13" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1064</battle_value>
-        <cost>4100050.0000000005</cost>
+        <cost>4100550.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -201,7 +201,7 @@
         <info>Dasher (Fire Moth)  C 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 2 LRM5, 1 AMS</info>
         <battleforce pv="7" wt="1" mv="13" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>741</battle_value>
-        <cost>3992800.0000000005</cost>
+        <cost>4056800.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -246,7 +246,7 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2874</loadout_year>
         <info>Dasher (Fire Moth)  D 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 Flmr, 5 ERML, TC</info>
-        <battleforce pv="23" wt="1" mv="13" s="4" m="3" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="1" mv="13" s="4" m="3" l="0" e="0" ov="1" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2307</battle_value>
         <cost>4154050.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -295,7 +295,7 @@
         <info>Dasher (Fire Moth)  E 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 ATM6</info>
         <battleforce pv="8" wt="1" mv="13" s="2" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>822</battle_value>
-        <cost>3790300.0000000005</cost>
+        <cost>4015300.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -327,7 +327,7 @@
         <info>Dasher (Fire Moth)  F 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 3 ERML, 1 BAP, 3 APGR</info>
         <battleforce pv="15" wt="1" mv="13" s="3" m="3" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1461</battle_value>
-        <cost>4303900.0</cost>
+        <cost>4306900.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -377,7 +377,7 @@
         <loadout_productionera>4</loadout_productionera>
         <loadout_year>3060</loadout_year>
         <info>Dasher (Fire Moth)  H 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 11 DHS; 9 HSL, TC</info>
-        <battleforce pv="8" wt="1" mv="13" s="5" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="8" wt="1" mv="13" s="5" m="0" l="0" e="0" ov="1" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>779</battle_value>
         <cost>3821800.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -445,7 +445,7 @@
         <info>Dasher (Fire Moth)  K 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 2 MGA+3LMG, 2 HML, 2 BPod</info>
         <battleforce pv="9" wt="1" mv="13" s="3" m="3" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>887</battle_value>
-        <cost>3959050.0000000005</cost>
+        <cost>3959300.0000000005</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>

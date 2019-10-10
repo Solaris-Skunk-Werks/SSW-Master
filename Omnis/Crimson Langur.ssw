@@ -107,9 +107,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Crimson Langur  A 50t, 7/11/0, XLFE, ES; 10.5T/99% Armor; 10 DHS; 2 LRM15, 1 ERLL</info>
-        <battleforce pv="20" wt="2" mv="7" s="1" m="1" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
+        <battleforce pv="20" wt="2" mv="7" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2003</battle_value>
-        <cost>1.3536875E7</cost>
+        <cost>1.3656875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -154,9 +154,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Crimson Langur  B 50t, 7/11/7, XLFE, ES; 10.5T/99% Armor; 10 DHS; 3 ERML, 1 ATM9, 1 LAP</info>
-        <battleforce pv="22" wt="2" mv="7j" s="4" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="22" wt="2" mv="7j" s="4" m="3" l="1" e="0" ov="1" armor="6" internal="3" abilities="OMNI, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2210</battle_value>
-        <cost>1.43778125E7</cost>
+        <cost>1.46028125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="7">
@@ -218,7 +218,7 @@
         <info>Crimson Langur  C 50t, 7/11/0, XLFE, ES; 10.5T/99% Armor; 10 DHS; 1 UAC/10, 4 ERMcL, 4 McPL</info>
         <battleforce pv="14" wt="2" mv="7" s="4" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1437</battle_value>
-        <cost>1.32621875E7</cost>
+        <cost>1.32861875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -283,9 +283,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Crimson Langur  D 50t, 7/11/5, XLFE, ES; 10.5T/99% Armor; 10 DHS; 1 LTAG, 4 ERMcL, 2 MPL, 4 SRM4, TC</info>
-        <battleforce pv="19" wt="2" mv="7/3j" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="19" wt="2" mv="7/3j" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>1867</battle_value>
-        <cost>1.3911875E7</cost>
+        <cost>1.3965875E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
@@ -373,9 +373,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Crimson Langur  E 50t, 7/11/0, XLFE, ES; 10.5T/99% Armor; 11 DHS; 2 SSRM4, 6 ERSL, 3 MPL</info>
-        <battleforce pv="21" wt="2" mv="7" s="6" m="6" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="2" mv="7" s="6" m="6" l="0" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2051</battle_value>
-        <cost>1.33184375E7</cost>
+        <cost>1.33724375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="11" techbase="1">

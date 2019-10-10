@@ -2,7 +2,7 @@
 <mech name="Hyena SalvageMech" model="HYN-4B" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>405</battle_value>
-    <cost>2093075.8333333333</cost>
+    <cost>2094075.8333333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

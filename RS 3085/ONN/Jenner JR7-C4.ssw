@@ -2,7 +2,7 @@
 <mech name="Jenner" model="JR7-C4" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>703</battle_value>
-    <cost>6530850.0</cost>
+    <cost>6587850.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>

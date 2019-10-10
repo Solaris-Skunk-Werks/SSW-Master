@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crossbow" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>8640500.0</cost>
+    <cost>8880500.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -50,7 +50,7 @@
         <info>Crossbow  Prime 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 LRM20</info>
         <battleforce pv="18" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>1829</battle_value>
-        <cost>8640500.0</cost>
+        <cost>8880500.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -92,7 +92,7 @@
         <info>Crossbow  A 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 MPL, 2 LRM5, 2 SSRM6</info>
         <battleforce pv="18" wt="3" mv="5" s="5" m="5" l="1" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1797</battle_value>
-        <cost>8062999.999999999</cost>
+        <cost>8230999.999999999</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -154,7 +154,7 @@
         <info>Crossbow  B 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 4 SSRM6</info>
         <battleforce pv="17" wt="3" mv="5" s="5" m="5" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1687</battle_value>
-        <cost>8186749.999999999</cost>
+        <cost>8402750.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -206,7 +206,7 @@
         <info>Crossbow  C 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 1 ECM, 2 HMG, 2 ATM6</info>
         <battleforce pv="16" wt="3" mv="5" s="4" m="2" l="1" e="0" ov="0" armor="6" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1557</battle_value>
-        <cost>8245531.249999999</cost>
+        <cost>8696531.25</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -278,7 +278,7 @@
         <info>Crossbow  H 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 14 DHS; 1 LRM15, 1 HLL, 4 LMG, 1 HML</info>
         <battleforce pv="17" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1707</battle_value>
-        <cost>8356906.249999999</cost>
+        <cost>8417156.25</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="14" techbase="1">
@@ -347,7 +347,7 @@
         <info>Crossbow  D 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 Mrtr8</info>
         <battleforce pv="11" wt="3" mv="5" s="1" m="2" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>1144</battle_value>
-        <cost>7485499.999999999</cost>
+        <cost>7653499.999999999</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -399,7 +399,7 @@
         <info>Crossbow  E 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 16 APGR, TC</info>
         <battleforce pv="16" wt="3" mv="5" s="6" m="6" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1558</battle_value>
-        <cost>7554593.749999999</cost>
+        <cost>7572593.749999999</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -524,9 +524,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Crossbow  U 65t, 5/8/5, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 LRT10, 2 SRT2, 2 ERML</info>
-        <battleforce pv="19" wt="3" mv="5j" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="5" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/1" />
+        <battleforce pv="19" wt="3" mv="5u" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="5" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/1" />
         <battle_value>1856</battle_value>
-        <cost>8753937.5</cost>
+        <cost>8840937.5</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">

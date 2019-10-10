@@ -2,7 +2,7 @@
 <mech name="Victor" model="C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1925</battle_value>
-    <cost>8139720.000000001</cost>
+    <cost>8253720.000000001</cost>
     <rules_level>3</rules_level>
     <era>1</era>
     <productionera>4</productionera>

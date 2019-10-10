@@ -2,7 +2,7 @@
 <mech name="Longshot" model="LNG-3C" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>971</battle_value>
-    <cost>1.8292005000000004E7</cost>
+    <cost>1.8407505000000004E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Longshot LNG-3C 35t, 7/11/0, XXLFE, ES; 6.0T/81% Armor; 10 DHS; 1 iNarc, 2 ERSL, 2 MXPL, 2 SRM4</info>
-        <battleforce pv="10" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="INARC, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="10" wt="1" mv="7" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="2" abilities="INARC, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

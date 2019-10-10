@@ -2,7 +2,7 @@
 <mech name="Penetrator" model="PTR-6S" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1689</battle_value>
-    <cost>7948500.0</cost>
+    <cost>7950500.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Penetrator PTR-6S 75t, 4/6/4, Std FE, Std; 11.5T/80% Armor; 12 DHS; 1 ECM, 2 ERLL, 6 MPL, 1 AMS</info>
-        <battleforce pv="17" wt="3" mv="4j" s="3" m="3" l="1" e="0" ov="2" armor="6" internal="6" abilities="AMS, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="4j" s="3" m="3" l="1" e="0" ov="3" armor="6" internal="6" abilities="AMS, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

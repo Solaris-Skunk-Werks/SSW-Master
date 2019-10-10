@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Koshi (Mist Lynx)" model="" tons="25" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>4680729.166666667</cost>
+    <cost>4765229.166666667</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -81,7 +81,7 @@
         <info>Koshi (Mist Lynx)  Prime 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 SSRM4, 2 MG, 1 BAP, 1 LRM10</info>
         <battleforce pv="9" wt="1" mv="7/4j" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>871</battle_value>
-        <cost>4680729.166666667</cost>
+        <cost>4765229.166666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -128,7 +128,7 @@
         <info>Koshi (Mist Lynx)  A 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 Flmr, 2 APod, 2 MG, 1 BAP, 2 AMS, 1 TAG</info>
         <battleforce pv="6" wt="1" mv="7/4j" s="1" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, TAG, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>608</battle_value>
-        <cost>4790885.416666667</cost>
+        <cost>4797385.416666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -198,9 +198,9 @@
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2926</loadout_year>
         <info>Koshi (Mist Lynx)  B 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 2 ERML, 1 ERSL, 1 BAP, 2 SRM6</info>
-        <battleforce pv="12" wt="1" mv="7/4j" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="12" wt="1" mv="7/4j" s="4" m="4" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>1209</battle_value>
-        <cost>4807682.291666667</cost>
+        <cost>4861682.291666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -247,7 +247,7 @@
         <info>Koshi (Mist Lynx)  C 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 ECM, 1 ERLL, 1 ERML, 1 BAP, 1 AMS</info>
         <battleforce pv="13" wt="1" mv="7/4j" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, ECM, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1320</battle_value>
-        <cost>5196354.166666667</cost>
+        <cost>5198354.166666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -284,7 +284,7 @@
         <info>Koshi (Mist Lynx)  D 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 ERML, 1 ERSL, 1 BAP, 1 UAC2</info>
         <battleforce pv="8" wt="1" mv="7/4j" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>842</battle_value>
-        <cost>4615104.166666667</cost>
+        <cost>4616104.166666667</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -316,7 +316,7 @@
         <info>Koshi (Mist Lynx)  E 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 4 ERSL, 1 BAP, 1 ATM6</info>
         <battleforce pv="10" wt="1" mv="7/4j" s="4" m="3" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>997</battle_value>
-        <cost>4555729.166666667</cost>
+        <cost>4705729.166666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -361,7 +361,7 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3063</loadout_year>
         <info>Koshi (Mist Lynx)  F 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 ECM, 1 LTAG, 1 BAP, 3 HML, 4 HSL, TC</info>
-        <battleforce pv="12" wt="1" mv="7/4j" s="4" m="2" l="0" e="0" ov="1" armor="2" internal="1" abilities="OMNI, PRB, RCN, LTAG, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="12" wt="1" mv="7/4j" s="4" m="2" l="0" e="0" ov="2" armor="2" internal="1" abilities="OMNI, PRB, RCN, LTAG, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1173</battle_value>
         <cost>5196354.166666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -425,7 +425,7 @@
         <info>Koshi (Mist Lynx)  G 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 2 MGA+4HMG, 4 ERSL, 1 BAP</info>
         <battleforce pv="8" wt="1" mv="7/4j" s="4" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>834</battle_value>
-        <cost>4458072.916666667</cost>
+        <cost>4459072.916666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -472,7 +472,7 @@
         <info>Koshi (Mist Lynx)  H 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 BAP, 1 AMS, 1 SSRM6, 1 HML, 2 HSL</info>
         <battleforce pv="10" wt="1" mv="7/4j" s="4" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, PRB, RCN, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>982</battle_value>
-        <cost>4852604.166666667</cost>
+        <cost>4908604.166666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -575,7 +575,7 @@
         <info>Koshi (Mist Lynx)  Z 25t, 7[6]/11[9]/6[5], XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 2 iATM3, 1 NCEWS, 1 ModArmor, 1 BAP</info>
         <battleforce pv="10" wt="1" mv="6/3j" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>970</battle_value>
-        <cost>6415104.166666667</cost>
+        <cost>6715104.166666667</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>

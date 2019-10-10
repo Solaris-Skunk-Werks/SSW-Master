@@ -2,7 +2,7 @@
 <mech name="Icarus II" model="ICR-1S" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>869</battle_value>
-    <cost>2786163.3333333335</cost>
+    <cost>2792163.3333333335</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Icarus II ICR-1S 40t, 4/6/4, Std FE, Std; 7.5T/88% Armor; 10 SHS; 2 ML, 1 SL, 1 AC10</info>
-        <battleforce pv="9" wt="2" mv="4j" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
+        <battleforce pv="9" wt="2" mv="4j" s="3" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

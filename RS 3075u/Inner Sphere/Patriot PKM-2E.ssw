@@ -2,7 +2,7 @@
 <mech name="Patriot" model="PKM-2E" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1443</battle_value>
-    <cost>1.5555237500000002E7</cost>
+    <cost>1.5785237500000002E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-CE</source>
         <info>Patriot PKM-2E 65t, 4/6/0, XLFE, ES, HD Gyro; 12.0T/91% Armor; 10 DHS; 1 HPPC, 3 MML7, 1 AMS, 1 TAG</info>
-        <battleforce pv="14" wt="3" mv="4" s="1" m="2" l="2" e="0" ov="0" armor="6" internal="3" abilities="TAG, AMS, CASE, SRCH, ES, SEAL, SOA, SRM 3/1/0, LRM 0/1/2, IF 2" />
+        <battleforce pv="14" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="TAG, AMS, CASE, SRCH, ES, SEAL, SOA, SRM 3/1/0, LRM 0/1/2, IF 2" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

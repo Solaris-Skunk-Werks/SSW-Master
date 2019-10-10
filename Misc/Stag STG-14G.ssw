@@ -2,7 +2,7 @@
 <mech name="Stag" model="STG-14G" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1351</battle_value>
-    <cost>8771050.0</cost>
+    <cost>8825050.0</cost>
     <rules_level>4</rules_level>
     <era>1</era>
     <productionera>2</productionera>
@@ -53,7 +53,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JSBD</source>
         <info>Stag STG-14G 45t, 6/9[12]/0 MASC, XLFE, ES; 10.0T/100% Armor; 12 DHS; 2 ML, 1 ERLL, 1 BAP, 2 SRM4</info>
-        <battleforce pv="14" wt="2" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="14" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="0">

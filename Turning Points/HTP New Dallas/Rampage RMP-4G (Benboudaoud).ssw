@@ -2,7 +2,7 @@
 <mech name="Rampage" model="RMP-4G (Benboudaoud)" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1751</battle_value>
-    <cost>2.0608938333333336E7</cost>
+    <cost>2.0729938333333336E7</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>HTPNew Dallas</source>
         <info>Rampage RMP-4G (Benboudaoud) 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 13 DHS; 1 Flmr, 2 ML, 1 SRM4, 1 LRM20, 1 LB10, 1 AMS, 1 LPL</info>
-        <battleforce pv="18" wt="4" mv="4" s="4" m="3" l="1" e="0" ov="0" armor="9" internal="4" abilities="AMS, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1, FLK 1/1/1" />
+        <battleforce pv="18" wt="4" mv="4" s="4" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="AMS, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

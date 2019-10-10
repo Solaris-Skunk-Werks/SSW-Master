@@ -2,7 +2,7 @@
 <mech name="Panther" model="PNT-10K2" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>913</battle_value>
-    <cost>2878560.0000000005</cost>
+    <cost>2905560.0000000005</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <info>Panther PNT-10K2 35t, 4/6/4, Std FE, ES; 6.5T/87% Armor; 12 DHS; 1 ERPPC, 2 SRM4</info>
-        <battleforce pv="9" wt="1" mv="4j" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battleforce pv="9" wt="1" mv="4j" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">

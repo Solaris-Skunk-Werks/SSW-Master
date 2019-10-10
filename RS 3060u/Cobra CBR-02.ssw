@@ -2,7 +2,7 @@
 <mech name="Cobra" model="CBR-02" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1128</battle_value>
-    <cost>3969375.0</cost>
+    <cost>4089375.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Cobra CBR-02 45t, 5/8/0, Std FE, ES; 6.5T/76% FF Armor; 10 DHS; 2 ML, 2 LRM15</info>
-        <battleforce pv="11" wt="2" mv="5" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="4" abilities="SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
+        <battleforce pv="11" wt="2" mv="5" s="2" m="3" l="2" e="0" ov="0" armor="4" internal="4" abilities="SRCH, ES, SEAL, SOA, LRM 1/2/2, IF 2" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

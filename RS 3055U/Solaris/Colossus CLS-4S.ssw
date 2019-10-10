@@ -2,7 +2,7 @@
 <mech name="Colossus" model="CLS-4S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2392</battle_value>
-    <cost>1.0766925000000002E7</cost>
+    <cost>1.0874925000000002E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>5</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Colossus CLS-4S 95t, 3/5/3, Std FE, ES; 18.0T/98% Armor; 13 DHS; 2 SmlShld, 2 MXPL, 2 LXPL, 1 LB20</info>
-        <battleforce pv="24" wt="4" mv="3j" s="3" m="3" l="0" e="0" ov="1" armor="10" internal="8" abilities="MEL, SHLD, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="24" wt="4" mv="3j" s="3" m="3" l="0" e="0" ov="2" armor="10" internal="8" abilities="MEL, SHLD, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">

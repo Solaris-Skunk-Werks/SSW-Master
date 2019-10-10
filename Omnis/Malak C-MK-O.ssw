@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Malak" model="C-MK-O" tons="30" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>6565487.5</cost>
+    <cost>6592487.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -78,7 +78,7 @@
         <info>Malak C-MK-O Invictus (Prime) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 Flmr, 1 C3I, 1 ERML, 1 RBlde, 1 LPPC, 1 SRM2</info>
         <battleforce pv="8" wt="1" mv="7" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>792</battle_value>
-        <cost>6565487.5</cost>
+        <cost>6592487.5</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -125,7 +125,7 @@
         <info>Malak C-MK-O Dominus (A) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 2 Flmr, 2 MGA+3LMG, 1 C3I, 2 ERML, 1 ERSL</info>
         <battleforce pv="8" wt="1" mv="7" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>823</battle_value>
-        <cost>6457343.75</cost>
+        <cost>6457593.75</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -323,7 +323,7 @@
         <info>Malak C-MK-O Eminus (E) 30t, 7/11/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I, 2 ERML, 1 LPPC, 1 Tbolt5</info>
         <battleforce pv="10" wt="1" mv="7" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>957</battle_value>
-        <cost>6699550.0</cost>
+        <cost>6749550.0</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <equipment>

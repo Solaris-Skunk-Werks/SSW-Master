@@ -95,7 +95,7 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2873</loadout_year>
         <info>Battle Cobra  A 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 6 SPL, 4 MPL</info>
-        <battleforce pv="15" wt="2" mv="6" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="6" s="4" m="4" l="0" e="0" ov="2" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1466</battle_value>
         <cost>4515000.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
@@ -157,7 +157,7 @@
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2873</loadout_year>
         <info>Battle Cobra  B 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 2 SPL, 2 ERPPC</info>
-        <battleforce pv="19" wt="2" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="19" wt="2" mv="6" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1892</battle_value>
         <cost>5026000.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -191,7 +191,7 @@
         <info>Battle Cobra  C 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 1 SPL, 1 ATM9, 3 MPL</info>
         <battleforce pv="15" wt="2" mv="6" s="5" m="5" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1484</battle_value>
-        <cost>4744250.0</cost>
+        <cost>4894250.0</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
@@ -277,7 +277,7 @@
         <info>Battle Cobra  F 40t, 6/9/6, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 3 ERML, 1 UAC5</info>
         <battleforce pv="15" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1507</battle_value>
-        <cost>5285000.0</cost>
+        <cost>5294000.0</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

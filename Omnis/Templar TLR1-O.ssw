@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Templar" model="TLR1-O" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.5121072916666668E7</cost>
+    <cost>2.5215072916666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -69,7 +69,7 @@
         <info>Templar TLR1-O Prime 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 14 DHS; 1 SSRM4, 2 ERML, 1 GR, 1 MPL, 1 LPL, TC</info>
         <battleforce pv="20" wt="4" mv="4" s="6" m="6" l="2" e="0" ov="0" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2045</battle_value>
-        <cost>2.5121072916666668E7</cost>
+        <cost>2.5215072916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">
@@ -140,7 +140,7 @@
         <info>Templar TLR1-O A 85t, 4/6/4, XLFE, ES; 16.5T/100% Armor; 14 DHS; 1 ECM, 1 ERPPC, 1 UAC10, 1 SSRM6, TC</info>
         <battleforce pv="21" wt="4" mv="4j" s="5" m="5" l="3" e="0" ov="0" armor="9" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2070</battle_value>
-        <cost>2.6062260416666668E7</cost>
+        <cost>2.6152260416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -213,7 +213,7 @@
         <info>Templar TLR1-O B 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 17 DHS; 2 ERML, 1 ERPPC, 3 RAC2</info>
         <battleforce pv="18" wt="4" mv="4" s="4" m="4" l="3" e="0" ov="1" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1806</battle_value>
-        <cost>2.5463322916666668E7</cost>
+        <cost>2.5472322916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="17" techbase="0">
@@ -280,9 +280,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Templar TLR1-O C 85t, 4/6/4, XLFE, ES; 16.5T/100% Armor; 14 DHS; 1 ERML, 5 MPL, 1 ERPPC, 1 LB20</info>
-        <battleforce pv="21" wt="4" mv="4j" s="4" m="4" l="1" e="0" ov="1" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="21" wt="4" mv="4j" s="4" m="4" l="1" e="0" ov="3" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>2063</battle_value>
-        <cost>2.6732885416666668E7</cost>
+        <cost>2.6806885416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -364,9 +364,9 @@
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Templar TLR1-O (Grayson) 85t, 4/6/3, XLFE, ES; 16.5T/100% Armor; 14 DHS; 2 SSRM4, 4 ERML, 2 AC5, TC</info>
-        <battleforce pv="19" wt="4" mv="4/2j" s="4" m="4" l="0" e="0" ov="0" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, AC 1/1/1" />
+        <battleforce pv="19" wt="4" mv="4/2j" s="5" m="6" l="2" e="0" ov="0" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, AC 1/1/1" />
         <battle_value>1868</battle_value>
-        <cost>2.5347697916666668E7</cost>
+        <cost>2.5419697916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">
@@ -463,7 +463,7 @@
         <info>Templar TLR1-O (Tancred) 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 13 DHS; 1 ERLL, 2 RAC5, 3 ERML, TC</info>
         <battleforce pv="23" wt="4" mv="4" s="5" m="5" l="1" e="0" ov="2" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2273</battle_value>
-        <cost>2.5581260416666668E7</cost>
+        <cost>2.5641260416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -538,9 +538,9 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3080</loadout_year>
         <info>Templar TLR1-O U 85t, 4/6/4, XLFE, ES; 16.5T/100% Armor; 15 DHS; 2 LRT10, 1 C3S, 4 HrJl, 3 MPL, 1 SRT6, 1 LPL</info>
-        <battleforce pv="17" wt="4" mv="4j" s="3" m="3" l="0" e="0" ov="0" armor="9" internal="4" abilities="UMU, OMNI, C3S, BHJ, CASE, MHQ1, SRCH, ES, SEAL, SOA, TOR 1/2/1" />
+        <battleforce pv="17" wt="4" mv="4u" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="UMU, OMNI, C3S, BHJ, CASE, MHQ1, SRCH, ES, SEAL, SOA, TOR 1/2/1" />
         <battle_value>1747</battle_value>
-        <cost>2.6953151041666668E7</cost>
+        <cost>2.7040151041666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -644,7 +644,7 @@
         <info>Templar TLR1-O D 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 13 DHS; 2 LGR, 2 LXPL</info>
         <battleforce pv="18" wt="4" mv="4" s="3" m="4" l="2" e="0" ov="0" armor="9" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1840</battle_value>
-        <cost>2.5673760416666668E7</cost>
+        <cost>2.5713760416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -691,7 +691,7 @@
         <info>Templar TLR1-O E 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 14 DHS; 1 ECM, 2 LRM15, 1 SL, 1 ERPPC, 2 MPL, 1 C3M</info>
         <battleforce pv="19" wt="4" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="9" internal="4" abilities="OMNI, ECM, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>1865</battle_value>
-        <cost>2.9344276041666668E7</cost>
+        <cost>2.9644276041666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">
@@ -777,7 +777,7 @@
         <info>Templar TLR1-O F 85t, 4/6/4, XLFE, ES; 16.5T/100% Armor; 14 DHS; 1 ERML, 3 MPL, 1 HPPC, 1 LGR, 1 C3M</info>
         <battleforce pv="20" wt="4" mv="4j" s="4" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA" />
         <battle_value>2029</battle_value>
-        <cost>2.9056947916666668E7</cost>
+        <cost>2.9076947916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -845,7 +845,7 @@
         <info>Templar TLR1-O G 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 13 DHS; 1 C3S, 1 ERPPC, 1 LGR, 3 LB2</info>
         <battleforce pv="16" wt="4" mv="4" s="2" m="3" l="3" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1632</battle_value>
-        <cost>2.6078447916666668E7</cost>
+        <cost>2.6100447916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <equipment>
@@ -902,7 +902,7 @@
         <info>Templar TLR1-O H 85t, 4/6/4, XLFE, ES; 16.5T/100% Armor; 13 DHS; 1 C3S, 2 MRM30, 1 ERFlmr, 2 LPPC, TC</info>
         <battleforce pv="20" wt="4" mv="4j" s="4" m="5" l="1" e="0" ov="1" armor="9" internal="4" abilities="OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1958</battle_value>
-        <cost>2.6730572916666668E7</cost>
+        <cost>2.6750572916666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -981,7 +981,7 @@
         <info>Templar TLR1-O I 85t, 4/6/0, XLFE, ES; 16.5T/100% Armor; 15 DHS; 1 C3S, 1 GR, 2 HPPC</info>
         <battleforce pv="22" wt="4" mv="4" s="4" m="5" l="5" e="0" ov="0" armor="9" internal="4" abilities="OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>2202</battle_value>
-        <cost>2.5585885416666668E7</cost>
+        <cost>2.5625885416666668E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="15" techbase="0">

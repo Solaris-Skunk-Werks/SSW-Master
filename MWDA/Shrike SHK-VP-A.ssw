@@ -2,7 +2,7 @@
 <mech name="Shrike" model="SHK-VP-A" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2718</battle_value>
-    <cost>2.61076075E7</cost>
+    <cost>2.62096075E7</cost>
     <rules_level>1</rules_level>
     <era>3</era>
     <productionera>0</productionera>

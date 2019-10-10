@@ -2,7 +2,7 @@
 <mech name="Bombardier" model="BMB-05A" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1440</battle_value>
-    <cost>1.3797849999999998E7</cost>
+    <cost>1.3851849999999998E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>6</productionera>

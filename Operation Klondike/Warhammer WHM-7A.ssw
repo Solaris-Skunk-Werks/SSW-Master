@@ -2,7 +2,7 @@
 <mech name="Warhammer" model="WHM-7A" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1679</battle_value>
-    <cost>7083333.333333335</cost>
+    <cost>7137333.333333335</cost>
     <rules_level>1</rules_level>
     <era>0</era>
     <productionera>0</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
         <info>Warhammer WHM-7A 70t, 4/6/0, Std FE, ES; 13.0T/96% Armor; 16 DHS; 4 ML, 2 SPL, 2 ERPPC, 1 SRM6</info>
-        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="3" mv="4" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">

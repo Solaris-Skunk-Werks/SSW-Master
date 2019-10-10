@@ -2,7 +2,7 @@
 <mech name="Jabberwocky ConstructionMech" model="JAW-66D" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>353</battle_value>
-    <cost>2897530.5</cost>
+    <cost>2897830.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>

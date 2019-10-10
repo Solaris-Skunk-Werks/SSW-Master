@@ -2,7 +2,7 @@
 <mech name="Crossbow" model="CRS-X" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>969</battle_value>
-    <cost>4530400.0</cost>
+    <cost>4590400.0</cost>
     <rules_level>4</rules_level>
     <era>0</era>
     <productionera>0</productionera>

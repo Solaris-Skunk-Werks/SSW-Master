@@ -2,7 +2,7 @@
 <mech name="JagerMech" model="JM6-S" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>901</battle_value>
-    <cost>5215925.0</cost>
+    <cost>5225925.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>1</productionera>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>JagerMech JM6-S 65t, 4/6/0, Std FE, Std; 6.0T/45% Armor; 10 SHS; 2 ML, 2 AC5, 2 AC2</info>
-        <battleforce pv="9" wt="3" mv="4" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="5" abilities="SRCH, ES, SEAL, SOA, AC 1/1/1" />
+        <battleforce pv="9" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="5" abilities="SRCH, ES, SEAL, SOA, AC 1/1/1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="2">

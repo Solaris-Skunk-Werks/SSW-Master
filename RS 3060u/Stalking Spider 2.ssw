@@ -46,7 +46,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <info>Stalking Spider 2 50t, 5/8[10]/5 MASC, Std FE, Std Quad; 8.0T/83% FF Armor; 12 DHS; 1 BAP, 2 MPL, 1 HLL, 1 TAG, TC</info>
-        <battleforce pv="21" wt="2" mv="6/5j" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="4" abilities="PRB, RCN, TAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="2" mv="6/5j" s="3" m="3" l="0" e="0" ov="1" armor="5" internal="4" abilities="PRB, RCN, TAG, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="5">
