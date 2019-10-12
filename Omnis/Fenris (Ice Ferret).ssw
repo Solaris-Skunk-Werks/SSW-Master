@@ -410,7 +410,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Fenris (Ice Ferret)  U 45t, 8/12/7, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SRT4, 2 ERML, 1 LRT5</info>
         <battleforce pv="15" wt="2" mv="8/5u" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1549</battle_value>

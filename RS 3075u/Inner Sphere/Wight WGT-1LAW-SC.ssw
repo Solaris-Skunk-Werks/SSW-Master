@@ -8,7 +8,7 @@
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Luthien Armor Works, StarCorps Industries" location="Mobile Factory (LAW), Son Hoa (StarCorps)">Inner Sphere</techbase>
-    <year restricted="FALSE">3068</year>
+    <year restricted="FALSE">3069</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Alshain 560-Carrier" techbase="0">
         <type>Endo-Steel</type>

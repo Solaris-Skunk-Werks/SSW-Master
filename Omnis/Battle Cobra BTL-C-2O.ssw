@@ -267,7 +267,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Battle Cobra BTL-C-2O D 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 1 C3I, 4 LPPC, TC</info>
         <battleforce pv="12" wt="2" mv="5" s="2" m="3" l="3" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>1221</battle_value>
@@ -304,7 +304,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Battle Cobra BTL-C-2O E 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 1 C3I, 2 MML9</info>
         <battleforce pv="8" wt="2" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>840</battle_value>
@@ -341,7 +341,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Battle Cobra BTL-C-2O F 40t, 5/8/0, Std FE, ES; 7.0T/91% FF Armor; 10 DHS; 2 PR, 1 C3I</info>
         <battleforce pv="13" wt="2" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3I, ENE, MHQ2, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>1300</battle_value>

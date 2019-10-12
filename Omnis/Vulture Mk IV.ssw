@@ -64,8 +64,8 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3135</loadout_year>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3137</loadout_year>
         <info>Vulture Mk IV  Prime 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 1 LB5, 1 ERPPC, 4 SRM6, 2 ERSPL</info>
         <battleforce pv="21" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <battle_value>2110</battle_value>
@@ -131,8 +131,8 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3135</loadout_year>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3137</loadout_year>
         <info>Vulture Mk IV  A 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 1 UAC/10, 2 ERSL, 4 LRM5, 1 LPL</info>
         <battleforce pv="22" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2177</battle_value>
@@ -203,8 +203,8 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3135</loadout_year>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3137</loadout_year>
         <info>Vulture Mk IV  B 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 2 ERSL, 1 ERPPC, 1 MPL, 2 SLRM15</info>
         <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2606</battle_value>
@@ -255,8 +255,8 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3135</loadout_year>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3137</loadout_year>
         <info>Vulture Mk IV  C 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 13 DHS; 1 iHLL, 1 GR, 2 ERML, TC</info>
         <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2584</battle_value>
@@ -306,8 +306,8 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3135</loadout_year>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3137</loadout_year>
         <info>Vulture Mk IV  D 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 14 DHS; 2 iHML, 2 McPL, 2 ATM12</info>
         <battleforce pv="23" wt="3" mv="5" s="9" m="6" l="2" e="0" ov="0" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2346</battle_value>

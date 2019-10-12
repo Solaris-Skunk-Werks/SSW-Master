@@ -461,7 +461,7 @@
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Pouncer  F 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 PC, 1 RSnsDisp, 1 ERML, 2 ERFlmr, 1 BAP, 2 Hflmr</info>
         <battleforce pv="13" wt="2" mv="6/3j" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, ENE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>1308</battle_value>

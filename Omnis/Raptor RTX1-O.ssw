@@ -486,7 +486,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Raptor RTX1-O G 25t, 7/11/0, XLFE, ES; 3.5T/63% Armor; 10 DHS; 1 PR, 3 SPL, 1 ERSL</info>
         <battleforce pv="9" wt="1" mv="7" s="3" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>857</battle_value>
@@ -533,7 +533,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Raptor RTX1-O U 25t, 7/11/7, XLFE, ES; 3.5T/63% Armor; 10 DHS; 2 SRT4, 3 ERML</info>
         <battleforce pv="9" wt="1" mv="7u" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="UMU, OMNI, SRCH, ES, SEAL, SOA, TOR 1/1/0" />
         <battle_value>914</battle_value>

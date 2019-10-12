@@ -4,8 +4,8 @@
     <battle_value>1598</battle_value>
     <cost>9237360.0</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Earthwerks Incorporated" location="Tikonov">Inner Sphere</techbase>
     <year restricted="FALSE">3084</year>
@@ -60,7 +60,7 @@
         <rl>28</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Quickdraw QKD-8P 60t, 5[6]/8[9]/0 TSM, Std FE, ES, Cmp Gyro; 12.0T/96% Armor; 12 SHS; 1 ECM, 1 SSRM4, 2 ML, 1 PPC, 1 TAG</info>
         <battleforce pv="16" wt="3" mv="5" s="2" m="2" l="1" e="0" ov="1" armor="6" internal="5" abilities="TSM, ECM, TAG, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

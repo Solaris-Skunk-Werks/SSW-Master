@@ -126,7 +126,7 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>Field Testing Summation: Prototype Refit:br::br:Producer/Site: ComStar / Undisclosed:br::br:Supervising Technician: Dr. Jenna Larson:br::br:Project Start Date: 3079:br::br:Non-Production Equipment Analysis::br::br::tab:Null-Signature System:br::br::tab:Chameleon LPS:br::br::tab:CASE II:br::br:Features the following Design Quirks: Prototype, Difficult to Maintain, Non-Standard Parts, Sensor Ghosts</additional>
+        <additional>Field Testing Summation: Prototype Refit:br:Producer/Site: ComStar / Undisclosed:br:Supervising Technician: Dr. Jenna Larson:br:Project Start Date: 3079:br:Non-Production Equipment Analysis::br::tab:Null-Signature System:br::tab:Chameleon LPS:br::tab:CASE II:br::br:Features the following Design Quirks: Prototype, Difficult to Maintain, Non-Standard Parts, Sensor Ghosts</additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

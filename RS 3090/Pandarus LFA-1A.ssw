@@ -4,8 +4,8 @@
     <battle_value>1589</battle_value>
     <cost>7848750.0</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Kali Yama Industries" location="Kendall">Inner Sphere</techbase>
     <year restricted="FALSE">3083</year>
@@ -47,7 +47,7 @@
         <rl>26</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Pandarus LFA-1A 75t, 4/6/0, Std FE, ES; 13.0T/90% Armor; 10 DHS; 1 ERML, 3 ExLRM10</info>
         <battleforce pv="16" wt="3" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="7" internal="6" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>

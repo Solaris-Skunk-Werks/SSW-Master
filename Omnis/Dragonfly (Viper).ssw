@@ -378,7 +378,7 @@
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Dragonfly (Viper)  F 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 2 MGA+4HMG, 3 ERML</info>
         <battleforce pv="17" wt="2" mv="8j" s="4" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1689</battle_value>
@@ -590,7 +590,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Dragonfly (Viper)  U 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 ECM, 2 ERML, 1 AMS, 1 LqdCrgo, 1 Htcht</info>
         <battleforce pv="14" wt="2" mv="8j" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, AMS, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>

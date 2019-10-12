@@ -47,7 +47,7 @@
         <rl>25</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Barghest BGS-4T 70t, 4/6/0, Std FE, ES Quad; 12.5T/86% Armor; 10 DHS; 1 ERLL, 1 C3S, 1 ERML, 1 iHGR</info>
         <battleforce pv="17" wt="3" mv="4" s="3" m="4" l="3" e="0" ov="0" armor="7" internal="6" abilities="C3S, CASEII, MHQ1, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

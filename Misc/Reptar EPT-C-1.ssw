@@ -4,11 +4,11 @@
     <battle_value>514</battle_value>
     <cost>1821507.4999999998</cost>
     <rules_level>2</rules_level>
-    <era>3</era>
+    <era>2</era>
     <productionera>7</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Quixote Industries" location="Navarre, Aragon">Clan</techbase>
-    <year restricted="FALSE">3095</year>
+    <year restricted="FALSE">3086</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>

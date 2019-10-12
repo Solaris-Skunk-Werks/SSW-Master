@@ -439,7 +439,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Firestarter FS9-O H 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 1 ECM, 2 Flmr, 2 SPL, 1 ERML, 2 MG, 1 BAP, 2 MPL, 1 AMS</info>
         <battleforce pv="11" wt="2" mv="6j" s="4" m="2" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1119</battle_value>
@@ -553,7 +553,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Firestarter FS9-O U 45t, 6/9/6, XLFE, ES; 8.5T/89% Armor; 12 DHS; 2 Flmr, 5 MPL, 1 Swrd, 1 LqdCrgo</info>
         <battleforce pv="11" wt="2" mv="6j" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1120</battle_value>

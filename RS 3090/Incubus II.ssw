@@ -4,8 +4,8 @@
     <battle_value>1261</battle_value>
     <cost>5819840.0</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Csesztreg Industries Alpha" location="Csesztreg">Clan</techbase>
     <year restricted="FALSE">3085</year>
@@ -47,7 +47,7 @@
         <location index="10">LA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Incubus II 30t, 8/12/8[10], XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 1 LAMS, 2 ERMPL, 1 LAP, PartWing</info>
         <battleforce pv="13" wt="1" mv="8/10j" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="AMS, LPRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

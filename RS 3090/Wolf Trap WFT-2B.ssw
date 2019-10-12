@@ -4,7 +4,7 @@
     <battle_value>1439</battle_value>
     <cost>7911107.5</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
+    <era>2</era>
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Luthien Armor Works" location="New Samarkand">Inner Sphere</techbase>
@@ -61,7 +61,7 @@
         <location index="11">LT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Wolf Trap WFT-2B 45t, 6/9/0, XLFE, ES; 8.0T/93% FF Armor; 10 DHS; 1 GR, 2 MXPL</info>
         <battleforce pv="14" wt="2" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>

@@ -33,7 +33,7 @@
         <rl>16</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Deep Lord MilitiaMech RCL-Z1M 65t, 3/5/0, FCE, Ind; 8.0T/61% Armor; 7 SHS; 1 Mace, 1 SRM6, 1 HvRfl</info>
         <battleforce pv="7" wt="3" mv="3" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="5" abilities="MEL, SRCH, EE" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

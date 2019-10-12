@@ -8,7 +8,7 @@
     <productionera>7</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Quixote Industries" location="Asturias, Granada">Clan</techbase>
-    <year restricted="FALSE">3095</year>
+    <year restricted="FALSE">3087</year>
     <motive_type>Quad</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>

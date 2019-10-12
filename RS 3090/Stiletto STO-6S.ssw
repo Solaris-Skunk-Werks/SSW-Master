@@ -5,7 +5,7 @@
     <cost>4290660.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>7</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Coventry Metal Works" location="Coventry">Inner Sphere</techbase>
     <year restricted="FALSE">3083</year>
@@ -61,7 +61,7 @@
         <location index="9">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Stiletto STO-6S 35t, 7/11/0, Std FE, ES; 6.5T/97% FF Armor; 10 DHS; 1 ECM, 1 BlAP, 4 ERML</info>
         <battleforce pv="12" wt="1" mv="7" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="BH, RCN, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

@@ -5,10 +5,10 @@
     <cost>8605375.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>7</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Majesty Metals and Manufacturing" location="Dunianshire">Inner Sphere</techbase>
-    <year restricted="FALSE">3083</year>
+    <year restricted="FALSE">3085</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Dynastic 75-P" techbase="0">
         <type>Endo-Steel</type>

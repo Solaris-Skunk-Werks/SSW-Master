@@ -33,7 +33,7 @@
         <rl>30</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>XTRPrim I</source>
+        <source>XTRPrimitives I</source>
         <info>Helepolis HEP-1H 75t, 2/3/0, Pr FE, Prm; 20.5T/95% Pr. Armor; 11 SHS; 1 ML, 1 Snpr, 1 SRM6, 1 LL</info>
         <battleforce pv="11" wt="3" mv="2" s="2" m="2" l="0" e="0" ov="1" armor="7" internal="6" abilities="ARTS, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>

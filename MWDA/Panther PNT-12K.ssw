@@ -4,11 +4,11 @@
     <battle_value>930</battle_value>
     <cost>2802560.0000000005</cost>
     <rules_level>1</rules_level>
-    <era>3</era>
+    <era>2</era>
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3132</year>
+    <year restricted="FALSE">3079</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>

@@ -8,7 +8,7 @@
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3076</year>
+    <year restricted="FALSE">3083</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -142,7 +142,7 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>Field Testing Summation: Custom TSG Experimental Refit:br::br:Producer/Site: None:br::br:Supervising Technician: Senior Technician Hua Wan:br::br:Project Start Date: 3076:br::br:Non-Production Equipment Analysis::br::br::tab:Supercharger:br::br::tab:BattleMech Lance:br::br::tab:Small X-Pulse Lasers</additional>
+        <additional>Field Testing Summation: Custom TSG Experimental Refit:br:Producer/Site: None:br:Supervising Technician: Senior Technician Hua Wan:br:Project Start Date: 3076:br:Non-Production Equipment Analysis::br::tab:Supercharger:br::tab:BattleMech Lance:br::tab:Small X-Pulse Lasers</additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

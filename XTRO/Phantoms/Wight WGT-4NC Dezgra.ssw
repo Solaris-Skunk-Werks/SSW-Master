@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Wight" model="WGT-4NC Dezgra" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Wight" model="WGT-4NC &quot;Dezgra&quot;" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1578</battle_value>
     <cost>9933210.000000002</cost>
@@ -41,7 +41,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPhantoms</source>
-        <info>Wight WGT-4NC Dezgra 35t, 8/12/7, XLFE, Comp; 6.0T/97% FF Armor; 10 DHS; 1 WDCEWS, 1 MPL, 1 LPL, NullSig, CLPS</info>
+        <info>Wight WGT-4NC "Dezgra" 35t, 8/12/7, XLFE, Comp; 6.0T/97% FF Armor; 10 DHS; 1 WDCEWS, 1 MPL, 1 LPL, NullSig, CLPS</info>
         <battleforce pv="16" wt="1" mv="8/5j" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="1" abilities="ECM, STL, WAT, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

@@ -561,7 +561,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Turkina  E 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 15 DHS; 1 HAG40, 6 SSRM6</info>
         <battleforce pv="31" wt="4" mv="3j" s="10" m="10" l="3" e="0" ov="0" armor="10" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 3/2/2" />
         <battle_value>3147</battle_value>
@@ -648,7 +648,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Turkina  X 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 17 DHS; 1 ECM, 1 Talons, 6 MPL, 2 LRM20</info>
         <battleforce pv="31" wt="4" mv="3j" s="8" m="8" l="4" e="0" ov="0" armor="10" internal="5" abilities="OMNI, ECM, MEL, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>3056</battle_value>
@@ -755,7 +755,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Turkina  U 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 15 DHS; 1 Talons, 2 LRM15, 1 CoolPd, 5 HrJl, 10 ERSL, 1 ATM9, 1 BAP, 2 LqdCrgo, TC</info>
         <battleforce pv="25" wt="4" mv="3j" s="8" m="8" l="2" e="0" ov="0" armor="10" internal="5" abilities="OMNI, PRB, RCN, BHJ, MEL, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2520</battle_value>

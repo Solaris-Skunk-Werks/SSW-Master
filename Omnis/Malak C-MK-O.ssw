@@ -4,7 +4,7 @@
     <cost>6592487.5</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Gibson Federated BattleMechs, Martinson Armaments" location="Gibson (Gibson Federated), Terra (Martinson)">Inner Sphere</techbase>
     <year restricted="FALSE">3069</year>
@@ -393,7 +393,7 @@
         <source>SBW&amp;B</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3069</loadout_year>
+        <loadout_year>3071</loadout_year>
         <info>Malak C-MK-O (Mi) 30t, 7/11[14]/0, LFE, ES, XL Gyro; 6.0T/96% LFF Armor; 10 DHS; 1 C3I, 1 ERSL, 2 MVSPL</info>
         <battleforce pv="8" wt="1" mv="9" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <battle_value>758</battle_value>

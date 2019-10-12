@@ -4,7 +4,7 @@
     <cost>1.3084070833333334E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Kerensky Memorial Manufacturing" location="Strana Mechty">Clan</techbase>
     <year restricted="FALSE">3072</year>

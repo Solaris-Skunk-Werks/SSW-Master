@@ -4,8 +4,8 @@
     <battle_value>1248</battle_value>
     <cost>7838499.999999999</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Kal Yama Weapons Industries" location="Kalidasa">Inner Sphere</techbase>
     <year restricted="FALSE">3085</year>
@@ -40,7 +40,7 @@
         <location index="10">RT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Hunchback HBK-7R 50t, 4/6/0, XLFE, Rnfrcd; 10.0T/100% LFF Armor; 10 DHS; 1 ECM, 2 ERML, 1 TAG, 1 UAC10</info>
         <battleforce pv="12" wt="2" mv="4" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="4" abilities="ECM, TAG, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

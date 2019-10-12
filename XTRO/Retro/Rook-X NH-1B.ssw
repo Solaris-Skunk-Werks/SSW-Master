@@ -5,7 +5,7 @@
     <cost>3927131.666666667</cost>
     <rules_level>4</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>PrimitiveBattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">3077</year>

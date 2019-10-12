@@ -319,7 +319,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3073</loadout_year>
         <info>Battle Cobra  X 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 18 DHS; 5 iHML, TC</info>
         <battleforce pv="15" wt="2" mv="6" s="6" m="6" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1492</battle_value>

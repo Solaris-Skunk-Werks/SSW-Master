@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Grand Titan" model="T-IT-N14R Vengeance" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Grand Titan" model="T-IT-N14R &quot;Vengeance&quot;" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2237</battle_value>
     <cost>1.7731E7</cost>
@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPhantoms</source>
-        <info>Grand Titan T-IT-N14R Vengeance 100t, 3/5[4]/2, Std FE, Std, Cmp Gyro; 34.5T/90% Hrdnd Armor; 10 DHS; 2 ERML, 1 Thmpr</info>
+        <info>Grand Titan T-IT-N14R "Vengeance" 100t, 3/5[4]/2, Std FE, Std, Cmp Gyro; 34.5T/90% Hrdnd Armor; 10 DHS; 2 ERML, 1 Thmpr</info>
         <battleforce pv="22" wt="4" mv="3/1j" s="3" m="2" l="0" e="0" ov="0" armor="18" internal="8" abilities="ARTT, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

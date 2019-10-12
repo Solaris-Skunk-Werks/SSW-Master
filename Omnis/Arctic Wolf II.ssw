@@ -4,7 +4,7 @@
     <cost>9828166.666666666</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
     <year restricted="FALSE">3085</year>
@@ -69,7 +69,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Arctic Wolf II  Prime 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 11 DHS; 2 LRM15, 1 SPL, 2 ERML</info>
         <battleforce pv="21" wt="2" mv="7j" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
@@ -125,7 +125,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Arctic Wolf II  A 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 10 DHS; 4 SSRM4, 1 ECM, 2 SPL, 1 BAP</info>
         <battleforce pv="16" wt="2" mv="7j" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
@@ -187,7 +187,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Arctic Wolf II  B 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 11 DHS; 1 SPL, 4 SRM4, 1 LPL</info>
         <battleforce pv="17" wt="2" mv="7j" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
@@ -243,7 +243,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Arctic Wolf II  C 40t, 7/11/7, XLFE, ES; 6.5T/91% FF Armor; 12 DHS; 2 ERLL, 2 SRM4</info>
         <battleforce pv="19" wt="2" mv="7j" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />

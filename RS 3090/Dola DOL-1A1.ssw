@@ -4,7 +4,7 @@
     <battle_value>950</battle_value>
     <cost>6130540.0</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
+    <era>2</era>
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Shengli Arms" location="Victoria">Inner Sphere</techbase>
@@ -47,7 +47,7 @@
         <location index="11">RT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Dola DOL-1A1 30t, 8/12/8, XLFE, Std; 5.5T/93% FF Armor; 10 DHS; 1 AECM, 2 ERML, 1 Swrd</info>
         <battleforce pv="10" wt="1" mv="8j" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="MEL, AECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

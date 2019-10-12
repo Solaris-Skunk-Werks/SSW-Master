@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>168</battle_value>
     <motive type="Tracked" cruise="6" turret="No Turret" />
-    <cost>120500.00000000001</cost>
+    <cost>93000.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
     <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
-    <year restricted="FALSE">2370</year>
+    <year restricted="FALSE">2500</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -26,7 +26,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
-        <info>Armored Personnel Carrier (Tracked SRM) 10t, 6/9, ICE, 2.5T/53% Armor; 0 SHS; 1 SRM2</info>
+        <info>Armored Personnel Carrier (Tracked SRM) 10t, 6/9, ICE, 2.5T/53% Armor; 0 SHS; 1 InfComp, 1 SRM2</info>
         <battleforce pv="2" wt="1" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="0" abilities="EE" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
@@ -40,6 +40,12 @@
             <name manufacturer="Unknown">@ SRM-2</name>
             <type>ammunition</type>
             <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.0</tons>
         </equipment>
     </baseloadout>
     <fluff>

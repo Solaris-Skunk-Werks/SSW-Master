@@ -455,7 +455,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Kingfisher  F 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ECM, 1 ERLL, 3 ERML, 1 HAG30</info>
         <battleforce pv="26" wt="4" mv="4" s="6" m="5" l="3" e="0" ov="0" armor="9" internal="7" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
         <battle_value>2568</battle_value>
@@ -512,7 +512,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3076</loadout_year>
         <info>Kingfisher  X 90t, 4/6/0, Std FE, ES; 14.5T/100% FF Armor; 17 DHS; 1 ECM, 1 LRM15, 3 iHML, 1 ERPPC, 2 ERMPL, TC</info>
         <battleforce pv="28" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="2" armor="9" internal="7" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2761</battle_value>

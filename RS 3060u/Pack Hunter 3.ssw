@@ -8,7 +8,7 @@
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3065</year>
+    <year restricted="FALSE">3068</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>

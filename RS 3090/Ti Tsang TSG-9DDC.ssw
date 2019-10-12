@@ -56,7 +56,7 @@
         <rl>22</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Ti Ts'ang TSG-9DDC 60t, 6[7]/9[14]/6 TSM, XLFE, ES; 11.5T/92% Armor; 10 DHS; 1 Lnc, 5 ERML, 4 SXPL, TC</info>
         <battleforce pv="20" wt="3" mv="8/6j" s="3" m="3" l="0" e="0" ov="2" armor="6" internal="3" abilities="TSM, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

@@ -4,8 +4,8 @@
     <battle_value>1830</battle_value>
     <cost>1.7607884999999996E7</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Defiance Industries" location="Furillo">Inner Sphere</techbase>
     <year restricted="FALSE">3083</year>
@@ -54,7 +54,7 @@
         <location index="11">CT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Axman AXM-6T 65t, 5/8/0, XLFE, ES; 11.5T/92% LFF Armor; 10 DHS; 4 ERML, 2 Tbolt15</info>
         <battleforce pv="18" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="2" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

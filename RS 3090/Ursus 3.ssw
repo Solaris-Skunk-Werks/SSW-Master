@@ -4,7 +4,7 @@
     <battle_value>1284</battle_value>
     <cost>5748400.0</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
+    <era>2</era>
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Bergen Industries" location="Alshain">Clan</techbase>
@@ -40,7 +40,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Ursus 3 50t, 4/6/0, Std FE, Std; 8.5T/96% FF Armor; 10 DHS; 1 WDCEWS, 2 iHML, 1 ERFlmr, 3 APGR, 2 PrmAC8</info>
         <battleforce pv="13" wt="2" mv="4" s="5" m="5" l="0" e="0" ov="0" armor="5" internal="4" abilities="WAT, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>

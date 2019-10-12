@@ -33,7 +33,7 @@
         <rl>6</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>XTRPrim I</source>
+        <source>XTRPrimitives I</source>
         <info>Commando COM-1A 25t, 5/8/0, Pr FE, Prm; 5.0T/60% Pr. Armor; 10 SHS; 1 LL</info>
         <battleforce pv="5" wt="1" mv="5" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

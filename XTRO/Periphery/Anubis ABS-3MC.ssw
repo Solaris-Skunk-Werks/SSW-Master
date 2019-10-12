@@ -8,7 +8,7 @@
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3075</year>
+    <year restricted="FALSE">3081</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -107,7 +107,7 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>Field Testing Summation: Prototype Anubis Refit:br::br:Producer/Site: Detroit Consolidated MechWorks / Detroit:br::br:Supervising Technician: Commander Sheryl Wilson:br::br:Project Start Date: 3075:br::br:Non-Production Equipment Analysis::br::br::tab:Enhanced LRM 5s:br::br::tab:Angel ECM Suite:br::br::br:Notes: Features the following Design Quirks: Prototype, Exposed Actuators, Extended Torso Twist</additional>
+        <additional>Field Testing Summation: Prototype Anubis Refit:br:Producer/Site: Detroit Consolidated MechWorks / Detroit:br:Supervising Technician: Commander Sheryl Wilson:br:Project Start Date: 3075:br:Non-Production Equipment Analysis::br::tab:Enhanced LRM 5s:br::tab:Angel ECM Suite:br::br:Notes: Features the following Design Quirks: Prototype, Exposed Actuators, Extended Torso Twist</additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

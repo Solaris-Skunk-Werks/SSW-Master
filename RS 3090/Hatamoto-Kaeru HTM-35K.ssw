@@ -4,7 +4,7 @@
     <battle_value>1906</battle_value>
     <cost>2.2429440000000004E7</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
+    <era>2</era>
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Maltex Corporation" location="Unity">Inner Sphere</techbase>
@@ -47,7 +47,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Hatamoto-Kaeru HTM-35K 80t, 4/6/4, XLFE, Comp; 14.0T/100% FF Armor; 10 DHS; 2 SRT4, 5 ML, 2 LRM15, 2 SNPPC, 1 MASS</info>
         <battleforce pv="19" wt="4" mv="4u" s="3" m="3" l="1" e="0" ov="4" armor="8" internal="2" abilities="UMU, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

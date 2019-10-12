@@ -401,7 +401,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3053</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Grendel (Mongrel)  F 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 2 PC, 1 ATM6</info>
         <battleforce pv="20" wt="2" mv="7j" s="4" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>1997</battle_value>

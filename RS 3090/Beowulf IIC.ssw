@@ -4,8 +4,8 @@
     <battle_value>2048</battle_value>
     <cost>1.026049E7</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Odin Manufacturing" location="Orestes">Clan</techbase>
     <year restricted="FALSE">3084</year>
@@ -44,7 +44,7 @@
         <location index="9">RT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Beowulf IIC 45t, 6/9[12]/6 MASC, XLFE, Std; 8.0T/100% FF Armor; 12 DHS; 1 LTAG, 1 WDCEWS, 1 ERLPL, 2 ERMPL</info>
         <battleforce pv="20" wt="2" mv="8/6j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="LTAG, WAT, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

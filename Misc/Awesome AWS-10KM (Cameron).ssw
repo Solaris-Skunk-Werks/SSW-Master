@@ -8,7 +8,7 @@
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3078</year>
+    <year restricted="FALSE">3070</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -47,7 +47,7 @@
         <rl>34</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>TC</source>
+        <source>BT:TC</source>
         <info>Awesome AWS-10KM (Cameron) 80t, 3/5/0, Std FE, ES, Cmp Gyro; 15.5T/100% Armor; 19 DHS; 1 ECM, 1 C3I, 1 SNPPC, 1 ERSL, 2 ERPPC, TC</info>
         <battleforce pv="25" wt="4" mv="3" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="6" abilities="ECM, C3I, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Wraith" model="TR2-X Alexander" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Wraith" model="TR2-X &quot;Alexander&quot;" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1684</battle_value>
-    <cost>1.3713573333333336E7</cost>
+    <battle_value>1816</battle_value>
+    <cost>1.3806573333333332E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
     <year restricted="FALSE">3076</year>
@@ -55,8 +55,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRGladiators</source>
-        <info>Wraith TR2-X Alexander 55t, 7/11/7[9], XLFE, ES; 8.5T/88% FF Armor; 10 SHS; 1 SNPPC, 2 ERML, PartWing</info>
-        <battleforce pv="17" wt="2" mv="7/9j" s="2" m="2" l="0" e="0" ov="1" armor="5" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <info>Wraith TR2-X "Alexander" 55t, 7/11/7[9], XLFE, ES; 8.5T/88% FF Armor; 10 DHS; 1 SNPPC, 2 ERML, PartWing</info>
+        <battleforce pv="18" wt="2" mv="7/9j" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="7">
@@ -69,8 +69,8 @@
             <location index="4">RT</location>
             <location index="3">RT</location>
         </jumpjets>
-        <heatsinks number="10" techbase="2">
-            <type>Single Heat Sink</type>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
 
         </heatsinks>
         <partialwing tech="1" lsstart="5" rsstart="5" />

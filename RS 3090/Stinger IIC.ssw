@@ -4,8 +4,8 @@
     <battle_value>730</battle_value>
     <cost>2198040.0</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Alliance Defenders Limited" location="Alpheratz">Clan</techbase>
     <year restricted="FALSE">3085</year>
@@ -47,7 +47,7 @@
         <location index="11">CT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Stinger IIC 20t, 6/9/6, Std FE, ES; 3.5T/97% FF Armor; 10 DHS; 2 iHML, 1 APGR</info>
         <battleforce pv="7" wt="1" mv="6j" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

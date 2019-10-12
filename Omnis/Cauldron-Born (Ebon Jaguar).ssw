@@ -478,7 +478,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  E 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 HAG20, 1 ERML, 1 ATM12, 1 LPL</info>
         <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2391</battle_value>
@@ -540,7 +540,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3075</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  X 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 1 RAC5, 1 AECM, 1 ERSPL, 3 ERMPL, TC</info>
         <battleforce pv="24" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, AECM, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2435</battle_value>
@@ -613,7 +613,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Cauldron-Born (Ebon Jaguar)  U 65t, 5/8/5, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 2 ERSL, 2 LRT15, 2 LPL</info>
         <battleforce pv="26" wt="3" mv="5u" s="5" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 1/1/1" />
         <battle_value>2593</battle_value>

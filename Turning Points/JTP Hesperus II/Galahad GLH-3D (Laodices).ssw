@@ -61,7 +61,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>JTPHesperusII</source>
+        <source>JTPHesperus II</source>
         <info>Galahad GLH-3D (Laodices) 60t, 4/6/0, LFE, ES, Cmp Gyro; 11.5T/100% FF Armor; 10 DHS; 1 ECM, 1 C3I, 1 ERPPC, 1 LPPC, 1 LGR</info>
         <battleforce pv="15" wt="3" mv="4" s="2" m="2" l="2" e="0" ov="1" armor="7" internal="3" abilities="C3I, ECM, MHQ2, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>

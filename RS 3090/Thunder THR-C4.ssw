@@ -47,7 +47,7 @@
         <rl>30</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Thunder THR-C4 70t, 4/6/6, XLFE, ES; 13.5T/100% Armor; 12 DHS; 3 ERML, 1 Tbolt20, 1 MXPL</info>
         <battleforce pv="20" wt="3" mv="4/6j" s="3" m="4" l="2" e="0" ov="1" armor="7" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>

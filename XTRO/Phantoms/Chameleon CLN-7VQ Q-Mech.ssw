@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Chameleon" model="CLN-7VQ Q-Mech" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Chameleon" model="CLN-7VQ &quot;Q-Mech&quot;" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2105</battle_value>
     <cost>1.1451E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
     <year restricted="FALSE">3071</year>
@@ -48,7 +48,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPhantoms</source>
-        <info>Chameleon CLN-7VQ Q-Mech 50t, 6/9/6, XLFE, ES; 9.0T/85% Armor; 11 DHS; 3 iHML, 1 AECM, 1 HPPC, TC</info>
+        <info>Chameleon CLN-7VQ "Q-Mech" 50t, 6/9/6, XLFE, ES; 9.0T/85% Armor; 11 DHS; 3 iHML, 1 AECM, 1 HPPC, TC</info>
         <battleforce pv="21" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="2" armor="5" internal="2" abilities="AECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

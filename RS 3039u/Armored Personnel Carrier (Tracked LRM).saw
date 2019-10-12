@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>208</battle_value>
     <motive type="Tracked" cruise="6" turret="No Turret" />
-    <cost>145500.0</cost>
+    <cost>118000.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
     <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
-    <year restricted="FALSE">2400</year>
+    <year restricted="FALSE">2500</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />

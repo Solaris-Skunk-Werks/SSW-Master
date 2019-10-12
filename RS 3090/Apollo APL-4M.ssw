@@ -4,8 +4,8 @@
     <battle_value>1302</battle_value>
     <cost>9654623.333333332</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Earthwerks Incorporated" location="Keystone">Inner Sphere</techbase>
     <year restricted="FALSE">3083</year>
@@ -47,7 +47,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Apollo APL-4M 55t, 4/6/0, XLFE, Comp; 10.0T/97% FF Armor; 10 DHS; 2 ExLRM15, 1 ERML</info>
         <battleforce pv="13" wt="2" mv="4" s="2" m="3" l="2" e="0" ov="0" armor="6" internal="1" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 2" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

@@ -4,7 +4,7 @@
     <cost>1.24566E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>0</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Gibson Federated BattleMechs, Martinson Armaments" location="Gkbson (Gibson Federated), Terra (Martinson)">Inner Sphere</techbase>
     <year restricted="FALSE">3069</year>

@@ -387,7 +387,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3072</loadout_year>
         <info>Fire Falcon  F 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ERLL, 2 ERMcL, 2 ERSL, 1 BAP, 2 MGA+4MG</info>
         <battleforce pv="11" wt="1" mv="8" s="4" m="3" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1135</battle_value>

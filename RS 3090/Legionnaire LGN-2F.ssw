@@ -61,7 +61,7 @@
         <location index="9">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSProtop</source>
+        <source>RSPrototypes</source>
         <info>Legionnaire LGN-2F 50t, 7/11/0, XLFE, ES; 9.5T/90% LsrRflc Armor; 10 DHS; 1 RAC5, 2 ERML</info>
         <battleforce pv="18" wt="2" mv="7" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

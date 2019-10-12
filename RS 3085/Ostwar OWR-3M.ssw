@@ -8,7 +8,7 @@
     <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3076</year>
+    <year restricted="FALSE">3075</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>

@@ -426,7 +426,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3075</loadout_year>
         <info>Black Lanner  X 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 iHML, 1 RAC2</info>
         <battleforce pv="17" wt="2" mv="9" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1672</battle_value>
