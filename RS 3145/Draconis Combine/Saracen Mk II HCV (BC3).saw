@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Saracen Mk II HCV" model="(BC3)" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>635</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>2336416.6666666665</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Scarborough Manufacturers" location="Al Na&apos;ir, Algedi">Inner Sphere</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="350" manufacturer="Omni" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ProtecTech 19" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>28</front>
+        <left>22</left>
+        <right>22</right>
+        <rear>21</rear>
+        <primaryturret>26</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145DC</source>
+        <info>Saracen Mk II HCV (BC3) 35t, 10/15, Std FE, 6.0T/73% HFF Armor; 10 SHS; 1 BC3S, 1 ERML, 1 MML5</info>
+        <battleforce pv="6" wt="1" mv="10h" s="2" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="C3BSS, TUR(2/1/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Boosted Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scarborough Talky 2</commsystem>
+        <tandtsystem>Scarborough Tracky 2</tandtsystem>
+    </fluff>
+</combatvehicle>

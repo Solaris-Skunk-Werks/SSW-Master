@@ -57,7 +57,7 @@
         </heatsinks>
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS 3085u</source>
+        <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
@@ -109,7 +109,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS 3085u</source>
+        <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
@@ -169,7 +169,7 @@
         </equipment>
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS 3085u</source>
+        <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
@@ -244,7 +244,7 @@
         </equipment>
     </loadout>
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS 3085u</source>
+        <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
@@ -299,7 +299,7 @@
         </equipment>
     </loadout>
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS 3085u</source>
+        <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3079</loadout_year>
@@ -385,7 +385,7 @@
     <loadout name="(Syngman)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BD:LL</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3085</loadout_year>
         <info>Karhu  (Syngman) 65t, 5/8/0, XLFE, ES; 10.5T/95% FF Armor; 15 DHS; 1 PR, 1 ECM, 1 C3S, 1 ERML, 1 RBlde, 1 BAP, 1 HPPC</info>
         <battleforce pv="19" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, PRB, RCN, C3S, MEL, SAW, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
@@ -444,6 +444,95 @@
             <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
             <type>ammunition</type>
             <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Karhu  G 65t, 5/8[10]/5, XLFE, ES; 10.5T/95% FF Armor; 18 DHS; 1 LTAG, 1 iHLL, 4 SSRM4, 3 ERML</info>
+        <battleforce pv="29" wt="3" mv="6/5j" s="6" m="6" l="0" e="0" ov="1" armor="7" internal="4" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2895</battle_value>
+        <cost>2.6089896874999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="5">LT</location>
+            <location index="4">LT</location>
+            <location index="10">CT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+        </jumpjets>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="2">LA</location>
+            <location index="2">LT</location>
+            <location index="4">RA</location>
+            <location index="2">RT</location>
+            <location index="6">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
         </equipment>
     </loadout>
     <fluff>

@@ -321,7 +321,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3076</loadout_year>
         <info>Owens OW-1 F 35t, 8/12/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 1 ECM, 1 APod, 1 C3S, 2 ERSL, 1 BAP, 1 LPPC, 1 TAG, TC</info>
         <battleforce pv="9" wt="1" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, ECM, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>933</battle_value>
@@ -357,6 +357,28 @@
             <name manufacturer="">(IS) Targeting Computer</name>
             <type>TargetingComputer</type>
             <location index="3">HD</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Owens OW-1 G 35t, 8/12[16]/0, XLFE, Std; 7.0T/94% Armor; 10 SHS; 1 C3S, 1 BAP, 1 TSEMP, 1 TAG</info>
+        <battleforce pv="18" wt="1" mv="10" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, C3S, PRB, RCN, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <battle_value>1761</battle_value>
+        <cost>1.3700531250000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) TSEMP</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
         </equipment>
     </loadout>
     <fluff>

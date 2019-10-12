@@ -571,7 +571,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Uller (Kit Fox)  U 30t, 6/9/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 ERML, 8 LRT5</info>
         <battleforce pv="15" wt="1" mv="6u" s="4" m="4" l="3" e="0" ov="0" armor="3" internal="2" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/2" />
         <battle_value>1486</battle_value>
@@ -704,6 +704,110 @@
             <name manufacturer="">ECM Suite</name>
             <type>equipment</type>
             <location index="4">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Uller (Kit Fox)  I 30t, 6[5]/9[10]/0, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 ERML, 6 ModArmor, 1 ERSL, 1 ERPPC, TC</info>
+        <battleforce pv="19" wt="1" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1936</battle_value>
+        <cost>7962743.75</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Modular Armor</name>
+            <type>miscellaneous</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Uller (Kit Fox)  R 30t, 6/9/0, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 RAC5, 1 SSRM6</info>
+        <battleforce pv="12" wt="1" mv="6" s="4" m="4" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1232</battle_value>
+        <cost>5150437.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
         </equipment>
     </loadout>
     <fluff>

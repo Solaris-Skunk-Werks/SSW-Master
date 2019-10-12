@@ -356,7 +356,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Balius  U 65t, 6/9/5, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 ECM, 1 Flmr, 1 ERLL, 4 SRT6</info>
         <battleforce pv="20" wt="3" mv="6/3u" s="4" m="3" l="1" e="0" ov="2" armor="7" internal="4" abilities="UMU, OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/0" />
         <battle_value>2014</battle_value>
@@ -420,6 +420,53 @@
             <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
             <type>ammunition</type>
             <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Balius  E 65t, 6/9/0, XLFE, ES Quad; 11.0T/91% FF Armor; 10 DHS; 1 Flmr, 1 ERLPL, 1 iHML, 1 SLRM15, 1 SSRM6</info>
+        <battleforce pv="22" wt="3" mv="6" s="4" m="4" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2156</battle_value>
+        <cost>2.115478125E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(R) (CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
         </equipment>
     </loadout>
     <fluff>

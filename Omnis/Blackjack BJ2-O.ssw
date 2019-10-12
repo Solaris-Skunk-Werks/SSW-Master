@@ -517,7 +517,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3074</loadout_year>
         <info>Blackjack BJ2-O X 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 12 DHS; 2 SSRM4, 4 LPPC</info>
         <battleforce pv="13" wt="2" mv="4j" s="2" m="2" l="2" e="0" ov="2" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <battle_value>1320</battle_value>
@@ -569,7 +569,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Blackjack BJ2-O U 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 5 HrJl, 1 ERSL, 2 LPPC, 6 LRT5</info>
         <battleforce pv="12" wt="2" mv="4j" s="2" m="3" l="3" e="0" ov="1" armor="5" internal="2" abilities="OMNI, BHJ, SRCH, ES, SEAL, SOA, TOR 1/2/2" />
         <battle_value>1223</battle_value>
@@ -660,6 +660,58 @@
             <name manufacturer="">HarJel</name>
             <type>equipment</type>
             <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3134</loadout_year>
+        <info>Blackjack BJ2-O G 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 2 RAC5, 1 RESL</info>
+        <battleforce pv="14" wt="2" mv="4j" s="5" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
+        <battle_value>1445</battle_value>
+        <cost>8931874.999999998</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Small R-e Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
         </equipment>
     </loadout>
     <fluff>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Vampyr" model="SC-V-1 SalvageMech" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>590</battle_value>
+    <cost>4675640.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Bristol SalvageWorks" location="Canopus IV">Inner Sphere</techbase>
+    <year restricted="FALSE">3066</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Bristol Quadina-5E" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="320" manufacturer="Nissan" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>Industrial TSM</type>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">CT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+    </enhancement>
+    <armor manufacturer="Humphries" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>15</ct>
+        <ctr>5</ctr>
+        <lt>10</lt>
+        <ltr>6</ltr>
+        <rt>10</rt>
+        <rtr>6</rtr>
+        <la>13</la>
+        <ra>13</ra>
+        <ll>13</ll>
+        <rl>13</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Vampyr SC-V-1 SalvageMech 80t, 4/6/0 ITSM, FCE, Ind Quad; 7.0T/43% Armor; 2 SHS; 8 StndrdCrgo, 1 LFldSuk, 2 LqdCrgo, 1 Fuel, 1 Spryr</info>
+        <battleforce pv="6" wt="4" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="6" abilities="I-TSM, ENE, SRCH, EE, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="2" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <multislot name="Environmental Sealing">
+            <location index="3">HD</location>
+            <location index="5">FLL</location>
+            <location index="5">FRL</location>
+            <location index="5">RLL</location>
+            <location index="5">RRL</location>
+            <location index="11">CT</location>
+            <location index="11">LT</location>
+            <location index="11">RT</location>
+        </multislot>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Liquid</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Liquid</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Fluid Suction System, Light</name>
+            <type>equipment</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Sprayer</name>
+            <type>equipment</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Extended Fuel Tank</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Rumble Seat, Exposed Actuators.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Channel 80 Short</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

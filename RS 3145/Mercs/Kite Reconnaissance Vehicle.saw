@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Kite Reconnaissance Vehicle" model="" tons="30" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>616</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>2342800.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Trellshire Heavy Industries, Manufacturing Plants SFF-NG1 and SFF-SH2" location="Twycross, Ingersoll, Shimonita">Clan</techbase>
+    <year restricted="FALSE">3110</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="270" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="Forging AM15" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>25</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>20</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145Mercs</source>
+        <info>Kite Reconnaissance Vehicle 30t, 9/14, FCE, 5.5T/72% FF Armor; 1 SHS; 1 LTAG, 1 AECM, 1 BAP, 2 APGR, 2 SRM2</info>
+        <battleforce pv="6" wt="1" mv="9h" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="LTAG, PRB, RCN, AECM, EE, TUR(1/1/0)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Pattern Alpha">(CL) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern Alpha">(CL) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Tau-II">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Tau-II">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Improved Sensors.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Neil 9000 Comm System</commsystem>
+        <tandtsystem>RCA Econotrac</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Raider Mk II" model="JL-2" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>883</battle_value>
+    <cost>3498000.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Bannson Universal Unlimited" location="Tybalt, St. Andre">Inner Sphere</techbase>
+    <year restricted="FALSE">3134</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="BUU Standard Medium Chassis" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="Bannson Spark 200" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="0">LT</location>
+        <location index="0">RT</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+    </enhancement>
+    <armor manufacturer="BUU MechStandard" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>24</ct>
+        <ctr>7</ctr>
+        <lt>18</lt>
+        <ltr>6</ltr>
+        <rt>18</rt>
+        <rtr>6</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>EDDA</source>
+        <info>Raider Mk II JL-2 50t, 3[4]/5[6]/0 TSM, ICE, Std; 10.0T/95% Armor; 2 SHS; 1 RAC2, 1 2Saw</info>
+        <battleforce pv="9" wt="2" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="5" internal="4" abilities="TSM, MEL, SAW, SRCH, EE, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="2" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="BUU SuperCutter">Dual Saw</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Improved Cooling Jacket (Rotary AC/2), Jettison-Capable Weapon (Rotary AC/2), Searchlight.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>BUU FarSweep Comms</commsystem>
+        <tandtsystem>BUU AccuTrack 3000</tandtsystem>
+    </fluff>
+</mech>

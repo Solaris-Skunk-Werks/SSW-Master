@@ -80,8 +80,8 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
-        <loadout_year>3065</loadout_year>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3085</loadout_year>
         <info>Deimos  Prime 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 LRM15, 2 ERML, 6 UAC2, 1 AMS</info>
         <battleforce pv="22" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
         <battle_value>2188</battle_value>
@@ -162,8 +162,8 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
-        <loadout_year>3065</loadout_year>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3085</loadout_year>
         <info>Deimos  A 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 16 DHS; 1 ECM, 2 ERML, 2 MPL, 2 ERPPC, 2 LB10, 1 AMS</info>
         <battleforce pv="28" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>2785</battle_value>
@@ -234,8 +234,8 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3065</loadout_year>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3085</loadout_year>
         <info>Deimos  B 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 16 DHS; 1 ECM, 2 ERML, 4 LRM10, 2 ERPPC, 1 AMS, 2 LPL</info>
         <battleforce pv="30" wt="4" mv="4" s="4" m="4" l="4" e="0" ov="4" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2965</battle_value>
@@ -327,7 +327,7 @@
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
-        <loadout_year>3065</loadout_year>
+        <loadout_year>3086</loadout_year>
         <info>Deimos  C 85t, 3/5[6]/4 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 UAC/10, 1 ECM, 2 ERLL, 2 SPL, 2 ERML, 1 AMS</info>
         <battleforce pv="27" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2737</battle_value>
@@ -401,7 +401,7 @@
         <source>RS3085u-CE</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
-        <loadout_year>3065</loadout_year>
+        <loadout_year>3086</loadout_year>
         <info>Deimos  S 85t, 3/5[6]/4 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 UAC/10, 2 ERLL, 2 SPL, 2 ERML, 1 LqdCrgo, 1 AMS</info>
         <battleforce pv="27" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2664</battle_value>
@@ -470,6 +470,151 @@
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
             <type>ammunition</type>
             <location index="11">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Deimos  D 85t, 3/5[6]/0 MASC, XLFE, ES; 14.5T/88% Armor; 14 DHS; 2 SLRM20, 2 ERML, 2 RAC2, 1 AMS</info>
+        <battleforce pv="27" wt="4" mv="4" s="7" m="7" l="5" e="0" ov="0" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2682</battle_value>
+        <cost>2.438540625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-20</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-20</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-20</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-20</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-20</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-20</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Deimos  E 85t, 3/5[8]/0 MASC, XLFE, ES; 14.5T/88% Armor; 16 DHS; 4 SSRM4, 1 ERLL, 2 ERML, 1 ERPPC, 1 RHS, 1 AMS, 2 LPL, TC</info>
+        <battleforce pv="37" wt="4" mv="5" s="5" m="5" l="3" e="0" ov="4" armor="8" internal="5" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>3651</battle_value>
+        <cost>2.990690625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="7">LT</location>
+            <location index="2">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Radical Heat Sink</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
         </equipment>
     </loadout>
     <fluff>

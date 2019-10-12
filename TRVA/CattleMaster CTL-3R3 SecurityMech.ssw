@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="CattleMaster" model="CTL-3R3 SecurityMech" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>358</battle_value>
+    <cost>1028364.5833333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Rastaban Agricultural" location="Duran">Inner Sphere</techbase>
+    <year restricted="FALSE">3072</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Rastaban Agro" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="100" manufacturer="Jones" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="ArcShield Indi" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>9</ct>
+        <ctr>2</ctr>
+        <lt>8</lt>
+        <ltr>2</ltr>
+        <rt>8</rt>
+        <rtr>2</rtr>
+        <la>5</la>
+        <ra>5</ra>
+        <ll>7</ll>
+        <rl>7</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>CattleMaster CTL-3R3 SecurityMech 25t, 4/6/0, FCE, Ind; 4.0T/72% Armor; 3 SHS; 1 ML, 2 MG, 1 LRM5</info>
+        <battleforce pv="4" wt="1" mv="4" s="2" m="1" l="1" e="0" ov="0" armor="2" internal="2" abilities="SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="3" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Coventry Light Autoguns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry Light Autoguns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirk: Easy to Pilot.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Neil 90b</commsystem>
+        <tandtsystem>TharHes Mars-1</tandtsystem>
+    </fluff>
+</mech>

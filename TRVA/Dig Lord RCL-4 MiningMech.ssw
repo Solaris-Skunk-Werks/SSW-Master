@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Dig Lord" model="RCL-4 MiningMech" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>597</battle_value>
+    <cost>2463281.25</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Achernar BattleMechs, Bristol Salvageworks" location="Achernar (offline 3077), Cahokia (Achernar), Canopus IV (Bristol)">Inner Sphere</techbase>
+    <year restricted="FALSE">3057</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Dorwinion Industrial 65T" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="195" manufacturer="Defiance" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Nashan LD" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>16</ct>
+        <ctr>5</ctr>
+        <lt>14</lt>
+        <ltr>3</ltr>
+        <rt>14</rt>
+        <rtr>3</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Dig Lord RCL-4 MiningMech 65t, 3/5/0, FCE, Ind; 8.0T/61% Armor; 3 SHS; 1 MngDrl, 4 FldGn, 1 RckCut, 1 Fuel</info>
+        <battleforce pv="6" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="5" abilities="MEL, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="3" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Extended Fuel Tank</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Achernar High Capacity">(IS) Fluid Gun</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Achernar High Capacity">(IS) Fluid Gun</name>
+            <type>ballistic</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Achernar High Capacity">(IS) Fluid Gun</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Achernar High Capacity">(IS) Fluid Gun</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="GE Cermet">Mining Drill</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rock Cutter</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Coolant)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirk: Improved Life Support.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Achernar Electronics GEO-11</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

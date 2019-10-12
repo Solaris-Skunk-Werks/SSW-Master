@@ -488,7 +488,7 @@
         <source>JTPDieron</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3077</loadout_year>
+        <loadout_year>3068</loadout_year>
         <info>Dasher (Fire Moth)  (Aletha) 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 ECM, 1 ERLL, 3 ERSL</info>
         <battleforce pv="14" wt="1" mv="13" s="3" m="3" l="1" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1388</battle_value>
@@ -518,6 +518,53 @@
         <equipment>
             <name manufacturer="">ECM Suite</name>
             <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Dasher (Fire Moth)  G 20t, 10/15[25]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 4 iHML, 1 CoolPd, TC</info>
+        <battleforce pv="20" wt="1" mv="15" s="4" m="4" l="0" e="0" ov="1" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2041</battle_value>
+        <cost>7667800.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Coolant Pod</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
             <location index="4">LT</location>
         </equipment>
     </loadout>

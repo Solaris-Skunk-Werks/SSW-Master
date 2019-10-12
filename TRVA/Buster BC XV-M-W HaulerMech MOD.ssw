@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Buster" model="BC XV-M-W HaulerMech MOD" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>713</battle_value>
+    <cost>2014250.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Bluth Corporation" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3077</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bluth-50S" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Caterpillar CommerWeave" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>20</ct>
+        <ctr>10</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Buster BC XV-M-W HaulerMech MOD 50t, 3/5/0, ICE, Ind; 8.5T/80% Armor; 2 SHS; 1 LB10</info>
+        <battleforce pv="7" wt="2" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="5" internal="4" abilities="SRCH, EE, ES, FLK 1/1/1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="2" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Pilot, Gas Hog, Non-Standard Parts.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Doering Hi-Def Mk II</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

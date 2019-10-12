@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Harvester" model="HVR-99 AgroMech" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>339</battle_value>
+    <cost>1232380.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Iroquois Machinery Limited" location="Shawnee">Inner Sphere</techbase>
+    <year restricted="FALSE">3049</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Iroquois Machinery Medium" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="120" manufacturer="Junkers" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="LaborHeavy/1" techbase="2">
+        <type>Standard Armor</type>
+        <hd>5</hd>
+        <ct>10</ct>
+        <ctr>5</ctr>
+        <lt>9</lt>
+        <ltr>3</ltr>
+        <rt>9</rt>
+        <rtr>3</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Harvester HVR-99 AgroMech 30t, 4/6/0, ICE, Ind; 5.0T/76% Armor; 0 SHS; 1 StndrdCrgo, 1 LftHst, 1 Cmbn</info>
+        <battleforce pv="3" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="MEL, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Case/International">Combine</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SteelTek">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>0.5</tons>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirk: Gas Hog.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>T-300 Dual Wave</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

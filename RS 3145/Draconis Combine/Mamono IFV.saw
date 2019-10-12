@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Mamono IFV" model="" tons="70" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1144</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>1.1031083333333334E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Pesht Motors" location="Unity">Inner Sphere</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="true" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="280" manufacturer="VOX" techbase="0">XL Engine</engine>
+    <armor manufacturer="StarGuard Aurora" techbase="0">
+        <type>Laser-Reflective</type>
+        <front>40</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>30</rear>
+        <primaryturret>30</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145DC</source>
+        <info>Mamono IFV 70t, 4/6, XLFE, 10.0T/56% LsrRflc Armor; 10 SHS; 1 SNPPC, 1 InfComp, 1 MRM40, 1 AMS, 1 CASE, 2 LMG</info>
+        <battleforce pv="11" wt="3" mv="4t" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="4" abilities="AMS, CASE, TUR(4/3/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">(IS) MRM-40</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light 5">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Chosatsugai no Kunai">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>8.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Poor Performance.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Neil 500</commsystem>
+        <tandtsystem>Cirxese BallistaCheck and CirxeseRockeCheck</tandtsystem>
+    </fluff>
+</combatvehicle>

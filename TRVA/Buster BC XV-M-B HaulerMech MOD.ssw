@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Buster" model="BC XV-M-B HaulerMech MOD" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>475</battle_value>
+    <cost>1687500.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Bluth Corporation" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2801</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bluth-50S" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Caterpillar CommerWeave" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>9</hd>
+        <ct>11</ct>
+        <ctr>8</ctr>
+        <lt>10</lt>
+        <ltr>4</ltr>
+        <rt>10</rt>
+        <rtr>4</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Buster BC XV-M-B HaulerMech MOD 50t, 3/5/0, ICE, Ind; 4.0T/57% Cmrcl Armor; 10 SHS; 1 StndrdCrgo, 1 PPC</info>
+        <battleforce pv="5" wt="2" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="4" abilities="ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="0">LT</location>
+            <location index="4">LL</location>
+            <location index="3">HD</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) PPC</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>2.0</tons>
+            <location index="1">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Pilot, Gas Hog, Non-Standard Parts.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Doering Hi-Def Mk II</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

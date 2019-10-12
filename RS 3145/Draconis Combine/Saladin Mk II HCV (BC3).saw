@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Saladin Mk II HCV" model="(BC3)" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>793</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="No Turret" />
+    <cost>2551416.6666666665</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Scarborough Manufacturers" location="Al Na&apos;ir, Algedi">Inner Sphere</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="350" manufacturer="Omni" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ProtecTech 19" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>45</front>
+        <left>23</left>
+        <right>23</right>
+        <rear>18</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145DC</source>
+        <info>Saladin Mk II HCV (BC3) 35t, 10/15, Std FE, 5.5T/67% HFF Armor; 10 SHS; 1 BC3S, 1 SNPPC, 2 RL10</info>
+        <battleforce pv="8" wt="1" mv="10h" s="2" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="C3BSS" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Magna Flarestar">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Boosted Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Scarborough Talky 2</commsystem>
+        <tandtsystem>Scarborough Tracky 2</tandtsystem>
+    </fluff>
+</combatvehicle>

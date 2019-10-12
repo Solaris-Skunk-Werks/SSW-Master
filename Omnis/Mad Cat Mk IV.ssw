@@ -70,7 +70,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>9</loadout_productionera>
+        <loadout_productionera>8</loadout_productionera>
         <loadout_year>3136</loadout_year>
         <info>Mad Cat Mk IV  Prime 75t, 5/8/0, XXLFE, ES; 16.0T/97% FL Armor; 17 DHS; 2 ERPPC, 4 SSRM6</info>
         <battleforce pv="27" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="9" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -133,7 +133,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>9</loadout_productionera>
+        <loadout_productionera>8</loadout_productionera>
         <loadout_year>3136</loadout_year>
         <info>Mad Cat Mk IV  A 75t, 5/8/0, XXLFE, ES; 16.0T/97% FL Armor; 17 DHS; 2 ERLL, 4 SPL, 2 ATM9</info>
         <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="3" e="0" ov="2" armor="9" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -216,7 +216,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>9</loadout_productionera>
+        <loadout_productionera>8</loadout_productionera>
         <loadout_year>3136</loadout_year>
         <info>Mad Cat Mk IV  B 75t, 5/8/0, XXLFE, ES; 16.0T/97% FL Armor; 15 DHS; 1 iHLL, 1 ATM9, 1 HAG30</info>
         <battleforce pv="26" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="0" armor="9" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
@@ -285,7 +285,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>9</loadout_productionera>
+        <loadout_productionera>8</loadout_productionera>
         <loadout_year>3136</loadout_year>
         <info>Mad Cat Mk IV  C 75t, 5/8/0, XXLFE, ES; 16.0T/97% FL Armor; 15 DHS; 2 LRM15, 2 ERLL, 2 ERML, 2 MPL</info>
         <battleforce pv="28" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="3" armor="9" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 2" />

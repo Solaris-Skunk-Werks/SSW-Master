@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Uni" model="ATAE-70 CargoMech" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>533</battle_value>
+    <cost>2678706.25</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>4</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="N&amp;D WorkMech" location="Furillo">Inner Sphere</techbase>
+    <year restricted="FALSE">3050</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="N&amp;D Universal Ultraload" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="210" manufacturer="Defiance" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Nashan LD" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>9</ltr>
+        <rt>20</rt>
+        <rtr>9</rtr>
+        <la>27</la>
+        <ra>27</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Uni ATAE-70 CargoMech 70t, 3/5/0, FCE, Ind Quad; 9.0T/93% Cmrcl Armor; 1 SHS; 1 StndrdCrgo, 2 LftHst</info>
+        <battleforce pv="5" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="6" abilities="ENE, SRCH, EE, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <multislot name="Environmental Sealing">
+            <location index="3">HD</location>
+            <location index="3">LT</location>
+            <location index="3">RT</location>
+            <location index="4">FLL</location>
+            <location index="4">FRL</location>
+            <location index="4">RLL</location>
+            <location index="4">RRL</location>
+            <location index="11">CT</location>
+        </multislot>
+        <equipment>
+            <name manufacturer="GripperTech">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="GripperTech">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Maintain, Rumble Seat.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Doering Hi-Def Mk II</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

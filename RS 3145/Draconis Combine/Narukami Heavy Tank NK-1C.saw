@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Narukami Heavy Tank" model="NK-1C" tons="90" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1341</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>1.498275E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="New Samarkand Meal" location="New Samarkand">Inner Sphere</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="270" manufacturer="GM" techbase="0">XL Engine</engine>
+    <armor manufacturer="New Samarkand Teppeki" techbase="2">
+        <type>Hardened Armor</type>
+        <front>38</front>
+        <left>27</left>
+        <right>27</right>
+        <rear>21</rear>
+        <primaryturret>27</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145DC</source>
+        <info>Narukami Heavy Tank NK-1C 90t, 3/5, XLFE, 17.5T/39% Hrdnd Armor; 20 SHS; 2 PPC, 1 GR, 2 AMS, 1 CASE</info>
+        <battleforce pv="13" wt="4" mv="3t" s="3" m="4" l="4" e="0" ov="0" armor="9" internal="5" abilities="AMS, CASE, TUR(3/4/4)" />
+        <heatsinks number="20" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Chosatsugai no Kunai">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Chosatsugai no Kunai">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Grizzard Model 200">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Low Profile, Hard to Pilot, Fast Reload.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Olmstead 3000</commsystem>
+        <tandtsystem>Omicron IX</tandtsystem>
+    </fluff>
+</combatvehicle>

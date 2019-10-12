@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Black Hawk (Standard)" model="" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2183</battle_value>
+    <cost>9366500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant SFF-IT5, Manufacturing Site #3" location="CSF Kraken Mobile Production Facility, New Oslo">Clan</techbase>
+    <year restricted="FALSE">3073</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Type 3 Standard" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="250" manufacturer="Fusion" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Standard YM17" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>19</ct>
+        <ctr>6</ctr>
+        <lt>14</lt>
+        <ltr>5</ltr>
+        <rt>14</rt>
+        <rtr>5</rtr>
+        <la>13</la>
+        <ra>13</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TR3145Mercs</source>
+        <info>Black Hawk (Standard) 50t, 5/8/5, XLFE, ES; 8.5T/80% Armor; 14 DHS; 4 SSRM4, 2 ERLL</info>
+        <battleforce pv="22" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="2" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="5">RL</location>
+            <location index="10">CT</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+        </jumpjets>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RT</location>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Pattern J4">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern J4">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern J4">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern J4">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7K">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7K">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Grandthrust Mk 3</jumpjet_model>
+        <commsystem>Garret T11-A</commsystem>
+        <tandtsystem>Spar 3C Tight Band</tandtsystem>
+    </fluff>
+</mech>

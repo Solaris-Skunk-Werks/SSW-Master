@@ -336,7 +336,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3071</loadout_year>
         <info>Shadow Cat  J 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 10 DHS; 1 HAG20, 1 BAP, 6 APGR</info>
         <battleforce pv="18" wt="2" mv="8/6j" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <battle_value>1802</battle_value>
@@ -397,6 +397,86 @@
             <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
             <type>ammunition</type>
             <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Shadow Cat  E 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 17 DHS; 2 iHLL, 2 CoolPd</info>
+        <battleforce pv="21" wt="2" mv="8/6j" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2084</battle_value>
+        <cost>1.2314759375E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="6">LA</location>
+            <location index="4">LA</location>
+            <location index="8">LA</location>
+            <location index="3">LT</location>
+            <location index="4">RA</location>
+            <location index="2">RA</location>
+            <location index="3">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Coolant Pod</name>
+            <type>equipment</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Coolant Pod</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Shadow Cat  F 45t, 6/9[12]/6 MASC, XLFE, ES; 7.0T/88% FF Armor; 10 DHS; 1 ERPPC, 1 TSEMP, 1 SSRM6</info>
+        <battleforce pv="30" wt="2" mv="8/6j" s="2" m="2" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>2997</battle_value>
+        <cost>1.2926634375E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) TSEMP</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
         </equipment>
     </loadout>
     <fluff>

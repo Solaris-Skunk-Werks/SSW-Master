@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Vector Combat Support VTOL" model="(Standard)" tons="22" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>512</battle_value>
+    <motive type="VTOL" cruise="12" turret="No Turret" />
+    <cost>848177.7777777779</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="General Motors" location="Outreach">Inner Sphere</techbase>
+    <year restricted="FALSE">2732</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="264" manufacturer="LTV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Mitchell Argon" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>18</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>6</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>H:LoT2</source>
+        <info>Vector Combat Support VTOL (Standard) 22t, 12/18, Std FE, 3.5T/53% FF Armor; 10 SHS; 2 ML, 1 SPL, 1 InfComp</info>
+        <battleforce pv="5" wt="1" mv="12v" s="2" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Starflash Plus">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sorenstein">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sorenstein">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Easy to Maintain, Improved Communication</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>IrComm ICM-3200b</commsystem>
+        <tandtsystem>Garret D6a II</tandtsystem>
+    </fluff>
+</combatvehicle>

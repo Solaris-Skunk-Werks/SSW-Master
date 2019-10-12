@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Griffin" model="GRF-1A" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1024</battle_value>
+    <cost>4656080.0</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveBattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2465</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Primitive Structure</type>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Primitive Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Primitive Armor</type>
+        <hd>9</hd>
+        <ct>21</ct>
+        <ctr>7</ctr>
+        <lt>21</lt>
+        <ltr>6</ltr>
+        <rt>21</rt>
+        <rtr>6</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>18</ll>
+        <rl>18</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRPrimitives IV</source>
+        <info>Griffin GRF-1A 60t, 4/6/3, Pr FE, Prm; 14.5T/77% Pr. Armor; 11 SHS; 1 PTPPC, 1 LRM5</info>
+        <battleforce pv="10" wt="3" mv="4/2j" s="1" m="1" l="1" e="0" ov="1" armor="5" internal="5" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Prototype PPC</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Original Griffin Primitive Chassis:br::br:Producer/Site: Maxwell Manufacturing, Inc., Procyon:br::br:Supervising Engineer: Helina Pendergrass:br::br:Prototype Introduction Date: 2465:br::br:Non-Production Equipment Analysis::br::br:Primitive Armor:br::br:Primitive Cockpit:br::br:Primitive Engine:br::br:Prototype Jump Jets:br::br:Prototype PPC:br::br::br:Notes: Equipped with Prototype Jump Jets; features the following Design Quirks: Improved Cooling Jacket (Prototype PPC), Jettison-Capable Weapon (Prototype PPC), Obsolete (2595), Poor Sealing.</additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

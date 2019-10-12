@@ -469,7 +469,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3063</loadout_year>
+        <loadout_year>3068</loadout_year>
         <info>Nobori-nin (Huntsman)  N 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 13 DHS; 1 ERLL, 1 ERPPC, 1 ATM6, 1 HML, TC</info>
         <battleforce pv="26" wt="2" mv="5j" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2556</battle_value>
@@ -527,7 +527,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Nobori-nin (Huntsman)  E 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 LTAG, 1 ERSL, 2 MPL, 1 AMS, 1 ATM6, 1 LAP, 1 LPL</info>
         <battleforce pv="21" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, AMS, LTAG, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2104</battle_value>
@@ -600,6 +600,71 @@
             <name manufacturer="Unknown">(CL) @ ATM-6 (HE)</name>
             <type>ammunition</type>
             <location index="8">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Nobori-nin (Huntsman)  F 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 iHLL, 1 LRM15, 2 ERML, 1 RHS, TC</info>
+        <battleforce pv="24" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <techbase>Mixed</techbase>
+        <battle_value>2402</battle_value>
+        <cost>1.3148125000000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">LT</location>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Radical Heat Sink</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="5">LT</location>
         </equipment>
     </loadout>
     <fluff>

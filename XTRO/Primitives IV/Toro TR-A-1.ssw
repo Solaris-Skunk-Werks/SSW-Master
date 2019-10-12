@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Toro" model="TR-A-1" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>671</battle_value>
+    <cost>2019555.0000000002</cost>
+    <rules_level>4</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>PrimitiveBattleMech</mech_type>
+    <techbase manufacturer="Taurus WarWorks" location="Taurus">Inner Sphere</techbase>
+    <year restricted="FALSE">2481</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Primitive Structure</type>
+    </structure>
+    <engine rating="140" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Primitive Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Primitive Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Primitive Armor</type>
+        <hd>9</hd>
+        <ct>14</ct>
+        <ctr>5</ctr>
+        <lt>13</lt>
+        <ltr>3</ltr>
+        <rt>13</rt>
+        <rtr>3</rtr>
+        <la>11</la>
+        <ra>11</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRPrimitives IV</source>
+        <info>Toro TR-A-1 35t, 4/6/0, Pr FE, Prm; 10.5T/94% Pr. Armor; 10 SHS; 1 LL, 2 SRM2</info>
+        <battleforce pv="7" wt="1" mv="4" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Original Toro Primitive Chassis:br::br:Producer/Site: Taurus WarWorks, Taurus:br::br:Supervising Engineer: José Arámbula:br::br:Prototype Introduction Date: 2481:br::br:Non-Production Equipment Analysis::br::br:Primitive Armor:br::br:Primitive Cockpit:br::br:Primitive Engine:br::br::br:Notes: Features the following Design Quirks: Cramped Cockpit, Narrow Profile, Obsolete (2505), Poor Cooling Jacket (Large Laser)</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

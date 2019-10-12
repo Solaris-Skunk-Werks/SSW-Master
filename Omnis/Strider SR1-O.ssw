@@ -502,7 +502,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3070</loadout_year>
         <info>Strider SR1-O G 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 ERSL, 2 MML7</info>
         <battleforce pv="9" wt="2" mv="6" s="3" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>883</battle_value>
@@ -554,7 +554,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3071</loadout_year>
         <info>Strider SR1-O X 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 MML3, 1 BmbstLsr</info>
         <battleforce pv="9" wt="2" mv="6" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>889</battle_value>
@@ -585,6 +585,81 @@
             <name manufacturer="Unknown">(IS) @ MML-3 (SRM)</name>
             <type>ammunition</type>
             <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Strider SR1-O H 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 SLRM10</info>
+        <battleforce pv="12" wt="2" mv="6" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1192</battle_value>
+        <cost>4801250.0</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-10</name>
+            <type>missile</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-10</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-10</name>
+            <type>ammunition</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-10</name>
+            <type>ammunition</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="M" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3135</loadout_year>
+        <info>Strider SR1-O M 40t, 6/9/0, Std FE, ES; 7.5T/88% Armor; 10 SHS; 2 BC3M</info>
+        <battleforce pv="6" wt="2" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, C3BSM, TAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>607</battle_value>
+        <cost>1.439375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">C3 Boosted Computer (Master)</name>
+            <type>equipment</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Boosted Computer (Master)</name>
+            <type>equipment</type>
+            <location index="2">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">CASE</name>

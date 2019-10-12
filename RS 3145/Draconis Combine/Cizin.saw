@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Cizin" model="" tons="45" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1762</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>6301750.0</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="LAW-Barcella, Clan Sea Fox IndustriPlex-C" location="Irece, Itabaiana">Clan</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="450" manufacturer="Consolidated" techbase="1">XL Engine</engine>
+    <armor manufacturer="Alpha Compound" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>45</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>18</rear>
+        <primaryturret>21</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145DC</source>
+        <info>Cizin 45t, 10/15, XLFE, 7.0T/68% FF Armor; 20 SHS; 1 TC, 4 ERML, 1 CASE, 2 SRM2, TC</info>
+        <battleforce pv="18" wt="2" mv="10h" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="3" abilities="CASE, TUR(4/4/0)" />
+        <heatsinks number="20" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Pattern D-II">(CL) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern D-II">(CL) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2d">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2d">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2d">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2d">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Battle Computer, Fast Reload, Bad Reputation, Poor Performance, Non-Standard Parts.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Omicron 5000</commsystem>
+        <tandtsystem>Build 4 CAT TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

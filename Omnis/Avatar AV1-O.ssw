@@ -687,7 +687,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Avatar AV1-O H 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 16 DHS; 2 ML, 2 MML3, 2 HPPC</info>
         <battleforce pv="16" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1604</battle_value>
@@ -753,7 +753,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3078</loadout_year>
         <info>Avatar AV1-O I 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 16 DHS; 2 ML, 2 ERML, 2 Tbolt15</info>
         <battleforce pv="16" wt="3" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
         <battle_value>1606</battle_value>
@@ -824,7 +824,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Avatar AV1-O U 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 SRT4, 2 ML, 1 SPL, 2 LRT15, 1 C3M</info>
         <battleforce pv="14" wt="3" mv="4" s="4" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, C3M, TAG, CASE, MHQ5, SRCH, ES, SEAL, SOA" />
         <battle_value>1359</battle_value>
@@ -890,6 +890,79 @@
             <name manufacturer="Unknown">@ SRT-4 (Torpedo)</name>
             <type>ammunition</type>
             <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="11">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Avatar AV1-O J 70t, 4/6/0, XLFE, Std; 12.0T/88% Armor; 10 DHS; 2 ML, 2 HAG30</info>
+        <battleforce pv="22" wt="3" mv="4" s="5" m="5" l="4" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 4/4/4" />
+        <techbase>Mixed</techbase>
+        <battle_value>2223</battle_value>
+        <cost>1.7468791666666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 30</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 30</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="11">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location index="11">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">CASE</name>

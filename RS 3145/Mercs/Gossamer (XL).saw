@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Gossamer" model="(XL)" tons="25" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>663</battle_value>
+    <motive type="VTOL" cruise="11" turret="No Turret" />
+    <cost>2780333.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="United Outworlders Corporation" location="Ramora">Clan</techbase>
+    <year restricted="FALSE">3123</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="275" manufacturer="Consolidated" techbase="1">XL Engine</engine>
+    <armor manufacturer="Compound FM3" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>23</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145Mercs</source>
+        <info>Gossamer (XL) 25t, 11/17, XLFE, 3.5T/53% FF Armor; 10 SHS; 1 LB10</info>
+        <battleforce pv="7" wt="1" mv="11v" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="2" abilities="FLK 1/1/1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Outworlds Advanced 6ai</commsystem>
+        <tandtsystem>Multi-platform T12d</tandtsystem>
+    </fluff>
+</combatvehicle>

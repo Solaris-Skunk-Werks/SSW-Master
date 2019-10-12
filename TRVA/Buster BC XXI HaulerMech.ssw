@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Buster" model="BC XXI HaulerMech" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>228</battle_value>
+    <cost>2029500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Bluth Corporation" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3059</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bluth-50S" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>Industrial TSM</type>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+    </enhancement>
+    <armor manufacturer="Caterpillar CommerWeave" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>5</hd>
+        <ct>5</ct>
+        <ctr>4</ctr>
+        <lt>5</lt>
+        <ltr>2</ltr>
+        <rt>5</rt>
+        <rtr>2</rtr>
+        <la>5</la>
+        <ra>5</ra>
+        <ll>5</ll>
+        <rl>5</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Buster BC XXI HaulerMech 50t, 3/5/0 ITSM, ICE, Ind; 2.0T/28% Cmrcl Armor; 0 SHS; 3 StndrdCrgo, 2 LftHst</info>
+        <battleforce pv="2" wt="2" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="4" abilities="I-TSM, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <multislot name="Tracks">
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </multislot>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>5.0</tons>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>5.0</tons>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>1.0</tons>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Bluth KargoKlamp-1107">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Bluth KargoKlamp-1107">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="4">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Pilot, Gas Hog, Non-Standard Parts.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Doering Hi-Def Mk II</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

@@ -664,7 +664,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3078</loadout_year>
         <info>Thor (Summoner)  U 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 16 DHS; 1 LRT15, 2 ERPPC, TC</info>
         <battleforce pv="31" wt="3" mv="5j" s="4" m="4" l="4" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3092</battle_value>
@@ -708,7 +708,7 @@
         </equipment>
     </loadout>
     <loadout name="Q" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>Hidden Talons</source>
+        <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
@@ -925,6 +925,48 @@
             <name manufacturer="Unknown">(CL) @ iATM-12</name>
             <type>ammunition</type>
             <location index="9">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="AA" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Thor (Summoner)  AA 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 ERLPL, 1 GR, 1 SRM6</info>
+        <battleforce pv="22" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2216</battle_value>
+        <cost>2.1023395833333332E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
         </equipment>
     </loadout>
     <fluff>

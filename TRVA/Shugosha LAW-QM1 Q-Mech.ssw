@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Shugosha" model="LAW-QM1 Q-Mech" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>187</battle_value>
+    <cost>784385.0000000001</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>4</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3051</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="40" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>2</hd>
+        <ct>6</ct>
+        <ctr>2</ctr>
+        <lt>4</lt>
+        <ltr>1</ltr>
+        <rt>4</rt>
+        <rtr>1</rtr>
+        <la>4</la>
+        <ra>4</ra>
+        <ll>4</ll>
+        <rl>4</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>Shugosha LAW-QM1 Q-Mech 20t, 2/3/0, Std FE, Ind; 1.5T/52% Cmrcl Armor; 10 SHS; 1 LL, 1 DroneOS</info>
+        <battleforce pv="2" wt="1" mv="2" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="2" abilities="ENE, SRCH" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="11">CT</location>
+            <location index="1">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </heatsinks>
+        <boobytrap index="10"/>
+        <equipment>
+            <name manufacturer="">Drone Operating System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

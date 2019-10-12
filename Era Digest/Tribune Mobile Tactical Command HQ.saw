@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Tribune Mobile Tactical Command HQ" model="" tons="30" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>424</battle_value>
+    <motive type="Wheeled" cruise="6" turret="No Turret" />
+    <cost>1753749.9999999998</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Cyclops Incorporated, Michaelson Heavy Industries" location="Skye (Cyclops), Ruchbah and Terra (MHI)">Inner Sphere</techbase>
+    <year restricted="FALSE">3091</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="LTV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex Special" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>20</front>
+        <left>14</left>
+        <right>14</right>
+        <rear>11</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>EDDA</source>
+        <info>Tribune Mobile Tactical Command HQ 30t, 6/9, Std FE, 3.0T/41% HFF Armor; 10 SHS; 1 ECM, 1 LAMS, 1 BlAP, 1 CommEqp, 1 RSnsDisp, 1 ERML</info>
+        <battleforce pv="4" wt="1" mv="6w" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="AMS, ECM, BH, RCN, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Laser Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Remote Sensor Dispenser</name>
+            <type>equipment</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Bloodhound Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>5.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following design quirks: Modular Weapons, Narrow/:br::br:Low Profile.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret T10-Deluxe</commsystem>
+        <tandtsystem>Garret E2b Series 2</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Lamprey Transport Helicopter" model="" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>478</battle_value>
+    <motive type="VTOL" cruise="9" turret="No Turret" />
+    <cost>1237500.0</cost>
+    <rules_level>0</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Vandenberg Mechanized Industries" location="Pinard">Inner Sphere</techbase>
+    <year restricted="FALSE">3119</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="270" manufacturer="Vlar" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/2" techbase="2">
+        <type>Standard Armor</type>
+        <front>30</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>16</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145Mercs</source>
+        <info>Lamprey Transport Helicopter 30t, 9/14, Std FE, 5.5T/61% Armor; 10 SHS; 1 InfComp, 1 MG, 2 SRM4</info>
+        <battleforce pv="5" wt="1" mv="9v" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="SRM 1/1/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Harpoon 4">(IS) SRM-4</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Harpoon 4">(IS) SRM-4</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Scattergun">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Easy to Pilot.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>O/P AIR 19</commsystem>
+        <tandtsystem>O/P 411</tandtsystem>
+    </fluff>
+</combatvehicle>

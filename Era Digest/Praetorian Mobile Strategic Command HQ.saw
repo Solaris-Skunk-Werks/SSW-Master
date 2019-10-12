@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Praetorian Mobile Strategic Command HQ" model="" tons="60" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>716</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>2399200.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Cyclops Incorporated, Michaelson Heavy Industries" location="Skye (Cyclops), Ruchbah and Terra (MHI)">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="Pitban" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex Special" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>60</front>
+        <left>44</left>
+        <right>44</right>
+        <rear>28</rear>
+        <primaryturret>32</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>EDDA</source>
+        <info>Praetorian Mobile Strategic Command HQ 60t, 4/6, Std FE, 10.5T/83% HFF Armor; 10 SHS; 1 StndrdCrgo, 3 APod, 1 CommEqp, 1 ERML</info>
+        <battleforce pv="7" wt="3" mv="4t" s="1" m="1" l="0" e="0" ov="0" armor="7" internal="3" abilities="ENE, TUR(1/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Titan&apos;s Tread">A-Pod</name>
+            <type>equipment</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Titan&apos;s Tread">A-Pod</name>
+            <type>equipment</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Titan&apos;s Tread">(R) A-Pod</name>
+            <type>equipment</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Magna Mk VI">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>10.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following design quirks: Battle Computer, Modular:br::br:Weapons.:br::br::br:Missing Armored Motive System</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Cyclops IJ v3 Extended</commsystem>
+        <tandtsystem>Evil Eye Block V</tandtsystem>
+    </fluff>
+</combatvehicle>

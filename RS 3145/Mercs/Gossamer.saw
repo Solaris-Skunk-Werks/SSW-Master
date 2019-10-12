@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Gossamer" model="" tons="25" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1091</battle_value>
+    <motive type="VTOL" cruise="11" turret="No Turret" />
+    <cost>1134833.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="United Outworlders Corporation" location="Ramora">Clan</techbase>
+    <year restricted="FALSE">3123</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="275" manufacturer="Consolidated" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Compound FM3" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>23</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145Mercs</source>
+        <info>Gossamer 25t, 11/17, Std FE, 3.5T/53% FF Armor; 12 SHS; 3 MPL</info>
+        <battleforce pv="11" wt="1" mv="11v" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Outworlds Advanced 6ai</commsystem>
+        <tandtsystem>Multi-platform T12d</tandtsystem>
+    </fluff>
+</combatvehicle>

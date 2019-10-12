@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Sekhmet Assault Vehicle" model="" tons="65" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1606</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>9122375.0</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="LAW Barcella-Beta" location="Irece">Clan</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="260" manufacturer="Consolidated" techbase="1">XL Engine</engine>
+    <armor manufacturer="Alpha Compound" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>77</front>
+        <left>50</left>
+        <right>50</right>
+        <rear>40</rear>
+        <primaryturret>50</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145DC</source>
+        <info>Sekhmet Assault Vehicle 65t, 4/6, XLFE, 14.0T/100% FF Armor; 20 SHS; 2 SRM6, 2 APGR, 1 CASE, 2 LPL</info>
+        <battleforce pv="16" wt="3" mv="4t" s="5" m="5" l="3" e="0" ov="0" armor="9" internal="4" abilities="CASE, TUR(3/3/3), SRM 2/2/0" />
+        <heatsinks number="20" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Tau-II">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Tau-II">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Mk.22 Type III">(CL) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Mk.22 Type III">(CL) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Power Reverse, Bad Reputation.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Build 1685/6 Tacticom</commsystem>
+        <tandtsystem>Series XXVIII IWS</tandtsystem>
+    </fluff>
+</combatvehicle>

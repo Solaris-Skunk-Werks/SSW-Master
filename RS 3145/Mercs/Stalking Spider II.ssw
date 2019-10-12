@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Stalking Spider II" model="" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1362</battle_value>
+    <cost>4347050.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant SFF-TU1" location="Tukayyid">Clan</techbase>
+    <year restricted="FALSE">3110</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Type QX745-50 Mod. III" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="225" manufacturer="Fusion" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forging ZK11" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>20</ct>
+        <ctr>5</ctr>
+        <lt>15</lt>
+        <ltr>4</ltr>
+        <rt>15</rt>
+        <rtr>4</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TR3145Mercs</source>
+        <info>Stalking Spider II 45t, 5/8/5, Std FE, Std Quad; 9.5T/90% Armor; 13 DHS; 2 HMG, 1 HLL, 2 SRM4</info>
+        <battleforce pv="14" wt="2" mv="5j" s="4" m="3" l="0" e="0" ov="0" armor="5" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">FLL</location>
+            <location index="10">CT</location>
+            <location index="4">FRL</location>
+            <location index="4">RLL</location>
+            <location index="4">RRL</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="0">LT</location>
+            <location index="4">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <turret type="right torso" index="8"/>
+        <equipment>
+            <name manufacturer="Series 4D-2">(T) (CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type I Cross PAttern">(T) (CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type I Cross PAttern">(T) (CL) SRM-4</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XIV">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XIV">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Ammunition Feed Problems (SRMs).</additional>
+        <jumpjet_model>Clan Standard 14X Series</jumpjet_model>
+        <commsystem>S9R Beta Series Communications</commsystem>
+        <tandtsystem>Able-Seven Sensor Suite</tandtsystem>
+    </fluff>
+</mech>

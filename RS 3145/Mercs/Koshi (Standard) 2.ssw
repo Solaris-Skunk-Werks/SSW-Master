@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Koshi (Standard)" model="2" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>948</battle_value>
+    <cost>3702583.333333334</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant SFF-IT3" location="CSF Poseidon Mobile Production Facility">Clan</techbase>
+    <year restricted="FALSE">3095</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Type 2 Standard" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="10">CT</location>
+    </structure>
+    <engine rating="175" manufacturer="Type II" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forging ZM7" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>10</ct>
+        <ctr>6</ctr>
+        <lt>7</lt>
+        <ltr>5</ltr>
+        <rt>7</rt>
+        <rtr>5</rtr>
+        <la>4</la>
+        <ra>4</ra>
+        <ll>5</ll>
+        <rl>5</rl>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TR3145Mercs</source>
+        <info>Koshi (Standard) 2 25t, 7/11/6, XLFE, ES; 3.5T/75% FF Armor; 10 DHS; 1 LTAG, 2 SSRM6</info>
+        <battleforce pv="9" wt="1" mv="7/4j" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="7">LT</location>
+            <location index="6">LT</location>
+            <location index="8">LT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Modular Weapons.</additional>
+        <jumpjet_model>GrandTrhust Mk I</jumpjet_model>
+        <commsystem>Neil 9000</commsystem>
+        <tandtsystem>RCA Instatrac Mk VI</tandtsystem>
+    </fluff>
+</mech>

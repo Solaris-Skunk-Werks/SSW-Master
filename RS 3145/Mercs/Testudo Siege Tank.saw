@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Testudo Siege Tank" model="" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1336</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>3565375.0</cost>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Alphard Trading Corporation" location="Alphard">Inner Sphere</techbase>
+    <year restricted="FALSE">3131</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="Omni" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="Lorica Progressia" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>64</front>
+        <left>40</left>
+        <right>40</right>
+        <rear>40</rear>
+        <primaryturret>40</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3145Mercs</source>
+        <info>Testudo Siege Tank 75t, 3/5, FCE, 12.5T/74% FF Armor; 1 SHS; 1 ArwIV, 1 UAC10, 1 CASE, 2 LMG</info>
+        <battleforce pv="13" wt="3" mv="3t" s="4" m="2" l="2" e="0" ov="0" armor="7" internal="4" abilities="ARTAIS, CASE, EE, TUR(4/2/2)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Imperator Automatic">(IS) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Marian Arms Lithobolos">(IS) Arrow IV Missile</name>
+            <type>artillery</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Distracting.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret T21-C</commsystem>
+        <tandtsystem>O/P GRD 059</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="CattleMaster" model="CTL-3R &quot;Herder&quot; IndustrialMech" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>228</battle_value>
+    <cost>725333.3333333333</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Rastaban Agricultural" location="Duran">Inner Sphere</techbase>
+    <year restricted="FALSE">3024</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Rastaban Agro" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="100" manufacturer="Jones" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="ArcShield Indi" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>8</hd>
+        <ct>6</ct>
+        <ctr>2</ctr>
+        <lt>4</lt>
+        <ltr>2</ltr>
+        <rt>4</rt>
+        <rtr>2</rtr>
+        <la>4</la>
+        <ra>4</ra>
+        <ll>6</ll>
+        <rl>6</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS:VA</source>
+        <info>CattleMaster CTL-3R "Herder" IndustrialMech 25t, 4/6/0, ICE, Ind; 4.5T/54% Ind. Armor; 0 SHS; 1 StndrdCrgo, 1 SrchLt, 1 RBlde</info>
+        <battleforce pv="2" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="2" abilities="SRCH, MEL, SAW, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>3.0</tons>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Klingenthal">Retractable Blade</name>
+            <type>physical</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirk: Easy to Pilot.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Neil 90b</commsystem>
+        <tandtsystem>None</tandtsystem>
+    </fluff>
+</mech>

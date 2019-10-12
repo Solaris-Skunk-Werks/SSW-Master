@@ -340,7 +340,7 @@
     <loadout name="(Albert)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JTPLuthien</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>0</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Black Hawk-KU BHKU-O (Albert) 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 16 DHS; 4 ERML, 1 ERPPC, 1 C3M</info>
         <battleforce pv="24" wt="3" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="3" abilities="OMNI, C3M, TAG, ENE, MHQ5, SRCH, ES, SEAL, SOA" />
@@ -437,7 +437,7 @@
         <source>RS3058Uu-I</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
+        <loadout_year>3069</loadout_year>
         <info>Black Hawk-KU BHKU-O F 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 1 C3S, 2 LPPC, 1 HPPC</info>
         <battleforce pv="18" wt="3" mv="5j" s="2" m="3" l="3" e="0" ov="0" armor="7" internal="3" abilities="OMNI, C3S, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
         <battle_value>1759</battle_value>
@@ -566,7 +566,7 @@
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3080</loadout_year>
+        <loadout_year>3077</loadout_year>
         <info>Black Hawk-KU BHKU-O U 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 19 DHS; 7 ERML, 1 LqdCrgo, 1 Htcht</info>
         <battleforce pv="17" wt="3" mv="5j" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="3" abilities="OMNI, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1687</battle_value>
@@ -626,6 +626,53 @@
             <type>equipment</type>
             <tons>1.0</tons>
             <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Black Hawk-KU BHKU-O G 60t, 5/8/5, XLFE, Std; 12.5T/100% Armor; 14 DHS; 1 BlAP, 1 SNPPC, 1 AECM, 3 MXPL, 1 TAG</info>
+        <battleforce pv="17" wt="3" mv="5j" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="3" abilities="OMNI, BH, RCN, AECM, TAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1719</battle_value>
+        <cost>1.742E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <equipment>
+            <name manufacturer="">Bloodhound Active Probe</name>
+            <type>equipment</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
         </equipment>
     </loadout>
     <fluff>
