@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Roadrunner" model="RD-1R" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>888</battle_value>
+    <cost>2689850.0</cost>
+    <rules_level>3</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">2920</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">RT</location>
+        <location index="5">RT</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="9">RT</location>
+        <location index="10">RT</location>
+    </structure>
+    <engine rating="210" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>3</hd>
+        <ct>3</ct>
+        <ctr>2</ctr>
+        <lt>2</lt>
+        <ltr>2</ltr>
+        <rt>2</rt>
+        <rtr>2</rtr>
+        <la>3</la>
+        <ra>3</ra>
+        <ll>3</ll>
+        <rl>3</rl>
+        <location index="4">LT</location>
+        <location index="5">LT</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>XTRORepublic I</source>
+        <info>Roadrunner RD-1R 15t, 14/21/0, XLFE, ES; 1.5T/51% FF Armor; 10 DHS; 2 ERML</info>
+        <battleforce pv="9" wt="1" mv="14" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Field Testing Summation: Reproduction Ultralight Chassis:br::br:Producer/Site: Auxiliary Production Site #11, Capolla:br::br:Supervising Technician: Scientist Quint:br::br:Project Start Date: 3112:br::br:Non-Production or Recently Introduced Equipment Analysis::br::br:Ultralight BattleMech:br::br::br:Notes: Features the following Design Quirk: Easy to Pilot, No/Minimal Arms, No Torso Twist.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>
