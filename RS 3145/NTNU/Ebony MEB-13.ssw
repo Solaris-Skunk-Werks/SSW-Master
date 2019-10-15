@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ebony" model="MEB-13" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>700</battle_value>
+    <battle_value>750</battle_value>
     <cost>4815000.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -64,7 +64,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
         <info>Ebony MEB-13 25t, 9[10]/14[15]/0 TSM, XLFE, ES, XL Gyro; 6.0T/67% H-D Armor; 10 DHS; 1 RELL</info>
-        <battleforce pv="7" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="TSM, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="8" wt="1" mv="9" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="TSM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

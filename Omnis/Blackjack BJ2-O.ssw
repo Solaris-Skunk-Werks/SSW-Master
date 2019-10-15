@@ -669,7 +669,7 @@
         <loadout_year>3134</loadout_year>
         <info>Blackjack BJ2-O G 50t, 4/6/4, XLFE, ES; 9.5T/90% Armor; 10 DHS; 2 RAC5, 1 RESL</info>
         <battleforce pv="14" wt="2" mv="4j" s="5" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, SRCH, ES, SEAL, SOA" />
-        <battle_value>1445</battle_value>
+        <battle_value>1448</battle_value>
         <cost>8931874.999999998</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>

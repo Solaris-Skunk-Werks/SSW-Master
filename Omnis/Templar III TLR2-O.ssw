@@ -273,7 +273,7 @@
         <loadout_year>3120</loadout_year>
         <info>Templar III TLR2-O C 85t, 4/6/0, LFE, ES, HD Gyro; 16.5T/100% Armor; 13 DHS; 1 RAC5, 1 RELL, 2 ERML, 1 ERSL, 1 SSRM6</info>
         <battleforce pv="20" wt="4" mv="4" s="5" m="5" l="0" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1968</battle_value>
+        <battle_value>1993</battle_value>
         <cost>2.7127171875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
@@ -339,9 +339,9 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3100</loadout_year>
         <info>Templar III TLR2-O D 85t, 4/6/0, LFE, ES, HD Gyro; 16.5T/100% Armor; 13 DHS; 1 ERPPC, 4 REML, 1 LB10</info>
-        <battleforce pv="20" wt="4" mv="4" s="3" m="3" l="2" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
+        <battleforce pv="21" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
         <techbase>Mixed</techbase>
-        <battle_value>2041</battle_value>
+        <battle_value>2108</battle_value>
         <cost>2.773734375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>

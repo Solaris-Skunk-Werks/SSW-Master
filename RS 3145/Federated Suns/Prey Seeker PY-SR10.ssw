@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Prey Seeker" model="PY-SR10" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>549</battle_value>
+    <battle_value>595</battle_value>
     <cost>5717110.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145u</source>
         <info>Prey Seeker PY-SR10 15t, 12/18/0, XXLFE, ES, XL Gyro; 3.5T/100% Armor; 10 DHS; 2 REML</info>
-        <battleforce pv="5" wt="1" mv="12" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="6" wt="1" mv="12" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Emperor" model="EMP-8L" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2370</battle_value>
+    <battle_value>2385</battle_value>
     <cost>1.33156E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
