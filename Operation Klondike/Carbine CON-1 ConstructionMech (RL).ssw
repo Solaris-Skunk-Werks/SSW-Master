@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="ConstructionMech" model="CON-1 &quot;Carbine&quot; (RL)" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Carbine" model="CON-1 ConstructionMech (RL)" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>306</battle_value>
     <cost>1225500.0</cost>
     <rules_level>3</rules_level>
     <era>1</era>
-    <productionera>0</productionera>
+    <productionera>2</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">2802</year>
+    <year restricted="FALSE">2801</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>
@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
-        <info>ConstructionMech CON-1 "Carbine" (RL) 30t, 4/6/0, ICE, Ind; 3.0T/30% Ind. Armor; 3 SHS; 5 RL15-PP</info>
+        <info>Carbine CON-1 ConstructionMech (RL) 30t, 4/6/0, ICE, Ind; 3.0T/30% Ind. Armor; 3 SHS; 5 RL15-PP</info>
         <battleforce pv="3" wt="1" mv="4" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="3" abilities="SRCH, EE" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
