@@ -96,7 +96,7 @@
         <info>Celerity CLR-03-O A 15t, 16/24[32]/0 MASC, XXLFE, ES Quad, XL Gyro; 1.5T/41% Armor; 10 DHS; 2 SRM6iOS, 1 DroneOS</info>
         <battleforce pv="3" wt="1" mv="20" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
-        <battle_value>297</battle_value>
+        <battle_value>275</battle_value>
         <cost>1.2144E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
@@ -157,7 +157,7 @@
         <loadout_year>3138</loadout_year>
         <info>Celerity CLR-03-O D 15t, 16/24[32]/0 MASC, XXLFE, ES Quad, XL Gyro; 1.5T/41% Armor; 10 DHS; 2 ERFlmr, 1 DroneOS</info>
         <battleforce pv="3" wt="1" mv="20" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>333</battle_value>
+        <battle_value>304</battle_value>
         <cost>1.2003125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
@@ -178,9 +178,9 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3138</loadout_year>
         <info>Celerity CLR-03-O E 15t, 16/24[32]/0 MASC, XXLFE, ES Quad, XL Gyro; 1.5T/41% Armor; 10 DHS; 1 iHML, 1 ERML, 1 DroneOS</info>
-        <battleforce pv="11" wt="1" mv="20" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="9" wt="1" mv="20" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
-        <battle_value>1103</battle_value>
+        <battle_value>919</battle_value>
         <cost>1.2290625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
