@@ -4,11 +4,11 @@
     <battle_value>1609</battle_value>
     <cost>4872082.916666666</cost>
     <rules_level>1</rules_level>
-    <era>3</era>
-    <productionera>8</productionera>
+    <era>2</era>
+    <productionera>7</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3145</year>
+    <year restricted="FALSE">3092</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>

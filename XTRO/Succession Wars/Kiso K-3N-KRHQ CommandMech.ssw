@@ -8,7 +8,7 @@
     <productionera>2</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">2820</year>
+    <year restricted="FALSE">2823</year>
     <motive_type>Quad</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>
