@@ -49,7 +49,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS:VA</source>
-        <info>Carbine CON-8H ConstructionMech 30t, 4/6/0 ITSM, ICE, Ind; 2.0T/30% Armor; 0 SHS; 2 StndrdCrgo, 2 LftHst, 1 Fuel</info>
+        <info>Carbine CON-8H HaulerMech 30t, 4/6/0 ITSM, ICE, Ind; 2.0T/30% Armor; 0 SHS; 2 StndrdCrgo, 2 LftHst, 1 Fuel</info>
         <battleforce pv="2" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="3" abilities="I-TSM, ENE, SRCH, EE" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>

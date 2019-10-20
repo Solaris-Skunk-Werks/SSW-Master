@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS:VA</source>
-        <info>Pompier GM-HT FireMech 15t, 2/3/0, FCE, Ind; 1.5T/44% Armor; 1 SHS; 1 SrchLt, 4 LqdCrgo, 1 Spryr</info>
+        <info>Pompier GM-3HT FireMech 15t, 2/3/0, FCE, Ind; 1.5T/44% Armor; 1 SHS; 1 SrchLt, 4 LqdCrgo, 1 Spryr</info>
         <battleforce pv="1" wt="1" mv="2" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="SRCH, ENE, SRCH, EE" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

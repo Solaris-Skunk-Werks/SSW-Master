@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Celerity" model="CLR-04-R" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>448</battle_value>
+    <battle_value>384</battle_value>
     <cost>7532499.999999999</cost>
     <rules_level>3</rules_level>
     <era>3</era>
