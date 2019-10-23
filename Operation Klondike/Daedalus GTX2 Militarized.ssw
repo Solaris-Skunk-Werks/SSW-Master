@@ -8,7 +8,7 @@
     <productionera>0</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Mason Farquarson" location="Terra">Inner Sphere</techbase>
-    <year restricted="FALSE">2802</year>
+    <year restricted="FALSE">2801</year>
     <motive_type>Quad</motive_type>
     <structure manufacturer="MF-Quad Utility Classic" techbase="2">
         <type>Industrial Structure</type>

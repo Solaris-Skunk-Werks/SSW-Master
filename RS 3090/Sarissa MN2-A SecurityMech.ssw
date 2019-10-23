@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Sarissa SecurityMech" model="MN2-A" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Sarissa" model="MN2-A SecurityMech" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>771</battle_value>
     <cost>2421406.25</cost>
     <rules_level>3</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Corean Enterprises/General Motors" location="Futuna">Inner Sphere</techbase>
     <year restricted="FALSE">3082</year>
