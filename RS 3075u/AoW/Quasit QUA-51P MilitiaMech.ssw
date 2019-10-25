@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Quasit MilitiaMech" model="QUA-51P" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Quasit" model="QUA-51P MilitiaMech" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>826</battle_value>
-    <cost>2592417.8125</cost>
+    <battle_value>865</battle_value>
+    <cost>2703667.8125</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -16,7 +16,7 @@
     <engine rating="225" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
-        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
     </cockpit>
     <armor manufacturer="Lexington Limited" techbase="2">
         <type>Standard Armor</type>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
         <info>Quasit MilitiaMech QUA-51P 45t, 5/8/0, Std FE, Ind; 7.5T/78% Armor; 10 SHS; 1 PR, 1 MG</info>
-        <battleforce pv="8" wt="2" mv="5" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="4" abilities="SRCH, SEAL, SOA" />
+        <battleforce pv="9" wt="2" mv="5" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="4" abilities="SRCH, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="2">

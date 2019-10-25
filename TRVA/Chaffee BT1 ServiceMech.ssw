@@ -2,7 +2,7 @@
 <mech name="Chaffee" model="BT1 ServiceMech" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>212</battle_value>
-    <cost>800716.5625000001</cost>
+    <cost>816279.0625000001</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -49,7 +49,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS:VA</source>
-        <info>Chaffee BT1 ServiceMech 15t, 5/8/0 ITSM, FCE, Ind; 3.0T/87% Armor; 1 SHS; 1 SrchLt</info>
+        <info>Chaffee BT1 ServiceMech 15t, 5/8/0 ITSM, FCE, Ind; 3.0T/87% Armor; 1 SHS; 1 SrchLt, 2 Pmedic</info>
         <battleforce pv="2" wt="1" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="I-TSM, SRCH, ENE, SRCH, EE, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
@@ -71,6 +71,16 @@
             <name manufacturer="">Searchlight</name>
             <type>equipment</type>
             <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Paramedic Equipment</name>
+            <type>equipment</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Paramedic Equipment</name>
+            <type>equipment</type>
+            <location index="4">RA</location>
         </equipment>
     </baseloadout>
     <fluff>

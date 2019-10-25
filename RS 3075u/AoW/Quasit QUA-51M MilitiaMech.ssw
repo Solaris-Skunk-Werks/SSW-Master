@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Quasit MilitiaMech" model="QUA-51M" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Quasit" model="QUA-51M MilitiaMech" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>680</battle_value>
-    <cost>2522605.3125</cost>
+    <battle_value>707</battle_value>
+    <cost>2633855.3125</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -16,7 +16,7 @@
     <engine rating="225" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
-        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
     </cockpit>
     <armor manufacturer="Lexington Limited" techbase="2">
         <type>Standard Armor</type>
