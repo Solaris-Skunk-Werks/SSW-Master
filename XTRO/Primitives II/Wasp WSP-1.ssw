@@ -39,7 +39,7 @@
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">
-            <type>Standard Jump Jet</type>
+            <type>Primitive Prototype Jump Jet</type>
             <location index="3">LT</location>
             <location index="10">CT</location>
             <location index="3">RT</location>
