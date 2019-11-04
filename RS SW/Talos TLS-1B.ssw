@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>924</battle_value>
     <cost>3392500.0</cost>
-    <rules_level>1</rules_level>
+    <rules_level>0</rules_level>
     <era>0</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Vandenberg MilTech" location="New Vandenberg">Inner Sphere</techbase>
-    <year restricted="TRUE">2525</year>
+    <year restricted="TRUE">2532</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Vandenberg Technologies Medium-III" techbase="2">
         <type>Standard Structure</type>
@@ -33,7 +33,7 @@
         <rl>16</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RSRW</source>
+        <source>RSSW</source>
         <info>Talos TLS-1B 50t, 4/6/0, Std FE, Std; 8.5T/80% Armor; 10 SHS; 1 AC10, 1 SRM6, 2 LRM5</info>
         <battleforce pv="9" wt="2" mv="4" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="4" abilities="SRCH, ES, SEAL, SOA, AC 1/1/0, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>

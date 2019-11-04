@@ -5,10 +5,10 @@
     <cost>4288250.0</cost>
     <rules_level>0</rules_level>
     <era>0</era>
-    <productionera>1</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Krauss-Liemann Incorporated" location="Wotan">Inner Sphere</techbase>
-    <year restricted="FALSE">2581</year>
+    <year restricted="FALSE">2520</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="12b Krauss-Liemann" techbase="2">
         <type>Standard Structure</type>
