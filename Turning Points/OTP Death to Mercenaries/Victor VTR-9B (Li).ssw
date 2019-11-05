@@ -3,9 +3,9 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1625</battle_value>
     <cost>8229120.000000001</cost>
-    <rules_level>1</rules_level>
+    <rules_level>0</rules_level>
     <era>1</era>
-    <productionera>0</productionera>
+    <productionera>3</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">3028</year>
