@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Coyotl" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>9183416.666666666</cost>
+    <cost>9017416.666666666</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -50,7 +50,7 @@
         </heatsinks>
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TP:Tokasha</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2854</loadout_year>
@@ -96,7 +96,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TP:Tokasha</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2854</loadout_year>
@@ -140,6 +140,48 @@
             <name manufacturer="">(CL) Small Pulse Laser</name>
             <type>energy</type>
             <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TP:Tokasha</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2854</loadout_year>
+        <info>Coyotl  B 40t, 7/11/0, XLFE, ES; 8.5T/99% Armor; 10 DHS; 1 UAC/10, 1 ERML, 1 SRM6</info>
+        <battleforce pv="14" wt="2" mv="7" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1447</battle_value>
+        <cost>9017416.666666666</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
         </equipment>
     </loadout>
     <fluff>

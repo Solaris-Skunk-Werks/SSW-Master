@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Lupus" model="" tons="60" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>9091200.0</cost>
+    <cost>7982200.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -57,7 +57,7 @@
         </heatsinks>
     </baseloadout>
     <loadout name="Prime" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TP:Tokasha</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
@@ -117,7 +117,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TP:Tokasha</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
@@ -169,7 +169,7 @@
         </equipment>
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TP:Tokasha</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
