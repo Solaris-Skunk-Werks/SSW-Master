@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Main Gauche Light Support Tank" model="" tons="30" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>464</battle_value>
+    <motive type="Tracked" cruise="4" turret="No Turret" />
+    <cost>826500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Brooks Incorporated" location="Irian">Inner Sphere</techbase>
+    <year restricted="FALSE">3064</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="120" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Jolassa 320" techbase="2">
+        <type>Standard Armor</type>
+        <front>29</front>
+        <left>19</left>
+        <right>19</right>
+        <rear>13</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3067u</source>
+        <info>Main Gauche Light Support Tank 30t, 4/6, Std FE, 5.0T/55% Armor; 10 SHS; 2 MG, 1 LGR</info>
+        <battleforce pv="5" wt="1" mv="4t" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="1" abilities="" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Imperator Type-II">(IS) Light Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <battlehistory></battlehistory>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret T21-C</commsystem>
+        <tandtsystem>Corean B-Tech</tandtsystem>
+    </fluff>
+</combatvehicle>

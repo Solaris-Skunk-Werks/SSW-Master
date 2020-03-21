@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Musketeer Hover Tank" model="(3080 Upgrade)" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1114</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>2646000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Corean Enterprises" location="New Avalon">Inner Sphere</techbase>
+    <year restricted="FALSE">3080</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="400" manufacturer="GM" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarGuard CIV" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>38</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>22</rear>
+        <primaryturret>34</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3067u</source>
+        <info>Musketeer Hover Tank (3080 Upgrade) 50t, 8/12, Std FE, 8.0T/73% HFF Armor; 10 SHS; 1 RAC5, 1 InfComp, 1 TAG, 1 CASE</info>
+        <battleforce pv="11" wt="2" mv="8h" s="2" m="2" l="0" e="0" ov="0" armor="5" internal="3" abilities="TAG, CASE, TUR(2/2/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Mydron Tornado">(IS) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <battlehistory></battlehistory>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Corean Transband-J9</commsystem>
+        <tandtsystem>Corean B-Tech</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Minion Advanced Tactical Vehicle" model="" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>456</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="No Turret" />
+    <cost>870333.3333333334</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="General Motors, Ceres Metals Industries" location="Kathil, Tikonov">Inner Sphere</techbase>
+    <year restricted="FALSE">3064</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="Nissan" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex Light" techbase="2">
+        <type>Standard Armor</type>
+        <front>28</front>
+        <left>22</left>
+        <right>22</right>
+        <rear>16</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3067u</source>
+        <info>Minion Advanced Tactical Vehicle 20t, 9/14, Std FE, 5.5T/80% Armor; 10 SHS; 1 C3S, 2 MPL</info>
+        <battleforce pv="5" wt="1" mv="9h" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="C3S, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Defiance P5M">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Defiance P5M">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <battlehistory></battlehistory>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Overlook J-9</commsystem>
+        <tandtsystem>Brightstar 17 Mk. II</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hephaestus Scout Tank" model="" tons="30" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>2118000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <techbase manufacturer="Niles Industriplex Beta" location="">Clan</techbase>
+    <year restricted="FALSE">3071</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Compound VM22" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>20</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>18</rear>
+        <primaryturret>18</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.5" >
+        <source>RS3067u</source>
+        <info>Hephaestus Scout Tank 30t, 8/12, Std FE, 5.0T/66% FF Armor; 10 SHS; 1 BAP, 1 InfComp</info>
+        <battleforce pv="3" wt="1" mv="8h" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, PRB, RCN, ENE, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="TRTTS Mk III">Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3064</loadout_year>
+        <info>Hephaestus Scout Tank  Prime 30t, 8/12, Std FE, 5.0T/66% FF Armor; 10 SHS; 1 ECM, 1 BAP, 1 InfComp, 2 MPL, 1 TAG</info>
+        <battleforce pv="8" wt="1" mv="8h" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TAG, PRB, RCN, ECM, ENE, TUR(2/2/0)" />
+        <battle_value>777</battle_value>
+        <cost>1995000.0</cost>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3064</loadout_year>
+        <info>Hephaestus Scout Tank  A 30t, 8/12, Std FE, 5.0T/66% FF Armor; 10 SHS; 1 LRM15, 1 BAP, 1 InfComp, 1 ERSL, 1 CASE</info>
+        <battleforce pv="8" wt="1" mv="8h" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, PRB, RCN, CASE, TUR(2/2/1), IF 1" />
+        <battle_value>768</battle_value>
+        <cost>1987500.0</cost>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3064</loadout_year>
+        <info>Hephaestus Scout Tank  B 30t, 8/12, Std FE, 5.0T/66% FF Armor; 10 SHS; 2 ERML, 1 BAP, 1 InfComp, 1 CASE, 1 SSRM6</info>
+        <battleforce pv="10" wt="1" mv="8h" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, PRB, RCN, CASE, TUR(3/3/0)" />
+        <battle_value>957</battle_value>
+        <cost>1969000.0</cost>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3064</loadout_year>
+        <info>Hephaestus Scout Tank  C 30t, 8/12, Std FE, 5.0T/66% FF Armor; 10 SHS; 2 ATM3, 1 BAP, 1 InfComp, 1 CASE</info>
+        <battleforce pv="6" wt="1" mv="8h" s="2" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, PRB, RCN, CASE, TUR(2/1/1)" />
+        <battle_value>577</battle_value>
+        <cost>1780000.0</cost>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3067u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3071</loadout_year>
+        <info>Hephaestus Scout Tank  D 30t, 8/12, Std FE, 5.0T/66% FF Armor; 10 SHS; 1 ECM, 2 ERML, 2 InfComp, 1 BAP, 2 APGR, 1 CASE</info>
+        <battleforce pv="9" wt="1" mv="8h" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, PRB, RCN, ECM, CASE, TUR(2/2/0)" />
+        <battle_value>850</battle_value>
+        <cost>2118000.0</cost>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>1.0</tons>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <battlehistory></battlehistory>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Build 1700/5 Tacticom</commsystem>
+        <tandtsystem>Series XL FWS</tandtsystem>
+    </fluff>
+</combatvehicle>

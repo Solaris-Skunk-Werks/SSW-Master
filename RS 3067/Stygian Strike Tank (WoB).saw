@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Stygian Strike Tank" model="(WoB)" tons="40" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>714</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>3019500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Brooks Incorporated" location="Irian">Inner Sphere</techbase>
+    <year restricted="FALSE">3068</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="360" manufacturer="Magna" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Maximillian 43" techbase="2">
+        <type>Standard Armor</type>
+        <front>18</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>18</rear>
+        <primaryturret>16</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3067u</source>
+        <info>Stygian Strike Tank (WoB) 40t, 9/14, Std FE, 5.5T/49% Armor; 10 SHS; 1 C3I, 1 LRM10, 2 MPL</info>
+        <battleforce pv="7" wt="2" mv="9h" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="C3I, MHQ2, TUR(1/1/1), IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <battlehistory></battlehistory>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Maxell 600b</commsystem>
+        <tandtsystem>Maxell TA70</tandtsystem>
+    </fluff>
+</combatvehicle>

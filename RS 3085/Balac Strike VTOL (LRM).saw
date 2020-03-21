@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Balac Strike VTOL" model="(LRM)" tons="25" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1278</battle_value>
+    <motive type="VTOL" cruise="10" turret="No Turret" />
+    <cost>1532777.777777778</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="New York Vehicle Y2 Facility" location="Trondheim">Clan</techbase>
+    <year restricted="FALSE">3079</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Consolidated" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Forging AM15" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>15</front>
+        <left>12</left>
+        <right>12</right>
+        <rear>7</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Balac Strike VTOL (LRM) 25t, 10/15, Std FE, 2.5T/38% FF Armor; 10 SHS; 1 StndrdCrgo, 2 LRM15, 1 ERML</info>
+        <battleforce pv="13" wt="1" mv="10v" s="3" m="3" l="2" e="0" ov="0" armor="2" internal="2" abilities="CASE, LRM 1/1/1, IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Mk.3">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>0.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>:tab:The Diamond Sharks expected the Inner Sphere and Clan militaries would invest heavily to restore their forces to pre-Jihad strength. With their lower production complexities, this reconstruction was expected to initially focus on vehicle acquisition, so the Sharks examined a fast-to-market VTOL design.:br::br::tab:It appears as if the Balac’s design is not derivative of any established designs such as the Donar or Anhur. Another interesting aspect is that the Diamond Sharks seemingly spared no expense, supplying the craft with an Xl fusion engine and top-of-the-line AtM 6 launchers. Despite the inclusion of these expensive technologies, the Balac is still one of the more affordable means to bring AtMs to the battlefield, and at a speed not easily rivaled by other VTOL craft.</overview>
+        <capabilities>:tab:Intended as anti-vehicle support, the Balac is ideally suited to the task, courtesy of its paired ATMs. The weapons allow the craft to engage hostile vehicles from beyond the range of their weapons, and its substantial ammunition bay grants the Balac extended durability in the field. For additional firepower, and in case it runs out of ATMs, the Balac can rely on an ER medium laser.:br::br::tab:One disadvantage of the Balac is its armor protection, which allows the craft to survive incidental strikes from all but the heaviest of weapons but is insufficient to survive a sustained salvo. Since the majority of Balac operators prefer to fire at their targets while hovering, giving them a more stable firing platform, there have been numerous incidents of Balacs being surprised by a hostile ’Mech or vehicle in close proximity. As a result, most Balacs only hover and fire over terrain that has been vetted by friendly forces. Otherwise they typically orbit the enemy formation while close to their top speed.</capabilities>
+        <battlehistory></battlehistory>
+        <deployment>:tab:Despite the price tag noticeably above the norm for VTOLs the Balac found an eager market both among the Clans and the Inner Sphere until Exarch Stone&apos;s swords-to-plowshares philosophy became widespread enough to slow sales. It is still a sought-after asset among mercenary units and continues to be common in most standing militaries, being preferred over many other designs that are being phased out.</deployment>
+        <variants>:tab:The inherent flexibility of the AtM has reduced the need for variant craft, although the Diamond Sharks do produce a version that reduces the ammunition supply to mount an ECM suite and active probe. This version also swaps the ER medium laser out for TAG.:br::br::tab:A “budget” version of the Balac exists as well, using a standard fusion engine and downgrading the AtM 6s to LRM 15s. the ammunition supply is curtailed to compensate for the heavier engine.</variants>
+        <notables>Point Commander Caleb: A warrior in the Hell’s Horses Clan, Caleb is an ancient soldier even by Inner Sphere standards, having been born in the last year of the 30th Century. He has managed to survive to this day through a combination of fierce battlefield prowess and his relatively inoffensive manners. Being assigned to a solahma unit for the better part of four decades has not crushed his spirit as it is wont to do. Caleb continues to gleefully assault any and all of his Clan’s enemies, and his extensive career has given him the distinction of having killed the most combat vehicles of any other Vtol pilot we are aware of.:br::br::br:Kommandant Samantha Thomlinson: As a member of the Lyran Guards, Thomlinson has been assigned to the majority of the brigade’s component units. She has become known for her ”triad” attack maneuver, where she utilizes speed to place her Vtol company, including Balacs, at 120-degree angles to the intended target formation. one of the three prongs then attacks, causing the target to expose itself to receiving rear shots from one of the other two prongs if they pursue. turning to retreat is nigh-impossible for ground based forces.:br::br::tab:In one instance, thomlinson was able to harry a battalion of tracked armor in this fashion over the course of three days while stopping frequently for rest and ammunition reloads in an unpredictable pattern. Despite having lost only eight tanks the commander of the battalion surrendered at dawn on the fourth day</notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Neil 9000 Comm System</commsystem>
+        <tandtsystem>RCA Econotrac</tandtsystem>
+    </fluff>
+</combatvehicle>

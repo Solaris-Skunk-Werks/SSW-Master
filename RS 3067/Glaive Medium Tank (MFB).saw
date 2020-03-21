@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Glaive Medium Tank" model="(MFB)" tons="45" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>277</battle_value>
+    <motive type="Wheeled" cruise="5" turret="No Turret" />
+    <cost>918750.0000000001</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Cyclops, Inc." location="Skye">Inner Sphere</techbase>
+    <year restricted="FALSE">3068</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="true" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="Shipil" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="ArcShield Heavy" techbase="2">
+        <type>Standard Armor</type>
+        <front>27</front>
+        <left>17</left>
+        <right>17</right>
+        <rear>11</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3067u</source>
+        <info>Glaive Medium Tank (MFB) 45t, 5/8, Std FE, 4.5T/37% Armor; 10 SHS</info>
+        <battleforce pv="3" wt="2" mv="5w" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="2" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <battlehistory></battlehistory>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Cyclops 1J</commsystem>
+        <tandtsystem>Evil Eye block IV</tandtsystem>
+    </fluff>
+</combatvehicle>
