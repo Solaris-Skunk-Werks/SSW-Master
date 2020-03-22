@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Carnivore Assault Tank" model="(HAG)" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2286</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>1.5139E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="W-7 Facilities" location="Weingarten">Clan</techbase>
+    <year restricted="FALSE">3083</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="320" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="Advanced/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>62</front>
+        <left>46</left>
+        <right>46</right>
+        <rear>42</rear>
+        <primaryturret>52</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085-CE</source>
+        <info>Carnivore Assault Tank (HAG) 80t, 4/6, XLFE, 15.5T/78% Armor; 10 SHS; 1 ECM, 4 APGR, 2 MPL, 1 HAG40, 2 AMS, 1 CASE</info>
+        <battleforce pv="23" wt="4" mv="4t" s="6" m="6" l="3" e="0" ov="0" armor="8" internal="4" abilities="AMS, CASE, ECM, TUR(3/3/3, FLK 3/2/2), FLK 3/2/2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>2SH C3</commsystem>
+        <tandtsystem>Build 4 JVJ TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

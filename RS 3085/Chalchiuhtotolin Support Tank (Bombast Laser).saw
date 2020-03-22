@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Chalchiuhtotolin Support Tank" model="(Bombast Laser)" tons="50" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>912</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1883458.333333333</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Quikcell Company" location="Pandora">Mixed</techbase>
+    <year restricted="FALSE">3085</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Gorvachs" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Forging MD4" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>39</front>
+        <left>27</left>
+        <right>27</right>
+        <rear>16</rear>
+        <primaryturret>25</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085-CE</source>
+        <info>Chalchiuhtotolin Support Tank (Bombast Laser) 50t, 5/8, Std FE, 7.0T/62% FF Armor; 12 SHS; 2 SSRM4, 1 TC, 1 CASE, 1 BmbstLsr, 4 LMG, TC</info>
+        <battleforce pv="9" wt="2" mv="5w" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="3" abilities="CASE, TUR(4/4/0)" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 34NC">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 34NC">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 34NC">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 34NC">(R) (CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern J4">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Pattern J4">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Bombast Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Basix 200</commsystem>
+        <tandtsystem>OptiSight-12</tandtsystem>
+    </fluff>
+</combatvehicle>

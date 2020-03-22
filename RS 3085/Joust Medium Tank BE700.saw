@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Joust Medium Tank" model="BE700" tons="40" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1315</battle_value>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>4337766.666666666</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Barcella Beta" location="Irece">Clan</techbase>
+    <year restricted="FALSE">3077</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="Advanced Compound Beta" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>46</front>
+        <left>38</left>
+        <right>38</right>
+        <rear>28</rear>
+        <primaryturret>30</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085-CE</source>
+        <info>Joust Medium Tank BE700 40t, 5/8, XLFE, 9.5T/100% FF Armor; 12 SHS; 1 ERLL, 1 ATM9, 1 CASE, 4 LMG, 1 LAP</info>
+        <battleforce pv="13" wt="2" mv="5t" s="4" m="3" l="2" e="0" ov="0" armor="6" internal="2" abilities="LPRB, RCN, CASE, TUR(4/3/2)" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7NC">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type 9 Series 1">(CL) ATM-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2c">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2c">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2c">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2c">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Build 1685/6 Tacticom</commsystem>
+        <tandtsystem>Series XXVIII IWS</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Carnivore Assault Tank" model="(Second Line)" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1248</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>4652500.000000001</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="W-7 Facilities" location="Weingarten">Clan</techbase>
+    <year restricted="FALSE">3084</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="320" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Advanced/3" techbase="2">
+        <type>Standard Armor</type>
+        <front>62</front>
+        <left>46</left>
+        <right>46</right>
+        <rear>42</rear>
+        <primaryturret>52</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085-CE</source>
+        <info>Carnivore Assault Tank (Second Line) 80t, 4/6, Std FE, 15.5T/78% Armor; 10 SHS; 2 MPL, 1 LB10, 1 CASE, 2 LMG</info>
+        <battleforce pv="12" wt="4" mv="4t" s="3" m="3" l="1" e="0" ov="0" armor="8" internal="4" abilities="CASE, TUR(1/1/1), FLK 1/1/1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>2SH C3</commsystem>
+        <tandtsystem>Build 4 JVJ TTS</tandtsystem>
+    </fluff>
+</combatvehicle>
