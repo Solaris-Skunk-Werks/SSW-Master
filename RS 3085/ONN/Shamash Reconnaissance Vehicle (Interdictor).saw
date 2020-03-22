@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Shamash Reconnaissance Vehicle" model="(Interdictor)" tons="11" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>520</battle_value>
+    <motive type="Hovercraft" cruise="13" turret="Single Turret" />
+    <cost>514230.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="" location="">Clan</techbase>
+    <year restricted="FALSE">3077</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="143" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>9</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>7</rear>
+        <primaryturret>8</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085-ONN</source>
+        <info>Shamash Reconnaissance Vehicle (Interdictor) 11t, 13/20, Std FE, 2.0T/49% FF Armor; 10 SHS; 1 ECM, 1 ERML</info>
+        <battleforce pv="5" wt="1" mv="13h" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="ECM, ENE, TUR(1/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>
