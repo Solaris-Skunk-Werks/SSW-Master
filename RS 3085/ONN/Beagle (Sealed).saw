@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Beagle" model="(Sealed)" tons="15" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>249</battle_value>
+    <motive type="Hovercraft" cruise="14" turret="Single Turret" />
+    <cost>2266875.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3076</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="true" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="" techbase="0">XL Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>16</front>
+        <left>13</left>
+        <right>13</right>
+        <rear>11</rear>
+        <primaryturret>16</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085-ONN</source>
+        <info>Beagle (Sealed) 15t, 14/21, XLFE, 3.5T/75% HFF Armor; 10 SHS; 1 C3I</info>
+        <battleforce pv="2" wt="1" mv="14h" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="C3I, ENE, MHQ2, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

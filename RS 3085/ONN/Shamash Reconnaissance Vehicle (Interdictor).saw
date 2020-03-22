@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <combatvehicle name="Shamash Reconnaissance Vehicle" model="(Interdictor)" tons="11" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>520</battle_value>
@@ -49,7 +49,7 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional></additional>
+        <additional>:tab:The Bears’ answer to the Savannah Interdictor exchanges the small lasers for a single ER medium laser and an ECM suite.</additional>
         <jumpjet_model></jumpjet_model>
         <commsystem></commsystem>
         <tandtsystem></tandtsystem>
