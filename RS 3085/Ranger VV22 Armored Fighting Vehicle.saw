@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Ranger VV22 Armored Fighting Vehicle" model="" tons="45" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>786</battle_value>
+    <motive type="Wheeled" cruise="6" turret="Dual Turret" />
+    <cost>1369487.5</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3082</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="270" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>36</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>28</rear>
+        <primaryturret>19</primaryturret>
+        <secondaryturret>32</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Ranger VV22 Armored Fighting Vehicle 45t, 6/9, Std FE, 10.0T/91% FF Armor; 10 SHS; 8 MSGR, 2 ERSL</info>
+        <battleforce pv="8" wt="2" mv="6w" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="TUR(1/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Magshot Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Magshot Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Magshot Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

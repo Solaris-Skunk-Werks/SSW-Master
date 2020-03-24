@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Bolla Stealth Tank" model="" tons="60" motive="Wheeled" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1.04958125E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Krupp Armament Works" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3074</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="VOX" techbase="0">XL Engine</engine>
+    <armor manufacturer="Krupp" techbase="0">
+        <type>Vehicle Stealth Armor</type>
+        <front>34</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>30</rear>
+        <primaryturret>40</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.5" >
+        <source>RS3085u-CE</source>
+        <info>Bolla Stealth Tank 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3I, 1 InfComp, 1 MG</info>
+        <battleforce pv="7" wt="3" mv="5w" s="1" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, C3I, MHQ2, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Voelkers">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>6.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Wisdom of Blake">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Invictus" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3074</loadout_year>
+        <info>Bolla Stealth Tank  Invictus 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3I, 1 InfComp, 2 MG, 2 MML9</info>
+        <battleforce pv="10" wt="3" mv="5w" s="3" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, C3I, MHQ2, TUR(3/2/1, SRM 2/2/1, LRM 2/2/1, IF 2/2/1), IF 1" />
+        <battle_value>968</battle_value>
+        <cost>1.03458125E7</cost>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="Dominus" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>0</loadout_productionera>
+        <loadout_year>3074</loadout_year>
+        <info>Bolla Stealth Tank  Dominus 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3I, 1 InfComp, 1 MG, 2 LAC5</info>
+        <battleforce pv="9" wt="3" mv="5w" s="2" m="1" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, C3I, MHQ2, TUR(1/1/0, AC 1/1/0), AC 1/1/0" />
+        <battle_value>872</battle_value>
+        <cost>1.03409375E7</cost>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="Infernus" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3074</loadout_year>
+        <info>Bolla Stealth Tank  Infernus 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3I, 1 InfComp, 1 MG, 3 SSRM6</info>
+        <battleforce pv="11" wt="3" mv="5w" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, C3I, MHQ2, TUR(4/4/0)" />
+        <battle_value>1076</battle_value>
+        <cost>1.05374375E7</cost>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="Comminus" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-CE</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3074</loadout_year>
+        <info>Bolla Stealth Tank  Comminus 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3I, 1 InfComp, 1 MG, 1 AMS, 1 LGR</info>
+        <battleforce pv="10" wt="3" mv="5w" s="1" m="1" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, AMS, C3I, MHQ2, TUR(1/1/1)" />
+        <battle_value>1005</battle_value>
+        <cost>1.04958125E7</cost>
+        <equipment>
+            <name manufacturer="">(IS) Light Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Master&apos;s Voice Serp-Alpha</commsystem>
+        <tandtsystem>Baltex K590</tandtsystem>
+    </fluff>
+</combatvehicle>

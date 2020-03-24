@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Giggins APC" model="(Fire Support)" tons="40" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>718</battle_value>
+    <motive type="Wheeled" cruise="6" turret="Single Turret" />
+    <cost>1342999.9999999998</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Duncan Enterprises" location="Moore">Inner Sphere</techbase>
+    <year restricted="FALSE">3085</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="DAV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/7" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>34</front>
+        <left>28</left>
+        <right>28</right>
+        <rear>30</rear>
+        <primaryturret>28</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Giggins APC (Fire Support) 40t, 6/9, Std FE, 7.5T/82% HFF Armor; 10 SHS; 2 ERML, 1 InfComp, 1 MML5</info>
+        <battleforce pv="7" wt="2" mv="6w" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="TUR(2/2/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Exeter LongScan</commsystem>
+        <tandtsystem>Standard SmarTrack</tandtsystem>
+    </fluff>
+</combatvehicle>

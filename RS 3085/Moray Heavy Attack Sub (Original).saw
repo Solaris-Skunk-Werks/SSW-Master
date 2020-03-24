@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Moray Heavy Attack Sub" model="(Original)" tons="140" motive="Naval (Submarine)" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1624</battle_value>
+    <motive type="Naval (Submarine)" cruise="3" turret="Single Turret" />
+    <cost>6.3235E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Sungdong-STX Shipbuilding" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3072</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="420" manufacturer="Electro-Motive" techbase="0">XL Engine</engine>
+    <armor manufacturer="AquaTec ArmorSlab" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>75</front>
+        <left>66</left>
+        <right>66</right>
+        <rear>60</rear>
+        <primaryturret>55</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3085S</source>
+        <info>Moray Heavy Attack Sub (Original) 140t, 3/5, XLFE, 18.0T/61% FF Armor; 10 SHS; 2 LRT10, 2 LRT20, 2 ERML, 1 CASE, 3 SRT6</info>
+        <battleforce pv="16" wt="4" mv="3s" s="4" m="5" l="3" e="0" ov="0" armor="11" internal="7" abilities="CASE, TUR(3/3/1, TOR 1/1/1), TOR 3/4/2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Sea Devastator">(IS) LRT-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Devastator">(IS) LRT-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Harvester">(IS) SRT-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Devastator">(R) (IS) LRT-10</name>
+            <type>missile</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Harvester">(R) (IS) SRT-6</name>
+            <type>missile</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Devastator">(IS) LRT-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Harvester">(IS) SRT-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-20 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-10 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-10 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRT-10 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TransComm N14</commsystem>
+        <tandtsystem>TransComm WDS45N</tandtsystem>
+    </fluff>
+</combatvehicle>

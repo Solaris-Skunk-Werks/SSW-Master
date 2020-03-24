@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Fox Armored Car" model="" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>549</battle_value>
+    <motive type="Hovercraft" cruise="14" turret="Single Turret" />
+    <cost>1791300.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Valiant Systems" location="Johnsondale, Achernar">Inner Sphere</techbase>
+    <year restricted="FALSE">3084</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="280" manufacturer="Nissan" techbase="0">XL Engine</engine>
+    <armor manufacturer="Valiant Systems" techbase="2">
+        <type>Standard Armor</type>
+        <front>27</front>
+        <left>17</left>
+        <right>17</right>
+        <rear>12</rear>
+        <primaryturret>15</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Fox Armored Car 20t, 14/21, XLFE, 5.5T/80% Armor; 10 SHS; 2 SPL, 1 ERML</info>
+        <battleforce pv="5" wt="1" mv="14h" s="2" m="1" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, TUR(2/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Bright-Bloom">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Magna 200P">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Magna 200P">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>QuasComm 5.3</commsystem>
+        <tandtsystem>TacTOM IV</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Yasha VTOL" model="" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>799</battle_value>
+    <motive type="VTOL" cruise="7" turret="No Turret" />
+    <cost>2755250.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Wakazashi Enterprises" location="Dover">Inner Sphere</techbase>
+    <year restricted="FALSE">3085</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="Indy" techbase="0">XL Engine</engine>
+    <armor manufacturer="New Samarkand Royal" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>21</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>10</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Yasha VTOL 30t, 7/11, XLFE, 3.5T/48% HFF Armor; 15 SHS; 1 C3S, 1 HPPC, 1 CASE, 1 LMG</info>
+        <battleforce pv="8" wt="1" mv="7v" s="2" m="2" l="2" e="0" ov="0" armor="2" internal="2" abilities="C3S, CASE" />
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light 3">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14NC-B">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Sony MSF-23</commsystem>
+        <tandtsystem>Radcom T11</tandtsystem>
+    </fluff>
+</combatvehicle>

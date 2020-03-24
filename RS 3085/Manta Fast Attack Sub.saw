@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Manta Fast Attack Sub" model="" tons="50" motive="Naval (Submarine)" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>810</battle_value>
+    <motive type="Naval (Submarine)" cruise="7" turret="No Turret" />
+    <cost>9838333.333333334</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Royal Nelson Memorial Shipwrights of Portsmouth" location="Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">2698</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="350" manufacturer="GM" techbase="0">XL Engine</engine>
+    <armor manufacturer="AmberStar" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>52</front>
+        <left>39</left>
+        <right>39</right>
+        <rear>31</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TR3085S</source>
+        <info>Manta Fast Attack Sub 50t, 7/11, XLFE, 9.0T/75% FF Armor; 12 SHS; 1 ERLL, 1 SRT6</info>
+        <battleforce pv="8" wt="2" mv="7s" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Selitex Aqua">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sea Harvester">(IS) SRT-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRT-6 (Torpedo)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Trannel GN5</commsystem>
+        <tandtsystem>Trannel OT73N</tandtsystem>
+    </fluff>
+</combatvehicle>

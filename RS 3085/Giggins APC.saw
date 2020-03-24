@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Giggins APC" model="" tons="40" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>476</battle_value>
+    <motive type="Wheeled" cruise="6" turret="Single Turret" />
+    <cost>1232500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Duncan Enterprises" location="Moore">Inner Sphere</techbase>
+    <year restricted="FALSE">3085</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="DAV" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="StarSlab/7" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>28</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>25</rear>
+        <primaryturret>25</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Giggins APC 40t, 6/9, Std FE, 6.5T/71% HFF Armor; 10 SHS; 1 ECM, 2 HMG, 1 InfComp</info>
+        <battleforce pv="5" wt="2" mv="6w" s="1" m="0" l="0" e="0" ov="0" armor="4" internal="2" abilities="ECM, TUR(1/0/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="SuperFire Minigun">(IS) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SuperFire Minigun">(IS) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>8.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Exeter LongScan</commsystem>
+        <tandtsystem>Standard SmarTrack</tandtsystem>
+    </fluff>
+</combatvehicle>

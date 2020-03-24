@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Tufana Hovercraft" model="" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>583</battle_value>
+    <motive type="Hovercraft" cruise="11" turret="Single Turret" />
+    <cost>4235500.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="Ronin Incorporated" location="Wallis">Inner Sphere</techbase>
+    <year restricted="FALSE">3079</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="385" manufacturer="Pitban" techbase="0">XL Engine</engine>
+    <armor manufacturer="Valiant Chainmail" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>25</front>
+        <left>15</left>
+        <right>15</right>
+        <rear>10</rear>
+        <primaryturret>15</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Tufana Hovercraft 35t, 11/17, XLFE, 4.5T/49% FF Armor; 10 SHS; 1 Narc, 1 TAG, 1 MML7</info>
+        <battleforce pv="6" wt="1" mv="11h" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="SNARC, TAG, TUR(1/1/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Doombud">(IS) MML-7</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Narc Missile Beacon</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret T21-C</commsystem>
+        <tandtsystem>Wasat Watchdog W105 with A-Trac</tandtsystem>
+    </fluff>
+</combatvehicle>

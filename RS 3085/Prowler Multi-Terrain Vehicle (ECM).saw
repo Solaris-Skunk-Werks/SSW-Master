@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Prowler Multi-Terrain Vehicle" model="(ECM)" tons="55" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>788</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>2307083.333333333</cost>
+    <rules_level>2</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="Millenium Industries, Defiance Motors, Pinard Protectorate Ltd, Others" location="North America, Terra (Millenium), Tharkad (Defiance), Pinard (PPL), Various (Others)">Inner Sphere</techbase>
+    <year restricted="FALSE">2614</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="true" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="220" manufacturer="Nissan" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="J-Seal" techbase="2">
+        <type>Standard Armor</type>
+        <front>25</front>
+        <left>23</left>
+        <right>23</right>
+        <rear>18</rear>
+        <primaryturret>23</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3085u-CE</source>
+        <info>Prowler Multi-Terrain Vehicle (ECM) 55t, 4/6, Std FE, 7.0T/48% Armor; 10 SHS; 1 ECM, 1 StndrdCrgo, 2 MPL, 1 LRM10, 1 SRM2</info>
+        <battleforce pv="8" wt="2" mv="4t" s="2" m="3" l="1" e="0" ov="0" armor="4" internal="3" abilities="ECM, TUR(2/2/1), IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Snorri-10">(IS) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Blakenburg">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Blakenburg">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.5</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Wonder-Talk VI</commsystem>
+        <tandtsystem>J-Peep Farsight</tandtsystem>
+    </fluff>
+</combatvehicle>
