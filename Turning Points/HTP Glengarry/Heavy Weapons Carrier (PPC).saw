@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Heavy Weapons Carrier" model="(PPC)" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>445</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>553000.0</cost>
+    <rules_level>0</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3056</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="160" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Standard Armor</type>
+        <front>8</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>4</rear>
+        <primaryturret>8</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>HTPGlengary</source>
+        <info>Heavy Weapons Carrier (PPC) 20t, 8/12, Std FE, 2.0T/29% Armor; 10 SHS; 1 PPC</info>
+        <battleforce pv="4" wt="1" mv="8h" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="1" abilities="ENE, TUR(1/1/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

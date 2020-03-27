@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Marksman Artillery Vehicle" model="(AC)" tons="65" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>983</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>3031625.0</cost>
+    <rules_level>3</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="GrummanCRI" location="Melissia">Inner Sphere</techbase>
+    <year restricted="FALSE">2801</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="260" manufacturer="Magna" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Grumman CRT" techbase="2">
+        <type>Standard Armor</type>
+        <front>54</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>20</rear>
+        <primaryturret>22</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RSOK</source>
+        <info>Marksman Artillery Vehicle (AC) 65t, 4/6, Std FE, 8.5T/51% Armor; 10 SHS; 2 RL15-PP, 1 AC20, 3 RL10-PP, 1 LL</info>
+        <battleforce pv="10" wt="3" mv="4t" s="4" m="4" l="1" e="0" ov="0" armor="5" internal="4" abilities="TUR(1/1/0), AC 2/2/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/20</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rocket Launcher 10 PP</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rocket Launcher 10 PP</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rocket Launcher 10 PP</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rocket Launcher 15 PP</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rocket Launcher 15 PP</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="RAMTech 500">(IS) Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>O/P GRD 300</commsystem>
+        <tandtsystem>O/P GRD059</tandtsystem>
+    </fluff>
+</combatvehicle>

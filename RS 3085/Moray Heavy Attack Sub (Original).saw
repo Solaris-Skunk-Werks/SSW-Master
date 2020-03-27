@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <combatvehicle name="Moray Heavy Attack Sub" model="(Original)" tons="140" motive="Naval (Submarine)" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1624</battle_value>
+    <battle_value>1592</battle_value>
     <motive type="Naval (Submarine)" cruise="3" turret="Single Turret" />
-    <cost>6.3235E7</cost>
+    <cost>6.2931E7</cost>
     <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>7</productionera>
+    <era>0</era>
+    <productionera>1</productionera>
     <techbase manufacturer="Sungdong-STX Shipbuilding" location="Terra">Inner Sphere</techbase>
-    <year restricted="FALSE">3072</year>
+    <year restricted="FALSE">2635</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -26,7 +26,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>TR3085S</source>
-        <info>Moray Heavy Attack Sub (Original) 140t, 3/5, XLFE, 18.0T/61% FF Armor; 10 SHS; 2 LRT10, 2 LRT20, 2 ERML, 1 CASE, 3 SRT6</info>
+        <info>Moray Heavy Attack Sub (Original) 140t, 3/5, XLFE, 18.0T/61% FF Armor; 10 SHS; 2 ML, 2 LRT10, 2 LRT20, 1 CASE, 3 SRT6</info>
         <battleforce pv="16" wt="4" mv="3s" s="4" m="5" l="3" e="0" ov="0" armor="11" internal="7" abilities="CASE, TUR(3/3/1, TOR 1/1/1), TOR 3/4/2" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -67,12 +67,12 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="">(IS) Medium Laser</name>
             <type>energy</type>
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="">(IS) Medium Laser</name>
             <type>energy</type>
             <location>Turret</location>
         </equipment>

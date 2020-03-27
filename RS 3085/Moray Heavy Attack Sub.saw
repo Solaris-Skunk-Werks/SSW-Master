@@ -67,12 +67,12 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="Averell Poseidon">(IS) ER Medium Laser</name>
             <type>energy</type>
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="Averell Poseidon">(IS) ER Medium Laser</name>
             <type>energy</type>
             <location>Turret</location>
         </equipment>

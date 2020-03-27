@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<combatvehicle name="Demolisher Heavy Tank" model="" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<combatvehicle name="Demolisher Heavy Tank" model="(Mk. I)" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>981</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
@@ -26,7 +26,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3039u</source>
-        <info>Demolisher Heavy Tank 80t, 3/5, ICE, 10.0T/50% Armor; 0 SHS; 2 AC20</info>
+        <info>Demolisher Heavy Tank (Mk. I) 80t, 3/5, ICE, 10.0T/50% Armor; 0 SHS; 2 AC20</info>
         <battleforce pv="10" wt="4" mv="3t" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="4" abilities="EE, TUR(4/4/0, AC 4/4/0), AC 4/4/0" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Rotunda Scout Vehicle" model="RND-J-1-11 (SRM)" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>286</battle_value>
+    <motive type="Wheeled" cruise="8" turret="No Turret" />
+    <cost>177333.33333333334</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Buhallin Military Products" location="Dieron (destroyed 2776)">Inner Sphere</techbase>
+    <year restricted="FALSE">2801</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="160" manufacturer="LTV" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="Mercury Weave" techbase="2">
+        <type>Standard Armor</type>
+        <front>9</front>
+        <left>9</left>
+        <right>9</right>
+        <rear>5</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RSOK</source>
+        <info>Rotunda Scout Vehicle RND-J-1-11 (SRM) 20t, 8/12, ICE, 2.0T/29% Armor; 0 SHS; 4 SRM2</info>
+        <battleforce pv="3" wt="1" mv="8w" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="EE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>SP/2 HAYOT</commsystem>
+        <tandtsystem>Hanover Sight 3000-A-K-P</tandtsystem>
+    </fluff>
+</combatvehicle>
