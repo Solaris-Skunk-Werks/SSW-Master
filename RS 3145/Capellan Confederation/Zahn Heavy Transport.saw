@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Zahn Heavy Transport" model="" tons="65" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>792</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Dual Turret" />
+    <cost>2032995.833333333</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Ceres Metals Industries" location="Lockton, Menke">Inner Sphere</techbase>
+    <year restricted="FALSE">3108</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="325" manufacturer="Ceres Motors" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="Durallex" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>50</front>
+        <left>40</left>
+        <right>40</right>
+        <rear>28</rear>
+        <primaryturret>25</primaryturret>
+        <secondaryturret>25</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Zahn Heavy Transport 65t, 5/8, FCE, 10.5T/78% HFF Armor; 1 SHS; 2 Vflmr, 1 InfComp, 1 TAG, 1 MML7</info>
+        <battleforce pv="8" wt="3" mv="5w" s="2" m="1" l="1" e="0" ov="0" armor="7" internal="4" abilities="TAG, EE, TUR(1/0/0)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Ceres Fire Flower">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Ceres Fire Flower">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Doombud">(IS) MML-7</name>
+            <type>missile</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Rear Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>8.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Narrow/Low-Profile.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>CeresCom Model 74-N</commsystem>
+        <tandtsystem>Ceres/Maladev 5</tandtsystem>
+    </fluff>
+</combatvehicle>

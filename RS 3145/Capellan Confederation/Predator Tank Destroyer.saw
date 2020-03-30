@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Predator Tank Destroyer" model="" tons="45" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>775</battle_value>
+    <motive type="Tracked" cruise="6" turret="No Turret" />
+    <cost>2013675.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Ceres Metal Industries" location="Indicass">Inner Sphere</techbase>
+    <year restricted="FALSE">3103</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="270" manufacturer="Ceres Motors" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="Hellespont" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>45</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>12</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Predator Tank Destroyer 45t, 6/9, FCE, 4.5T/45% HFF Armor; 1 SHS; 1 LB20</info>
+        <battleforce pv="8" wt="2" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="EE, FLK 1/1/0" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Mydron Devastator">(IS) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Maintain, Narrow/Low Profile.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Magna-VOX KS2525</commsystem>
+        <tandtsystem>Magna-VOX TTS4000</tandtsystem>
+    </fluff>
+</combatvehicle>

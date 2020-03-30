@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Zibler Fast Strike Tank" model="" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>4189000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="StarCorps Industries" location="Crofton, Loburg, Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3096</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="400" manufacturer="Strand" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Durallex Special" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>30</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>20</rear>
+        <primaryturret>28</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="2.0" >
+        <source>RS3145u</source>
+        <info>Zibler Fast Strike Tank 50t, 8/12, Std FE, 7.0T/64% HFF Armor; 10 SHS; 1 CASE</info>
+        <battleforce pv="4" wt="2" mv="8h" s="0" m="0" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ENE, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3096</loadout_year>
+        <info>Zibler Fast Strike Tank  Prime 50t, 8/12, Std FE, 7.0T/64% HFF Armor; 12 SHS; 3 SSRM4, 4 ML, 1 TC, 1 C3S, 1 CASE, TC</info>
+        <battleforce pv="12" wt="2" mv="8h" s="5" m="5" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, C3S, TUR(5/5/0)" />
+        <battle_value>1205</battle_value>
+        <cost>4189000.0</cost>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3096</loadout_year>
+        <info>Zibler Fast Strike Tank  A 50t, 8/12, Std FE, 7.0T/64% HFF Armor; 10 SHS; 4 LAC2, 1 CASE</info>
+        <battleforce pv="7" wt="2" mv="8h" s="1" m="1" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, TUR(1/1/1)" />
+        <battle_value>664</battle_value>
+        <cost>3402000.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/2</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/2</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/2</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/2</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3096</loadout_year>
+        <info>Zibler Fast Strike Tank  B 50t, 8/12, Std FE, 7.0T/64% HFF Armor; 10 SHS; 2 ERML, 1 LB10, 1 CASE, 4 LMG</info>
+        <battleforce pv="10" wt="2" mv="8h" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, TUR(2/2/1), FLK 1/1/1" />
+        <battle_value>1047</battle_value>
+        <cost>3882250.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3096</loadout_year>
+        <info>Zibler Fast Strike Tank  C 50t, 8/12, Std FE, 7.0T/64% HFF Armor; 10 SHS; 1 C3S, 1 SNPPC, 2 MML7, 1 CASE</info>
+        <battleforce pv="10" wt="2" mv="8h" s="3" m="2" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, C3S, TUR(3/2/1, SRM 2/1/1, LRM 2/1/1, IF 2/1/1), IF 1" />
+        <battle_value>1017</battle_value>
+        <cost>4357000.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3096</loadout_year>
+        <info>Zibler Fast Strike Tank  D 50t, 8/12, Std FE, 7.0T/64% HFF Armor; 15 SHS; 1 BC3S, 1 HPPC, 1 CASE</info>
+        <battleforce pv="10" wt="2" mv="8h" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, C3BSS, ENE, TUR(2/2/2)" />
+        <battle_value>1021</battle_value>
+        <cost>4300000.0</cost>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Boosted Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Fast Reload.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>O/P 3200 COMSET 4</commsystem>
+        <tandtsystem>O/P 2570</tandtsystem>
+    </fluff>
+</combatvehicle>

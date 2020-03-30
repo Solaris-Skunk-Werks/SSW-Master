@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Ludan Scout Vehicle" model="" tons="25" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>453</battle_value>
+    <motive type="Hovercraft" cruise="11" turret="Single Turret" />
+    <cost>2715500.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="Novis-AT-H, Inc." location="Detroit">Inner Sphere</techbase>
+    <year restricted="FALSE">3136</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="275" manufacturer="Magna" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Hellespont Lite" techbase="0">
+        <type>Vehicle Stealth Armor</type>
+        <front>12</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>8</rear>
+        <primaryturret>8</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Ludan Scout Vehicle 25t, 11/17, Std FE, 3.0T/38% V Stlth Armor; 10 SHS; 1 BlAP, 3 MSGR, 1 AECM, 1 TAG</info>
+        <battleforce pv="5" wt="1" mv="11h" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="ECM, STL, TAG, BH, RCN, AECM, TUR(1/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Mydron Mini">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Mydron Mini">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Mydron Mini">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Magshot Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Bloodhound Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Improved Communications</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Ceres Metals Model 777</commsystem>
+        <tandtsystem>Apple Churchill 3000</tandtsystem>
+    </fluff>
+</combatvehicle>

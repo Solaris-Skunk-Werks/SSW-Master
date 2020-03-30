@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hasek Mechanized Combat Vehicle" model="" tons="40" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>841</battle_value>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>2954000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Johnston Industries" location="New Syrtis">Inner Sphere</techbase>
+    <year restricted="FALSE">3101</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="GM" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="Duraweave 8000" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>48</front>
+        <left>35</left>
+        <right>35</right>
+        <rear>30</rear>
+        <primaryturret>30</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Hasek Mechanized Combat Vehicle 40t, 5/8, LFE, 9.0T/99% HFF Armor; 12 SHS; 1 PPC, 1 SPL, 1 InfComp</info>
+        <battleforce pv="8" wt="2" mv="5t" s="2" m="1" l="1" e="0" ov="0" armor="6" internal="2" abilities="ENE, TUR(2/1/1)" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Johnston Parti-Cannon">(IS) PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Blazefire Spreadshot">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Repair.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>CommuTech XL</commsystem>
+        <tandtsystem>BlazeFire Ranging System Type 5</tandtsystem>
+    </fluff>
+</combatvehicle>
