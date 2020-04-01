@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="R10 Mechanized ICV" model="" tons="45" motive="Wheeled" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>5482484.375</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Exeter Organization" location="Keystone">Inner Sphere</techbase>
+    <year restricted="FALSE">3097</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="GM" techbase="0">XL Engine</engine>
+    <armor manufacturer="Kallon FWL Special" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>34</front>
+        <left>25</left>
+        <right>25</right>
+        <rear>21</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.5" >
+        <source>RS3145u</source>
+        <info>R10 Mechanized ICV 45t, 5/8, XLFE, 7.0T/63% FF Armor; 10 SHS; 1 InfComp, 1 CASE</info>
+        <battleforce pv="4" wt="2" mv="5w" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3097</loadout_year>
+        <info>R10 Mechanized ICV  Prime 45t, 5/8, XLFE, 7.0T/63% FF Armor; 10 SHS; 2 ERML, 2 InfComp, 2 SRM6, 1 CASE</info>
+        <battleforce pv="7" wt="2" mv="5w" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, TUR(2/2/0, SRM 2/2/0), SRM 2/2/0" />
+        <battle_value>746</battle_value>
+        <cost>4720484.375</cost>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>8.0</tons>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3097</loadout_year>
+        <info>R10 Mechanized ICV  A 45t, 5/8, XLFE, 7.0T/63% FF Armor; 12 SHS; 4 ML, 1 InfComp, 1 CASE, 2 LAC5</info>
+        <battleforce pv="8" wt="2" mv="5w" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, TUR(2/2/0, AC 1/1/0), AC 1/1/0" />
+        <battle_value>839</battle_value>
+        <cost>4895984.375</cost>
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3097</loadout_year>
+        <info>R10 Mechanized ICV  B 45t, 5/8, XLFE, 7.0T/63% FF Armor; 10 SHS; 1 ECM, 2 SPL, 1 BAP, 1 InfComp, 1 LB10, 1 CASE</info>
+        <battleforce pv="8" wt="2" mv="5w" s="2" m="1" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, PRB, RCN, ECM, TUR(1/1/1), FLK 1/1/1" />
+        <battle_value>756</battle_value>
+        <cost>5482484.375</cost>
+        <equipment>
+            <name manufacturer="">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Maintain, Poor Targeting (Long Range).</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Exeter Longscan</commsystem>
+        <tandtsystem>Salamander Systems Multi-Lock</tandtsystem>
+    </fluff>
+</combatvehicle>

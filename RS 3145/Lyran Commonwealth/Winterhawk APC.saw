@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Winterhawk APC" model="" tons="20" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>204</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>338066.6666666666</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="ScolTek Associates" location="Inarcs">Inner Sphere</techbase>
+    <year restricted="FALSE">3059</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="ScolTek" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="ArcShield V" techbase="2">
+        <type>Standard Armor</type>
+        <front>14</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>5</rear>
+        <primaryturret>7</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Winterhawk APC 20t, 10/15, FCE, 2.5T/36% Armor; 1 SHS; 1 InfComp, 1 MG, 1 SRM2</info>
+        <battleforce pv="2" wt="1" mv="10h" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="EE, TUR(1/0/0)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="SureShot II">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Coventry Light Autogun">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Cyclops I</commsystem>
+        <tandtsystem>Tar Tec Mini-Find</tandtsystem>
+    </fluff>
+</combatvehicle>

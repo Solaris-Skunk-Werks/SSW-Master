@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="R10 Mechanized ICV" model="(Coolant Truck)" tons="45" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>355</battle_value>
+    <motive type="Wheeled" cruise="5" turret="No Turret" />
+    <cost>3268442.5000000005</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Exeter Organization" location="Keystone">Inner Sphere</techbase>
+    <year restricted="FALSE">3097</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="GM" techbase="0">XL Engine</engine>
+    <armor manufacturer="Kallon FWL Special" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>34</front>
+        <left>26</left>
+        <right>26</right>
+        <rear>21</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>R10 Mechanized ICV (Coolant Truck) 45t, 5/8, XLFE, 6.0T/54% FF Armor; 10 SHS; 2 Vflmr, 1 LqdCrgo</info>
+        <battleforce pv="4" wt="2" mv="5w" s="1" m="0" l="0" e="0" ov="0" armor="4" internal="2" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Liquid, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>23.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Easy to Maintain, Poor Targeting (Long Range).</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Exeter Longscan</commsystem>
+        <tandtsystem>Salamander Systems Multi-Lock</tandtsystem>
+    </fluff>
+</combatvehicle>

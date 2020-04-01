@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Partisan AA Vehicle" model="" tons="50" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>597</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>1860083.333333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Kallon Weapon Industries" location="Loyalty">Inner Sphere</techbase>
+    <year restricted="FALSE">3110</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Nissan" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Kallon Unity Weave" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>24</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>16</rear>
+        <primaryturret>18</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Partisan AA Vehicle 50t, 5/8, Std FE, 5.5T/46% FF Armor; 10 SHS; 2 LB5</info>
+        <battleforce pv="6" wt="2" mv="5w" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="3" abilities="TUR(1/1/1), FLK 0/1/1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Defiance Shredder">(IS) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Defiance Shredder">(IS) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: AntiAircraft Targeting.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>JoLex Systems</commsystem>
+        <tandtsystem>AntiAir Flak Systems-1</tandtsystem>
+    </fluff>
+</combatvehicle>

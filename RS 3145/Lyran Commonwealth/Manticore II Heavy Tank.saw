@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Manticore II Heavy Tank" model="" tons="70" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1435</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>4.6129166666666664E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Defiance Industries" location="Hesperus II">Inner Sphere</techbase>
+    <year restricted="FALSE">3112</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="true" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="280" manufacturer="GM" techbase="0">XXL Engine</engine>
+    <armor manufacturer="Durallex Special" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>44</front>
+        <left>38</left>
+        <right>38</right>
+        <rear>26</rear>
+        <primaryturret>42</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Manticore II Heavy Tank 70t, 4/6, XXLFE, 9.5T/66% HFF Armor; 15 SHS; 1 TC, 2 EnLRM10, 1 HPPC, TC</info>
+        <battleforce pv="14" wt="3" mv="4t" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="4" abilities="TUR(3/3/3, LRM 1/1/1, IF 1/1/1), LRM 1/1/1, IF 1" />
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Defiance 980">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta Dart II">(IS) Enhanced LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta Dart II">(IS) Enhanced LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ NLRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ NLRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TharHes Muse 65-128K</commsystem>
+        <tandtsystem>TharHes TargiTrack with Advanced Targeting Computer</tandtsystem>
+    </fluff>
+</combatvehicle>

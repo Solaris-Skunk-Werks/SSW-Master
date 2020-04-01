@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Partisan AA Vehicle" model="(3134 Upgrade)" tons="50" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>553</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>3506000.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Kallon Weapon Industries" location="Loyalty">Inner Sphere</techbase>
+    <year restricted="FALSE">3134</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="Nissan" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="Kallon Unity Weave" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>24</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>16</rear>
+        <primaryturret>18</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Partisan AA Vehicle (3134 Upgrade) 50t, 5/8, LFE, 5.5T/46% FF Armor; 10 SHS; 1 TC, 1 RL10, 2 HVAC2, 1 CASE, TC</info>
+        <battleforce pv="6" wt="2" mv="5w" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="3" abilities="CASE, TUR(1/1/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Hyper-Velocity Autocannon/2</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Hyper-Velocity Autocannon/2</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ HVAC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ HVAC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: AntiAircraft Targeting.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>JoLex Systems</commsystem>
+        <tandtsystem>AntiAir Flak Systems-1</tandtsystem>
+    </fluff>
+</combatvehicle>

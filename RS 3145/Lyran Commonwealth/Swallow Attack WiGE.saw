@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Swallow Attack WiGE" model="" tons="45" motive="WiGE" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1281</battle_value>
+    <motive type="WiGE" cruise="7" turret="No Turret" />
+    <cost>1.235025E7</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Nashan Diversified" location="Furillo">Inner Sphere</techbase>
+    <year restricted="FALSE">3095</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="true" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="315" manufacturer="Omni" techbase="0">XL Engine</engine>
+    <armor manufacturer="ArcShield" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>50</front>
+        <left>35</left>
+        <right>35</right>
+        <rear>28</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Swallow Attack WiGE 45t, 7/11, XLFE, 7.5T/75% HFF Armor; 10 SHS; 2 ERML, 1 LB20</info>
+        <battleforce pv="13" wt="2" mv="7g" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="FLK 1/1/0" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Defiance Disintegrator">(IS) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="BlazeFire Longshot">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="BlazeFire Longshot">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Nashan Optichat</commsystem>
+        <tandtsystem>T-800 Series</tandtsystem>
+    </fluff>
+</combatvehicle>
