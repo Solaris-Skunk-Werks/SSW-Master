@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Gurzil Support Tank" model="" tons="80" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1664</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>1.5627500000000002E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Trellshire Heavy Industries" location="Sudeten">Clan</techbase>
+    <year restricted="FALSE">3126</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="320" manufacturer="Gorvachs" techbase="1">XL Engine</engine>
+    <armor manufacturer="Composite Alpha-V1" techbase="1">
+        <type>Ferro-Lamellor</type>
+        <front>41</front>
+        <left>34</left>
+        <right>34</right>
+        <rear>32</rear>
+        <primaryturret>34</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Gurzil Support Tank 80t, 4/6, XLFE, 12.5T/55% FL Armor; 10 SHS; 2 Mrtr8, 2 MPL, 2 SLRM15, 1 CASE</info>
+        <battleforce pv="17" wt="4" mv="4t" s="6" m="7" l="5" e="0" ov="0" armor="7" internal="4" abilities="CASE, TUR(5/5/3), IF 2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type VIII">(CL) Mech Mortar 8</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type VIII">(CL) Mech Mortar 8</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type XV &quot;Culverin&quot;">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type XV &quot;Culverin&quot;">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 8 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 8 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 8 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 8 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 8 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Variable-Range Targeting.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>TJ6 &quot;Bell&quot; Integrated</commsystem>
+        <tandtsystem>Series VI TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="MHI Defense AA Tank" model="" tons="60" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1026</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>8136250.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Michaelson Heavy Industries" location="June, Ruchbah, Terra">Inner Sphere</techbase>
+    <year restricted="FALSE">3106</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="true" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="GM" techbase="0">XL Engine</engine>
+    <armor manufacturer="StarSlab/7" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>44</front>
+        <left>31</left>
+        <right>31</right>
+        <rear>37</rear>
+        <primaryturret>25</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>MHI Defense AA Tank 60t, 4/6, XLFE, 8.5T/67% HFF Armor; 10 SHS; 2 LB10, 1 CASE, 3 LMG</info>
+        <battleforce pv="10" wt="3" mv="4t" s="2" m="2" l="2" e="0" ov="0" armor="6" internal="3" abilities="CASE, TUR(2/2/2, FLK 1/1/1), FLK 1/1/1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Armstrong Class-B">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Armstrong Class-B">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirk: Anti-Aircraft Targeting.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Garret T12-S</commsystem>
+        <tandtsystem>Garret D2j</tandtsystem>
+    </fluff>
+</combatvehicle>

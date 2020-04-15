@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Skanda Light Tank" model="" tons="35" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1078</battle_value>
+    <motive type="Tracked" cruise="7" turret="No Turret" />
+    <cost>3946250.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="Quikscell Company" location="Pandora">Clan</techbase>
+    <year restricted="FALSE">3094</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="245" manufacturer="Standard" techbase="1">XL Engine</engine>
+    <armor manufacturer="Compound VM22" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>45</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>15</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Skanda Light Tank 35t, 7/11, XLFE, 6.5T/77% FF Armor; 10 SHS; 2 ERML, 2 UAC2, 1 CASE</info>
+        <battleforce pv="11" wt="1" mv="7t" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="CASE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type 25">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type 25">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Improved Targeting (Long Range).</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>K9 CommSys</commsystem>
+        <tandtsystem>Hunter (2) Dedicated TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

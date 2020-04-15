@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Aesir Medium AA Vehicle" model="(HAG)" tons="55" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1445</battle_value>
+    <motive type="Wheeled" cruise="3" turret="Single Turret" />
+    <cost>2049999.9999999998</cost>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="Gienah Automotive" location="Gienah">Clan</techbase>
+    <year restricted="FALSE">3142</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="165" manufacturer="Omni" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="Forging OTR20d" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>37</front>
+        <left>36</left>
+        <right>36</right>
+        <rear>37</rear>
+        <primaryturret>36</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145u</source>
+        <info>Aesir Medium AA Vehicle (HAG) 55t, 3/5, Std FE, 9.5T/78% FF Armor; 10 SHS; 1 HAG40, 1 CASE</info>
+        <battleforce pv="14" wt="2" mv="3w" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="3" abilities="CASE, TUR(3/3/3, FLK 3/2/2), FLK 3/2/2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Anti-Aircraft Targeting.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Build 1685 Tacticom</commsystem>
+        <tandtsystem>TRTTS Mark V AirTracker</tandtsystem>
+    </fluff>
+</combatvehicle>
