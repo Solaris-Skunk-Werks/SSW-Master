@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Gladiator (Executioner)" model="" tons="95" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\executioner.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>3.5654134375E7</cost>
+    <cost>4.631413437499999E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -715,7 +715,7 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3145</loadout_year>
         <info>Gladiator (Executioner)  G 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 17 DHS; 1 WDCEWS, 6 ERML, 1 ERPPC, 1 SLRM15, TC</info>
-        <battleforce pv="38" wt="4" mv="5/4j" s="6" m="6" l="3" e="0" ov="2" armor="9" internal="5" abilities="OMNI, WAT, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="38" wt="4" mv="5/4j" s="6" m="6" l="3" e="0" ov="2" armor="9" internal="5" abilities="OMNI, WAT, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3825</battle_value>
         <cost>3.8263259375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
@@ -788,13 +788,13 @@
     <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Gladiator (Executioner)  I 95t, 4/6[10]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 22 DHS; 1 ECM, 2 HLL, 2 SSRM6, TC</info>
-        <battleforce pv="31" wt="4" mv="6/4j" s="6" m="6" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3094</battle_value>
-        <cost>4.543090624999999E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3101</loadout_year>
+        <info>Gladiator (Executioner)  I 95t, 4/6[10]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 22 DHS; 2 iHLL, 1 ECM, 2 SSRM6, TC</info>
+        <battleforce pv="33" wt="4" mv="6/4j" s="6" m="6" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3339</battle_value>
+        <cost>4.631413437499999E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="22" techbase="1">
             <type>Double Heat Sink</type>
@@ -821,19 +821,19 @@
             <location index="6">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="2">RA</location>
-        </equipment>
-        <equipment>
             <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
             <type>ammunition</type>
             <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Targeting Computer</name>
