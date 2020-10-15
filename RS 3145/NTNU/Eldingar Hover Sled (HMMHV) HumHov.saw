@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Eldingar Hover Sled" model="(HMMHV) &quot;HumHov&quot;" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1269</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>8453633.333333332</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Gorton, Kingsley &amp; Thorpe Enterprises" location="Rasalhague">Clan</techbase>
+    <year restricted="FALSE">3103</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="450" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="Compound 2110" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>38</front>
+        <left>28</left>
+        <right>28</right>
+        <rear>18</rear>
+        <primaryturret>22</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145NTNU</source>
+        <info>Eldingar Hover Sled (HMMHV) "HumHov" 50t, 9/14, XLFE, 7.0T/62% FF Armor; 10 SHS; 1 TC, 1 AECM, 1 InfComp, 2 MPL, 1 LB2, TC</info>
+        <battleforce pv="13" wt="2" mv="9h" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="3" abilities="AECM, CASE, TUR(1/1/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 2-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>5.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 2-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 2-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Consolidated BMR 6</commsystem>
+        <tandtsystem>TRTTS Mark II</tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Snow Fox" model="(Omni)" tons="20" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>3605000.0</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3140</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+    </structure>
+    <engine rating="160" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="1">
+        <type>MASC</type>
+        <location index="10">CT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>9</ct>
+        <ctr>3</ctr>
+        <lt>8</lt>
+        <ltr>2</ltr>
+        <rt>8</rt>
+        <rtr>2</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>8</ll>
+        <rl>8</rl>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>OTP: HC</source>
+        <info>Snow Fox (Omni) 20t, 8/12[16]/0 MASC, XLFE, ES Quad; 4.0T/100% FF Armor; 10 DHS</info>
+        <battleforce pv="4" wt="1" mv="10" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">FRL</location>
+            <location index="4">FLL</location>
+            <location index="4">RLL</location>
+            <location index="4">RRL</location>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>OTP: HC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Snow Fox (Omni) Prime 20t, 8/12[16]/0 MASC, XLFE, ES Quad; 4.0T/100% FF Armor; 10 DHS; 1 ECM, 3 ERML, 1 BAP, TC</info>
+        <battleforce pv="15" wt="1" mv="10" s="3" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="OMNI, ECM, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1464</battle_value>
+        <cost>4190000.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>0</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Snow Fox (Omni) A 20t, 8/12[16]/0 MASC, XLFE, ES Quad; 4.0T/100% FF Armor; 10 DHS; 4 Flmr, 3 LRM5</info>
+        <battleforce pv="8" wt="1" mv="10" s="2" m="1" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>831</battle_value>
+        <cost>3500000.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>OTP: HC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>0</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Snow Fox (Omni) B 20t, 8/12[16]/0 MASC, XLFE, ES Quad; 4.0T/100% FF Armor; 10 DHS; 1 ERLL, 1 MPL</info>
+        <battleforce pv="12" wt="1" mv="10" s="2" m="2" l="1" e="0" ov="0" armor="2" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1249</battle_value>
+        <cost>3605000.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

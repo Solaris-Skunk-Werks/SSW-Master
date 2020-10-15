@@ -5,12 +5,12 @@
     <cost>3856979.166666666</cost>
     <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>3</productionera>
+    <productionera>2</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">2921</year>
+    <techbase manufacturer="Cudahy Assembly Plant Delta" location="Circe">Clan</techbase>
+    <year restricted="FALSE">2835</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="Kell/F" techbase="1">
         <type>Endo-Steel</type>
         <location index="5">LA</location>
         <location index="6">LA</location>
@@ -25,7 +25,7 @@
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Compound H17" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>12</ct>
@@ -61,22 +61,22 @@
             <location index="4">RT</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
+            <name manufacturer="Series 1b">(CL) ER Small Laser</name>
             <type>energy</type>
             <location index="3">HD</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
             <type>energy</type>
             <location index="4">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
             <type>energy</type>
             <location index="4">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Large Laser</name>
+            <name manufacturer="Series 6b">(CL) ER Large Laser</name>
             <type>energy</type>
             <location index="10">CT</location>
         </equipment>
@@ -94,8 +94,15 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>Easy to Pilot</Name>
+                <Cost>2</Cost>
+                <Description>A MechWarrior or pilot with a Piloting Skill of more than 3 will receive a -1 target number modifier for Piloting Skill rolls that they have to make as a result of damage or underlying terrain. More skilled MechWarriors receive no benefit.</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>None</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <commsystem>Block 3 TRACONM</commsystem>
+        <tandtsystem>TRTTS Mark I</tandtsystem>
     </fluff>
 </mech>

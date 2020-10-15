@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Adder (Puma)" model="" tons="35" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Adder.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>7021687.5</cost>
+    <cost>7730437.5</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Sheridan LM-TA 8-10, W-7 Facilities; Wolf Clan Site 3, Assualt Tech Industries" location="Sheridan (Sheridan), Tranquil (W-7), Arc-Royal (Site 3), Donegal (Assault Tech)">Clan</techbase>
     <year restricted="FALSE">3010</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="Hooded Endo-Lite" techbase="1">
         <type>Endo-Steel</type>
         <location index="4">LL</location>
         <location index="4">RL</location>
@@ -19,12 +19,12 @@
         <location index="9">RT</location>
         <location index="11">CT</location>
     </structure>
-    <engine rating="210" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="210" manufacturer="Great Father" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Star Lite" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>16</ct>
@@ -58,7 +58,7 @@
             <location index="2">LT</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(CL) Flamer</name>
+            <name manufacturer="DuPoint Ultra PM">(CL) Flamer</name>
             <type>energy</type>
             <location index="10">CT</location>
         </equipment>
@@ -290,8 +290,8 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3054</loadout_year>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
         <info>Adder (Puma)  E 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 10 DHS; 1 Flmr, 2 ATM9, 4 McPL</info>
         <battleforce pv="13" wt="1" mv="6" s="6" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1272</battle_value>
@@ -352,7 +352,7 @@
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Adder (Puma)  H 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 16 DHS; 1 Flmr, 2 HLL, TC</info>
         <battleforce pv="15" wt="1" mv="6" s="4" m="3" l="0" e="0" ov="1" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -385,10 +385,80 @@
             <location index="6">RT</location>
         </equipment>
     </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 3</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3125</loadout_year>
+        <info>Adder (Puma)  I 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 15 DHS; 1 Flmr, 2 iHML, 4 ERML, 2 SRM6</info>
+        <battleforce pv="16" wt="1" mv="6" s="5" m="5" l="0" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battle_value>1575</battle_value>
+        <cost>7706812.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LA</location>
+            <location index="4">LT</location>
+            <location index="4">LA</location>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="J" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Adder (Puma)  J 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 10 DHS; 1 Flmr, 1 HAG20, 4 APGR</info>
         <battleforce pv="12" wt="1" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
@@ -442,6 +512,268 @@
             <location index="6">LA</location>
         </equipment>
     </loadout>
+    <loadout name="K" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 3</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3125</loadout_year>
+        <info>Adder (Puma)  K 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 10 DHS; 1 LAMS, 1 Flmr, 1 ERLPL, 1 RAC2</info>
+        <battleforce pv="13" wt="1" mv="6" s="3" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1281</battle_value>
+        <cost>7385812.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Laser Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="L" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 3</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Adder (Puma)  L 35t, 6/9/6, XLFE, ES; 6.0T/97% FF Armor; 10 DHS; 1 ECM, 1 Flmr, 2 ERML, 4 SLRM5</info>
+        <battleforce pv="17" wt="1" mv="6j" s="4" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1738</battle_value>
+        <cost>7776187.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="4">RT</location>
+            <location index="4">LT</location>
+            <location index="5">LT</location>
+            <location index="5">RT</location>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="4">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="S" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 3</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>4</loadout_productionera>
+        <loadout_year>3050</loadout_year>
+        <info>Adder (Puma)  S 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 10 DHS; 1 ECM, 1 Flmr, 1 BAP, 16 MG, 4 MPL</info>
+        <battleforce pv="14" wt="1" mv="6" s="7" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1427</battle_value>
+        <cost>7334187.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Adder (Puma)  T 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 11 DHS; 1 Flmr, 1 CoolPd, 2 ERPPC</info>
+        <battleforce pv="20" wt="1" mv="6" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1981</battle_value>
+        <cost>7730437.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Coolant Pod</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -449,9 +781,9 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional></additional>
+        <additional>Features the following quirks: Narrow/Low Profile; No Torso Twist</additional>
         <jumpjet_model>None</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <commsystem>Trueborn Ultra 945B</commsystem>
+        <tandtsystem>Adder Special V8.6</tandtsystem>
     </fluff>
 </mech>

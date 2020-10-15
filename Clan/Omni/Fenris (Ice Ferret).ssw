@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Ice Ferret (Fenris)" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Fenris (Ice Ferret)" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>1.24997125E7</cost>
     <rules_level>1</rules_level>
@@ -47,7 +47,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <info>Ice Ferret (Fenris) 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS</info>
+        <info>Fenris (Ice Ferret) 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS</info>
         <battleforce pv="7" wt="2" mv="8" s="0" m="0" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
@@ -61,7 +61,7 @@
         <loadout_era>1</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2948</loadout_year>
-        <info>Ice Ferret (Fenris)  Prime 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SSRM2, 1 BAP, 1 ERSL, 1 ERPPC</info>
+        <info>Fenris (Ice Ferret)  Prime 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SSRM2, 1 BAP, 1 ERSL, 1 ERPPC</info>
         <battleforce pv="17" wt="2" mv="8" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1678</battle_value>
         <cost>1.24997125E7</cost>
@@ -98,7 +98,7 @@
         <loadout_era>1</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2948</loadout_year>
-        <info>Ice Ferret (Fenris)  A 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 2 ERML, 1 AMS, 1 LB2</info>
+        <info>Fenris (Ice Ferret)  A 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 2 ERML, 1 AMS, 1 LB2</info>
         <battleforce pv="13" wt="2" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1323</battle_value>
         <cost>1.2329634375E7</cost>
@@ -140,7 +140,7 @@
         <loadout_era>1</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2948</loadout_year>
-        <info>Ice Ferret (Fenris)  B 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERLL, 1 SPL, 1 SRM6, 1 SRM4</info>
+        <info>Fenris (Ice Ferret)  B 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERLL, 1 SPL, 1 SRM6, 1 SRM4</info>
         <battleforce pv="15" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1461</battle_value>
         <cost>1.22923625E7</cost>
@@ -182,7 +182,7 @@
         <loadout_era>1</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2948</loadout_year>
-        <info>Ice Ferret (Fenris)  C 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERSL, 3 LRM5</info>
+        <info>Fenris (Ice Ferret)  C 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERSL, 3 LRM5</info>
         <battleforce pv="12" wt="2" mv="8" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1211</battle_value>
         <cost>1.2591003125E7</cost>
@@ -229,7 +229,7 @@
         <loadout_era>1</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2948</loadout_year>
-        <info>Ice Ferret (Fenris)  D 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 4 MPL, 1 AMS</info>
+        <info>Fenris (Ice Ferret)  D 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 4 MPL, 1 AMS</info>
         <battleforce pv="17" wt="2" mv="8" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1653</battle_value>
         <cost>1.21207375E7</cost>
@@ -271,7 +271,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3056</loadout_year>
-        <info>Ice Ferret (Fenris)  E 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERML, 1 ATM9, 1 ERSL</info>
+        <info>Fenris (Ice Ferret)  E 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 ERML, 1 ATM9, 1 ERSL</info>
         <battleforce pv="15" wt="2" mv="8" s="4" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1483</battle_value>
         <cost>1.22900875E7</cost>
@@ -313,7 +313,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3084</loadout_year>
-        <info>Ice Ferret (Fenris)  F 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 WDCEWS, 2 ERLL</info>
+        <info>Fenris (Ice Ferret)  F 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 WDCEWS, 2 ERLL</info>
         <battleforce pv="18" wt="2" mv="8" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, WAT, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1771</battle_value>
         <cost>1.32243625E7</cost>
@@ -340,7 +340,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3088</loadout_year>
-        <info>Ice Ferret (Fenris)  G 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 LTAG, 4 APGR, 2 ERSPL, 2 SRM4</info>
+        <info>Fenris (Ice Ferret)  G 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 LTAG, 4 APGR, 2 ERSPL, 2 SRM4</info>
         <battleforce pv="12" wt="2" mv="8" s="4" m="4" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1196</battle_value>
         <cost>1.216378125E7</cost>
@@ -407,7 +407,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3061</loadout_year>
-        <info>Ice Ferret (Fenris)  H 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 13 DHS; 1 ERLL, 1 SRM6, 2 HML</info>
+        <info>Fenris (Ice Ferret)  H 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 13 DHS; 1 ERLL, 1 SRM6, 2 HML</info>
         <battleforce pv="16" wt="2" mv="8" s="4" m="4" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1619</battle_value>
         <cost>1.24103625E7</cost>
@@ -448,7 +448,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3099</loadout_year>
-        <info>Ice Ferret (Fenris)  I 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 BlAP, 1 ERSL, 2 SRM6, 2 MPod</info>
+        <info>Fenris (Ice Ferret)  I 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 BlAP, 1 ERSL, 2 SRM6, 2 MPod</info>
         <battleforce pv="11" wt="2" mv="8" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, BH, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <techbase>Mixed</techbase>
         <battle_value>1101</battle_value>
@@ -501,7 +501,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>9</loadout_productionera>
         <loadout_year>3120</loadout_year>
-        <info>Ice Ferret (Fenris)  J 45t, 8/12[16]/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 2 HMG, 10 ERSL, TC</info>
+        <info>Fenris (Ice Ferret)  J 45t, 8/12[16]/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 2 HMG, 10 ERSL, TC</info>
         <battleforce pv="17" wt="2" mv="10" s="7" m="6" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1739</battle_value>
         <cost>1.827720625E7</cost>
@@ -588,7 +588,7 @@
         <loadout_era>3</loadout_era>
         <loadout_productionera>10</loadout_productionera>
         <loadout_year>3135</loadout_year>
-        <info>Ice Ferret (Fenris)  K 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 LAMS, 2 ERML, 1 ERSL, 1 LPL</info>
+        <info>Fenris (Ice Ferret)  K 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 LAMS, 2 ERML, 1 ERSL, 1 LPL</info>
         <battleforce pv="18" wt="2" mv="8" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, AMS, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1769</battle_value>
         <cost>1.2447253125E7</cost>
@@ -625,7 +625,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
-        <info>Ice Ferret (Fenris)  L 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 PC, 3 APGR, TC</info>
+        <info>Fenris (Ice Ferret)  L 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 PC, 3 APGR, TC</info>
         <battleforce pv="14" wt="2" mv="8" s="3" m="3" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA" />
         <battle_value>1380</battle_value>
         <cost>1.2174384375E7</cost>
@@ -682,7 +682,7 @@
         <loadout_era>3</loadout_era>
         <loadout_productionera>10</loadout_productionera>
         <loadout_year>3142</loadout_year>
-        <info>Ice Ferret (Fenris)  T 45t, 8/12[16]/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 iHLL, 1 ERML, 1 BAP, 1 SRM2</info>
+        <info>Fenris (Ice Ferret)  T 45t, 8/12[16]/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 iHLL, 1 ERML, 1 BAP, 1 SRM2</info>
         <battleforce pv="18" wt="2" mv="10" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1825</battle_value>
         <cost>1.93892125E7</cost>
@@ -724,7 +724,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3077</loadout_year>
-        <info>Ice Ferret (Fenris)  U 45t, 8/12/7, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SRT4, 2 ERML, 1 LRT5</info>
+        <info>Fenris (Ice Ferret)  U 45t, 8/12/7, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 SRT4, 2 ERML, 1 LRT5</info>
         <battleforce pv="15" wt="2" mv="8/5u" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1549</battle_value>
         <cost>1.2896025E7</cost>

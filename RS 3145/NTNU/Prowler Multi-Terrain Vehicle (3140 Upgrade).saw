@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Prowler Multi-Terrain Vehicle" model="(3140 Upgrade)" tons="55" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1245</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>5974125.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="Millenium Industries, Defiance Motors, Pinard Protectorate Ltd, Others" location="North America, Terra (Millenium), Tharkad (Defiance), Pinard (PPL), Various (Others)">Inner Sphere</techbase>
+    <year restricted="FALSE">3140</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="true" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="220" manufacturer="Nissan" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="J-Seal" techbase="2">
+        <type>Standard Armor</type>
+        <front>37</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>25</rear>
+        <primaryturret>30</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RS3145NTNU</source>
+        <info>Prowler Multi-Terrain Vehicle (3140 Upgrade) 55t, 4/6, LFE, 9.5T/66% Armor; 10 SHS; 1 InfComp, 1 BAP, 1 MML7, 1 TSEMP, 1 CASE</info>
+        <battleforce pv="12" wt="2" mv="4t" s="1" m="1" l="1" e="0" ov="0" armor="5" internal="3" abilities="PRB, RCN, CASE, TUR(1/1/1)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) TSEMP</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Infantry Compartment</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>4.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Wonder-Talk VI</commsystem>
+        <tandtsystem>J-Peep Farsight</tandtsystem>
+    </fluff>
+</combatvehicle>

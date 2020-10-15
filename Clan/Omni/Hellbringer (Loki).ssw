@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hellbringer (Loki)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.9014656249999996E7</cost>
+    <cost>1.8552156249999996E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Various, Olivetti Weaponry" location="Various, Sudeten">Clan</techbase>
     <year restricted="FALSE">2926</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="2">
+    <structure manufacturer="T-E H65" techbase="2">
         <type>Standard Structure</type>
     </structure>
-    <engine rating="325" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="325" manufacturer="Fusion" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="2">
+    <armor manufacturer="Forging Omni-H24" techbase="2">
         <type>Standard Armor</type>
         <hd>9</hd>
         <ct>17</ct>
@@ -286,7 +286,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Hellbringer (Loki)  C 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 ERLL, 2 ERML, 2 ERSL, 1 ATM6, 1 LB20</info>
         <battleforce pv="21" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="1" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
@@ -363,7 +363,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Hellbringer (Loki)  D 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 4 PC, 4 MPL, 1 McPL, 4 BPod</info>
         <battleforce pv="21" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="3" armor="4" internal="4" abilities="OMNI, ENE, HT2, SRCH, ES, SEAL, SOA" />
@@ -460,7 +460,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Hellbringer (Loki)  E 65t, 5/8/5, XLFE, Std; 8.0T/61% Armor; 13 DHS; 2 ERLL, 1 HAG20, 1 LRM10</info>
         <battleforce pv="23" wt="3" mv="5j" s="4" m="3" l="3" e="0" ov="1" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1, FLK 1/1/1" />
@@ -512,10 +512,126 @@
             <location index="9">LA</location>
         </equipment>
     </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 1</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3054</loadout_year>
+        <info>Hellbringer (Loki)  F 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 4 ERML, 1 SRM6, 2 LB10</info>
+        <battleforce pv="18" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>1839</battle_value>
+        <cost>1.8489156249999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 1</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3112</loadout_year>
+        <info>Hellbringer (Loki)  G 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 iHLL, 3 ERSL, 1 iHGR</info>
+        <battleforce pv="19" wt="3" mv="5" s="5" m="6" l="3" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1943</battle_value>
+        <cost>1.8366921874999996E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Improved Heavy Gauss Rifle</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="10">RT</splitlocation>
+            <splitlocation index="10" number="1">CT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Hellbringer (Loki)  H 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 LRM15, 2 APod, 1 BAP, 1 UAC5, 1 ERPPC, 1 HLL, 4 HSL</info>
         <battleforce pv="20" wt="3" mv="5" s="4" m="3" l="2" e="0" ov="2" armor="4" internal="4" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -599,21 +715,34 @@
             <location index="6">RT</location>
         </equipment>
     </loadout>
-    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3050Uu-C</source>
+    <loadout name="J" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 1</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3054</loadout_year>
-        <info>Hellbringer (Loki)  F 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 4 ERML, 1 SRM6, 2 LB10</info>
-        <battleforce pv="18" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
-        <battle_value>1839</battle_value>
-        <cost>1.8489156249999996E7</cost>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3058</loadout_year>
+        <info>Hellbringer (Loki)  J 65t, 5/8/5, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 SSRM4, 4 ERML, 1 BAP, 1 UAC5, 1 ERPPC, 1 AMS</info>
+        <battleforce pv="24" wt="3" mv="5j" s="4" m="4" l="2" e="0" ov="2" armor="4" internal="4" abilities="OMNI, PRB, RCN, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2415</battle_value>
+        <cost>1.9186093749999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="10">CT</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="3">RT</location>
+            <location index="3">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
@@ -623,96 +752,136 @@
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="7">LA</location>
+            <location index="4">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="7">RA</location>
+            <location index="5">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) LB 10-X AC</name>
+            <name manufacturer="">(CL) Ultra AC/5</name>
             <type>ballistic</type>
             <location index="2">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) LB 10-X AC</name>
-            <type>ballistic</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) SRM-6</name>
+            <name manufacturer="">(CL) Streak SRM-4</name>
             <type>missile</type>
             <location index="2">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
             <type>ammunition</type>
-            <location index="8">RA</location>
+            <location index="3">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
-            <type>ammunition</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">@ SRM-6</name>
-            <type>ammunition</type>
-            <location index="4">RT</location>
-        </equipment>
-    </loadout>
-    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Hellbringer (Loki)  G 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 1 iHLL, 3 ERSL, 1 iHGR</info>
-        <battleforce pv="19" wt="3" mv="5" s="5" m="6" l="3" e="0" ov="0" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <techbase>Mixed</techbase>
-        <battle_value>1943</battle_value>
-        <cost>1.8366921874999996E7</cost>
-        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <equipment>
-            <name manufacturer="">(IS) Improved Heavy Gauss Rifle</name>
-            <type>ballistic</type>
-            <splitlocation index="2" number="10">RT</splitlocation>
-            <splitlocation index="10" number="1">CT</splitlocation>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="3">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="3">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
-            <type>ammunition</type>
-            <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
-            <type>ammunition</type>
-            <location index="3">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
             <type>ammunition</type>
             <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 1</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3143</loadout_year>
+        <info>Hellbringer (Loki)  T 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 17 DHS; 3 ERML, 2 APGR, 2 ERPPC, 1 AMS, 1 ATM6</info>
+        <battleforce pv="24" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="4" internal="4" abilities="OMNI, AMS, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2444</battle_value>
+        <cost>1.8552156249999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">RT</location>
         </equipment>
     </loadout>
     <fluff>
@@ -722,9 +891,9 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional></additional>
+        <additional>Has the following quirks: Searchlight</additional>
         <jumpjet_model>None</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <commsystem>CH2B Alpha-Com</commsystem>
+        <tandtsystem>Version Delta-II TTS(A)</tandtsystem>
     </fluff>
 </mech>

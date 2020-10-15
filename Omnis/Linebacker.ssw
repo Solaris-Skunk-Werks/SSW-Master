@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding ="UTF-8"?>
+﻿<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Linebacker" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.0188734375E7</cost>
+    <cost>2.7997875E7</cost>
     <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>0</productionera>
+    <era>3</era>
+    <productionera>10</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3052</year>
+    <techbase manufacturer="Assault Tech Industries, W-12 Facilities" location="Donegal, Zosma">Clan</techbase>
+    <year restricted="FALSE">3150</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>
@@ -46,7 +46,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3055Uu</source>
+        <source>RGiC 6</source>
         <info>Linebacker 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS</info>
         <battleforce pv="9" wt="3" mv="6" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -59,7 +59,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  Prime 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 SSRM4, 1 ERSL, 1 LRM5, 2 ERPPC</info>
         <battleforce pv="24" wt="3" mv="6" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -106,7 +106,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  A 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 LRM15, 2 ERLL, 2 ERML, 1 LRM5</info>
         <battleforce pv="23" wt="3" mv="6" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -163,7 +163,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  B 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 GR, 3 ERML, 1 ERSL</info>
         <battleforce pv="20" wt="3" mv="6" s="4" m="5" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -210,7 +210,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  C 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 Flmr, 1 ERLL, 4 ERML, 2 MG, 1 UAC5</info>
         <battleforce pv="21" wt="3" mv="6" s="5" m="4" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -277,7 +277,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  D 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 2 ERML, 1 ERSL, 4 SSRM6</info>
         <battleforce pv="20" wt="3" mv="6" s="7" m="7" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -339,7 +339,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Linebacker  E 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 ERLL, 2 ATM6, 1 LAP</info>
         <battleforce pv="18" wt="3" mv="6" s="4" m="3" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
@@ -398,60 +398,10 @@
             <location index="2">RT</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3062</loadout_year>
-        <info>Linebacker  H 65t, 6/9/6, XLFE, ES; 10.0T/91% FF Armor; 15 DHS; 2 ERML, 1 ERSL, 2 HLL</info>
-        <battleforce pv="21" wt="3" mv="6j" s="3" m="3" l="0" e="0" ov="2" armor="6" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2097</battle_value>
-        <cost>2.0752359375E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <jumpjets number="6">
-            <type>Standard Jump Jet</type>
-            <location index="2">RT</location>
-            <location index="3">RT</location>
-            <location index="4">RT</location>
-            <location index="6">LT</location>
-            <location index="4">LT</location>
-            <location index="5">LT</location>
-        </jumpjets>
-        <heatsinks number="15" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="2">LT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="2">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="5">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="7">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="10">CT</location>
-        </equipment>
-    </loadout>
     <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3055Uu</source>
+        <source>RGiC 6</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Linebacker  F 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 15 DHS; 1 NarciOS, 1 ERPPC, 4 SRM6</info>
         <battleforce pv="19" wt="3" mv="6" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
@@ -510,9 +460,9 @@
         </equipment>
     </loadout>
     <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
+        <source>RGiC 6</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
+        <loadout_productionera>10</loadout_productionera>
         <loadout_year>3145</loadout_year>
         <info>Linebacker  G 65t, 6/9[12]/0, XLFE, ES; 10.0T/91% FF Armor; 18 DHS; 2 SSRM2iOS, 2 iHLL, TC</info>
         <battleforce pv="24" wt="3" mv="8" s="4" m="4" l="0" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -556,6 +506,195 @@
             <name manufacturer="">Supercharger</name>
             <type>Supercharger</type>
             <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3055Uu</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Linebacker  H 65t, 6/9/6, XLFE, ES; 10.0T/91% FF Armor; 15 DHS; 2 ERML, 1 ERSL, 2 HLL</info>
+        <battleforce pv="21" wt="3" mv="6j" s="3" m="3" l="0" e="0" ov="2" armor="6" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2097</battle_value>
+        <cost>2.0752359375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="2">RT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
+            <location index="6">LT</location>
+            <location index="4">LT</location>
+            <location index="5">LT</location>
+        </jumpjets>
+        <heatsinks number="15" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 6</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Linebacker  I 65t, 6/9[12]/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 4 MGA+3MG, 1 ERLPL, 1 BAP, 2 MGA+4MG</info>
+        <battleforce pv="19" wt="3" mv="8" s="4" m="2" l="2" e="0" ov="0" armor="6" internal="4" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1853</battle_value>
+        <cost>2.7997875E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (4 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (4 Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 6</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Linebacker  T 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 Flmr, 1 SSRM4, 2 PC, 1 BAP, 1 SLRM5</info>
+        <battleforce pv="19" wt="3" mv="6" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, PRB, RCN, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1851</battle_value>
+        <cost>2.086021875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
         </equipment>
     </loadout>
     <fluff>

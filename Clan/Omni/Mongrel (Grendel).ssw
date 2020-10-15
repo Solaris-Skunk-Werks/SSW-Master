@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding ="UTF-8"?>
+﻿<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mongrel (Grendel)" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.24018375E7</cost>
+    <cost>1.249265E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -347,6 +347,120 @@
             <type>ammunition</type>
             <location index="7">RT</location>
         </equipment>
+    </loadout>    
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Mongrel (Grendel)  F 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 2 PC, 1 ATM6</info>
+        <battleforce pv="20" wt="2" mv="7j" s="4" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1997</battle_value>
+        <cost>1.2851259375E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3090</loadout_year>
+        <info>Mongrel (Grendel)  G 45t, 7/11[14]/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 WDCEWS, 4 MPL, 5 McPL</info>
+        <battleforce pv="22" wt="2" mv="9/7j" s="4" m="3" l="0" e="0" ov="1" armor="5" internal="2" abilities="OMNI, WAT, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2209</battle_value>
+        <cost>1.8534625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
     </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
@@ -397,51 +511,178 @@
             <location index="6">RT</location>
         </equipment>
     </loadout>
-    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3069</loadout_year>
-        <info>Mongrel (Grendel)  F 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 2 PC, 1 ATM6</info>
-        <battleforce pv="20" wt="2" mv="7j" s="4" m="3" l="3" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
-        <battle_value>1997</battle_value>
-        <cost>1.2851259375E7</cost>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Mongrel (Grendel)  I 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 PR, 1 PrmAC4, 1 ERML</info>
+        <battleforce pv="17" wt="2" mv="7j" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1675</battle_value>
+        <cost>1.2162809375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
-            <name manufacturer="">(CL) ATM-6</name>
+            <name manufacturer="">(CL) Protomech AC/4</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/4</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Mongrel (Grendel)  J 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 2 iHSL, 1 ERSPL, 3 SSRM6</info>
+        <battleforce pv="18" wt="2" mv="7j" s="5" m="4" l="0" e="0" ov="1" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1811</battle_value>
+        <cost>1.2395571875E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
             <type>missile</type>
             <location index="3">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Plasma Cannon</name>
-            <type>energy</type>
-            <location index="3">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Plasma Cannon</name>
-            <type>energy</type>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
             <location index="2">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
-            <type>ammunition</type>
-            <location index="5">RA</location>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
             <type>ammunition</type>
             <location index="4">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-6</name>
-            <type>ammunition</type>
-            <location index="6">RT</location>
+            <name manufacturer="">(CL) ER Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+    </loadout>
+    <loadout name="M" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3085</loadout_year>
+        <info>Mongrel (Grendel)  M 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 ERLL, 1 RAC2</info>
+        <battleforce pv="17" wt="2" mv="7j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1744</battle_value>
+        <cost>1.2290571875E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
             <type>ammunition</type>
-            <location index="7">RT</location>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Mongrel (Grendel)  T 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 2 iHML, 1 ERSL, 1 SRM6, 1 HSL, 1 LPL</info>
+        <battleforce pv="19" wt="2" mv="7j" s="4" m="3" l="1" e="0" ov="2" armor="5" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1931</battle_value>
+        <cost>1.249265E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">RT</location>
+            <location index="3">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
         </equipment>
     </loadout>
     <fluff>

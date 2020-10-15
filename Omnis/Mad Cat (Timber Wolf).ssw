@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding ="UTF-8"?>
+﻿<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mad Cat (Timber Wolf)" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\timberwolf.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.41606875E7</cost>
+    <cost>2.583640625E7</cost>
     <rules_level>1</rules_level>
-    <era>1</era>
-    <productionera>0</productionera>
+    <era>3</era>
+    <productionera>7</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">2945</year>
+    <year restricted="FALSE">3068</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>
@@ -46,7 +46,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3050Uu-C</source>
+        <source>BD:BH</source>
         <info>Mad Cat (Timber Wolf) 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS</info>
         <battleforce pv="11" wt="3" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="8" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -377,7 +377,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Mad Cat (Timber Wolf)  E 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 18 DHS; 1 LTAG, 2 ERLL, 2 ATM9</info>
         <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="4" e="0" ov="0" armor="8" internal="4" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
@@ -450,7 +450,7 @@
     <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Mad Cat (Timber Wolf)  F 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 ERLL, 3 ERML, 3 APGR, 2 LRM20</info>
         <battleforce pv="28" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
@@ -532,7 +532,7 @@
     <loadout name="H" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Mad Cat (Timber Wolf)  H 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 18 DHS; 1 ERSL, 2 HLL, 2 LRM20</info>
         <battleforce pv="26" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
@@ -592,10 +592,162 @@
             <location index="8">LT</location>
         </equipment>
     </loadout>
+    <loadout name="M" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 5</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Cat (Timber Wolf)  M 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 4 LRM5, 1 Hflmr, 2 ERPPC, 1 LPL</info>
+        <battleforce pv="27" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="2" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2741</battle_value>
+        <cost>2.3642703125E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Heavy Flamer</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Flamer</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="N" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Cat (Timber Wolf)  N 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 LRM15, 4 MG, 2 MPL, 2 ERPPC</info>
+        <battleforce pv="29" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battle_value>2862</battle_value>
+        <cost>2.404315625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="S" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>1</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Mad Cat (Timber Wolf)  S 75t, 5/8/5, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 MG, 1 ERSL, 4 SRM6, 2 MPL, 1 LPL</info>
         <battleforce pv="25" wt="3" mv="5j" s="6" m="6" l="1" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 3/3/0" />
@@ -691,113 +843,36 @@
             <location index="7">RA</location>
         </equipment>
     </loadout>
-    <loadout name="(Bounty Hunter)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3060</loadout_year>
-        <info>Mad Cat (Timber Wolf)  (Bounty Hunter) 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 1 LTAG, 1 ECM, 1 BAP, 4 MPL, 2 LPL, TC</info>
-        <battleforce pv="28" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="0" armor="8" internal="4" abilities="OMNI, ECM, PRB, RCN, LTAG, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2829</battle_value>
-        <cost>2.37365625E7</cost>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RGiC 5</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Cat (Timber Wolf)  T 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 iHML, 2 ERML, 2 ERSL, 1 ERSPL, 2 LRM20</info>
+        <battleforce pv="27" wt="3" mv="5" s="7" m="7" l="3" e="0" ov="2" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battle_value>2714</battle_value>
+        <cost>2.583640625E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
-        <heatsinks number="16" techbase="1">
+        <heatsinks number="17" techbase="1">
             <type>Double Heat Sink</type>
-            <location index="2">LT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
-            <location index="3">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
             <location index="3">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="5">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="2">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">ECM Suite</name>
-            <type>equipment</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Active Probe</name>
-            <type>equipment</type>
-            <location index="5">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Light TAG</name>
-            <type>equipment</type>
-            <location index="10">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="4">RT</location>
-        </equipment>
-    </loadout>
-    <loadout name="(Pryde)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3052</loadout_year>
-        <info>Mad Cat (Timber Wolf)  (Pryde) 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERML, 1 ERSL, 2 LRM20</info>
-        <battleforce pv="29" wt="3" mv="5/3j" s="4" m="4" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
-        <battle_value>2900</battle_value>
-        <cost>2.4543046875E7</cost>
-        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <jumpjets number="4">
-            <type>Standard Jump Jet</type>
-            <location index="2">RT</location>
-            <location index="2">LT</location>
-            <location index="3">RT</location>
-            <location index="3">LT</location>
-        </jumpjets>
-        <heatsinks number="16" techbase="1">
-            <type>Double Heat Sink</type>
             <location index="3">LA</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(CL) ER Large Laser</name>
+            <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="5">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Large Laser</name>
-            <type>energy</type>
-            <location index="3">RA</location>
+            <location index="7">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="6">LA</location>
+            <location index="7">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
+            <name manufacturer="">(CL) ER Small Laser</name>
             <type>energy</type>
-            <location index="4">RA</location>
+            <location index="8">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Small Laser</name>
@@ -805,30 +880,65 @@
             <location index="10">CT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) LRM-20</name>
-            <type>missile</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) LRM-20</name>
-            <type>missile</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-20</name>
-            <type>ammunition</type>
-            <location index="8">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-20</name>
-            <type>ammunition</type>
+            <name manufacturer="">(CL) ER Small Pulse Laser</name>
+            <type>energy</type>
             <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
         </equipment>
     </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Mad Cat (Timber Wolf)  U 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERMcL, 3 HrJl, 2 LRT15</info>
         <battleforce pv="26" wt="3" mv="5/3u" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="4" abilities="UMU, OMNI, BHJ, CASE, SRCH, ES, SEAL, SOA" />
@@ -903,14 +1013,86 @@
             <location index="8">RT</location>
         </equipment>
     </loadout>
+    <loadout name="W" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source></source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Cat (Timber Wolf)  W 75t, 5/8[10]/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERML, 1 ERSL, 2 SSRM6, 1 UAC20</info>
+        <battleforce pv="28" wt="3" mv="6" s="7" m="7" l="0" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2791</battle_value>
+        <cost>3.188009375E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>WoRS</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Mad Cat (Timber Wolf)  Z 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERLL, 1 NCEWS, 2 iATM9, 2 ERMPL</info>
-        <battleforce pv="29" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2923</battle_value>
+        <battleforce pv="30" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3003</battle_value>
         <cost>2.81078125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
@@ -970,10 +1152,76 @@
             <location index="7">RT</location>
         </equipment>
     </loadout>
+    <loadout name="(Bounty Hunter)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
+        <info>Mad Cat (Timber Wolf)  (Bounty Hunter) 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 1 LTAG, 1 ECM, 1 BAP, 4 MPL, 2 LPL, TC</info>
+        <battleforce pv="28" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="0" armor="8" internal="4" abilities="OMNI, ECM, PRB, RCN, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2829</battle_value>
+        <cost>2.37365625E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="(Bounty Hunter 2)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BD:BH</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Mad Cat (Timber Wolf)  (Bounty Hunter 2) 75t, 5/8/3, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 3 SSRM4, 1 CoolPd, 2 ERML, 1 ERSL, 2 APGR, 3 SRM4, 1 LPL, TC</info>
         <battleforce pv="28" wt="3" mv="5/2j" s="6" m="6" l="1" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
@@ -1071,6 +1319,74 @@
             <name manufacturer="">(CL) Targeting Computer</name>
             <type>TargetingComputer</type>
             <location index="6">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="(Pryde)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
+        <info>Mad Cat (Timber Wolf)  (Pryde) 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERML, 1 ERSL, 2 LRM20</info>
+        <battleforce pv="29" wt="3" mv="5/3j" s="4" m="4" l="3" e="0" ov="1" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battle_value>2900</battle_value>
+        <cost>2.4543046875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="3">RT</location>
+            <location index="3">LT</location>
+        </jumpjets>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
         </equipment>
     </loadout>
     <fluff>
