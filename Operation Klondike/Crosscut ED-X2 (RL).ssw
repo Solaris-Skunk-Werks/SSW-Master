@@ -5,10 +5,10 @@
     <cost>1039525.0</cost>
     <rules_level>3</rules_level>
     <era>1</era>
-    <productionera>0</productionera>
+    <productionera>2</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">2802</year>
+    <year restricted="FALSE">2810</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>
@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
-        <info>Crosscut LoggerMech ED-X2 (RL) 30t, 3/5/0, ICE, Ind; 4.0T/61% Armor; 3 SHS; 1 LftHst, 8 RL10-PP</info>
+        <info>Crosscut ED-X2 (RL) 30t, 3/5/0, ICE, Ind; 4.0T/61% Armor; 3 SHS; 1 LftHst, 8 RL10-PP</info>
         <battleforce pv="4" wt="1" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="3" abilities="SRCH, EE" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Scarecrow" model="UCU-F4" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1431</battle_value>
-    <cost>7324816.666666667</cost>
+    <battle_value>1475</battle_value>
+    <cost>8164816.666666667</cost>
     <rules_level>3</rules_level>
     <era>2</era>
-    <productionera>7</productionera>
+    <productionera>8</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3099</year>
+    <year restricted="TRUE">3099</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Composite</type>
@@ -41,8 +41,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145u</source>
-        <info>Scarecrow UCU-F4 40t, 5/8/3, XLFE, E-Comp, Cmp Gyro; 8.0T/93% Armor; 10 DHS; 1 BlAP, 3 ERML, 2 ERFlmr, 2 MPL, 2 MGA+4LMG, 2 BPod</info>
-        <battleforce pv="14" wt="2" mv="5/2j" s="3" m="3" l="0" e="0" ov="2" armor="4" internal="1" abilities="BH, RCN, CASEII, SRCH, ES, SEAL, SOA" />
+        <info>Scarecrow UCU-F4 40t, 5/8/3, XLFE, E-Comp, Cmp Gyro; 8.0T/93% Armor; 10 DHS; 1 BlAP, 3 ERML, 2 ERFlmr, 2 MPL, 2 MGA+4LMG, 2 BPod, CLPS</info>
+        <battleforce pv="15" wt="2" mv="5/2j" s="3" m="3" l="0" e="0" ov="2" armor="4" internal="1" abilities="ECM, STL, BH, RCN, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">
@@ -57,6 +57,14 @@
             <location index="3">RT</location>
             <location index="3">LT</location>
         </heatsinks>
+        <multislot name="Chameleon LPS">
+            <location index="5">LL</location>
+            <location index="5">RL</location>
+            <location index="11">LT</location>
+            <location index="11">RT</location>
+            <location index="11">LA</location>
+            <location index="11">RA</location>
+        </multislot>
         <equipment>
             <name manufacturer="">ER Flamer</name>
             <type>energy</type>

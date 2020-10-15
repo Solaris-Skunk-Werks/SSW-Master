@@ -6,9 +6,9 @@
     <cost>126000.0</cost>
     <rules_level>1</rules_level>
     <era>0</era>
-    <productionera>0</productionera>
+    <productionera>1</productionera>
     <techbase manufacturer="Various" location="Various">Inner Sphere</techbase>
-    <year restricted="FALSE">2300</year>
+    <year restricted="FALSE">2620</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />

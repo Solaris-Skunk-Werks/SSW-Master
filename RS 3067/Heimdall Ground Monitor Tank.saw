@@ -2,12 +2,12 @@
 <combatvehicle name="Heimdall Ground Monitor Tank" model="" tons="95" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>2.213609375E7</cost>
+    <cost>2.168759375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>7</productionera>
     <techbase manufacturer="WC Site 4" location="">Clan</techbase>
-    <year restricted="FALSE">3075</year>
+    <year restricted="FALSE">3092</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,10 @@
         <rotor>0</rotor>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.5" >
-        <source>RS3067u</source>
-        <info>Heimdall Ground Monitor Tank 95t, 3/5, XLFE, 22.0T/95% Armor; 12 SHS; 1 HAG20, 3 MPL, 2 LB10, 1 CASE</info>
-        <battleforce pv="21" wt="4" mv="3t" s="5" m="5" l="3" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(3/3/2, FLK 1/1/1), FLK 3/2/2" />
-        <heatsinks number="12" techbase="2">
+        <source>RS3145NTNU</source>
+        <info>Heimdall Ground Monitor Tank 95t, 3/5, XLFE, 22.0T/95% Armor; 10 SHS; 2 LB10, 1 CASE</info>
+        <battleforce pv="14" wt="4" mv="3t" s="2" m="2" l="2" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(), FLK 1/1/1" />
+        <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
         <equipment>
@@ -39,26 +39,6 @@
             <name manufacturer="Type KOV">(CL) LB 10-X AC</name>
             <type>ballistic</type>
             <location>Front</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location>Front</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
-            <type>ballistic</type>
-            <location>Turret</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
@@ -80,31 +60,16 @@
             <type>CASE</type>
             <location>Body</location>
         </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3063</loadout_year>
-        <info>Heimdall Ground Monitor Tank  Prime 95t, 3/5, XLFE, 22.0T/95% Armor; 18 SHS; 3 SSRM4, 1 HLL, 2 LB10, 1 CASE</info>
+        <info>Heimdall Ground Monitor Tank  Prime 95t, 3/5, XLFE, 22.0T/95% Armor; 18 SHS; 3 SSRM4, 1 HLL, 2 LB10, 2 CASE</info>
         <battleforce pv="19" wt="4" mv="3t" s="6" m="6" l="2" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(4/4/0), FLK 1/1/1" />
         <battle_value>1943</battle_value>
-        <cost>2.209109375E7</cost>
+        <cost>2.221296875E7</cost>
         <heatsinks number="18" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -150,14 +115,14 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3063</loadout_year>
-        <info>Heimdall Ground Monitor Tank  A 95t, 3/5, XLFE, 22.0T/95% Armor; 10 SHS; 2 LB10, 1 CASE, 2 ATM12, 1 HML</info>
+        <info>Heimdall Ground Monitor Tank  A 95t, 3/5, XLFE, 22.0T/95% Armor; 10 SHS; 2 LB10, 2 CASE, 2 ATM12, 1 HML</info>
         <battleforce pv="22" wt="4" mv="3t" s="9" m="7" l="4" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(7/5/2), FLK 1/1/1" />
         <battle_value>2244</battle_value>
-        <cost>2.302259375E7</cost>
+        <cost>2.314446875E7</cost>
         <equipment>
             <name manufacturer="">(CL) Heavy Medium Laser</name>
             <type>energy</type>
@@ -210,14 +175,14 @@
         </equipment>
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
-        <info>Heimdall Ground Monitor Tank  B 95t, 3/5, XLFE, 22.0T/95% Armor; 10 SHS; 3 LRM20, 2 LB10, 1 CASE</info>
+        <info>Heimdall Ground Monitor Tank  B 95t, 3/5, XLFE, 22.0T/95% Armor; 10 SHS; 3 LRM20, 2 LB10, 2 CASE</info>
         <battleforce pv="23" wt="4" mv="3t" s="5" m="5" l="5" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(4/4/4, LRM 4/4/4, IF 4/4/4), LRM 4/4/4, IF 4, FLK 1/1/1" />
         <battle_value>2254</battle_value>
-        <cost>2.263071875E7</cost>
+        <cost>2.275259375E7</cost>
         <equipment>
             <name manufacturer="">(CL) LRM-20</name>
             <type>missile</type>
@@ -270,14 +235,14 @@
         </equipment>
     </loadout>
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3075</loadout_year>
-        <info>Heimdall Ground Monitor Tank  C 95t, 3/5, XLFE, 22.0T/95% Armor; 12 SHS; 1 HAG20, 3 MPL, 2 LB10</info>
-        <battleforce pv="21" wt="4" mv="3t" s="5" m="5" l="3" e="0" ov="0" armor="12" internal="5" abilities="OMNI, TUR(3/3/2, FLK 1/1/1), FLK 3/2/2" />
+        <info>Heimdall Ground Monitor Tank  C 95t, 3/5, XLFE, 22.0T/95% Armor; 12 SHS; 1 HAG20, 3 MPL, 2 LB10, 1 CASE</info>
+        <battleforce pv="21" wt="4" mv="3t" s="5" m="5" l="3" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(3/3/2, FLK 1/1/1), FLK 3/2/2" />
         <battle_value>2131</battle_value>
-        <cost>2.201421875E7</cost>
+        <cost>2.213609375E7</cost>
         <heatsinks number="12" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -317,11 +282,64 @@
             <location>Body</location>
         </equipment>
     </loadout>
+    <loadout name="D" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145NTNU</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3092</loadout_year>
+        <info>Heimdall Ground Monitor Tank  D 95t, 3/5, XLFE, 22.0T/95% Armor; 15 SHS; 3 ERML, 2 LCL, 2 LB10, 1 CASE</info>
+        <battleforce pv="20" wt="4" mv="3t" s="5" m="5" l="2" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(4/4/0), FLK 1/1/1" />
+        <battle_value>1990</battle_value>
+        <cost>2.168759375E7</cost>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
     <fluff>
-        <overview></overview>
+        <overview>:tab:Clan Wolf created this monster of a tank as a line-holder, not for long operations without constant resupply. Originally designed with a standard fusion engine, it was upgraded with an XL after Khan Phelan Kell’s Wolves captured design specs on the new ATM system and decided to incorporate them in their first variant (a possible explanation why Configuration A is more popular within the Wolf military).:br::tab:Although designed as an OmniVehicle, the exiled Wolves made a controversial decision to permanently mount two massive weapons. Some critics believe that this is due to their still-limited facilities on Arc-Royal. Others maintain that the Heimdall was not originally meant to be an OmniVehicle at all. By the time Clan scientists saw the potential of the Advanced Tactical Missile System, it was too late to change this feature.</overview>
+        <capabilities>:tab:The Heimdall boasts an XL fusion engine, traditionally uncommon for any vehicle and exceptionally so for a Clan design. This powerplant is what allows for such a heavy weapons load-out and an impressive twenty-two tons of Royal-7 armor. Two massive LB-X autocannons are permanently mounted in the front, feeding out of a large munitions bin protected within the vehicle’s body. Twenty-one tons of additional pod space, fifteen of that in its massive turret, allows the Heimdall to threaten BattleMechs as well as other assault tanks.:br::tab:The Heimdall’s primary configuration mounts a heavy large laser and three Streak-4 SRMs in the turret. The SRM ammunition and additional heat sinks are buried within the belly of the beast, well protected.:br::tab:The A configuration downgrades the heavy laser to a medium. It also places two ATM-12 racks in the turret in exchange for the short-range missiles of the primary variant. Six tons of ammo for the Advanced Tactical Missile System provide barely adequate stores, however.</capabilities>
         <battlehistory></battlehistory>
-        <battlehistory></battlehistory>
-        <deployment></deployment>
+        <deployment>:tab:Clan Wolf (in-Exile) is the only Clan to currently field the Heimdall, although a few were captured by Clan Jade Falcon on Melissia during the Falcon offensive of 3064. Two more of this design were also seen deployed with the Kell Hounds First Regiment, though all indications are that Clan warriors were still in possession of the tank and were simply training alongside the mercenaries. Likewise, rumors abound that the Steel Vipers are testing a version of this tank on Vinton, but to date no one has received confirmation of these reports.</deployment>
         <variants></variants>
         <notables></notables>
         <additional></additional>

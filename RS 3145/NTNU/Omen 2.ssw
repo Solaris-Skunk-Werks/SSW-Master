@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Omen" model="2" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2312</battle_value>
-    <cost>1.748795E7</cost>
+    <battle_value>2378</battle_value>
+    <cost>1.881995E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>8</productionera>
@@ -34,8 +34,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <info>Omen 2 85t, 3/5/3, XLFE, Std; 16.5T/100% Armor; 15 DHS; 1 HrJlIII, 1 ERML, 1 ATM9, 1 MPL, 1 LB10, 1 AMS, 1 LPL</info>
-        <battleforce pv="23" wt="4" mv="3j" s="6" m="5" l="3" e="0" ov="0" armor="9" internal="5" abilities="AMS, , CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <info>Omen 2 85t, 3/5/3, XLFE, Std; 16.5T/100% Armor; 15 DHS; 3 HrJl3, 1 ERML, 1 ATM9, 1 MPL, 1 LB10, 1 AMS, 1 LPL</info>
+        <battleforce pv="24" wt="4" mv="3j" s="6" m="5" l="3" e="0" ov="0" armor="9" internal="5" abilities="AMS, BHJ3, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">
@@ -117,6 +117,16 @@
             <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
             <type>ammunition</type>
             <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="6">RT</location>
         </equipment>
     </baseloadout>
     <fluff>

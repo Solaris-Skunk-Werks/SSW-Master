@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Crosscut" model="ED-X2 (Flamer)" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>248</battle_value>
-    <cost>956137.5</cost>
+    <battle_value>168</battle_value>
+    <cost>937325.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>0</productionera>
+    <productionera>2</productionera>
     <mech_type>IndustrialMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">2802</year>
+    <year restricted="FALSE">2810</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Industrial Structure</type>
@@ -19,7 +19,7 @@
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
     </cockpit>
     <armor manufacturer="Unknown" techbase="2">
-        <type>Industrial Armor</type>
+        <type>Commercial Armor</type>
         <hd>6</hd>
         <ct>8</ct>
         <ctr>3</ctr>
@@ -34,8 +34,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
-        <info>Crosscut LoggerMech ED-X2 (Flamer) 30t, 3/5/0, ICE, Ind; 5.0T/50% Ind. Armor; 1 SHS; 2 StndrdCrgo, 1 Vflmr, 1 ChnSw</info>
-        <battleforce pv="2" wt="1" mv="3" s="1" m="0" l="0" e="0" ov="0" armor="2" internal="3" abilities="MEL, SAW, ENE, SRCH, EE" />
+        <info>Crosscut ED-X2 (Flamer) 30t, 3/5/0, ICE, Ind; 2.5T/50% Cmrcl Armor; 1 SHS; 2 StndrdCrgo, 1 Vflmr, 1 ChnSw</info>
+        <battleforce pv="2" wt="1" mv="3" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="3" abilities="MEL, SAW, ENE, SRCH, EE" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="1" techbase="2">

@@ -8,7 +8,7 @@
     <era>1</era>
     <productionera>3</productionera>
     <techbase manufacturer="Galtor Naval Yards" location="Exeter, Galtor">Inner Sphere</techbase>
-    <year restricted="FALSE">2950</year>
+    <year restricted="FALSE">2955</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />

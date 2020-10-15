@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dig Lord" model="RCL-4 MiningMech" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>597</battle_value>
-    <cost>2463281.25</cost>
+    <battle_value>599</battle_value>
+    <cost>2460781.25</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -78,11 +78,6 @@
             <location index="3">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Fluid Gun (Coolant)</name>
-            <type>ammunition</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
             <type>ammunition</type>
             <location index="5">LT</location>
@@ -126,6 +121,11 @@
             <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
             <type>ammunition</type>
             <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
         </equipment>
     </baseloadout>
     <fluff>

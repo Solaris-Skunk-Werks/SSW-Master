@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<combatvehicle name="Epona Persuit Tank" model="" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+<combatvehicle name="Epona Pursuit Tank" model="" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Hovercraft" cruise="9" turret="Single Turret" />
     <cost>3525666.666666666</cost>

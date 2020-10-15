@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mad Cat Mk II" model="6" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2535</battle_value>
-    <cost>2.39153E7</cost>
+    <battle_value>2655</battle_value>
+    <cost>2.80193E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>8</productionera>
@@ -48,8 +48,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <info>Mad Cat Mk II 6 90t, 4/6/4, XLFE, ES; 13.0T/89% FF Armor; 14 DHS; 1 HrJlIII, 4 ERML, 2 ERPPC</info>
-        <battleforce pv="25" wt="4" mv="4j" s="4" m="4" l="2" e="0" ov="2" armor="8" internal="5" abilities=", ENE, SRCH, ES, SEAL, SOA" />
+        <info>Mad Cat Mk II 6 90t, 4/6/4, XLFE, ES; 13.0T/89% FF Armor; 14 DHS; 7 HrJl3, 4 ERML, 2 ERPPC</info>
+        <battleforce pv="27" wt="4" mv="4j" s="4" m="4" l="2" e="0" ov="2" armor="8" internal="5" abilities="BHJ3, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
@@ -97,6 +97,36 @@
             <name manufacturer="">(CL) ER PPC</name>
             <type>energy</type>
             <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="4">LL</location>
         </equipment>
     </baseloadout>
     <fluff>

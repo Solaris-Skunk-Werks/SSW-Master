@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Kodiak II" model="2" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>3002</battle_value>
-    <cost>1.1608866666666667E8</cost>
+    <battle_value>3142</battle_value>
+    <cost>1.1752866666666667E8</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>8</productionera>
+    <productionera>9</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
     <year restricted="FALSE">3118</year>
@@ -41,8 +41,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145u</source>
-        <info>Kodiak II 2 100t, 4/6/0, XXLFE, ES; 19.0T/99% Armor; 16 DHS; 1 HrJlIII, 2 SLRM20, 8 ERSL, 1 ERPPC, TC</info>
-        <battleforce pv="30" wt="4" mv="4" s="9" m="9" l="5" e="0" ov="2" armor="10" internal="4" abilities=", CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <info>Kodiak II 2 100t, 4/6/0, XXLFE, ES; 19.0T/99% Armor; 16 DHS; 3 HrJl3, 2 SLRM20, 8 ERSL, 1 ERPPC, TC</info>
+        <battleforce pv="31" wt="4" mv="4" s="9" m="9" l="5" e="0" ov="2" armor="10" internal="4" abilities="BHJ3, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">
@@ -128,6 +128,16 @@
             <name manufacturer="">HarJel III</name>
             <type>equipment</type>
             <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">HarJel III</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) CASE II</name>

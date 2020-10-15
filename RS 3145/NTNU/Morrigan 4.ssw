@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Morrigan" model="4" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2056</battle_value>
-    <cost>6887205.000000001</cost>
+    <battle_value>2063</battle_value>
+    <cost>6954705.000000001</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>8</productionera>
+    <productionera>9</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
     <year restricted="FALSE">3111</year>
@@ -51,7 +51,7 @@
         <info>Morrigan 4 35t, 8/12/0, XLFE, ES; 6.0T/97% FF Armor; 12 DHS; 10 ERSL, 1 TSEMP</info>
         <battleforce pv="21" wt="1" mv="8" s="5" m="5" l="0" e="0" ov="0" armor="4" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
-        <clancase>FALSE</clancase>
+        <clancase>TRUE</clancase>
         <heatsinks number="12" techbase="1">
             <type>Double Heat Sink</type>
 

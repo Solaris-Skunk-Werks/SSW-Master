@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dark Crow" model="3" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1635</battle_value>
-    <cost>4.283498E7</cost>
+    <battle_value>1681</battle_value>
+    <cost>4.298998E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -50,8 +50,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-CE</source>
-        <info>Dark Crow 3 55t, 6/9/6[8], XXLFE, E-Comp; 8.0T/61% FL Armor; 10 DHS; 2 RAC2, 1 LqdCrgo, 2 HML, PartWing</info>
-        <battleforce pv="16" wt="2" mv="6/8j" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <info>Dark Crow 3 55t, 6/9/6[8], XXLFE, E-Comp; 8.0T/61% FL Armor; 10 DHS; 2 iHML, 2 RAC2, 1 LqdCrgo, PartWing</info>
+        <battleforce pv="17" wt="2" mv="6/8j" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">
@@ -79,16 +79,6 @@
             <location index="2">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="8">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="8">LT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">Cargo, Liquid</name>
             <type>equipment</type>
             <tons>1.0</tons>
@@ -103,6 +93,16 @@
             <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
             <type>ammunition</type>
             <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
         </equipment>
     </baseloadout>
     <fluff>
