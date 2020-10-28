@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <combatvehicle name="Heimdall Ground Monitor Tank" model="" tons="95" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>2.168759375E7</cost>
+    <cost>2.221296875E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>7</productionera>
     <techbase manufacturer="WC Site 4" location="">Clan</techbase>
-    <year restricted="FALSE">3092</year>
+    <year restricted="FALSE">3063</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,7 +24,7 @@
         <rotor>0</rotor>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.5" >
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <info>Heimdall Ground Monitor Tank 95t, 3/5, XLFE, 22.0T/95% Armor; 10 SHS; 2 LB10, 1 CASE</info>
         <battleforce pv="14" wt="4" mv="3t" s="2" m="2" l="2" e="0" ov="0" armor="12" internal="5" abilities="OMNI, CASE, TUR(), FLK 1/1/1" />
         <heatsinks number="10" techbase="2">
@@ -62,7 +62,7 @@
         </equipment>
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3063</loadout_year>
@@ -115,7 +115,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3063</loadout_year>
@@ -175,7 +175,7 @@
         </equipment>
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
@@ -235,7 +235,7 @@
         </equipment>
     </loadout>
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3075</loadout_year>

@@ -2,12 +2,12 @@
 <combatvehicle name="Ajax Assault Tank" model="" tons="90" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>1.84724375E7</cost>
+    <cost>1.90171875E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
     <techbase manufacturer="General Motors, GM/Blackwell Industries" location="Kathil, Salem, New Valencia (GM/Blackwell)">Inner Sphere</techbase>
-    <year restricted="FALSE">3075</year>
+    <year restricted="FALSE">3065</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -351,7 +351,7 @@
     </loadout>
     <fluff>
         <overview></overview>
-        <battlehistory></battlehistory>
+        <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>

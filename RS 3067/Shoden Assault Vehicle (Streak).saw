@@ -114,8 +114,8 @@
     </baseloadout>
     <fluff>
         <overview></overview>
+        <capabilities></capabilities>
         <battlehistory></battlehistory>
-        <battlehistory>:tab:The Shoden Assault Vehicle was designed from the ground up to incorporate the Advanced Tactical Missile System: a new, devastatingly powerful Clan offensive weapon developed by Clan Coyote and acquired through dealings with Clan Diamond Shark. Mounting an impressive rack of three ATM 9 launchers in a turret, the Shoden can reach out over eight hundred meters of range with horrific firepower. With over nine tons of ammo, it can fully utilize the special munitions that make the system so powerful.:br::br::tab:Almost as an after thought, several light machine guns are mounted in fixed positions—two to the front and one each in the left and right sides—for point blank defense.</battlehistory>
         <deployment></deployment>
         <variants></variants>
         <notables></notables>

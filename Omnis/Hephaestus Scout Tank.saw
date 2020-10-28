@@ -2,12 +2,12 @@
 <combatvehicle name="Hephaestus Scout Tank" model="" tons="30" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
-    <cost>2118000.0</cost>
+    <cost>1995000.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>6</productionera>
     <techbase manufacturer="Niles Industriplex Beta" location="">Clan</techbase>
-    <year restricted="FALSE">3071</year>
+    <year restricted="FALSE">3064</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -230,7 +230,7 @@
     </loadout>
     <fluff>
         <overview></overview>
-        <battlehistory></battlehistory>
+        <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>

@@ -109,7 +109,7 @@
     </baseloadout>
     <fluff>
         <overview></overview>
-        <battlehistory></battlehistory>
+        <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>

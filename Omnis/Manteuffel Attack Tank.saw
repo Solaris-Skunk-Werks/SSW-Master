@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <combatvehicle name="Manteuffel Attack Tank" model="" tons="70" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <motive type="Tracked" cruise="5" turret="Single Turret" />
-    <cost>1.4717395833333332E7</cost>
+    <cost>1.6825270833333332E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>8</productionera>
     <techbase manufacturer="StarCorps Industries" location="Crofton, Loburg, Son Hoa">Inner Sphere</techbase>
-    <year restricted="FALSE">3087</year>
+    <year restricted="FALSE">3062</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,7 +24,7 @@
         <rotor>0</rotor>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.5" >
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <info>Manteuffel Attack Tank 70t, 5/8, XLFE, 11.5T/72% FF Armor; 10 SHS; 1 CASE</info>
         <battleforce pv="7" wt="3" mv="5t" s="0" m="0" l="0" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ENE, TUR()" />
         <heatsinks number="10" techbase="2">
@@ -37,7 +37,7 @@
         </equipment>
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
@@ -95,7 +95,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
@@ -155,7 +155,7 @@
         </equipment>
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
@@ -205,7 +205,7 @@
         </equipment>
     </loadout>
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
@@ -250,7 +250,7 @@
         </equipment>
     </loadout>
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RS3145NTNU</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3075</loadout_year>

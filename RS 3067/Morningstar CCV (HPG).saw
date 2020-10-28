@@ -3,7 +3,7 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>458</battle_value>
     <motive type="Wheeled" cruise="5" turret="No Turret" />
-    <cost>6073650.0</cost>
+    <cost>5.20609965E9</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>7</productionera>
@@ -26,9 +26,9 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3067</source>
-        <info>Morningstar CCV (HPG) 60t, 5/8, XLFE, 7.5T/48% Armor; 10 SHS; 3 MSGR, 1 InfComp</info>
-        <battleforce pv="5" wt="3" mv="5w" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="" />
-        <heatsinks number="10" techbase="2">
+        <info>Morningstar CCV (HPG) 60t, 5/8, XLFE, 7.5T/48% Armor; 20 SHS; 3 MSGR, 1 InfComp, 1 HPG</info>
+        <battleforce pv="5" wt="3" mv="5w" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="HPG" />
+        <heatsinks number="20" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
         <equipment>
@@ -62,10 +62,15 @@
             <location>Body</location>
             <tons>6.0</tons>
         </equipment>
+        <equipment>
+            <name manufacturer="">Ground Mobile HPG</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
     </baseloadout>
     <fluff>
         <overview></overview>
-        <battlehistory></battlehistory>
+        <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
