@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="BattleMaster" model="C 3" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2532</battle_value>
+    <cost>9567693.333333334</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Trellshire Heavy Industries" location="Twycross">Clan</techbase>
+    <year restricted="FALSE">3145</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Hollis Mark X" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="340" manufacturer="VOX" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="AM15" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>40</ct>
+        <ctr>11</ctr>
+        <lt>28</lt>
+        <ltr>8</ltr>
+        <rt>28</rt>
+        <rtr>8</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>26</ll>
+        <rl>26</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 3</source>
+        <info>BattleMaster C 3 85t, 4/6/0, Std FE, Std; 14.5T/88% Armor; 18 DHS; 6 ERML, 2 MG, 1 ERPPC, 1 SSRM6, TC</info>
+        <battleforce pv="25" wt="4" mv="4" s="7" m="6" l="2" e="0" ov="1" armor="8" internal="7" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="2">RT</location>
+            <location index="4">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type DDS &quot;Kingston&quot;">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(R) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(R) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type VI">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series V">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series V">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Command ’Mech, Jettison-Capable Weapon (ER PPC); Weak Head Armor (1)</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>TDWS-37 Mk 2.2</commsystem>
+        <tandtsystem>&quot;Hephaestus&quot; CT-44</tandtsystem>
+    </fluff>
+</mech>

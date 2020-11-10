@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Ostscout" model="OTT-8J" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>894</battle_value>
+    <cost>9242010.000000002</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Robinson Standard BattleWorks" location="Robinson">Inner Sphere</techbase>
+    <year restricted="FALSE">3145</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Kell/S" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="GM" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarGuard" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>16</ct>
+        <ctr>6</ctr>
+        <lt>13</lt>
+        <ltr>3</ltr>
+        <rt>13</rt>
+        <rtr>3</rtr>
+        <la>9</la>
+        <ra>9</ra>
+        <ll>13</ll>
+        <rl>13</rl>
+        <location index="3">HD</location>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="4">LL</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="5">LL</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="11">CT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <info>Ostscout OTT-8J 35t, 8/12/8, XLFE, Std, Cmp Gyro; 6.0T/90% FF Armor; 10 DHS; 1 BlAP, 1 AECM, 1 MXPL</info>
+        <battleforce pv="9" wt="1" mv="8j" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="AECM, BH, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="8">
+            <type>Standard Jump Jet</type>
+            <location index="4">LT</location>
+            <location index="3">LT</location>
+            <location index="5">LT</location>
+            <location index="6">LT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Martell-X">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location index="9">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Bloodhound Active Probe</name>
+            <type>equipment</type>
+            <location index="7">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Improved Communications, Improved Sensors, Narrow/Low Profile, Rugged (1).</additional>
+        <jumpjet_model>Robinson-Liberty Model 12</jumpjet_model>
+        <commsystem>Barret 4000</commsystem>
+        <tandtsystem>TRSS.2L3</tandtsystem>
+    </fluff>
+</mech>

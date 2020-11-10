@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="UrbanMech" model="UM-R93" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>852</battle_value>
+    <cost>1985750.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Hellespont Industrials" location="Betelgeuse">Inner Sphere</techbase>
+    <year restricted="FALSE">3149</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="60" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Hardened Armor</type>
+        <hd>9</hd>
+        <ct>11</ct>
+        <ctr>6</ctr>
+        <lt>8</lt>
+        <ltr>3</ltr>
+        <rt>8</rt>
+        <rtr>3</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>12</ll>
+        <rl>12</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <info>UrbanMech UM-R93 30t, 2/3[2]/3, Std FE, Std; 11.5T/88% Hrdnd Armor; 10 DHS; 1 SNPPC, 1 SXPL</info>
+        <battleforce pv="9" wt="1" mv="2/3j" s="2" m="1" l="0" e="0" ov="0" armor="6" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="3">
+            <type>Improved Jump Jet</type>
+            <location index="10">CT</location>
+            <location index="9">LT</location>
+            <location index="9">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="2">LA</location>
+            <location index="3">LT</location>
+            <location index="6">LT</location>
+            <location index="2">RA</location>
+            <location index="0">RT</location>
+            <location index="3">RT</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

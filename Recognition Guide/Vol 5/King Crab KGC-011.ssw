@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="King Crab" model="KGC-011" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2406</battle_value>
+    <cost>1.2262066666666667E8</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Cosara Weaponries" location="Mars">Inner Sphere</techbase>
+    <year restricted="FALSE">3150</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Composite Structure</type>
+    </structure>
+    <engine rating="400" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XXL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>46</ct>
+        <ctr>16</ctr>
+        <lt>32</lt>
+        <ltr>10</ltr>
+        <rt>32</rt>
+        <rtr>10</rtr>
+        <la>34</la>
+        <ra>34</ra>
+        <ll>42</ll>
+        <rl>42</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 5</source>
+        <info>King Crab KGC-011 100t, 4/6[8]/0, XXLFE, Comp; 19.5T/100% Armor; 16 DHS; 1 RL15, 1 PR, 2 LB20</info>
+        <battleforce pv="24" wt="4" mv="5" s="4" m="4" l="0" e="0" ov="0" armor="10" internal="2" abilities="SRCH, ES, SEAL, SOA, FLK 2/2/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="16" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) LB 20-X AC</name>
+            <type>ballistic</type>
+            <splitlocation index="4" number="8">LA</splitlocation>
+            <splitlocation index="6" number="3">LT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 20-X AC</name>
+            <type>ballistic</type>
+            <splitlocation index="4" number="8">RA</splitlocation>
+            <splitlocation index="6" number="3">RT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 15</name>
+            <type>missile</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="5">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="5">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

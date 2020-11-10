@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Stone Rhino (Behemoth)" model="8" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2804</battle_value>
+    <cost>1.0272E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Csesztreg Industriplex Alpha" location="Csesztreg">Clan</techbase>
+    <year restricted="FALSE">3128</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Star League Monster" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Heavy Force" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound 12A1" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>46</ct>
+        <ctr>15</ctr>
+        <lt>27</lt>
+        <ltr>14</ltr>
+        <rt>27</rt>
+        <rtr>14</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>36</ll>
+        <rl>36</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 2</source>
+        <info>Stone Rhino (Behemoth) 8 100t, 3/5/0, Std FE, Std; 18.0T/94% Armor; 10 DHS; 2 GR, 1 SPL, 2 LPL</info>
+        <battleforce pv="28" wt="4" mv="3" s="5" m="6" l="5" e="0" ov="0" armor="10" internal="8" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <arm_aes location="LA" index="5"/>
+        <arm_aes location="RA" index="5"/>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Chi Series">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Barrel Fist (LA/RA), Protected Actuators; Oversized, Poor Performance, Weak Head Armor (1).</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garret L15</commsystem>
+        <tandtsystem>RCA Instatrac Version 8a</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Goliath" model="C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2227</battle_value>
+    <cost>9806500.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Corean Enterprises - MacAdams-Suharno" location="Stewart">Mixed</techbase>
+    <year restricted="FALSE">3143</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Corean IX" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="240" manufacturer="Pitban" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Starshield" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>19</ctr>
+        <lt>20</lt>
+        <ltr>13</ltr>
+        <rt>20</rt>
+        <rtr>13</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 1</source>
+        <info>Goliath C 80t, 3/5/0, Std FE, Std Quad, Cmp Gyro; 14.5T/88% Armor; 11 DHS; 1 ERLL, 1 GR, 1 ERML, 1 ATM9, 1 McPL, 4 BPod, TC</info>
+        <battleforce pv="22" wt="4" mv="3" s="6" m="5" l="4" e="0" ov="0" armor="8" internal="6" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="0">RT</location>
+            <location index="3">RT</location>
+        </heatsinks>
+        <turret type="left torso" index="10"/>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="5">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type 9 Series">(CL) ATM-9</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Raid">(T) (CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7K">(T) (CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series II">(T) (CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta X">B-Pod</name>
+            <type>equipment</type>
+            <location index="4">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta X">B-Pod</name>
+            <type>equipment</type>
+            <location index="4">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta X">B-Pod</name>
+            <type>equipment</type>
+            <location index="4">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Delta X">B-Pod</name>
+            <type>equipment</type>
+            <location index="4">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Multi-Trac.</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Corean TransBand-J9</commsystem>
+        <tandtsystem>Corean B-Tech</tandtsystem>
+    </fluff>
+</mech>

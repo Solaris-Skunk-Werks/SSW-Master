@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Marauder II" model="MAD-10D" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2741</battle_value>
+    <cost>2.9873333333333332E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Independence Weaponry" location="Quentin">Mixed</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Marauder II" techbase="0">
+        <type>Endo-Composite</type>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+    </structure>
+    <engine rating="400" manufacturer="GM" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="0">Extra-Light Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>45</ct>
+        <ctr>16</ctr>
+        <lt>31</lt>
+        <ltr>11</ltr>
+        <rt>31</rt>
+        <rtr>11</rtr>
+        <la>34</la>
+        <ra>34</ra>
+        <ll>41</ll>
+        <rl>41</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 5</source>
+        <info>Marauder II MAD-10D 100t, 4/6/4, XLFE, E-Comp, XL Gyro; 19.0T/99% Armor; 20 DHS; 1 RELL, 2 MXPL, 2 ERPPC</info>
+        <battleforce pv="27" wt="4" mv="4j" s="5" m="5" l="3" e="0" ov="1" armor="10" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="6">LT</location>
+            <location index="4">RL</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="20" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">RT</location>
+            <location index="3">LT</location>
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large R-e Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Features the following Design Quirks: Command ’Mech, Directional Torso Mount (RT), Hyper-Extending Actuators, Narrow/Low Profile.</additional>
+        <jumpjet_model>Chilton 850 Mk. II</jumpjet_model>
+        <commsystem>Mendham DB</commsystem>
+        <tandtsystem>Matabushi Sentinel</tandtsystem>
+    </fluff>
+</mech>
