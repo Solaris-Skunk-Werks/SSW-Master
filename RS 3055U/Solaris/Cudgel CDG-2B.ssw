@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Cudgel" model="CDG-2B" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1712</battle_value>
+    <battle_value>1762</battle_value>
     <cost>2.249736E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
@@ -51,7 +51,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Cudgel CDG-2B 80t, 5[6]/8[9]/0 TSM, XLFE, Std; 15.0T/100% LFF Armor; 10 DHS; 5 ERML, 1 Clw, 1 Mace, 1 SSRM6</info>
-        <battleforce pv="17" wt="4" mv="5" s="3" m="3" l="0" e="0" ov="1" armor="8" internal="4" abilities="TSM, MEL, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="4" mv="5" s="3" m="3" l="0" e="0" ov="1" armor="8" internal="4" abilities="TSM, MEL, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

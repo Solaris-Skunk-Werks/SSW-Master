@@ -481,8 +481,8 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Savage Coyote  Z 85t, 3/5/0, XLFE, Std; 15.0T/91% Armor; 16 DHS; 1 ERLPL, 1 NCEWS, 2 ERML, 2 iATM12, 1 HAG30</info>
-        <battleforce pv="30" wt="4" mv="3" s="9" m="7" l="4" e="0" ov="2" armor="8" internal="5" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
-        <battle_value>3026</battle_value>
+        <battleforce pv="31" wt="4" mv="3" s="9" m="7" l="4" e="0" ov="2" armor="8" internal="5" abilities="OMNI, NOVA, PRB, RCN, ECM, CASEII, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>3080</battle_value>
         <cost>2.7290171875E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>

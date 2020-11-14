@@ -207,7 +207,7 @@
         <loadout_year>3137</loadout_year>
         <info>Vulture Mk IV  B 60t, 5/8/0, XLFE, ES; 14.5T/100% FL Armor; 12 DHS; 2 ERSL, 1 ERPPC, 1 MPL, 2 SLRM15</info>
         <battleforce pv="26" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="8" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2606</battle_value>
+        <battle_value>2649</battle_value>
         <cost>1.6524E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>

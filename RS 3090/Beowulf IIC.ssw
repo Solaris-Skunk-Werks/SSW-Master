@@ -46,7 +46,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSPrototypes</source>
         <info>Beowulf IIC 45t, 6/9[12]/6 MASC, XLFE, Std; 8.0T/100% FF Armor; 12 DHS; 1 LTAG, 1 WDCEWS, 1 ERLPL, 2 ERMPL</info>
-        <battleforce pv="20" wt="2" mv="8/6j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="LTAG, WAT, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="20" wt="2" mv="8/6j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="LTAG, WAT, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

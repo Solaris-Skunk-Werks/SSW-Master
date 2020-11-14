@@ -412,7 +412,7 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3145</loadout_year>
         <info>Hankyu (Arctic Cheetah)  F 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 1 LTAG, 1 WDCEWS, 2 iHML, 2 SLRM5</info>
-        <battleforce pv="14" wt="1" mv="8/4j" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, LTAG, WAT, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="1" mv="8/4j" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, LTAG, WAT, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1394</battle_value>
         <cost>7983987.5</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

@@ -62,7 +62,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRRepublic I</source>
-        <info>Prefect PRF-1C 75t, 5/8/0, LFE, ES, XL Gyro; 12.0T/93% FF Armor; 16 DHS; 1 EC3M, 1 SNPPC, 1 AECM, 2 ERML, 1 ERPPC</info>
+        <info>Prefect PRF-1C 75t, 5/8/0, LFE, ES, XL Gyro; 12.0T/93% FF Armor; 16 DHS; 1 SNPPC, 1 AECM, 2 ERML, 1 ERPPC, 1 C3EM</info>
         <battleforce pv="19" wt="3" mv="5" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="4" abilities="C3EM, AECM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Puma (Adder)" model="" tons="35" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Adder.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>7730437.5</cost>
+    <cost>7021687.5</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>

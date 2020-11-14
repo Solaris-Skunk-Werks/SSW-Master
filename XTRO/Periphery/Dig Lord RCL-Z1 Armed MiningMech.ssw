@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Dig Lord" model="RCL-Z1 Armed MiningMech" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>681</battle_value>
@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRPeriphery</source>
-        <info>Dig Lord RCL-Z1 Armed Mining `Mech 65t, 3/5/0, FCE, Ind; 8.0T/61% Armor; 7 SHS; 1 MedVbrBld, 1 HvRfl, 1 MML5</info>
+        <info>Dig Lord RCL-Z1 Armed MiningMech 65t, 3/5/0, FCE, Ind; 8.0T/61% Armor; 7 SHS; 1 MedVbrBld, 1 HvRfl, 1 MML5</info>
         <battleforce pv="7" wt="3" mv="3" s="1" m="1" l="1" e="0" ov="1" armor="4" internal="5" abilities="MEL, SRCH, EE" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

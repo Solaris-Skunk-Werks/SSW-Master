@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSPrototypes</source>
-        <info>Sarissa SecurityMech MN2-A 50t, 4/6/0, Std FE, Ind; 6.5T/62% Armor; 18 SHS; 1 ML, 1 SL, 1 MG, 1 BLC</info>
+        <info>Sarissa MN2-A SecurityMech 50t, 4/6/0, Std FE, Ind; 6.5T/62% Armor; 18 SHS; 1 ML, 1 SL, 1 MG, 1 BLC</info>
         <battleforce pv="8" wt="2" mv="4" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="4" abilities="SRCH, ES" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

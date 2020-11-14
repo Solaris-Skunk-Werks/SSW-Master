@@ -63,7 +63,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <info>Peacekeeper PKP-2K 95t, 4[5]/6[8]/3 TSM, XLFE, ES; 22.5T/92% A-P Armor; 15 DHS; 1 PR, 1 EC3M, 1 MXPL, 1 ERPPC, 1 HPPC</info>
+        <info>Peacekeeper PKP-2K 95t, 4[5]/6[8]/3 TSM, XLFE, ES; 22.5T/92% A-P Armor; 15 DHS; 1 PR, 1 MXPL, 1 ERPPC, 1 HPPC, 1 C3EM</info>
         <battleforce pv="29" wt="4" mv="4/2j" s="3" m="3" l="2" e="0" ov="2" armor="9" internal="4" abilities="TSM, C3EM, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>

@@ -274,8 +274,8 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3088</loadout_year>
         <info>Tomahawk II  B 100t, 3/5/3, XLFE, E-Comp; 19.0T/99% Armor; 22 DHS; 1 LAMS, 2 ERLPL, 2 ERLL, 1 ERML, 2 SLRM15</info>
-        <battleforce pv="34" wt="4" mv="3j" s="6" m="6" l="5" e="0" ov="2" armor="10" internal="2" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3359</battle_value>
+        <battleforce pv="35" wt="4" mv="3j" s="6" m="6" l="5" e="0" ov="2" armor="10" internal="2" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3513</battle_value>
         <cost>3.24075E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>

@@ -608,9 +608,9 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3145</loadout_year>
         <info>Huntsman (Nobori-nin)  F 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 iHLL, 1 LRM15, 2 ERML, 1 RHS, TC</info>
-        <battleforce pv="24" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="24" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <techbase>Mixed</techbase>
-        <battle_value>2402</battle_value>
+        <battle_value>2367</battle_value>
         <cost>1.3148125000000002E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>

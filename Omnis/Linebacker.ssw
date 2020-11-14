@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Linebacker" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.7997875E7</cost>
+    <cost>2.0188734375E7</cost>
     <rules_level>1</rules_level>
     <era>3</era>
     <productionera>10</productionera>
@@ -58,7 +58,7 @@
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  Prime 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 SSRM4, 1 ERSL, 1 LRM5, 2 ERPPC</info>
@@ -105,7 +105,7 @@
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  A 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 LRM15, 2 ERLL, 2 ERML, 1 LRM5</info>
@@ -162,7 +162,7 @@
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  B 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 GR, 3 ERML, 1 ERSL</info>
@@ -209,7 +209,7 @@
     </loadout>
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  C 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 Flmr, 1 ERLL, 4 ERML, 2 MG, 1 UAC5</info>
@@ -276,7 +276,7 @@
     </loadout>
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Linebacker  D 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 2 ERML, 1 ERSL, 4 SSRM6</info>
@@ -338,7 +338,7 @@
     </loadout>
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Linebacker  E 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 14 DHS; 1 ERLL, 2 ATM6, 1 LAP</info>
@@ -400,7 +400,7 @@
     </loadout>
     <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 6</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Linebacker  F 65t, 6/9/0, XLFE, ES; 10.0T/91% FF Armor; 15 DHS; 1 NarciOS, 1 ERPPC, 4 SRM6</info>
@@ -510,7 +510,7 @@
     </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Linebacker  H 65t, 6/9/6, XLFE, ES; 10.0T/91% FF Armor; 15 DHS; 2 ERML, 1 ERSL, 2 HLL</info>

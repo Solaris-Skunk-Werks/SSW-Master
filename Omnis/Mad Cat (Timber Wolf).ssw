@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mad Cat (Timber Wolf)" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\timberwolf.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.583640625E7</cost>
+    <cost>2.41606875E7</cost>
     <rules_level>1</rules_level>
     <era>3</era>
     <productionera>7</productionera>
@@ -58,7 +58,7 @@
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>1</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  Prime 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 ERLL, 2 ERML, 2 MG, 1 MPL, 2 LRM20</info>
@@ -135,7 +135,7 @@
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>1</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  A 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 20 DHS; 1 ERSL, 3 MPL, 2 ERPPC, 1 SSRM6</info>
@@ -195,7 +195,7 @@
     </loadout>
     <loadout name="B" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>1</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  B 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 1 GR, 1 SPL, 1 LRM10, 1 SRM4, 1 LPL</info>
@@ -247,7 +247,7 @@
     </loadout>
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>1</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  C 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 LRM15, 2 ERLL, 1 ERML, 1 UAC5, 1 AMS</info>
@@ -314,7 +314,7 @@
     </loadout>
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>1</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>3</loadout_productionera>
         <loadout_year>2945</loadout_year>
         <info>Mad Cat (Timber Wolf)  D 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 1 ERSL, 2 ERPPC, 4 SSRM6</info>
@@ -376,7 +376,7 @@
     </loadout>
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Mad Cat (Timber Wolf)  E 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 18 DHS; 1 LTAG, 2 ERLL, 2 ATM9</info>
@@ -449,7 +449,7 @@
     </loadout>
     <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Mad Cat (Timber Wolf)  F 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 ERLL, 3 ERML, 3 APGR, 2 LRM20</info>
@@ -531,7 +531,7 @@
     </loadout>
     <loadout name="H" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Mad Cat (Timber Wolf)  H 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 18 DHS; 1 ERSL, 2 HLL, 2 LRM20</info>
@@ -746,7 +746,7 @@
     </loadout>
     <loadout name="S" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>1</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Mad Cat (Timber Wolf)  S 75t, 5/8/5, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 MG, 1 ERSL, 4 SRM6, 2 MPL, 1 LPL</info>
@@ -937,7 +937,7 @@
     </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Mad Cat (Timber Wolf)  U 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERMcL, 3 HrJl, 2 LRT15</info>
@@ -1087,11 +1087,11 @@
     </loadout>
     <loadout name="Z" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>WoRS</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Mad Cat (Timber Wolf)  Z 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERLL, 1 NCEWS, 2 iATM9, 2 ERMPL</info>
-        <battleforce pv="30" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="30" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3003</battle_value>
         <cost>2.81078125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
@@ -1154,7 +1154,7 @@
     </loadout>
     <loadout name="(Bounty Hunter)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3060</loadout_year>
         <info>Mad Cat (Timber Wolf)  (Bounty Hunter) 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 1 LTAG, 1 ECM, 1 BAP, 4 MPL, 2 LPL, TC</info>
@@ -1220,7 +1220,7 @@
     </loadout>
     <loadout name="(Bounty Hunter 2)" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BD:BH</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Mad Cat (Timber Wolf)  (Bounty Hunter 2) 75t, 5/8/3, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 3 SSRM4, 1 CoolPd, 2 ERML, 1 ERSL, 2 APGR, 3 SRM4, 1 LPL, TC</info>
@@ -1323,7 +1323,7 @@
     </loadout>
     <loadout name="(Pryde)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
+        <loadout_era>3</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Mad Cat (Timber Wolf)  (Pryde) 75t, 5/8/4, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 ERLL, 2 ERML, 1 ERSL, 2 LRM20</info>

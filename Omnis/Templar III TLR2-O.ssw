@@ -194,7 +194,7 @@
         <loadout_year>3100</loadout_year>
         <info>Templar III TLR2-O B 85t, 4/6[8]/4, LFE, ES, HD Gyro; 16.5T/100% Armor; 13 DHS; 1 ERSL, 1 ERPPC, 1 ChnWhp, 6 SXPL, 1 Htcht</info>
         <battleforce pv="19" wt="4" mv="5/4j" s="3" m="3" l="1" e="0" ov="1" armor="9" internal="5" abilities="OMNI, MEL, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1914</battle_value>
+        <battle_value>1919</battle_value>
         <cost>3.5188965625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

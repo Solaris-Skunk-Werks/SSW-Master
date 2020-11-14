@@ -41,7 +41,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSPrototypes</source>
-        <info>Mad Cat II Enhanced 90t, 4/6[5]/4, XLFE, ES; 25.0T/72% Hrdnd Armor; 18 DHS; 2 ERLPL, 2 ERML, 2 LRM10</info>
+        <info>Mad Cat Mk II Enhanced 90t, 4/6[5]/4, XLFE, ES; 25.0T/72% Hrdnd Armor; 18 DHS; 2 ERLPL, 2 ERML, 2 LRM10</info>
         <battleforce pv="27" wt="4" mv="4j" s="4" m="4" l="3" e="0" ov="0" armor="13" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>

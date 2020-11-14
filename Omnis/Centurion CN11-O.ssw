@@ -226,8 +226,8 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3111</loadout_year>
-        <info>Centurion CN11-O C 50t, 5[4]/8[6]/5, XLFE, ES, Cmp Gyro; 9.5T/90% Armor; 10 DHS; 1 PR, 1 ECM, 1 C3S, 2 ERML, 1 LRM10</info>
-        <battleforce pv="15" wt="2" mv="4/5j" s="2" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3S, ECM, CASEII, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
+        <info>Centurion CN11-O C 50t, 5[4]/8[6]/5[0], XLFE, ES, Cmp Gyro; 9.5T/90% Armor; 10 DHS; 1 PR, 1 ECM, 1 C3S, 2 ERML, 1 LRM10</info>
+        <battleforce pv="15" wt="2" mv="4" s="2" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, C3S, ECM, CASEII, MHQ1, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1489</battle_value>
         <cost>1.3953750000000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
@@ -301,8 +301,8 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3111</loadout_year>
-        <info>Centurion CN11-O D 50t, 5[4]/8[6]/4, XLFE, ES, Cmp Gyro; 9.5T/90% Armor; 10 DHS; 1 MedShld, 2 ERML, 1 ERSL, 1 BAP, 1 MML9, 1 Htcht</info>
-        <battleforce pv="12" wt="2" mv="4j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, PRB, RCN, MEL, SHLD, CASEII, SRCH, ES, SEAL, SOA, IF 1" />
+        <info>Centurion CN11-O D 50t, 5[4]/8[6]/4[0], XLFE, ES, Cmp Gyro; 9.5T/90% Armor; 10 DHS; 1 MedShld, 2 ERML, 1 ERSL, 1 BAP, 1 MML9, 1 Htcht</info>
+        <battleforce pv="12" wt="2" mv="4" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="OMNI, PRB, RCN, MEL, SHLD, CASEII, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>1177</battle_value>
         <cost>1.3103218750000002E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

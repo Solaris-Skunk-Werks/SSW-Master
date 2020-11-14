@@ -631,8 +631,8 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3145</loadout_year>
         <info>Mad Dog (Vulture)  G 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 13 DHS; 1 ERPPC, 1 SLRM15, 3 ERMPL, 2 SSRM6</info>
-        <battleforce pv="24" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="3" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2423</battle_value>
+        <battleforce pv="25" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="3" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2503</battle_value>
         <cost>1.6132E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vandal" model="LI-O" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.8410959374999996E7</cost>
+    <cost>2.8109234374999996E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
     <productionera>10</productionera>

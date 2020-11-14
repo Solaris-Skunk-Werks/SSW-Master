@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
-        <info>Quasit MilitiaMech QUA-51T 45t, 5/8/0, Std FE, Ind; 7.5T/78% Armor; 10 SHS; 1 ML, 1 MG, 1 LRM5, 1 SRM4</info>
+        <info>Quasit QUA-51T MilitiaMech 45t, 5/8/0, Std FE, Ind; 7.5T/78% Armor; 10 SHS; 1 ML, 1 MG, 1 LRM5, 1 SRM4</info>
         <battleforce pv="7" wt="2" mv="5" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="4" abilities="SRCH, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

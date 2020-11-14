@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Kuma" model="4" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1826</battle_value>
+    <battle_value>1865</battle_value>
     <cost>1.581376E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -48,8 +48,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <info>Kuma 4 60t, 6/9/6, XLFE, ES; 10.5T/100% FF Armor; 11 DHS; 1 ERLL, 2 ERML, 5 HrJlII</info>
-        <battleforce pv="18" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="3" abilities=", ENE, SRCH, ES, SEAL, SOA" />
+        <info>Kuma 4 60t, 6/9/6, XLFE, ES; 10.5T/100% FF Armor; 11 DHS; 1 ERLL, 5 HrJl2, 2 ERML</info>
+        <battleforce pv="19" wt="3" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="7" internal="3" abilities="BHJ2, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="6">

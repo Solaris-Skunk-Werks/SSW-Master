@@ -438,7 +438,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  E 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 15 DHS; 1 LTAG, 6 ERML, 1 NCEWS, 2 ERPPC, TC</info>
-        <battleforce pv="30" wt="2" mv="5" s="5" m="5" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="30" wt="2" mv="5" s="5" m="5" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, NOVA, PRB, RCN, ECM, LTAG, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2950</battle_value>
         <cost>1.5664945833333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -512,7 +512,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  A-Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 16 DHS; 1 LTAG, 6 iHSL, 1 NCEWS, 2 iATM12</info>
-        <battleforce pv="24" wt="2" mv="5" s="11" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="2" mv="5" s="11" m="5" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2388</battle_value>
         <cost>1.7527614583333336E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -602,7 +602,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  B-Z 55t, 5/8/7, XLFE, ES; 9.0T/93% FF Armor; 13 DHS; 1 LTAG, 1 NCEWS, 2 SPL, 2 LPL, TC</info>
-        <battleforce pv="23" wt="2" mv="5/7j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="5/7j" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, LTAG, NOVA, PRB, RCN, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2349</battle_value>
         <cost>1.6853020833333336E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -664,7 +664,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  C-Z 55t, 5/8/0, XLFE, ES; 9.0T/93% FF Armor; 12 DHS; 2 MGA+3MG, 1 NCEWS, 3 PC, 6 APGR, 4 MPL</info>
-        <battleforce pv="23" wt="2" mv="5" s="5" m="4" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="23" wt="2" mv="5" s="5" m="4" l="2" e="0" ov="3" armor="6" internal="3" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, HT2, SRCH, ES, SEAL, SOA" />
         <battle_value>2264</battle_value>
         <cost>1.6080333333333334E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -780,7 +780,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Pariah (Septicemia)  D-Z 55t, 5/8/5, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 1 NCEWS, 1 ERPPC, 1 UAC20, TC</info>
-        <battleforce pv="27" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="27" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2704</battle_value>
         <cost>1.5629383333333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

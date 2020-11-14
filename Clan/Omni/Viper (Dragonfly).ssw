@@ -641,7 +641,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Viper (Dragonfly)  Z 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 LTAG, 1 LAMS, 3 iHML, 1 iATM3, 1 NCEWS</info>
-        <battleforce pv="17" wt="2" mv="8j" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, AMS, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="17" wt="2" mv="8j" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, AMS, LTAG, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1692</battle_value>
         <cost>1.3906283333333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>

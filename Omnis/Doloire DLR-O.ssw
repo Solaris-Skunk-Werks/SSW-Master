@@ -116,8 +116,8 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3121</loadout_year>
         <info>Doloire DLR-O A 80t, 4/6/0, XLFE, E-Comp; 14.5T/94% Armor; 16 DHS; 2 PR, 3 ERML, 2 SRM6, 1 RHS</info>
-        <battleforce pv="22" wt="4" mv="4" s="5" m="5" l="0" e="0" ov="0" armor="8" internal="2" abilities="OMNI, CASEII, HT1, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
-        <battle_value>2211</battle_value>
+        <battleforce pv="22" wt="4" mv="4" s="6" m="6" l="0" e="0" ov="0" armor="8" internal="2" abilities="OMNI, CASEII, HT1, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battle_value>2218</battle_value>
         <cost>2.3985000000000004E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>

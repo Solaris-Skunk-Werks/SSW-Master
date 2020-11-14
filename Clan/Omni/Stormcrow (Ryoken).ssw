@@ -841,7 +841,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Stormcrow (Ryoken)  Z 55t, 6/9[12]/0, XLFE, ES; 9.5T/98% FF Armor; 12 DHS; 2 iHML, 1 NCEWS, 2 iATM9</info>
-        <battleforce pv="29" wt="2" mv="8" s="8" m="6" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="29" wt="2" mv="8" s="8" m="6" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2855</battle_value>
         <cost>2.53415625E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>

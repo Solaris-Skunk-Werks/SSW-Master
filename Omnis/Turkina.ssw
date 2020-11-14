@@ -921,7 +921,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Turkina  Z 95t, 3/5/3, XLFE, Std; 18.0T/98% Armor; 17 DHS; 1 LTAG, 1 NCEWS, 4 iATM12</info>
-        <battleforce pv="39" wt="4" mv="3j" s="15" m="10" l="5" e="0" ov="0" armor="10" internal="5" abilities="OMNI, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="39" wt="4" mv="3j" s="15" m="10" l="5" e="0" ov="0" armor="10" internal="5" abilities="OMNI, LTAG, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3935</battle_value>
         <cost>3.408084375E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>

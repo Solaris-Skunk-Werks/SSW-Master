@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Thor (Summoner)" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Summoner.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.1283433333333332E7</cost>
+    <cost>2.1222833333333332E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -988,7 +988,7 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Thor (Summoner)  Z 70t, 5/8/5, XLFE, Std; 9.5T/84% FF Armor; 14 DHS; 1 ERLPL, 1 NCEWS, 1 iATM12, 8 APGR</info>
-        <battleforce pv="28" wt="3" mv="5j" s="7" m="5" l="3" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="28" wt="3" mv="5j" s="7" m="5" l="3" e="0" ov="1" armor="6" internal="4" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2783</battle_value>
         <cost>2.4596895833333332E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>

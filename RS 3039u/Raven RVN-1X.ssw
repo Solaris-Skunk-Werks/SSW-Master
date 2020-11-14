@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Raven RVN-1X 35t, 5/8/0, Std FE, Std; 4.0T/54% Armor; 12 SHS; 2 ML, 1 EWEqp, 1 SRM6</info>
-        <battleforce pv="6" wt="1" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="3" abilities="SRCH, ES, SEAL, SOA" />
+        <battleforce pv="6" wt="1" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="3" abilities="ECM, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="12" techbase="2">

@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
-        <info>Crosscut LoggerMech ED-X2 30t, 3/5/0, ICE, Ind; 4.0T/40% Ind. Armor; 0 SHS; 2 StndrdCrgo, 1 LftHst, 1 ChnSw</info>
+        <info>Crosscut ED-X2 ForestryMech 30t, 3/5/0, ICE, Ind; 4.0T/40% Ind. Armor; 0 SHS; 2 StndrdCrgo, 1 LftHst, 1 ChnSw</info>
         <battleforce pv="2" wt="1" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="3" abilities="MEL, SAW, ENE, SRCH, EE" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>

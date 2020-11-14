@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
-        <info>Jabberwocky EngineerMech JAW-65A 50t, 3/5/0, FCE, Ind; 2.0T/19% Armor; 8 SHS; 1 SlvgArm, 1 LftHst, 1 SptWeld</info>
+        <info>Jabberwocky JAW-65A EngineerMech 50t, 3/5/0, FCE, Ind; 2.0T/19% Armor; 8 SHS; 1 SlvgArm, 1 LftHst, 1 SptWeld</info>
         <battleforce pv="3" wt="2" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="4" abilities="MEL, ENE, SRCH, EE, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>

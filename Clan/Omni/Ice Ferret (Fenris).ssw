@@ -314,7 +314,7 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3084</loadout_year>
         <info>Ice Ferret (Fenris)  F 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 WDCEWS, 2 ERLL</info>
-        <battleforce pv="18" wt="2" mv="8" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, WAT, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="2" mv="8" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, WAT, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1771</battle_value>
         <cost>1.32243625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
@@ -451,7 +451,7 @@
         <info>Ice Ferret (Fenris)  I 45t, 8/12/0, XLFE, ES; 7.5T/94% FF Armor; 12 DHS; 1 BlAP, 1 ERSL, 2 SRM6, 2 MPod</info>
         <battleforce pv="11" wt="2" mv="8" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="2" abilities="OMNI, BH, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <techbase>Mixed</techbase>
-        <battle_value>1101</battle_value>
+        <battle_value>1096</battle_value>
         <cost>1.2794878125E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
