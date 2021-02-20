@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Crucible" model="3" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>3230</battle_value>
+    <cost>2.5514E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Earthwerks-FWL, Inc." location="Keystone">Clan</techbase>
+    <year restricted="FALSE">3150</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Star League Mk. 4" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+    </structure>
+    <engine rating="300" manufacturer="Starfire" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound 12B2" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>35</ct>
+        <ctr>10</ctr>
+        <lt>32</lt>
+        <ltr>8</ltr>
+        <rt>32</rt>
+        <rtr>8</rtr>
+        <la>21</la>
+        <ra>21</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <info>Crucible 3 100t, 3/5/3, XLFE, ES; 14.5T/76% Armor; 12 DHS; 4 HAG20, 2 LPL</info>
+        <battleforce pv="32" wt="4" mv="3j" s="5" m="4" l="4" e="0" ov="2" armor="8" internal="5" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA, FLK 3/3/3" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="2">RT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Protected Actuators</Name>
+                <Cost>1</Cost>
+                <Description>Armor protection around the actuators is more effective, making a `Mech with this quirk more resistant to Leg an Swarm attacks by conventional infantry and battle armor. The target number for such attacks receives a +1 modifier.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Oversized</Name>
+                <Cost>2</Cost>
+                <Description>The Oversized quirk cannot be combined with the Narrow/Low Profile quirk, and is further limited to â€™Mechs of heavy weight (60 tons) and larger. This quirk describes a â€™Mech that has been built physically larger than the norm, such as the Mackie or Scylla.  Any Piloting Skill Rolls required of an Oversized â€™Mech to avoid damage when passing through buildings suffer a +1 Target Number modifier. Furthermore, they find it harder to use covering terrain effectively: an Oversized â€™Mech never receives the +1 Target Number modifier for partial cover when being attacked</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Grandthrust Mk. 5</jumpjet_model>
+        <commsystem>Garret T-11b</commsystem>
+        <tandtsystem>RCA Instatrac Mark XI</tandtsystem>
+    </fluff>
+</mech>

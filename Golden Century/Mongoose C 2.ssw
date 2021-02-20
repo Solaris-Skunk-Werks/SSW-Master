@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Mongoose" model="C 2" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1620</battle_value>
+    <cost>3866979.166666666</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Cudahy Assembly Plant Delta" location="Circe">Clan</techbase>
+    <year restricted="FALSE">2860</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Kell/F" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">RT</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="200" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound H17" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>12</ct>
+        <ctr>3</ctr>
+        <lt>10</lt>
+        <ltr>2</ltr>
+        <rt>10</rt>
+        <rtr>2</rtr>
+        <la>7</la>
+        <ra>7</ra>
+        <ll>12</ll>
+        <rl>12</rl>
+        <location index="5">LA</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRCG</source>
+        <info>Mongoose C 2 25t, 8/12/0, XLFE, ES; 4.5T/97% FF Armor; 10 DHS; 1 ERLL, 2 ERML, 1 BAP, 1 ERSL, TC</info>
+        <battleforce pv="16" wt="1" mv="8" s="3" m="3" l="1" e="0" ov="1" armor="3" internal="1" abilities="PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RA</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 1b">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 6b">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>Easy to Pilot</Name>
+                <Cost>2</Cost>
+                <Description>A MechWarrior or pilot with a Piloting Skill of more than 3 will receive a -1 target number modifier for Piloting Skill rolls that they have to make as a result of damage or underlying terrain. More skilled MechWarriors receive no benefit.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Block 3 TRACONM</commsystem>
+        <tandtsystem>TRTTS Mark I</tandtsystem>
+    </fluff>
+</mech>

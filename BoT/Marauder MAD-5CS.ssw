@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Marauder" model="MAD-5CS" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1648</battle_value>
+    <cost>1.562975E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Refit" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3052</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Marauder" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Vlar" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Valiant Lamellor" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>35</ct>
+        <ctr>10</ctr>
+        <lt>23</lt>
+        <ltr>7</ltr>
+        <rt>23</rt>
+        <rtr>7</rtr>
+        <la>23</la>
+        <ra>23</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BoTS</source>
+        <info>Marauder MAD-5CS 75t, 4/6/0, XLFE, Std; 13.0T/90% Armor; 18 DHS; 2 MPL, 2 ERPPC, 1 LB10</info>
+        <battleforce pv="16" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="0" armor="7" internal="3" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="18" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="6">LT</location>
+            <location index="3">LT</location>
+            <location index="9">LT</location>
+            <location index="3">RT</location>
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Magna Sunspont">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Magna Sunspont">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Aberdovey">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Aberdovey">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Lubalin">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Directional Torso Mount (RT):br::br:Exposed Weapon Linkage (LB 10-X)</additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Dalban Micronics</commsystem>
+        <tandtsystem>Dalban Hi-Rez</tandtsystem>
+    </fluff>
+</mech>

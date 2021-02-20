@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Viper (Dragonfly)" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Viper.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.1029533333333334E7</cost>
+    <cost>1.0776908333333334E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Upsilon PLant 2J (TR3050U); Dominion Facility Kappa-5 (RGiC 8)" location="Strana Mechty (TR3050U); Thule (RGiC 8)">Clan</techbase>
     <year restricted="FALSE">2940</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="Type W2" techbase="1">
         <type>Endo-Steel</type>
         <location index="8">LT</location>
         <location index="8">RT</location>
@@ -19,12 +19,12 @@
         <location index="10">RT</location>
         <location index="11">CT</location>
     </structure>
-    <engine rating="320" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="320" manufacturer="Light Force" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Compound H17" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>16</ct>
@@ -586,6 +586,324 @@
             <location index="7">RT</location>
         </equipment>
     </loadout>
+    <loadout name="J" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3144</loadout_year>
+        <info>Viper (Dragonfly)  J 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 3 ATM3, 4 ERMcL</info>
+        <battleforce pv="13" wt="2" mv="8j" s="3" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1259</battle_value>
+        <cost>1.0875033333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3 (ER)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3 (HE)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="K" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Viper (Dragonfly)  K 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 AECM, 2 ERML, 1 BAP, 3 APGR, 1 TAG</info>
+        <battleforce pv="15" wt="2" mv="8j" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, TAG, PRB, RCN, AECM, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1545</battle_value>
+        <cost>1.2393933333333334E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="L" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Viper (Dragonfly)  L 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 2 ERMcL, 3 SLRM5</info>
+        <battleforce pv="14" wt="2" mv="8j" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1417</battle_value>
+        <cost>1.0866283333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="M" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3149</loadout_year>
+        <info>Viper (Dragonfly)  M 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 2 ERML, 1 McPL, 2 MPL, TC</info>
+        <battleforce pv="21" wt="2" mv="8j" s="4" m="3" l="0" e="0" ov="1" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2054</battle_value>
+        <cost>1.0776908333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3110</loadout_year>
+        <info>Viper (Dragonfly)  R 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 LTAG, 1 Narc, 1 BlAP, 2 ERML</info>
+        <battleforce pv="13" wt="2" mv="8j" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, SNARC, BH, RCN, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1335</battle_value>
+        <cost>1.1729533333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Narc Missile Beacon</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Bloodhound Active Probe</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Narc (Homing)</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Viper (Dragonfly)  T 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 SSRM4, 2 ERMcL, 2 ERML, 1 AMS, 1 LAP, TC</info>
+        <battleforce pv="17" wt="2" mv="8j" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, AMS, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1704</battle_value>
+        <cost>1.1213533333333334E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
@@ -640,27 +958,12 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3072</loadout_year>
-        <info>Viper (Dragonfly)  Z 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 LTAG, 1 LAMS, 3 iHML, 1 iATM3, 1 NCEWS</info>
-        <battleforce pv="17" wt="2" mv="8j" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, AMS, LTAG, CASE, SRCH, ES, SEAL, SOA" />
+        <info>Viper (Dragonfly)  Z 40t, 8/12/8, XLFE, ES; 7.0T/98% FF Armor; 10 DHS; 1 LAMS, 1 LTAG, 3 iHML, 1 iATM3, 1 NCEWS</info>
+        <battleforce pv="17" wt="2" mv="8j" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, LTAG, NOVA, PRB, RCN, ECM, AMS, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1692</battle_value>
         <cost>1.3906283333333334E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
-        <equipment>
-            <name manufacturer="">(CL) Laser Anti-Missile System</name>
-            <type>equipment</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Light TAG</name>
-            <type>equipment</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) iATM-3</name>
-            <type>missile</type>
-            <location index="6">LA</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
             <type>energy</type>
@@ -677,14 +980,29 @@
             <location index="6">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ iATM-3</name>
-            <type>ammunition</type>
-            <location index="8">LA</location>
+            <name manufacturer="">(CL) iATM-3</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="4">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">Nova CEWS</name>
             <type>equipment</type>
             <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ iATM-3</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Laser Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
         </equipment>
     </loadout>
     <fluff>
@@ -695,8 +1013,25 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
-        <jumpjet_model>Unknown</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Improved Targeting, Medium</Name>
+                <Cost>4</Cost>
+                <Description>All ranged attack to-hit numbers at the selected range bracket receive a -1 modifier. This quirk cannot be combined with Variable Range Targeting</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Narrow/Low Profile</Name>
+                <Cost>2</Cost>
+                <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>No Torso Twist</Name>
+                <Cost>2</Cost>
+                <Description>A `Mech with this quirk cannot torso twist</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Geotec 300</jumpjet_model>
+        <commsystem>Series D8 CC-25X</commsystem>
+        <tandtsystem>Sloane 220</tandtsystem>
     </fluff>
 </mech>

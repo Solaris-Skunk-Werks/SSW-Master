@@ -4,15 +4,15 @@
     <cost>4.631413437499999E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>0</productionera>
+    <productionera>3</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Alshain BattleWorx, Arcadia BattleMech Plant CM-T02 (BoT)" location="Alshain, Arcadia (BoT)">Clan</techbase>
     <year restricted="FALSE">3001</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="2">
+    <structure manufacturer="Clan Series Assault SXE" techbase="2">
         <type>Standard Structure</type>
     </structure>
-    <engine rating="380" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="380" manufacturer="Heavy Force" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
@@ -21,7 +21,7 @@
         <type>MASC</type>
         <location index="2">LT</location>
     </enhancement>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Acadia Compound Delta VII" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>37</ct>
@@ -471,6 +471,124 @@
             <location index="10">LT</location>
         </equipment>
     </loadout>
+    <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Executioner (Gladiator)  F 95t, 4/6[10]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 18 DHS; 1 ERPPC, 2 LPL, TC</info>
+        <battleforce pv="36" wt="4" mv="6/4j" s="5" m="5" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3606</battle_value>
+        <cost>4.456850937499999E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RT</location>
+            <location index="2">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Executioner (Gladiator)  G 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 17 DHS; 1 WDCEWS, 6 ERML, 1 ERPPC, 1 SLRM15, TC</info>
+        <battleforce pv="38" wt="4" mv="5/4j" s="6" m="6" l="3" e="0" ov="2" armor="9" internal="5" abilities="OMNI, WAT, ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3825</battle_value>
+        <cost>3.8263259375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -531,6 +649,130 @@
             <name manufacturer="">(CL) Targeting Computer</name>
             <type>TargetingComputer</type>
             <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BoTS</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3101</loadout_year>
+        <info>Executioner (Gladiator)  I 95t, 4/6[10]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 22 DHS; 2 iHLL, 1 ECM, 2 SSRM6, TC</info>
+        <battleforce pv="33" wt="4" mv="6/4j" s="6" m="6" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3339</battle_value>
+        <cost>4.631413437499999E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="22" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="2">LA</location>
+            <location index="8">LT</location>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 9</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Executioner (Gladiator)  J 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 16 DHS; 3 SRM6, 1 HAG40</info>
+        <battleforce pv="29" wt="4" mv="5/4j" s="6" m="5" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0, FLK 3/2/2" />
+        <battle_value>2891</battle_value>
+        <cost>3.6182009375E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="9">RA</splitlocation>
+            <splitlocation index="4" number="1">RT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
         </equipment>
     </loadout>
     <loadout name="K" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
@@ -600,6 +842,63 @@
             <location index="9">LA</location>
         </equipment>
     </loadout>
+    <loadout name="L" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 9</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Executioner (Gladiator)  L 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 16 DHS; 2 ERLL, 2 SLRM15</info>
+        <battleforce pv="31" wt="4" mv="5/4j" s="5" m="5" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3132</battle_value>
+        <cost>3.7308321875E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="10">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="P" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -667,15 +966,72 @@
             <location index="5">LA</location>
         </equipment>
     </loadout>
-    <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 9</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Executioner (Gladiator)  F 95t, 4/6[10]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 18 DHS; 1 ERPPC, 2 LPL, TC</info>
-        <battleforce pv="36" wt="4" mv="6/4j" s="5" m="5" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3606</battle_value>
-        <cost>4.456850937499999E7</cost>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Executioner (Gladiator)  T 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 16 DHS; 1 ECM, 2 ERLPL, 2 MG, 1 LB10</info>
+        <battleforce pv="26" wt="4" mv="5/4j" s="4" m="3" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2558</battle_value>
+        <cost>3.7308509375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="7">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="TC" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BotS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
+        <info>Executioner (Gladiator)  TC 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 18 DHS; 1 BAP, 3 ERSL, 1 ERPPC, 2 LPL, TC</info>
+        <battleforce pv="34" wt="4" mv="5/4j" s="6" m="6" l="4" e="0" ov="0" armor="9" internal="5" abilities="OMNI, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3363</battle_value>
+        <cost>3.5875775E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="18" techbase="1">
@@ -684,6 +1040,16 @@
             <location index="2">LA</location>
         </heatsinks>
         <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(CL) Large Pulse Laser</name>
             <type>energy</type>
             <location index="6">RA</location>
@@ -694,156 +1060,24 @@
             <location index="4">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
+            <name manufacturer="">(CL) ER Small Laser</name>
             <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="6">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Supercharger</name>
-            <type>Supercharger</type>
-            <location index="6">RT</location>
-        </equipment>
-    </loadout>
-    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Executioner (Gladiator)  G 95t, 4/6[8]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 17 DHS; 1 WDCEWS, 6 ERML, 1 ERPPC, 1 SLRM15, TC</info>
-        <battleforce pv="38" wt="4" mv="5/4j" s="6" m="6" l="3" e="0" ov="2" armor="9" internal="5" abilities="OMNI, WAT, ECM, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3825</battle_value>
-        <cost>3.8263259375E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="17" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="4">RT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="7">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="8">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="9">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Streak LRM-15</name>
-            <type>missile</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Watchdog CEWS</name>
-            <type>equipment</type>
-            <location index="6">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
-            <type>ammunition</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
-            <type>ammunition</type>
-            <location index="7">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="6">LT</location>
-        </equipment>
-    </loadout>
-    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>9</loadout_productionera>
-        <loadout_year>3101</loadout_year>
-        <info>Executioner (Gladiator)  I 95t, 4/6[10]/4 MASC, XLFE, Std; 13.5T/88% FF Armor; 22 DHS; 1 ECM, 2 iHLL, 2 SSRM6, TC</info>
-        <battleforce pv="33" wt="4" mv="6/4j" s="6" m="6" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3339</battle_value>
-        <cost>4.631413437499999E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="22" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="8">LT</location>
-            <location index="6">LT</location>
-            <location index="2">LA</location>
-            <location index="4">LA</location>
-            <location index="6">RT</location>
-            <location index="4">RT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Streak SRM-6</name>
-            <type>missile</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Streak SRM-6</name>
-            <type>missile</type>
             <location index="6">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <name manufacturer="">(CL) ER Small Laser</name>
             <type>energy</type>
-            <location index="7">RA</location>
+            <location index="7">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">ECM Suite</name>
+            <name manufacturer="">Active Probe</name>
             <type>equipment</type>
-            <location index="9">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
-            <type>ammunition</type>
-            <location index="10">LA</location>
+            <location index="8">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Targeting Computer</name>
             <type>TargetingComputer</type>
-            <location index="10">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Supercharger</name>
-            <type>Supercharger</type>
-            <location index="8">RT</location>
+            <location index="6">LT</location>
         </equipment>
     </loadout>
     <fluff>
@@ -854,8 +1088,15 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
-        <jumpjet_model>Unknown</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Distracting</Name>
+                <Cost>1</Cost>
+                <Description>A unit with the Distracting quirk applies a +1 Special Source modifier to any Morale Checks its opponents must make when using the Tactical Morale rules. If using the Demoralizer Special Piloting Ability from ATOW, the Distracting Quirk adds a +1 modifier to the demoralizer&apos;s WIL score.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Pryzhok WM 10</jumpjet_model>
+        <commsystem>Dash-2 Optima</commsystem>
+        <tandtsystem>Hakkon-Morris LAP</tandtsystem>
     </fluff>
 </mech>

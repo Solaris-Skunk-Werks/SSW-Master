@@ -6,18 +6,18 @@
     <era>1</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Various (TR3050U),  Svarstaad Industriplex Beta (RGiC 10)" location="Various (TR3050U), Svarstaad (RGiC 10)">Clan</techbase>
     <year restricted="FALSE">2963</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="2">
+    <structure manufacturer="Eden Mk 60-OM" techbase="2">
         <type>Standard Structure</type>
     </structure>
-    <engine rating="300" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="300" manufacturer="Type I" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Compound SJ6CW" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>23</ct>
@@ -373,6 +373,68 @@
             <location index="9">RT</location>
         </equipment>
     </loadout>
+    <loadout name="DD" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
+        <info>Mad Dog (Vulture)  DD 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 12 DHS; 3 MPL, 1 LRM20, 2 LB2, 1 SSRM6</info>
+        <battleforce pv="20" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1970</battle_value>
+        <cost>1.5306E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LB 2-X AC</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 2-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 2-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -467,6 +529,67 @@
             <location index="5">RT</location>
         </equipment>
     </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3093</loadout_year>
+        <info>Mad Dog (Vulture)  G 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 13 DHS; 1 ERPPC, 1 SLRM15, 3 ERMPL, 2 SSRM6</info>
+        <battleforce pv="25" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="3" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2503</battle_value>
+        <cost>1.6132E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -538,6 +661,172 @@
             <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis IV Capable)</name>
             <type>ammunition</type>
             <location index="8">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Dog (Vulture)  I 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 15 DHS; 2 RAC2, 1 ERPPC</info>
+        <battleforce pv="20" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1951</battle_value>
+        <cost>1.4862E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="S" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BoTS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
+        <info>Mad Dog (Vulture)  S 60t, 5/8/5, XLFE, Std; 8.5T/81% FF Armor; 16 DHS; 1 BAP, 3 MPL, 2 ERPPC</info>
+        <battleforce pv="27" wt="3" mv="5j" s="4" m="4" l="3" e="0" ov="2" armor="5" internal="3" abilities="OMNI, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2676</battle_value>
+        <cost>1.5628E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="6">LT</location>
+            <location index="10">CT</location>
+            <location index="7">LT</location>
+            <location index="6">RT</location>
+            <location index="7">RT</location>
+        </jumpjets>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="9">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Dog (Vulture)  T 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 13 DHS; 2 ERLL, 2 ERML, 2 LRM20</info>
+        <battleforce pv="26" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="3" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battle_value>2555</battle_value>
+        <cost>1.6964E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
         </equipment>
     </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
@@ -625,65 +914,71 @@
             <location index="8">RT</location>
         </equipment>
     </loadout>
-    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
+    <loadout name="V" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Mad Dog (Vulture)  G 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 13 DHS; 1 ERPPC, 1 SLRM15, 3 ERMPL, 2 SSRM6</info>
-        <battleforce pv="24" wt="3" mv="5" s="4" m="4" l="2" e="0" ov="3" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2423</battle_value>
-        <cost>1.6132E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Mad Dog (Vulture)  V 60t, 5/8/0, XLFE, Std; 8.5T/81% FF Armor; 13 DHS; 2 ERML, 1 ArwIV, 2 MPL, 1 LRM20</info>
+        <battleforce pv="22" wt="3" mv="5" s="5" m="4" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ARTAC, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battle_value>2182</battle_value>
+        <cost>1.5172E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="13" techbase="1">
             <type>Double Heat Sink</type>
             <location index="10">CT</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(CL) Streak LRM-15</name>
-            <type>missile</type>
-            <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Streak SRM-6</name>
-            <type>missile</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Streak SRM-6</name>
-            <type>missile</type>
-            <location index="2">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="5">RA</location>
+            <location index="6">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="3">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="7">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
+            <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
             <location index="2">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
-            <type>ammunition</type>
-            <location index="5">LT</location>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Arrow IV Missile</name>
+            <type>artillery</type>
+            <splitlocation index="2" number="8">RT</splitlocation>
+            <splitlocation index="2" number="4">RA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
             <type>ammunition</type>
-            <location index="6">RT</location>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Arrow IV (Non-Homing)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
         </equipment>
     </loadout>
     <fluff>
@@ -694,8 +989,15 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Improved Targeting, Medium</Name>
+                <Cost>4</Cost>
+                <Description>All ranged attack to-hit numbers at the selected range bracket receive a -1 modifier. This quirk cannot be combined with Variable Range Targeting</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>None</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <commsystem>Build OSJ-41</commsystem>
+        <tandtsystem>Cat&apos;s Eye MD6</tandtsystem>
     </fluff>
 </mech>

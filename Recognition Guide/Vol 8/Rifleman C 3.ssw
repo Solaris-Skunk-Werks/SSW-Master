@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Rifleman" model="C 3" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1871</battle_value>
+    <cost>6152400.0</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Trellshire Heavy Industries" location="Twycross">Clan</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="SFo-A" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">LT</location>
+        <location index="4">LT</location>
+        <location index="5">LT</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+    </structure>
+    <engine rating="240" manufacturer="Pitban" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Trellshire Royalstar" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>8</ctr>
+        <lt>20</lt>
+        <ltr>5</ltr>
+        <rt>20</rt>
+        <rtr>5</rtr>
+        <la>19</la>
+        <ra>19</ra>
+        <ll>23</ll>
+        <rl>23</rl>
+        <location index="3">RT</location>
+        <location index="4">RT</location>
+        <location index="5">RT</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="9">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <info>Rifleman C 3 60t, 4/6/0, Std FE, ES; 9.5T/91% FF Armor; 14 DHS; 2 ERLL, 2 ERML, 2 UAC5</info>
+        <battleforce pv="19" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="1" armor="6" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 7K">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7K">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 6b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 6b">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type DL">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type DL">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Quirks: Anti-Aircraft Targeting</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Ubiquitous</Name>
+                <Cost>1</Cost>
+                <Description>Some â€™Mechs, such as the Archer, Wasp, and Locust, have been in production for literally centuries, with thousands or even tens of thousands produced in that time across multiple nations. For other â€™Mechs, the manufacturer has gone to exceptional lengths to ensure that parts are readily available, such as mass producing them or using parts from other, more common machines. Whatever the case, when attempting to locate replacement parts for these â€™Mechs, apply a â€“2 Target Number modifier.  Note that this quirk does not cross between the Clans and the Inner Sphere. For example, a machine Ubiquitous amongst the Clans would not be Ubiquitous in the Inner Sphere, and vice versa.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Searchlight</Name>
+                <Cost>0</Cost>
+                <Description>The unit is equipped with high-powered searchlights. Each tim a searchlight-equipped unit takes a hit in any torso location (Front or Rear), the player must roll a 2D6 to determine if the searchlight is destroyed. A result of 7+ means the searchlight is destroyed, in addition to the normal effects of the attack.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Improved Communications</Name>
+                <Cost>1</Cost>
+                <Description>The unit has a powerful communications suite that can burn through standard electronic countermeasures. The Unit automatically ignores the first level of ghost targets(see p. 101, TO) used against it. Additionall, it can always attempt a BattleMech Satellite uplink (see p. 194, TO) without being forces to give up its movement and combat actions.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garret T11-A</commsystem>
+        <tandtsystem>Garret D2j</tandtsystem>
+    </fluff>
+</mech>

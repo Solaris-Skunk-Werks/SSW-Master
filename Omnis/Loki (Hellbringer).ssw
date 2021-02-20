@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Loki (Hellbringer)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.8552156249999996E7</cost>
+    <cost>1.7939109374999996E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -795,6 +795,63 @@
             <location index="5">RA</location>
         </equipment>
     </loadout>
+    <loadout name="M" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BoTS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
+        <info>Loki (Hellbringer)  M 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 13 DHS; 2 ERLL, 1 GR, 1 SRM6, 1 SSRM6</info>
+        <battleforce pv="22" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="1" armor="4" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2200</battle_value>
+        <cost>1.7939109374999996E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 1</source>
         <loadout_era>3</loadout_era>
@@ -891,7 +948,14 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>Has the following quirks: Searchlight</additional>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Searchlight</Name>
+                <Cost>0</Cost>
+                <Description>The unit is equipped with high-powered searchlights. Each tim a searchlight-equipped unit takes a hit in any torso location (Front or Rear), the player must roll a 2D6 to determine if the searchlight is destroyed. A result of 7+ means the searchlight is destroyed, in addition to the normal effects of the attack.</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>CH2B Alpha-Com</commsystem>
         <tandtsystem>Version Delta-II TTS(A)</tandtsystem>

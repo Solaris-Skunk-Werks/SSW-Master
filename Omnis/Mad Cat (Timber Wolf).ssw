@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding ="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Mad Cat (Timber Wolf)" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\timberwolf.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.583640625E7</cost>
+    <cost>2.4195109375E7</cost>
     <rules_level>1</rules_level>
-    <era>3</era>
-    <productionera>7</productionera>
+    <era>1</era>
+    <productionera>3</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3068</year>
+    <techbase manufacturer="Wolf Clan Site #2, Wolf Clan Site 1" location="Strana Mechty, Arc-Royal">Clan</techbase>
+    <year restricted="FALSE">2945</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="Type W3" techbase="1">
         <type>Endo-Steel</type>
         <location index="4">LL</location>
         <location index="4">RL</location>
@@ -19,12 +19,12 @@
         <location index="9">RT</location>
         <location index="11">CT</location>
     </structure>
-    <engine rating="375" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="375" manufacturer="Starfire" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Composite A-2" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>36</ct>
@@ -46,7 +46,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>BD:BH</source>
+        <source>RS3050Uu-C</source>
         <info>Mad Cat (Timber Wolf) 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS</info>
         <battleforce pv="11" wt="3" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="8" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
@@ -594,9 +594,9 @@
     </loadout>
     <loadout name="M" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 5</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>10</loadout_productionera>
-        <loadout_year>3150</loadout_year>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3068</loadout_year>
         <info>Mad Cat (Timber Wolf)  M 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 4 LRM5, 1 Hflmr, 2 ERPPC, 1 LPL</info>
         <battleforce pv="27" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="2" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2741</battle_value>
@@ -664,10 +664,10 @@
         </equipment>
     </loadout>
     <loadout name="N" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source></source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>10</loadout_productionera>
-        <loadout_year>3150</loadout_year>
+        <source>RGiC 5</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3050</loadout_year>
         <info>Mad Cat (Timber Wolf)  N 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 16 DHS; 2 LRM15, 4 MG, 2 MPL, 2 ERPPC</info>
         <battleforce pv="29" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
         <battle_value>2862</battle_value>
@@ -847,7 +847,7 @@
         <source>RGiC 5</source>
         <loadout_era>3</loadout_era>
         <loadout_productionera>10</loadout_productionera>
-        <loadout_year>3150</loadout_year>
+        <loadout_year>3142</loadout_year>
         <info>Mad Cat (Timber Wolf)  T 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 17 DHS; 2 iHML, 2 ERML, 2 ERSL, 1 ERSPL, 2 LRM20</info>
         <battleforce pv="27" wt="3" mv="5" s="7" m="7" l="3" e="0" ov="2" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <battle_value>2714</battle_value>
@@ -935,6 +935,71 @@
             <location index="5">RA</location>
         </equipment>
     </loadout>
+    <loadout name="TC" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BoTS</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
+        <info>Mad Cat (Timber Wolf)  TC 75t, 5/8/5, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERML, 1 ERSL, 2 SSRM6, 2 LPL</info>
+        <battleforce pv="29" wt="3" mv="5j" s="5" m="5" l="2" e="0" ov="2" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2903</battle_value>
+        <cost>2.4195109375E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="2">RT</location>
+            <location index="3">LT</location>
+            <location index="3">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
@@ -1014,10 +1079,10 @@
         </equipment>
     </loadout>
     <loadout name="W" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source></source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>10</loadout_productionera>
-        <loadout_year>3150</loadout_year>
+        <source>RGiC 5</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3100</loadout_year>
         <info>Mad Cat (Timber Wolf)  W 75t, 5/8[10]/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERML, 1 ERSL, 2 SSRM6, 1 UAC20</info>
         <battleforce pv="28" wt="3" mv="6" s="7" m="7" l="0" e="0" ov="0" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2791</battle_value>
@@ -1091,7 +1156,7 @@
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Mad Cat (Timber Wolf)  Z 75t, 5/8/0, XLFE, ES; 12.0T/100% FF Armor; 15 DHS; 2 ERLL, 1 NCEWS, 2 iATM9, 2 ERMPL</info>
-        <battleforce pv="30" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="30" wt="3" mv="5" s="6" m="5" l="3" e="0" ov="3" armor="8" internal="4" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>3003</battle_value>
         <cost>2.81078125E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
@@ -1396,9 +1461,16 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>&lt;p style=&quot;margin-top: 0&quot;&gt;:br::br:&lt;/p&gt;</additional>
-        <jumpjet_model>Unknown</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <additional>Weak Head Armor (1)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Improved Targeting, Medium</Name>
+                <Cost>4</Cost>
+                <Description>All ranged attack to-hit numbers at the selected range bracket receive a -1 modifier. This quirk cannot be combined with Variable Range Targeting</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Khan Series (Type 2c)</commsystem>
+        <tandtsystem>Series III OPT</tandtsystem>
     </fluff>
 </mech>

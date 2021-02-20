@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Drift Shag" model="" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1512</battle_value>
+    <cost>4783740.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Hector Mechworks Beta" location="Hector">Clan</techbase>
+    <year restricted="FALSE">2827</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Hellion Light V5" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="7">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="10">CT</location>
+    </structure>
+    <engine rating="210" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound Alpha" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>14</ct>
+        <ctr>3</ctr>
+        <lt>12</lt>
+        <ltr>2</ltr>
+        <rt>12</rt>
+        <rtr>2</rtr>
+        <la>9</la>
+        <ra>9</ra>
+        <ll>12</ll>
+        <rl>12</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRCG</source>
+        <info>Drift Shag 30t, 7/11/6, XLFE, ES; 6.0T/91% Armor; 11 DHS; 1 ERLL, 4 ERSL, 1 MPL</info>
+        <battleforce pv="15" wt="1" mv="7/4j" s="4" m="4" l="1" e="0" ov="0" armor="3" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="5">LT</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 6b">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Omega">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1b">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1b">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1b">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1b">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Narrow/Low Profile</Name>
+                <Cost>2</Cost>
+                <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Bad Reputation</Name>
+                <Cost>1</Cost>
+                <Description>While perfectly sound, this unit type has acquired an unwarrented bad reputation. As a result, it is worth only half the normal resale value. Note that when buying this unit, players must still pay the normal value.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Series VII</commsystem>
+        <tandtsystem>Integrated TTS</tandtsystem>
+    </fluff>
+</mech>

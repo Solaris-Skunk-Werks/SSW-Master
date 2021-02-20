@@ -6,10 +6,10 @@
     <era>1</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Dominon Facility Kappa-4 and -5 (TR3050U); Dominon Facility Kappa-5 (RGiC 8)" location="Goito, Thule (TR3050U); Thule (RGiC 8)">Clan</techbase>
     <year restricted="FALSE">2874</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="Dominator Light-Alpha 20" techbase="1">
         <type>Endo-Steel</type>
         <location index="5">LL</location>
         <location index="5">RL</location>
@@ -19,7 +19,7 @@
         <location index="10">RA</location>
         <location index="11">CT</location>
     </structure>
-    <engine rating="200" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="200" manufacturer="Firebox" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
@@ -28,7 +28,7 @@
         <type>MASC</type>
         <location index="10">CT</location>
     </enhancement>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="IceSheet" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>5</hd>
         <ct>5</ct>
@@ -371,6 +371,53 @@
             <location index="5">RA</location>
         </equipment>
     </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3139</loadout_year>
+        <info>Fire Moth (Dasher)  G 20t, 10/15[25]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 4 iHML, 1 CoolPd, TC</info>
+        <battleforce pv="20" wt="1" mv="15" s="4" m="4" l="0" e="0" ov="1" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2041</battle_value>
+        <cost>7667800.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Coolant Pod</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -437,6 +484,75 @@
             <location index="6">RT</location>
         </equipment>
     </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3139</loadout_year>
+        <info>Fire Moth (Dasher)  I 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 ERLL, 1 iHSL, 1 LRM5</info>
+        <battleforce pv="13" wt="1" mv="13" s="2" m="2" l="2" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1260</battle_value>
+        <cost>4097800.0000000005</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Fire Moth (Dasher)  J 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 PC, 2 ERSL, 1 ERSPL</info>
+        <battleforce pv="11" wt="1" mv="13" s="3" m="3" l="1" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, HT1, SRCH, ES, SEAL, SOA" />
+        <battle_value>1140</battle_value>
+        <cost>4098550.0000000005</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </loadout>
     <loadout name="K" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -484,6 +600,215 @@
             <location index="4">LT</location>
         </equipment>
     </loadout>
+    <loadout name="M" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3110</loadout_year>
+        <info>Fire Moth (Dasher)  M 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 LRM15, 4 ERSL</info>
+        <battleforce pv="12" wt="1" mv="13" s="3" m="3" l="1" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1200</battle_value>
+        <cost>3962800.0000000005</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="P" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3132</loadout_year>
+        <info>Fire Moth (Dasher)  P 20t, 10/15[25]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 12 McPL</info>
+        <battleforce pv="8" wt="1" mv="15" s="4" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>841</battle_value>
+        <cost>6752800.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>0</loadout_productionera>
+        <loadout_year>3110</loadout_year>
+        <info>Fire Moth (Dasher)  R 20t, 10/15[20]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 1 ECM, 1 ML, 2 iHML, 1 C3S, 1 ERSL, 1 MPod</info>
+        <battleforce pv="12" wt="1" mv="13" s="3" m="3" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, C3S, ECM, ENE, MHQ1, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1160</battle_value>
+        <cost>4888675.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">M-Pod</name>
+            <type>equipment</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 8</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Fire Moth (Dasher)  T 20t, 10/15[25]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 2 iHML, 1 SSRM4iOS, 1 SRM6</info>
+        <battleforce pv="13" wt="1" mv="15" s="3" m="3" l="0" e="0" ov="0" armor="1" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1305</battle_value>
+        <cost>7382800.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4 (iOS)</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="(Aletha)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>JTPDieron</source>
         <loadout_era>2</loadout_era>
@@ -521,53 +846,6 @@
             <location index="4">LT</location>
         </equipment>
     </loadout>
-    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Fire Moth (Dasher)  G 20t, 10/15[25]/0 MASC, XLFE, ES; 2.0T/55% FF Armor; 10 DHS; 4 iHML, 1 CoolPd, TC</info>
-        <battleforce pv="20" wt="1" mv="15" s="4" m="4" l="0" e="0" ov="1" armor="1" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2041</battle_value>
-        <cost>7667800.0</cost>
-        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
-        <clancase>TRUE</clancase>
-        <equipment>
-            <name manufacturer="">Coolant Pod</name>
-            <type>equipment</type>
-            <location index="5">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="6">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Supercharger</name>
-            <type>Supercharger</type>
-            <location index="4">LT</location>
-        </equipment>
-    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -576,8 +854,20 @@
         <variants></variants>
         <notables></notables>
         <additional>&lt;p style=&quot;margin-top: 0&quot;&gt;:br::br:&lt;/p&gt;</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Narrow/Low Profile</Name>
+                <Cost>2</Cost>
+                <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Overhead Arms</Name>
+                <Cost>2</Cost>
+                <Description>â€™Mechs equipped with overhead armsâ€”such as the Fire Mothâ€”can deliver ranged, direct-fire attacks while hiding almost completely from view. This quirk cannot be combined with the Low-Mounted Arms quirk, nor can it be taken by any â€™Mech that either does not have arms, or lacks any form of direct-fire ranged weaponry in said arms.  If standing, a â€™Mech with Overhead Arms behind an adjacent Level 2 hill or building can fire its arm-mounted direct-fire weapons over it. Such attacks receive a +2 Target Number modifier. Friendly spotters cannot assist with this type of attack.  However, a â€™Mech with Overhead Arms is always exposed to return fire in these circumstances: it can still be attacked despite being behind Level 2 terrain. Apply a +2 Target Number modifier to any attacks that pass through such covering terrain, in addition to the normal +1 partial cover modifier. In this case, only arm hits actually strike the target: all other hits strike the covering terrain instead. This form of partial cover is not negated by the attacker being any number of levels higher than the defender</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>None</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <commsystem>Untermarkt IV-a</commsystem>
+        <tandtsystem>Hakkøn MicroSystems</tandtsystem>
     </fluff>
 </mech>

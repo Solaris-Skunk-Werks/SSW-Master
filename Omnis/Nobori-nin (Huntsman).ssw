@@ -6,10 +6,10 @@
     <era>1</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <techbase manufacturer="Irece Alpha, Avon Alpha, Brim Ironworks (TR3058U); Clan Protectorate Arms (RCiG 12)" location="Irece, Avon, Brim (TR3058U); Asellus Australis (RGiC 12)">Clan</techbase>
     <year restricted="FALSE">3048</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="Mynx Type Medium" techbase="1">
         <type>Endo-Steel</type>
         <location index="8">LT</location>
         <location index="9">RT</location>
@@ -19,12 +19,12 @@
         <location index="11">CT</location>
         <location index="11">RA</location>
     </structure>
-    <engine rating="250" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="250" manufacturer="Consolidated" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Alpha Compound" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>25</ct>
@@ -394,6 +394,231 @@
             <location index="5">RT</location>
         </equipment>
     </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3070</loadout_year>
+        <info>Nobori-nin (Huntsman)  E 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 LTAG, 1 ERSL, 2 MPL, 1 AMS, 1 ATM6, 1 LAP, 1 LPL</info>
+        <battleforce pv="21" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, AMS, LTAG, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2104</battle_value>
+        <cost>1.1568093750000002E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="5">LA</location>
+            <location index="3">LA</location>
+            <location index="3">LT</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6 (ER)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6 (HE)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Nobori-nin (Huntsman)  F 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 iHLL, 1 LRM15, 2 ERML, 1 RHS, TC</info>
+        <battleforce pv="24" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <techbase>Mixed</techbase>
+        <battle_value>2367</battle_value>
+        <cost>1.3148125000000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">LT</location>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Radical Heat Sink</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3139</loadout_year>
+        <info>Nobori-nin (Huntsman)  G 50t, 5/8[10]/5, XLFE, ES; 9.0T/100% FF Armor; 11 DHS; 1 RBlde, 1 SPL, 1 BAP, 2 SSRM6, 3 ERMPL, TC</info>
+        <battleforce pv="24" wt="2" mv="6/5j" s="5" m="5" l="0" e="0" ov="1" armor="6" internal="3" abilities="OMNI, PRB, RCN, MEL, SAW, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2377</battle_value>
+        <cost>1.6991125E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Retractable Blade</name>
+            <type>physical</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -465,6 +690,63 @@
             <location index="5">LT</location>
         </equipment>
     </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3088</loadout_year>
+        <info>Nobori-nin (Huntsman)  I 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 10 DHS; 1 ERLL, 1 HAG20, 1 PC, 1 ERSPL</info>
+        <battleforce pv="23" wt="2" mv="5j" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2277</battle_value>
+        <cost>1.1928062500000002E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+    </loadout>
     <loadout name="N" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -523,148 +805,96 @@
             <location index="3">RT</location>
         </equipment>
     </loadout>
-    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3070</loadout_year>
-        <info>Nobori-nin (Huntsman)  E 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 LTAG, 1 ERSL, 2 MPL, 1 AMS, 1 ATM6, 1 LAP, 1 LPL</info>
-        <battleforce pv="21" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, AMS, LTAG, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2104</battle_value>
-        <cost>1.1568093750000002E7</cost>
-        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Nobori-nin (Huntsman)  T 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 10 DHS; 1 LAMS, 1 Flmr, 4 iHML, 1 ERSL, 1 McPL, 1 UAC2, 2 SLRM5, 1 SSRM6, TC</info>
+        <battleforce pv="21" wt="2" mv="5j" s="4" m="4" l="1" e="0" ov="4" armor="6" internal="3" abilities="OMNI, AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2105</battle_value>
+        <cost>1.2803281250000002E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
-        <heatsinks number="14" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="5">LA</location>
-            <location index="3">LA</location>
-            <location index="3">LT</location>
-            <location index="3">RA</location>
-        </heatsinks>
         <equipment>
-            <name manufacturer="">(CL) ATM-6</name>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
             <type>missile</type>
             <location index="3">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Anti-Missile System</name>
-            <type>equipment</type>
-            <location index="6">LT</location>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Small Laser</name>
             <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Laser Anti-Missile System</name>
+            <type>equipment</type>
             <location index="5">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">Light TAG</name>
-            <type>equipment</type>
-            <location index="7">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Light Active Probe</name>
-            <type>equipment</type>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/2</name>
+            <type>ammunition</type>
             <location index="8">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="7">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
-            <type>ammunition</type>
-            <location index="7">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
             <type>ammunition</type>
             <location index="6">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-6 (ER)</name>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
             <type>ammunition</type>
-            <location index="7">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-6 (HE)</name>
-            <type>ammunition</type>
-            <location index="8">RT</location>
-        </equipment>
-    </loadout>
-    <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Nobori-nin (Huntsman)  F 50t, 5/8/5, XLFE, ES; 9.0T/100% FF Armor; 14 DHS; 1 iHLL, 1 LRM15, 2 ERML, 1 RHS, TC</info>
-        <battleforce pv="24" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="1" armor="6" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
-        <techbase>Mixed</techbase>
-        <battle_value>2402</battle_value>
-        <cost>1.3148125000000002E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="14" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="3">LT</location>
-            <location index="2">LA</location>
-            <location index="2">RA</location>
-            <location index="4">RA</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">Radical Heat Sink</name>
-            <type>equipment</type>
-            <location index="5">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="7">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) LRM-15</name>
-            <type>missile</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
-            <type>ammunition</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
-            <type>ammunition</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) CASE II</name>
-            <type>CASEII</type>
-            <location index="8">RT</location>
+            <location index="6">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Targeting Computer</name>
             <type>TargetingComputer</type>
-            <location index="5">LT</location>
+            <location index="7">RT</location>
         </equipment>
     </loadout>
     <fluff>
@@ -675,8 +905,15 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
-        <jumpjet_model>Unknown</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Nothrup Starlifters M50&apos;s Standard</jumpjet_model>
+        <commsystem>JNE Integrated</commsystem>
+        <tandtsystem>Build 3 CAT TTS</tandtsystem>
     </fluff>
 </mech>

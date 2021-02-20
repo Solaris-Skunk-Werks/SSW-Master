@@ -4,8 +4,8 @@
     <battle_value>1668</battle_value>
     <cost>6197383.333333335</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>0</productionera>
+    <era>1</era>
+    <productionera>5</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="StarCorps Industries, Olivetti Weaponry, Vandenberg Mechanized Industries, Taurus Territorial Industries" location="Emris IV (StarCorps), Sudeten (Olivetti), Pinard (VMI), Taurus (TTI)">Mixed</techbase>
     <year restricted="FALSE">3050</year>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Kokou Defense Tank" model="(XL)" tons="70" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1474</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>8326000.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <techbase manufacturer="Albion Armor Works Beta" location="Albion">Clan</techbase>
+    <year restricted="FALSE">2843</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="Arcadia Compound Delta VII" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>45</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>22</rear>
+        <primaryturret>45</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>TRCG</source>
+        <info>Kokou Defense Tank (XL) 70t, 3/5, XLFE, 9.0T/60% FF Armor; 30 SHS; 1 LRM10, 3 LPL</info>
+        <battleforce pv="15" wt="3" mv="3t" s="4" m="4" l="4" e="0" ov="0" armor="6" internal="4" abilities="CASE, TUR(4/4/4), IF 1" />
+        <heatsinks number="30" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Mk. 46 Type II">(CL) LRM-10</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Build 1685/3 Tacticom</commsystem>
+        <tandtsystem>Build 2 JRD TTS</tandtsystem>
+    </fluff>
+</combatvehicle>

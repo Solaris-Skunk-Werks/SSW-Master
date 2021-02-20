@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Lupus" model="" tons="60" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>7982200.0</cost>
+    <cost>7871600.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -57,7 +57,7 @@
         </heatsinks>
     </baseloadout>
     <loadout name="Prime" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>TP:Tokasha</source>
+        <source>TRGC</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
@@ -117,7 +117,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>TP:Tokasha</source>
+        <source>TRGC</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
@@ -169,7 +169,7 @@
         </equipment>
     </loadout>
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>TP:Tokasha</source>
+        <source>TRGC</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2857</loadout_year>
@@ -234,6 +234,116 @@
             <location index="2">LT</location>
         </equipment>
     </loadout>
+    <loadout name="C" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRGC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Lupus  C 60t, 5/8[10]/0, Std FE, ES; 9.0T/86% FF Armor; 18 DHS; 2 iHLL, 2 iHML, 1 CoolPd, TC</info>
+        <battleforce pv="25" wt="3" mv="6" s="5" m="5" l="0" e="0" ov="1" armor="6" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2535</battle_value>
+        <cost>1.48272E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="4">RA</location>
+            <location index="0">LT</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+            <location index="0">RT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Coolant Pod</name>
+            <type>equipment</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRGC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Lupus  D 60t, 5/8/0, Std FE, ES; 9.0T/86% FF Armor; 10 DHS; 1 SLRM10, 1 RAC5, 2 ERMPL</info>
+        <battleforce pv="20" wt="3" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2030</battle_value>
+        <cost>7871600.0</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(R) (CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-10</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-10</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -242,6 +352,13 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Easy to Maintain</Name>
+                <Cost>1</Cost>
+                <Description>Some units, such as the Thorn, are easier to maintain and repair. All repair or replacement rolls made for a unit with this quirk receive a -1 target number modifier.</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>CI-Com 4</commsystem>
         <tandtsystem>CI-X 2</tandtsystem>

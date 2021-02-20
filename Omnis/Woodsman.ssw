@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Woodsman" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.1778859375E7</cost>
+    <cost>1.202009375E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -54,7 +54,7 @@
         </heatsinks>
     </baseloadout>
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TRGC</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2866</loadout_year>
@@ -144,7 +144,7 @@
         </equipment>
     </loadout>
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>EDGC</source>
+        <source>TRGC</source>
         <loadout_era>1</loadout_era>
         <loadout_productionera>2</loadout_productionera>
         <loadout_year>2866</loadout_year>
@@ -191,6 +191,216 @@
             <name manufacturer="">(CL) ER PPC</name>
             <type>energy</type>
             <location index="2">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRGC</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2866</loadout_year>
+        <info>Woodsman  B 75t, 4/6[8]/0 MASC, Std FE, ES; 13.5T/94% Armor; 12 DHS; 1 ERLL, 1 GR, 1 SPL, 1 ERML, 1 LRM10, 1 SRM4</info>
+        <battleforce pv="24" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="0" armor="7" internal="6" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2414</battle_value>
+        <cost>1.180121875E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRCG</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3149</loadout_year>
+        <info>Woodsman  C 75t, 4/6[8]/0 MASC, Std FE, ES; 13.5T/94% Armor; 18 DHS; 2 iHLL, 1 WDCEWS, 1 LB10</info>
+        <battleforce pv="22" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="7" internal="6" abilities="OMNI, WAT, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2230</battle_value>
+        <cost>1.355184375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="5">LT</location>
+            <location index="3">LT</location>
+            <location index="7">LT</location>
+            <location index="0">RT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRGC</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3149</loadout_year>
+        <info>Woodsman  D 75t, 4/6[8]/0 MASC, Std FE, ES; 13.5T/94% Armor; 12 DHS; 1 WDCEWS, 4 ERML, 4 Mrtr4</info>
+        <battleforce pv="19" wt="3" mv="5" s="3" m="4" l="2" e="0" ov="1" armor="7" internal="6" abilities="OMNI, WAT, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1902</battle_value>
+        <cost>1.202009375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Mech Mortar 4</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Mech Mortar 4</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Mech Mortar 4</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Mech Mortar 4</name>
+            <type>missile</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ &apos;Mech Mortar 4 (Armor Piercing)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
         </equipment>
     </loadout>
     <fluff>

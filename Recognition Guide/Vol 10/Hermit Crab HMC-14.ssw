@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Hermit Crab" model="HMC-14" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>844</battle_value>
+    <cost>2313333.3333333335</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="StarCorps Industries" location="Son Hoa">Inner Sphere</techbase>
+    <year restricted="FALSE">3150</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Hollis Mark III" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="175" manufacturer="Omni" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex Super Medium" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>13</ct>
+        <ctr>2</ctr>
+        <lt>10</lt>
+        <ltr>2</ltr>
+        <rt>10</rt>
+        <rtr>2</rtr>
+        <la>5</la>
+        <ra>5</ra>
+        <ll>11</ll>
+        <rl>11</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">RT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <info>Hermit Crab HMC-14 25t, 7/11/6, Std FE, Std; 4.5T/90% FF Armor; 10 DHS; 3 ERML</info>
+        <battleforce pv="8" wt="1" mv="7/4j" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="6">LT</location>
+            <location index="5">RT</location>
+            <location index="7">LT</location>
+            <location index="8">LT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Easy to Maintain</Name>
+                <Cost>1</Cost>
+                <Description>Some units, such as the Thorn, are easier to maintain and repair. All repair or replacement rolls made for a unit with this quirk receive a -1 target number modifier.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Chilton 360</jumpjet_model>
+        <commsystem>Telestar Model XB-82</commsystem>
+        <tandtsystem>Starlight LX-3a</tandtsystem>
+    </fluff>
+</mech>
