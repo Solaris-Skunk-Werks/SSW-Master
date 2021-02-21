@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Daedalus" model="GTX2 &quot;Militarized&quot;" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>857</battle_value>
+    <battle_value>836</battle_value>
     <cost>3309549.9999999995</cost>
     <rules_level>3</rules_level>
     <era>1</era>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
         <info>Daedalus GTX2 "Militarized" 60t, 4/6/0, Std FE, Ind Quad; 9.5T/70% Armor; 10 SHS; 1 BckHo, 2 ML, 4 RL20-PP, 1 ChnSw, 4 MG</info>
-        <battleforce pv="9" wt="3" mv="4" s="3" m="2" l="0" e="0" ov="0" armor="5" internal="5" abilities="MEL, SAW, SRCH" />
+        <battleforce pv="8" wt="3" mv="4" s="3" m="2" l="0" e="0" ov="0" armor="5" internal="5" abilities="MEL, SAW, SRCH" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="2">

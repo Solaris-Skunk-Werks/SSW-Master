@@ -101,11 +101,6 @@
                 <Cost>2</Cost>
                 <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
             </quirk>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
-                <Name>Searchlight</Name>
-                <Cost>0</Cost>
-                <Description>The unit is equipped with high-powered searchlights. Each tim a searchlight-equipped unit takes a hit in any torso location (Front or Rear), the player must roll a 2D6 to determine if the searchlight is destroyed. A result of 7+ means the searchlight is destroyed, in addition to the normal effects of the attack.</Description>
-            </quirk>
         </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>JNE Integrated</commsystem>

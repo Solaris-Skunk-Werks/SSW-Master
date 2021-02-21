@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hachiwara" model="HCA-3T" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1650</battle_value>
+    <battle_value>1646</battle_value>
     <cost>2.2888136666666668E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <info>Hachiwara HCA-3T 70t, 5/8[10]/0, XLFE, ES; 12.5T/92% Armor; 11 DHS; 1 LrgVbrBld, 2 ERML, 1 UAC10, 4 MPod</info>
-        <battleforce pv="17" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="MEL, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="16" wt="3" mv="6" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="MEL, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">

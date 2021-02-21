@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Rifleman" model="RFL-9T" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1416</battle_value>
+    <battle_value>1503</battle_value>
     <cost>6445800.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
@@ -47,7 +47,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-PP</source>
         <info>Rifleman RFL-9T 60t, 4/6/0, Std FE, Std; 9.5T/76% Stlth Armor; 10 DHS; 1 ECM, 2 ERML, 2 LPPC, 2 LAC5, TC</info>
-        <battleforce pv="14" wt="3" mv="4" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="5" abilities="ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="3" mv="4" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="5" abilities="ECM, STL, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

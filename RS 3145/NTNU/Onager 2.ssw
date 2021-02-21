@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Onager" model="2" tons="90" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2809</battle_value>
+    <battle_value>2847</battle_value>
     <cost>1.114023E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -48,8 +48,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <info>Onager 2 90t, 3/5/3, Std FE, ES; 15.0T/100% FF Armor; 12 DHS; 1 SPL, 1 HAG30, 2 SRM6, 2 McPL, 3 HrJlII, 2 LPL</info>
-        <battleforce pv="28" wt="4" mv="3j" s="5" m="4" l="3" e="0" ov="1" armor="9" internal="7" abilities=", CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, FLK 1/1/1" />
+        <info>Onager 2 90t, 3/5/3, Std FE, ES; 15.0T/100% FF Armor; 12 DHS; 3 HrJl2, 1 SPL, 1 HAG30, 2 SRM6, 2 McPL, 2 LPL</info>
+        <battleforce pv="28" wt="4" mv="3j" s="5" m="4" l="3" e="0" ov="1" armor="9" internal="7" abilities="BHJ2, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0, FLK 1/1/1" />
         <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

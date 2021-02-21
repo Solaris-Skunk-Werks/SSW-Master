@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Timber Wolf (Mad Cat)" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\timberwolf.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.4195109375E7</cost>
+    <cost>2.41606875E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>

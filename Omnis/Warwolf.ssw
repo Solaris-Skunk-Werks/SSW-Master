@@ -140,8 +140,8 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3138</loadout_year>
         <info>Warwolf  A 75t, 5/8/0, XLFE, ES; 14.5T/100% Rctv Armor; 14 DHS; 1 SLRM10, 1 ERLL, 1 ERML, 2 MPL, 1 ERPPC, 1 SSRM6</info>
-        <battleforce pv="30" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="6" internal="4" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3024</battle_value>
+        <battleforce pv="31" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="6" internal="4" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3100</battle_value>
         <cost>2.5185484375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>

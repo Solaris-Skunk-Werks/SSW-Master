@@ -115,16 +115,6 @@
                 <Cost>2</Cost>
                 <Description>A MechWarrior or pilot with a Piloting Skill of more than 3 will receive a -1 target number modifier for Piloting Skill rolls that they have to make as a result of damage or underlying terrain. More skilled MechWarriors receive no benefit.</Description>
             </quirk>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
-                <Name>Stabilized Weapon</Name>
-                <Cost>0</Cost>
-                <Description>Some weapons, such as the center torso and head lasers of the Mongoose, are better cushioned against or otherwise compensated for the increased inaccuracy caused by moving at high speeds. If the â€™Mech runs, all Target Numbers for that weapon receive a â€“1 modifier.  The cost is 1 point per 7 points (or fraction thereof) of maximum damage the weapon can inflict in a single Damage Value grouping. If the â€œweaponâ€� deals 0 damage (such as TAG), the cost is 1 point. More than one weapon can receive this positive quirk, but the cost for each must be paid.</Description>
-            </quirk>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
-                <Name>Stabilized Weapon</Name>
-                <Cost>0</Cost>
-                <Description>Some weapons, such as the center torso and head lasers of the Mongoose, are better cushioned against or otherwise compensated for the increased inaccuracy caused by moving at high speeds. If the â€™Mech runs, all Target Numbers for that weapon receive a â€“1 modifier.  The cost is 1 point per 7 points (or fraction thereof) of maximum damage the weapon can inflict in a single Damage Value grouping. If the â€œweaponâ€� deals 0 damage (such as TAG), the cost is 1 point. More than one weapon can receive this positive quirk, but the cost for each must be paid.</Description>
-            </quirk>
         </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

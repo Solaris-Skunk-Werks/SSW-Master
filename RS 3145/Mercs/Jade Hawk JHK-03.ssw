@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Jade Hawk" model="JHK-03" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2099</battle_value>
+    <battle_value>2160</battle_value>
     <cost>2.6934E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -51,7 +51,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>TR3145Mercs</source>
         <info>Jade Hawk JHK-03 75t, 5[6]/8[12]/3[4] TSM, XLFE, ES; 13.5T/94% Armor; 12 DHS; 2 Clw, 4 ERSL, 4 SRM6, PartWing</info>
-        <battleforce pv="21" wt="3" mv="6/3j" s="5" m="5" l="0" e="0" ov="0" armor="7" internal="4" abilities="TSM, MEL, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
+        <battleforce pv="22" wt="3" mv="6/3j" s="5" m="5" l="0" e="0" ov="0" armor="7" internal="4" abilities="TSM, MEL, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="3">

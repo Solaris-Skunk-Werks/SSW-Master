@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Kraken-XR" model="" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2975</battle_value>
+    <battle_value>3055</battle_value>
     <cost>2.5878E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
@@ -44,7 +44,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>XTRClan</source>
         <info>Kraken-XR 100t, 3/5/0, XLFE, E-Comp; 19.0T/99% LsrRflc Armor; 16 LHS; 1 ERLL, 2 SLRM10, 4 RAC2</info>
-        <battleforce pv="30" wt="4" mv="3" s="5" m="5" l="5" e="0" ov="2" armor="8" internal="2" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="31" wt="4" mv="3" s="5" m="5" l="5" e="0" ov="2" armor="8" internal="2" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <heatsinks number="16" techbase="1">

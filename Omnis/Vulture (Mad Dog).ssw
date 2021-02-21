@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vulture (Mad Dog)" model="" tons="60" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.5172E7</cost>
+    <cost>1.5232E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>

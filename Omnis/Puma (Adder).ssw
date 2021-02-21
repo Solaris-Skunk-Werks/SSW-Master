@@ -774,12 +774,12 @@
             <location index="4">RT</location>
         </equipment>
     </loadout>
-	<loadout name="TC" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <loadout name="TC" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>BoTS</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
-        <info>Adder (Puma)  TC 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 11 DHS; 1 Flmr, 1 SPL, 1 BAP, 10 MG, 1 AMS, 1 LPL, TC</info>
+        <info>Puma (Adder)  TC 35t, 6/9/0, XLFE, ES; 6.0T/97% FF Armor; 11 DHS; 1 Flmr, 1 SPL, 1 BAP, 10 MG, 1 AMS, 1 LPL, TC</info>
         <battleforce pv="12" wt="1" mv="6" s="4" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, AMS, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1247</battle_value>
         <cost>7161375.0</cost>

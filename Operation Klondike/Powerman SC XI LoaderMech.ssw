@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RSOK</source>
-        <info>Powerman LoaderMech SC XI 35t, 4/6/0, ICE, Ind; 2.5T/50% Cmrcl Armor; 0 SHS; 5 StndrdCrgo, 2 LftHst</info>
+        <info>Powerman SC XI LoaderMech 35t, 4/6/0, ICE, Ind; 2.5T/50% Cmrcl Armor; 0 SHS; 5 StndrdCrgo, 2 LftHst</info>
         <battleforce pv="2" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="3" abilities="ENE, SRCH, EE" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

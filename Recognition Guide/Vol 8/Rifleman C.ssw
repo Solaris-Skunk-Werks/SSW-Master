@@ -85,11 +85,6 @@
                 <Cost>1</Cost>
                 <Description>Some â€™Mechs, such as the Archer, Wasp, and Locust, have been in production for literally centuries, with thousands or even tens of thousands produced in that time across multiple nations. For other â€™Mechs, the manufacturer has gone to exceptional lengths to ensure that parts are readily available, such as mass producing them or using parts from other, more common machines. Whatever the case, when attempting to locate replacement parts for these â€™Mechs, apply a â€“2 Target Number modifier.  Note that this quirk does not cross between the Clans and the Inner Sphere. For example, a machine Ubiquitous amongst the Clans would not be Ubiquitous in the Inner Sphere, and vice versa.</Description>
             </quirk>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
-                <Name>Searchlight</Name>
-                <Cost>0</Cost>
-                <Description>The unit is equipped with high-powered searchlights. Each tim a searchlight-equipped unit takes a hit in any torso location (Front or Rear), the player must roll a 2D6 to determine if the searchlight is destroyed. A result of 7+ means the searchlight is destroyed, in addition to the normal effects of the attack.</Description>
-            </quirk>
             <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
                 <Name>Improved Communications</Name>
                 <Cost>1</Cost>

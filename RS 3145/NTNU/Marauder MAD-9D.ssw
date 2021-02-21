@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Marauder" model="MAD-9D" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1953</battle_value>
+    <battle_value>1967</battle_value>
     <cost>1.6773E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -42,7 +42,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
         <info>Marauder MAD-9D 75t, 4/6/0, XLFE, E-Comp, XL Gyro; 14.0T/97% Armor; 16 DHS; 2 ERLL, 3 MXPL, 1 RHS, 1 SBGR</info>
-        <battleforce pv="20" wt="3" mv="4" s="4" m="4" l="3" e="0" ov="1" armor="7" internal="1" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battleforce pv="20" wt="3" mv="4" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="1" abilities="SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="16" techbase="0">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Vampyr" model="SC-V-1 SalvageMech" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>590</battle_value>
+    <battle_value>540</battle_value>
     <cost>4675640.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
@@ -50,7 +50,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS:VA</source>
         <info>Vampyr SC-V-1 SalvageMech 80t, 4/6/0 ITSM, FCE, Ind Quad; 7.0T/43% Armor; 2 SHS; 8 StndrdCrgo, 1 LFldSuk, 2 LqdCrgo, 1 Fuel, 1 Spryr</info>
-        <battleforce pv="6" wt="4" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="6" abilities="I-TSM, ENE, SRCH, EE, SEAL, SOA" />
+        <battleforce pv="5" wt="4" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="6" abilities="I-TSM, ENE, SRCH, EE, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="2" techbase="2">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="No-Dachi" model="NDA-3S" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\No-Dachi.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1679</battle_value>
+    <battle_value>1706</battle_value>
     <cost>1.8308461666666668E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>

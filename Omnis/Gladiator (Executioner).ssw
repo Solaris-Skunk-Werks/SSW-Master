@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Gladiator (Executioner)" model="" tons="95" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\executioner.gif">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>4.631413437499999E7</cost>
+    <cost>3.5654134375E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>3</productionera>

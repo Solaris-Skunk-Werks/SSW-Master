@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="No-Dachi" model="NDA-2KO" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\No-Dachi.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1739</battle_value>
+    <battle_value>1759</battle_value>
     <cost>1.7704961666666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
@@ -58,7 +58,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3067u</source>
         <info>No-Dachi NDA-2KO 70t, 5[6]/8[9]/0 TSM, XLFE, ES; 13.5T/100% Armor; 14 DHS; 1 Flmr, 1 SL, 1 SPL, 2 ERML, 6 MPL, 1 Swrd, 1 LPL</info>
-        <battleforce pv="17" wt="3" mv="5" s="4" m="4" l="0" e="0" ov="2" armor="7" internal="3" abilities="TSM, MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="3" mv="5" s="4" m="4" l="0" e="0" ov="2" armor="7" internal="3" abilities="TSM, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="14" techbase="0">

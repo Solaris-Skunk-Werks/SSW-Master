@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
-        <info>Lumberjack LoggerMech MOD LM4P 70t, 3/5/0, ICE, Ind; 7.5T/55% Armor; 4 SHS; 1 StndrdCrgo, 1 ChnSw, 1 LftHst, 1 LRM10</info>
+        <info>Lumberjack LoggerMech MOD LM4/P 70t, 3/5/0, ICE, Ind; 7.5T/55% Armor; 4 SHS; 1 StndrdCrgo, 1 ChnSw, 1 LftHst, 1 LRM10</info>
         <battleforce pv="7" wt="3" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="6" abilities="MEL, SAW, SRCH, EE, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>

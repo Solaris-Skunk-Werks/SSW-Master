@@ -538,7 +538,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3078</loadout_year>
         <info>Templar TLR1-O U 85t, 4/6/4, XLFE, ES; 16.5T/100% Armor; 15 DHS; 2 LRT10, 1 C3S, 4 HrJl, 3 MPL, 1 SRT6, 1 LPL</info>
-        <battleforce pv="17" wt="4" mv="4u" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="UMU, OMNI, C3S, BHJ, CASE, MHQ1, SRCH, ES, SEAL, SOA, TOR 1/2/1" />
+        <battleforce pv="17" wt="4" mv="4u" s="5" m="5" l="2" e="0" ov="0" armor="9" internal="4" abilities="UMU, OMNI, C3S, CASE, MHQ1, SRCH, ES, SEAL, SOA, TOR 1/2/1" />
         <battle_value>1747</battle_value>
         <cost>2.7040151041666668E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>

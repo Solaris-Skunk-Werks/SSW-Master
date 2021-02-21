@@ -14,7 +14,7 @@
         <type>Standard Structure</type>
     </structure>
     <engine rating="315" manufacturer="Hermes" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
-    <gyro techbase="0">No Gyro</gyro>
+    <gyro techbase="2">No Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Interface Cockpit</type>
     </cockpit>

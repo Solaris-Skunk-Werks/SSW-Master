@@ -63,7 +63,7 @@
         <loadout_year>3069</loadout_year>
         <info>Seraph C-SRP-O Invictus (Prime) 85t, 3[4]/5[6]/0 TSM, LFE, Std; 16.0T/97% Armor; 12 DHS; 1 C3I, 1 SNPPC, 1 RBlde, 1 UAC10, 1 SSRM6, 2 MML5</info>
         <battleforce pv="18" wt="4" mv="3" s="5" m="4" l="2" e="0" ov="1" armor="9" internal="5" abilities="TSM, OMNI, C3I, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 1" />
-        <battle_value>1794</battle_value>
+        <battle_value>1810</battle_value>
         <cost>2.1175834375E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
@@ -144,8 +144,8 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Seraph C-SRP-O Dominus (A) 85t, 3[4]/5[6]/5 TSM, LFE, Std; 16.0T/97% Armor; 11 DHS; 1 PR, 1 C3I, 1 ERML, 1 RBlde, 1 MPL, 1 HPPC, 1 TAG, TC</info>
-        <battleforce pv="23" wt="4" mv="3/5j" s="3" m="3" l="2" e="0" ov="2" armor="9" internal="5" abilities="TSM, OMNI, C3I, MEL, SAW, TAG, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
-        <battle_value>2338</battle_value>
+        <battleforce pv="24" wt="4" mv="3/5j" s="3" m="3" l="2" e="0" ov="2" armor="9" internal="5" abilities="TSM, OMNI, C3I, MEL, SAW, TAG, ENE, MHQ2, SRCH, ES, SEAL, SOA" />
+        <battle_value>2360</battle_value>
         <cost>2.3052615625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
@@ -649,8 +649,8 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3074</loadout_year>
         <info>Seraph C-SRP-O (Ravana) 85t, 3[4]/5[6]/0 TSM, LFE, Std; 16.0T/97% Armor; 12 DHS; 1 LAMS, 1 C3I, 1 SNPPC, 1 RBlde, 1 LVSPL, 1 Tbolt20</info>
-        <battleforce pv="19" wt="4" mv="3" s="4" m="4" l="2" e="0" ov="0" armor="9" internal="5" abilities="TSM, OMNI, C3I, AMS, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 2" />
-        <battle_value>1941</battle_value>
+        <battleforce pv="20" wt="4" mv="3" s="4" m="4" l="2" e="0" ov="0" armor="9" internal="5" abilities="TSM, OMNI, C3I, AMS, MEL, SAW, CASE, MHQ2, SRCH, ES, SEAL, SOA, IF 2" />
+        <battle_value>1957</battle_value>
         <cost>2.25262625E7</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>

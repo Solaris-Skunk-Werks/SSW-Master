@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Prefect" model="PRF-3R" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2329</battle_value>
+    <battle_value>2412</battle_value>
     <cost>2.0895875E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -63,7 +63,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
         <info>Prefect PRF-3R 75t, 5/8/0, XLFE, ES, XL Gyro; 12.5T/97% FF Armor; 13 DHS; 2 SNPPC, 1 RHS, 1 HPPC, 1 TSEMP</info>
-        <battleforce pv="23" wt="3" mv="5" s="2" m="2" l="1" e="0" ov="1" armor="7" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="24" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="0" armor="7" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="13" techbase="0">

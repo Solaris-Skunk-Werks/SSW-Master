@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Trebuchet" model="TBT-XK7" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1543</battle_value>
+    <battle_value>1549</battle_value>
     <cost>9851000.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>

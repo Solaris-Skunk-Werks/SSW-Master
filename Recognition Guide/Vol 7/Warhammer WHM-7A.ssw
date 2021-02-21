@@ -136,11 +136,6 @@
                 <Cost>1</Cost>
                 <Description>Some â€™Mechs are extremely reliable, reducing the frequency with which they require maintenance. The cost is 1 point if the â€˜Mech can go for two times as long between maintenance periods as normal, and 2 points if it can go up to three times as long.</Description>
             </quirk>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
-                <Name>Searchlight</Name>
-                <Cost>0</Cost>
-                <Description>The unit is equipped with high-powered searchlights. Each tim a searchlight-equipped unit takes a hit in any torso location (Front or Rear), the player must roll a 2D6 to determine if the searchlight is destroyed. A result of 7+ means the searchlight is destroyed, in addition to the normal effects of the attack.</Description>
-            </quirk>
             <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
                 <Name>Stable</Name>
                 <Cost>2</Cost>

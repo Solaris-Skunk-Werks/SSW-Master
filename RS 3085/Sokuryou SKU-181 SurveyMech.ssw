@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Sokuryou" model="SKU-181 SurveyMech" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>345</battle_value>
+    <battle_value>328</battle_value>
     <cost>933583.3333333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>

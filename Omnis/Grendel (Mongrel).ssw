@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Grendel (Mongrel)" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.249265E7</cost>
+    <cost>1.24018375E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -401,7 +401,7 @@
         <loadout_productionera>8</loadout_productionera>
         <loadout_year>3090</loadout_year>
         <info>Grendel (Mongrel)  G 45t, 7/11[14]/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 WDCEWS, 4 MPL, 5 McPL</info>
-        <battleforce pv="22" wt="2" mv="9/7j" s="4" m="3" l="0" e="0" ov="1" armor="5" internal="2" abilities="OMNI, WAT, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="22" wt="2" mv="9/7j" s="4" m="3" l="0" e="0" ov="1" armor="5" internal="2" abilities="OMNI, WAT, ECM, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>2209</battle_value>
         <cost>1.8534625E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>

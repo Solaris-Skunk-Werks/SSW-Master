@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Osteon" model="" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.670278125E7</cost>
+    <cost>3.185178125E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>6</productionera>
@@ -187,7 +187,7 @@
         <loadout_year>3072</loadout_year>
         <info>Osteon  A 85t, 3/5/0, XLFE, Rnfrcd; 18.0T/96% FL Armor; 14 DHS; 4 iHML, 1 ERLL, 3 Mrtr8, 1 NCEWS, 1 MPL</info>
         <battleforce pv="23" wt="4" mv="3" s="3" m="3" l="2" e="0" ov="4" armor="10" internal="10" abilities="OMNI, NOVA, PRB, RCN, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
-        <battle_value>2284</battle_value>
+        <battle_value>2291</battle_value>
         <cost>2.670278125E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>

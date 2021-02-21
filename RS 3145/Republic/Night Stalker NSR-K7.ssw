@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Night Stalker" model="NSR-K7" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>833</battle_value>
+    <battle_value>857</battle_value>
     <cost>9290376.666666666</cost>
     <rules_level>3</rules_level>
     <era>3</era>
@@ -72,7 +72,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145u</source>
         <info>Night Stalker NSR-K7 40t, 8[9]/12[14]/0 TSM, XLFE, ES; 8.5T/87% I-R Armor; 10 DHS; 1 Lnc, 1 ERSL, 3 RESL, 1 ChnWhp</info>
-        <battleforce pv="8" wt="2" mv="8" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="TSM, MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="9" wt="2" mv="8" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="TSM, MEL, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="10" techbase="0">

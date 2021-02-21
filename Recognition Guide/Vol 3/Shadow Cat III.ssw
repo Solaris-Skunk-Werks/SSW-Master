@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Shadow Cat III" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.679203125E7</cost>
+    <cost>1.077640625E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>10</productionera>

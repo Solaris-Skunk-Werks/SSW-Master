@@ -158,13 +158,6 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
-        <quirks>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="true">
-                <Name>Variable Range Targeting</Name>
-                <Cost>0</Cost>
-                <Description>A BattleMech with this quirk has an advanced targeting system that allows it to launch more accurate attacks at either long or short range, at the expense of reduced accuracy at other ranges. During a turn&apos;s End Phase, the controlling player must designate whether this improved targeting feature will be active at long or short range the next turn. All weapon attacks at the designated range receive a -1 target number modifier, but all weapon attacks at the alternative range receive a +1 target number modifier (medium range remains unmodified).</Description>
-            </quirk>
-        </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Garret T11-b</commsystem>
         <tandtsystem>Garret A6</tandtsystem>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Lament" model="LMT-2R (Manes)" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>2334</battle_value>
+    <battle_value>2297</battle_value>
     <cost>1.7182824999999996E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>

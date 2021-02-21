@@ -569,7 +569,7 @@
         <loadout_productionera>6</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Black Hawk (Nova)  U 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 8 MG, 1 Swrd, 3 McPL, 1 ECM, 1 LAP, 1 HrJl, 3 HML, 1 SptWeld, 2 LqdCrgo</info>
-        <battleforce pv="14" wt="2" mv="5j" s="6" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ECM, LPRB, RCN, MEL, BHJ, CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="5j" s="6" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ECM, LPRB, RCN, MEL, CASE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>1413</battle_value>
         <cost>1.1417437500000002E7</cost>

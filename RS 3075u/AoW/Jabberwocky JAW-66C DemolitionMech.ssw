@@ -49,7 +49,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3075u-AW</source>
-        <info>Jabberwocky DemolitionMech JAW-66C 50t, 4/6/3 ITSM, Std FE, Ind; 3.5T/33% Armor; 10 SHS; 1 SlvgArm, 1 SrchLt, 1 LftHst, 1 RckCut</info>
+        <info>Jabberwocky JAW-66C DemolitionMech 50t, 4/6/3 ITSM, Std FE, Ind; 3.5T/33% Armor; 10 SHS; 1 SlvgArm, 1 SrchLt, 1 LftHst, 1 RckCut</info>
         <battleforce pv="4" wt="2" mv="4/2j" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="4" abilities="I-TSM, SRCH, MEL, ENE, SRCH, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>

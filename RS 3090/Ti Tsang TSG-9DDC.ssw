@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Ti Ts&apos;ang" model="TSG-9DDC" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1984</battle_value>
+    <battle_value>2013</battle_value>
     <cost>2.112096E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Centurion" model="CN9-YLW3 &quot;Yen Lo Wang&quot;" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1794</battle_value>
+    <battle_value>1815</battle_value>
     <cost>8365999.999999999</cost>
     <rules_level>3</rules_level>
     <era>2</era>
