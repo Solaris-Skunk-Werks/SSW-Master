@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Thunder Stallion" model="4 'Avenging Annie'" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2643</battle_value>
+    <cost>1.732305E7</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Arc-Royal MechWorks" location="Arc-Royal">Clan</techbase>
+    <year restricted="FALSE">3138</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Type QMA" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="255" manufacturer="Fusion" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forged Type HH32" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>34</ct>
+        <ctr>19</ctr>
+        <lt>20</lt>
+        <ltr>15</ltr>
+        <rt>20</rt>
+        <rtr>15</rtr>
+        <la>35</la>
+        <ra>35</ra>
+        <ll>35</ll>
+        <rl>35</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <info>Thunder Stallion 4 "Avenging Annie" 85t, 3/5/3, XLFE, Std Quad; 17.0T/97% Armor; 12 DHS; 1 ERLL, 1 GR, 2 MPL, 1 LB20, 1 LPL</info>
+        <battleforce pv="26" wt="4" mv="3j" s="6" m="6" l="3" e="0" ov="0" armor="9" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="2">RT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RLL</location>
+            <location index="4">RRL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Type AA4">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 44h">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 7N">(R) (CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type Mu">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="5">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="4">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="5">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">FRL</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Cramped Cockpit</Name>
+                <Cost>2</Cost>
+                <Description>The Unit receives a +1 Piloting Skill Roll modifier. This quirk cannot be applied to Units with a Small Cockpit.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Model KJ Boosters</jumpjet_model>
+        <commsystem>CH3V Series Integrated</commsystem>
+        <tandtsystem>Version Kappa-III TTS</tandtsystem>
+    </fluff>
+</mech>
