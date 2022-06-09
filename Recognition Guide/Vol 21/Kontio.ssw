@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Kontio" model="" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1912</battle_value>
+    <cost>1.2127453333333332E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Bergan Industries" location="Alshain">Mixed</techbase>
+    <year restricted="FALSE">3145</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Alshain M" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+    </enhancement>
+    <armor manufacturer="Hellespont Lite" techbase="0">
+        <type>Stealth Armor</type>
+        <hd>9</hd>
+        <ct>18</ct>
+        <ctr>5</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 21</source>
+        <info>Kontio 40t, 7[8]/11[16]/0 TSM, XLFE, ES; 8.5T/99% Stlth Armor; 10 DHS; 1 ECM, 2 Clw, 6 ERSL, 1 McPL, 2 MPL</info>
+        <battleforce pv="19" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="1" armor="5" internal="2" abilities="TSM, ECM, STL, MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Claws</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Claws</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Ramiel Bekker claims the Kontio was inspired by an encounter with a concealed ghost bear during hisClawing. The use of claws and stealth armor is as controversial as Bekker invoking the ghost bear’s hunting techniques when championing the concept for production. In any case, the Kontio caused a stir in the Rasalhague Dominion and even drew the attention of Wolf Khan Alaric Ward, who later claimed Bekker as a bondsman. With Clan Wolf as a source of steady demand, the Dominion could hold off difficult questions about its own doctrinal use of the Kontio and let customers perform combat testing for them.</overview>
+        <capabilities>The Kontio is a clawed melee monstrosity that displays Bekker’s tactical preference for speed and positioning. Bekker himself proved the validity of the concept in a combat trial by impaling the opposing pilot with the Kontio’s claws, but the implicit dishonor in such a victory almost ended the project. The speed and efficiency he demonstrated forced reluctant consideration. Bergan Industries produced a single test run, before the Wolves created sudden demand. Bergan used its Capellan connection to source stealth armor and triple-strength myomer, and a growing number of Kontios have since appeared in the CCAF.:br::tab:The Kontio is becoming known as a pilot killer. It offers a poor death on the end of its claws. Enemy pilots either avoid Kontios or target them, for fear of a messy end.</capabilities>
+        <battlehistory>When proving his new ’Mech, Ramiel Bekker requested an opponent with heavy head protection for safety. Star Captain Justine hoped to embarrass the ristar in her Savage Wolf. Bekker frustrated her with stealth, range, and terrain until she stopped moving to improve her aim. Bekker used the Kontio’s speed to stab the Savage Wolf in the back. Heat sink coolant dripping from its claw, Bekker broke for cover. The Kontio took heavy fire when the Savage Wolf whirled around. Unable to escape, Bekker smashed a claw into its cockpit. He backed away and demanded the exposed Justine yield. She refused and fired everything she had. Despite multiple system failures and the loss of an arm, Bekker managed to re-orient himself as the Savage Wolf charged. They slammed together, arms flailing wildly. The larger ’Mech slumped to the ground and Bekker’s Kontio stood tall, with Justine’s mangled remains impaled on its claw.:br::tab:For the freeborn Wolf Clusters raised from the Free Worlds League and Lyran Commonwealth, the Kontio has become a potent symbol of clawed predation. Cunning paintwork by Bergan to give the ursid Kontio a canid or feline appearance helps sell the image. Relatively rare and expensive for a garrison Cluster, Kontios are rewards for good service. While the Lyrans and League dare not threaten the Wolf Empire, the Falcons remain happy to raid. Attacks on Lamon, Sarpsborg, and Clinton have led to Kontios trying to chase down leaping Hierofalcons and Ion Sparrows. The clashes between inexperienced freeborn warriors on both sides resulted in messy affairs where ranges were short, and missed shots and physical confrontations were plentiful. More experienced Wolf warriors usually held back and scored easy kills when their enthusiastic comrades were finished.</battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Star Captain Evelyn Carrera: Few have done more to promote the Kontio in the Dominion than thenStar Commander Evelyn. The tactically skilled Evelyn suffered the embarrassment of having her Bear Cub shot from under her by the First Falcon Jaegers when the Eighteenth Battle Cluster retreated from La Grave. After failing to soothe her lust for revenge with her violin playing, she started hunting Falcon Jaegers under the guise of trialing for supplies. With her Star’s heavy ’Mechs forming a defensive redoubt, Evelyn would sally forth in her new Kontio and target Jaeger pilots in their cockpits. As tit-for-tat raids began to escalate, Galaxy Commander Hans Kabrinski called an end to these expeditions. Evelyn redirected her focus and used her unconventional tactics to blaze through her Trials of Position and Bloodright. Her hunger was finally sated, and she returned to her great work, a violin concerto.:br:Star Commander George: George Zhang was a street rat who descended into a life of crime on Gienah. Then Clan Wolf occupied the world. The opportunity to join the Wolf Touman was not only an honor, but a chance to stick it to the Lyran policemen who had made his life miserable. To the shock of all, George had sufficient aptitude piloting a ’Mech to pass his Trial of Position with two kills. George’s street smarts translated into instinctive evasive maneuvers and close quarter suckerpunches. As part of the Brown Keshik, George typically skulks around the edge of battle before pouncing on the unwary, regardless of size. A flurry of claws is usually the last thing his target sees.</notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Distracting</Name>
+                <Cost>1</Cost>
+                <Description>A unit with the Distracting quirk applies a +1 Special Source modifier to any Morale Checks its opponents must make when using the Tactical Morale rules. If using the Demoralizer Special Piloting Ability from ATOW, the Distracting Quirk adds a +1 modifier to the demoralizer&apos;s WIL score.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Bad Reputation</Name>
+                <Cost>1</Cost>
+                <Description>While perfectly sound, this unit type has acquired an unwarrented bad reputation. As a result, it is worth only half the normal resale value. Note that when buying this unit, players must still pay the normal value.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garret L20</commsystem>
+        <tandtsystem>RCA Instatrac Mark IX</tandtsystem>
+    </fluff>
+</mech>

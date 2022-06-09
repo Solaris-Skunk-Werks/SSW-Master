@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Vixen (Incubus)" model="2" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Vixen (Incubus)" model="2" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1913</battle_value>
     <cost>5477140.0</cost>
@@ -8,7 +8,7 @@
     <productionera>3</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">2998</year>
+    <year restricted="FALSE">2960</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>

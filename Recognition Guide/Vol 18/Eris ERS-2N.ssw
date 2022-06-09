@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Eris" model="ERS-2N" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1400</battle_value>
+    <cost>9500000.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kallon Weapon Industries" location="Loyalty">Inner Sphere</techbase>
+    <year restricted="FALSE">3092</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="N&amp;D HLBM" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="250" manufacturer="Hermes" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Kallon Royalstar" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>23</ct>
+        <ctr>8</ctr>
+        <lt>18</lt>
+        <ltr>5</ltr>
+        <rt>18</rt>
+        <rtr>5</rtr>
+        <la>15</la>
+        <ra>15</ra>
+        <ll>22</ll>
+        <rl>22</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 18</source>
+        <info>Eris ERS-2N 50t, 5/8/5[7], XLFE, ES; 10.0T/95% Armor; 10 DHS; 1 SNPPC, 2 MML5, 3 SXPL, PartWing</info>
+        <battleforce pv="14" wt="2" mv="5/7j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <partialwing tech="0" lsstart="3" rsstart="3" />
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Fusigon Smarttooth">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) MML-5</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly">(IS) MML-5</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Longtime IndustrialMech manufacturer Nashan Diversified developed what would become the Eris in an attempt to join the ranks of the Inner Sphere’s major BattleMech manufacturers. Originally marketed as the Hel, the ’Mech failed to impress the LCAF. With the general post-Jihad reduction in military spending, only a handful of Hels sold via mercenary and independent Free Worlds markets before Defiance Industries declined to renew supply contracts for critical components, likely to protect Defiance’s market share.:br::br::tab:Left with plans for a ’Mech they could no longer build, Nashan convinced Kallon Weapon Industries to buy the specifications and washed their hands of BattleMech production. Kallon redesigned the ’Mech as a mobile skirmisher perfect for the perpetual low-intensity conflicts in the former Free Worlds League, rebranding it the Eris as a reflection of the chaos it was intended to sow amongst its foes.</overview>
+        <capabilities>The HLBM chassis was simple and rugged, but its armament was nearly identical to Kallon’s more popular and well-established Wolverine. Kallon did not wish to build a competitor for their flagship product, so engineers installed a partial wing to distinguish it. This vastly improved the Eris’ performance in broken terrain and set it up as a direct competitor to Earthwerks’ Phoenix Hawk as a mobile skirmisher and raider. Kallon expected the Eris to engage primarily in running battles, so the Hel’s particle cannon and lasers were replaced with more accurate, lower output versions. Paired MML racks replaced the Defiance-built Streak launcher to give the Eris greater flexibility in payload and engagement range than its predecessor.</capabilities>
+        <battlehistory>The Eris has featured regularly in inter-League conflicts, perhaps most notably in the 3140 assault on Aitutaki by the Third Free Worlds Guards. Previous attempts to seize the agricultural world with an oppressive atmosphere faltered due to dense native jungles limiting mobility of ground-bound BattleMechs. Equipped with the Eris, the defending Sixteenth Regulan Hussars readily carried out hit-and-fade and pincer attacks against the bulk of the Guards. The partial wing system excelled in the hostile environment. The Guards resorted to sending forward their own Erises and Phoenix Hawks to pin down the Hussars for artillery and air strikes. Eventually, the defenders were eliminated, securing the world for the reformed Free Worlds League.:br::br::tab:When the Fourth Regulan Hussars counter-attacked in an attempt to reclaim the world, the Guards turned their pincer tactics back on the Regulans, pinning the Hussars between the Fourth’s Erises—including many salvaged from the Sixteenth—and their main battle line. The Fourth was torn to shreds and evacuated the world in disorder.</battlehistory>
+        <deployment></deployment>
+        <variants>Ironically, with the loss of Thermopolis to Clan Wolf, the original Hel configuration is once again in demand. The BattleMech, designated the ERS-2H Eris, is functionally identical to the original HL-1 Hel in all ways save component manufacture.:br::br::tab:In order to make the most of the winged platform, Kallon also developed the Eris into a heavy striker and interdictor. Rocket launchers replaced the missiles and the entire right arm, with more underslung on the remaining arm. Increased armor protects both a fragile redesigned composite structure and an Angel ECM suite, guaranteeing the -3R’s utility even after its rockets are depleted.</variants>
+        <notables>Major Sean Forness: The russet-bearded Forness graduated with the second-to-last class at Allison MechWarrior Institute prior to the capture of New Olympia by Clan Wolf. He has become the proverbial red-headed stepchild. Forness was passed over for a field command due to his family’s favor under the previous, collapsed regime of Anson Marik. He was instead assigned to the Free Worlds Guards as an intelligence officer. Forness remains anxious to strike back at the Wolves. Rumors suggest that more than one “mercenary” raid on Clan-occupied League factories were recon operations planned by Forness. His jet-black Eris gives him an all-terrain recon platform common enough for deniability and with sufficient firepower to fight through sticky situations.:br::br:MechWarrior Alithea Lotharian: Alithea Lotharian lost her whole family at a young age in the multi-way struggle for Irian in 3133. She bounced in and out of orphanages and reform schools, before stowing away on a DropShip and beginning a bohemian life of odd jobs and interstellar travel. A natural at combat sims, Lotharian dominated local gaming scenes, but never made enough money to move beyond that level. She found herself on the gambling world of Kyeinnisan when the Fourth Regulan Hussars engaged the First Orloff Grenadiers in the opening moves of Operation Triumvir. The Regulans encircled the spaceport’s unprepared garrison. Lotharian commandeered an Eris whose pilot had been killed and led the remains of the garrison company out of the city via winding maintenance passages and tunnels. Impressed by Lotharian’s ingenuity, and being hard-pressed for soldiers, Colonel Candice Jackson inducted her into the First on the spot.</notables>
+        <additional></additional>
+        <jumpjet_model>Chilton 360</jumpjet_model>
+        <commsystem>Garret T20-C</commsystem>
+        <tandtsystem>Garret A6</tandtsystem>
+    </fluff>
+</mech>

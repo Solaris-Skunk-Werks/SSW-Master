@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Exterminator" model="EXT-4C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Exterminator.jpg">
+<mech name="Exterminator" model="EXT-4C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1420</battle_value>
     <cost>1.91318225E7</cost>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Goliath" model="GOL-7C" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1790</battle_value>
+    <cost>1.49628E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3133</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="320" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Light Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>19</ctr>
+        <lt>24</lt>
+        <ltr>10</ltr>
+        <rt>24</rt>
+        <rtr>10</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>32</ll>
+        <rl>32</rl>
+        <location index="3">HD</location>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="5">RLL</location>
+        <location index="5">RRL</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <info>Goliath GOL-7C 80t, 4/6/0, LFE, Std Quad; 15.0T/97% LFF Armor; 12 DHS; 2 ERML, 1 UAC10, 2 SSRM6</info>
+        <battleforce pv="18" wt="4" mv="4" s="5" m="5" l="2" e="0" ov="0" armor="8" internal="4" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Multi-Trac</Name>
+                <Cost>2</Cost>
+                <Description>A `Mech with this quirk can track multiple targets and may attack any number of targets in its front and arm firing arcs in the same turn without adding the secondary-target modifier. Secondary targets in the rear arc are treated as normal.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Exposed Actuators</Name>
+                <Cost>1</Cost>
+                <Description>The actuators of some designs are poorly protected and more vulnerable to the effcts of Swarm and Leg attacks. The target numbers for such attacks reveive a -1 modifier.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Exo HaulerMech" model="HMX-3" tons="10" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>107</battle_value>
+    <cost>658579.5833333333</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Waytani, Inc." location="Pollux">Inner Sphere</techbase>
+    <year restricted="FALSE">3082</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Waytani HMX" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="40" manufacturer="Leenex" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>Industrial TSM</type>
+        <location index="1">LT</location>
+        <location index="1">RT</location>
+        <location index="2">LT</location>
+        <location index="2">RT</location>
+        <location index="3">LT</location>
+        <location index="3">RT</location>
+        <location index="4">LT</location>
+        <location index="4">RT</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+    </enhancement>
+    <armor manufacturer="Caterpillar IndusWeave" techbase="2">
+        <type>Standard Armor</type>
+        <hd>3</hd>
+        <ct>3</ct>
+        <ctr>2</ctr>
+        <lt>2</lt>
+        <ltr>2</ltr>
+        <rt>2</rt>
+        <rtr>2</rtr>
+        <la>2</la>
+        <ra>2</ra>
+        <ll>2</ll>
+        <rl>2</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Exo HaulerMech HMX-3 10t, 4/6/0 ITSM, FCE, Ind; 1.5T/59% Armor; 1 SHS</info>
+        <battleforce pv="1" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="I-TSM, ENE, SRCH, EE, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <multislot name="Environmental Sealing">
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="3">HD</location>
+            <location index="4">LA</location>
+            <location index="4">RA</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="10">CT</location>
+        </multislot>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Handheld Weapon Configurations:br::br:Weapons and Ammo Mass:br::br:Nail/Rivet Gun Tool (1 ton):br::br:Nail/Rivet Gun .5:br::br:Ammo (Nail/Rivet Gun) 150 .5:br::br:Battle Value: 1:br::br::br:Triple Nail/Rivet Gun Tool (2 tons):br::br:3 Nail/Rivet Guns 1.5:br::br:Ammo (Nail/Rivet Gun) 150 .5:br::br:Battle Value: 2:br::br::br:Flamer Weapon (1 ton):br::br:Vehicle Flamer .5:br::br:Ammo (Flamer) 10 .5:br::br:Battle Value: 6:br::br::br:Machine Gun Weapon (1 ton):br::br:1 Machine Gun .5:br::br:Ammo (MG) 100 .5:br::br:Battle Value: 6:br::br::br:Light Machine Gun Weapon (2 tons):br::br:2 Light Machine Guns 1:br::br:Ammo (Light MG) 100 .5:br::br:Armor (8 points) .5:br::br:Battle Value: 27:br::br::br:Magshot Gauss Weapon (2 tons):br::br:Magshot Gauss Rifle .5:br::br:Ammo (Gauss) 50 1:br::br:Armor (8 points) .5:br::br:Battle Value: 33:br::br::br:MML Weapon (2 tons):br::br:MML 3 1.5:br::br:Ammo (MML) 20/16 .5:br::br:Battle Value: 31:br::br::br:Rocket Launcher Weapon (2 tons):br::br:4 Rocket Launcher 10 2:br::br:Battle Value: 72:br::br::br:Small Laser Weapon (2 tons):br::br:Small Laser .5:br::br:Power Amplifier .5:br::br:Heat Sink 1:br::br:Battle Value: 9</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Narrow/Low Profile</Name>
+                <Cost>2</Cost>
+                <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>COMTEC 210A</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

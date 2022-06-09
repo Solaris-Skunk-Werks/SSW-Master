@@ -5,10 +5,10 @@
     <cost>1550199.9999999998</cost>
     <rules_level>3</rules_level>
     <era>1</era>
-    <productionera>5</productionera>
+    <productionera>2</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3050</year>
+    <year restricted="FALSE">2836</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>

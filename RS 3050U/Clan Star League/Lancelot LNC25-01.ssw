@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Lancelot" model="LNC25-01" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Lancelot.jpg">
+<mech name="Lancelot" model="LNC25-01" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1422</battle_value>
     <cost>1.30256E7</cost>

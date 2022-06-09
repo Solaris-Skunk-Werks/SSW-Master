@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Goliath" model="GOL-7K" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1895</battle_value>
+    <cost>2.05773E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Osaka Heavy Metrics" location="Togura">Inner Sphere</techbase>
+    <year restricted="FALSE">3148</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Brigadier 1000F" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="320" manufacturer="Hermes" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Sharshield" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>19</ctr>
+        <lt>21</lt>
+        <ltr>13</ltr>
+        <rt>21</rt>
+        <rtr>13</rtr>
+        <la>30</la>
+        <ra>30</ra>
+        <ll>31</ll>
+        <rl>31</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="TRUE">
+        <source>RGiC 22</source>
+        <info>Goliath GOL-7K 80t, 4/6[8]/0, LFE, Std Quad; 15.5T/94% Armor; 12 DHS; 2 MRM10, 2 MG, 1 HPPC, 5 MPod</info>
+        <battleforce pv="19" wt="4" mv="5" s="3" m="3" l="1" e="0" ov="0" armor="8" internal="4" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Shigunga">M-Pod</name>
+            <type>equipment</type>
+            <location index="4">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">M-Pod</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">M-Pod</name>
+            <type>equipment</type>
+            <location index="4">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">M-Pod</name>
+            <type>equipment</type>
+            <location index="4">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">M-Pod</name>
+            <type>equipment</type>
+            <location index="4">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">(IS) MRM-10</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Shigunga">(IS) MRM-10</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light 3">(IS) Heavy PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-10</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-10</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="9">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>The term BattleMech conjures up images of mechanical bipedal warriors striding across the battlefield, yet quadrupedal ’Mechs have been a mainstay of civilian enterprises for centuries. The Brigadier Corporation realized the benefits of stability and maneuverability of such chassis in military roles, and it was with the culmination of their QuadMechs, the Goliath, that they sought to build their reputation. The ’Mechs height made it psychologically intimidating to conventional forces, but its specialized mechanical requirements and the vulnerability of its motive systems made it a poor fit for the Star League Army. Instead, Brigadier Corporation recouped some of the development costs via sales to the Great Houses and Periphery nations, and the ’Mech saw action throughout the Succession Wars. Following Operation Revival there was renewed interest in quads, but the Jihad and subsequent rise of the Republic limited developments to the Goliath.</overview>
+        <capabilities>House Marik intended to re-open the Goliath production facility on Oliver—defunct since the Second Succession War—but the Jihad struck. For many years the line produced IndustrialMechs, but in the wake of Gray Monday, Brigadier resumed Goliath production with the -7R model. Clan Wolf’s capture of Oliver placed the Wolf Empire in a quandary: they already build the upgraded Goliath C on Stewart, so they are unsure how best to benefit the Empire with the Oliver line. For now, it remains unmodified, while upgrade efforts are focused on the Scorpion—something we Foxes can possibly take advantage of.:br::br::tab:The directional, turret-like torso mount gives the Goliath an improved field of fire, and advanced tracking systems allow the pilot to engage multiple targets simultaneously with main and secondary weapons, a deadly advantage in many encounters. However, the complex actuator design remains a vulnerability, and the lack of credible defensive weaponry leaves some Goliaths open to close-range attacks and battle armor swarms.:br::br::tab:Osaka Heavy Metrics’ recently introduced GOL-7K has a deadly counter to such threats: M-pods concealed in the center torso and in each leg. These defenses are hidden behind blow-away panels designed to resemble maintenance hatches, providing an unwelcome surprise for anyone who gets too close. With a focus on medium-range combat, this Goliath variant is part of their expansion to add a true BattleMech to their stable of combat support quad IndustrialMechs. How and when Osaka acquired the plans is unknown, but espionage is suspected.</capabilities>
+        <battlehistory>The Goliath’s sparse deployment meant that it saw limited action during the Succession Wars, but it often played a notable role. In 2901, a Marik Goliath led the assault against Liao positions on Sirius. It used its long-range weapons to strike at the Capellan HQ and disable three ’Mechs. This allowed the rest of the FWLM lance to push the enemy back some forty kilometers. However, for every success there was a notable failure. During the invasion of Kittery in 3005, a lance of Davion light ’Mechs surrounded and destroyed a lone Liao Goliath. It valiantly withstood the close-range assaults and eliminated two of its attackers before falling.:br::br::tab:A rediscovered Star League-era cache of Goliaths allowed the Capellan Confederation to resurrect the Fifth Capellan Chargers during the Third Succession War. Their old regimental nickname of Cochraine’s Goliaths was never more fitting. This rebuilt command came to the public’s attention during the first wave of the Fourth Succession War on St. Andre in 3028, in what became the best-known battle featuring the Goliath. The Davion Light Guards led the assault on a suspected former SLDF base, guarded by Cochraine’s Goliaths. The AFFS troops failed to gain aerospace superiority and were scattered. The battle initially went in the defenders’ favor. The much heavier Liao ’Mechs divided the invaders and began grinding them down with withering long-range fire. The Light Guards ordered a retreat, but Captain Andrew Redburn led his double-strength Delta Company—configured as a close-assault force—into the Capellans’ rear area. As on Kittery, defending the close assaults of the light ’Mechs proved challenging. Five of Cochraine’s MechWarriors fell to the lighter invaders, but the high cost threatened to collapse Redburn’s Company. A suicidal “death from above” attack killed Colonel Fiona Cochraine in her Goliath’s cockpit. Liao morale crumbled, allowing the Davion forces to annihilate the defending battalion. The post-Jihad preponderance of quads like the Goliath earned the Second St. Ives Lancers the nickname “Cochraine’s Revenge.”:br::br::tab:In the wake of Gray Monday, the Goliath was more popular than ever in both House and Republic forces. In 3146, Marik Goliaths played a key role when part of the Eighth Free Worlds Guards re-deployed from Nockatunga to Bolan in support of General Claudio Brett’s Tamarind Regulars. The intimidating assault ’Mechs provided much-needed firepower and resilience, pushing the Lyran defenders out of positions in the mountains of Sakété and securing the Brahui pass. In the assault on the Melissa Steiner Martial Academy, the Steiner forces attempted to exploit the Goliath’s actuator weakness. General Brett’s battle armor forces, operating in support of the Eighth, made short work of the LCAF troops, most of whom fled. The Eighth’s Goliaths continued to harass the withdrawing Bolan Guards. Their long-range firepower harried the retreating forces even as they boarded their DropShips, helping secure the former provincial capital for the League.:br::br::tab:The revamped Goliaths of the Republic’s Fifteenth Hastati Sentinels fought valiantly on Castor against the rampaging Wolves, but they were ultimately overwhelmed. Fighting as matched pairs, the -7Rs and -7Cs provided their own support as the Republic’s lines bent, and then buckled around them. The outmatched Goliaths fought the Golden Keshik and the Third and Fourth Wolf Battle Clusters until they fell. Their sacrifice allowed some of the Republic forces to withdraw.</battlehistory>
+        <deployment></deployment>
+        <variants>Prior to the Clan Invasion, few variants of the Goliath existed, most notably the GOL-3M, first fielded in 3047. Recovered Star League technology improved the ’Mech’s performance. Post-invasion, this variant underwent minor modifications in response to the invaders, yielding most notably the GOL-3M2, which replaced the machine guns with small pulse lasers.:br::br::tab:Brigadier offered one major variant of the -7R that focused on medium-range combat, much like Osaka’s offering. A competitor to Corean’s own Phoenix Goliaths, the GOL-7C added insult to injury by mimicking Corean’s long-gone Sirocco with its Streak SRMs and Ultra AC/10. This dedicated brawler is often deployed alongside the more traditional -7R as an anti-infantry escort.:br::br::tab:Unfounded rumors indicate that the Scorpion Empire developed Goliath and Scorpion OmniMechs, following the successful pilot project based on the Snow Fox. No evidence has emerged of this endeavor.</variants>
+        <notables>Commander Michael “Gunshi” Allonois: Timbiqui is best known for its manufacture of beer and spirits. It should thus be of little surprise that the world’s planetary security has ties with the industry. As the vice-president of security at Timbiqui Spirits, Allonois rebuilt a personal Goliath, fueled—some say—by Timbiqui Dark. Salvage bought at a discount from the battlefields of St. Andre allowed the security force to expand into a militia, including several modified Goliaths. Allonois gained the nickname “Gunshi” (“Gun Shy” to his enemies) during a short mercenary contract. The Marik assaults of 3068 drew the militia into action. They held off the invaders for a week, beating back several units before negotiating an honorable surrender. Sadly, Allonois passed in 3071, eight years before the Alliance retook the world.:br::br:Colonel Fiona Yare Cochraine: Cochraine commanded the Fifth Capellan Chargers, better known as Cochraine’s Goliaths, when the unit was resurrected in 2990 with Goliaths from a Star League cache. She was a cunning commander who bridled under Chancellor Maximillian Liao’s restrictions against committing the heavy unit to battle. Cochraine believed her force’s formidable firepower could tip the balance of power in the ongoing conflict with the Federated Suns. During the attack on St. Andre in the Fourth Succession War, she and her force swiftly gained the upper hand against the invaders. A desperate counterattack by a Delta Company slowed the massed stalwart Goliaths. However, a suicidal death from above attack against her Goliath claimed her life. Without her leadership, morale crumbled, and the battalion was annihilated.:br::br:MechWarrior Mateo Alsahra’ Aleaqarib: Warriors from Nueva Castile are rare in the Inner Sphere, but some “Caballeros” entered service with Periphery states in the wake of the Clan invasion. Mateo Alsahra’ Aleaqarib never discussed what brought him to the Illyrian Palatinate in 3057, though there were suggestions of scandal and piracy. To the warriors of the Palatinate this was irrelevant. All that mattered was commitment to the Palatinate, something Aleaqarib demonstrated repeatedly in clashes with the Lothian League. While his venerable Goliath (rumored to be a “prize” captured from unknown Periphery forces) was far from cutting edge, his MechWarrior skills earned him the respect of his comrades, even if they found his mannerisms and attachment to the Goliath unusual.:br::br:Force Commander Edgardo Barag-Stone: BaragStone piloted a Goliath with the First Fusiliers of Oriente during Operation Bulldog in 3059. The First was decimated in the meat grinder of Marshdale. With many officers dead, the Marik unit neared collapse. Rather than flee, then-Lieutenant Barag-Stone rallied his company and executed a series of daring attacks to slow the Smoke Jaguar assaults. This bought time for the other Fusiliers to rally. Though badly wounded, his actions allowed the Fusiliers to escape the Clan troops. His courage earned him the Oriente Legion of Merit, bestowed by Duke Christopher Halas himself while Barag-Stone recuperated on Oriente. The duke invited him join the Ducal Guards. He accepted, rising to the rank of Force Commander before retiring in 3081, after the Jihad concluded.:br::br:Lieutenant Bhekampi Obote: Obote joined the Grey Death Legion after the bloodbath of Pandora. He quickly earned the respect and trust of his comrades and rose to command Second Company’s fire lance. Physically imposing like his Goliath—he stood nearly two meters tall—Obote’s quiet demeanor hid a dry sense of humor that he could use disarmingly. On the battlefield he was calm and efficient, providing precision fire support for the rest of the company. This was used to deadly effect in the Skye Rebellion of 3056. Obote’s fire lance proved so intimidating that eight enemy MechWarriors surrendered to his lance at Sheolport. Obote’s Goliath was destroyed in the battle at Lochaber Forest that lured so many Skye ’Mechs to their doom.:br::br:Kommandant Devian Azalin: Azalin was swept up in the fervor surrounding the formation of the Jaeger Regiments and joined the Skye Jaegers as the FedCom Civil War erupted. He participated in several engagements during the conflict and earned renown for his skillful Goliath piloting. The long range combat of the liberation of Hesperus II in 3074 cemented his reputation for marksmanship after a night-time combat drop helped drive off the Fortieth Shadow Division. Following the loss of many Jaeger officers, Azalin received a battlefield commission and later coordinated many of the Jaegers’ operations with ComStar’s Seventy-Ninth and 103rd Divisions in the Galatea campaign. He was promoted to kommandant, the rank he held until 3081, when—his long hair and ornate beard now grey rather than black—he retired.:br::br:Colonel Dwayne Bronson: Despite old ties to the noble Eridani Light Horse (whom he hated with a passion), the commander of Bronson’s Horde was an opportunist barely one step above a pirate. His fiery temperament was well-known, with outbursts sometimes moderated or fanned by his sister/XO, Robyn. A competent if unimaginative commander, he led the mercenary command from the cockpit of his Goliath. The Marian campaign of 3063 demonstrated his weather-vane politics, as he broke contract with the Hegemony and signed on with the Circinians. After being declared rogue in 3068, the Horde signed on with the Word of Blake and supported Shadow Division operations on New Avalon. Bronson’s Goliath fell to the Davion Assault Guards in August 3074. The few surviving Horde members scattered to the winds.:br::br:Cassandra “Cassie” Blue: Cassandra Blue grew up on the streets of Arcturus, spending time in juvenile correctional facilities for stealing LoaderMechs and participating in unlicensed street races. Her skill as a pilot was undeniable, but poor discipline made her ill-suited to a military career. She toured the Inner Sphere’s many informal IndustrialMech racing circuits, demonstrating her ability to push ’Mechs beyond their limits. Her skills caught the attention of Detroit Consolidated MechWorks. The Canopians made a simple offer: come test our ’Mechs—break them to make them better. The last dozen years have been a rollercoaster of wild rides (and sometimes extended hospital stays), but Blue has reveled in the adrenaline high. Given her hellion reputation, many of her colleagues would be surprised to learn of her hobby: restoring and souping up a classic Goliath.:br::br:Subaltern Murray “Dingo” Simmonds: Simmonds pilots a temperamental Goliath in a combined-arms Rapid Response Defense Company within the Taurian Concordat. He leads Dingo’s Wardogs, assigned to guard the border against Federated Suns’ and pirate incursions. Simmonds is a pragmatist, more interested in keeping his troops alive than in high ideals. He favors diplomacy, though if push comes to shove, his skilled, professional troops are capable of laying down withering barrages, and then redeploying before the  enemy can counter. While House Davion is the Concordat’s primary threat, Simmonds has a complicated relationship with a Davion colonel. Sometimes they cooperate in anti-pirate missions, and other times they fight. Unconfirmed rumors of another relationship, this one with the Davion colonel’s sister, would explain some of the friction between the pair.</notables>
+        <additional>Directional Torso Mount (Heavy PPC)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
+                <Name>Directional Torso Mount</Name>
+                <Cost>2</Cost>
+                <Description>A well-known feature of the original Goliath, a Directional Torso Mount acts as a somewhat more restrictive BattleMech shoulder turret, allowing any weapons in the mount to shoot in either the front arc or the rear arc, depending on the mountâ€™s current facing. The mountâ€™s facing is set at the start of the game, and can be changed at the same time torso twists are made. However, unlike a torso twist, it does not reset at each End Phase: the arc chosen remains until deliberately changed. The mount rotates with any torso twist as normal.  Each time a location with a Directional Torso Mount takes a hit (Front or Rear), the player must roll 2D6. A result of 9+ means the mount is destroyed and its weapon locked in its current arc, in addition to the normal effects of the attack.  The 3-point version of this quirk is available only to quad â€™Mechs. In this case, the mount operates as a full turret, capable of rotating a full 360 degrees.  No weapon with location placement restrictions (such as a heavy Gauss rifle) can be placed in a Directional Torso Mount</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Multi-Trac</Name>
+                <Cost>2</Cost>
+                <Description>A `Mech with this quirk can track multiple targets and may attack any number of targets in its front and arm firing arcs in the same turn without adding the secondary-target modifier. Secondary targets in the rear arc are treated as normal.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Exposed Actuators</Name>
+                <Cost>1</Cost>
+                <Description>The actuators of some designs are poorly protected and more vulnerable to the effcts of Swarm and Leg attacks. The target numbers for such attacks reveive a -1 modifier.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Sipher Security Plus</commsystem>
+        <tandtsystem>Daidouju 52 Enhanced Optical</tandtsystem>
+    </fluff>
+</mech>

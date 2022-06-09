@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Hellbringer (Loki)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Hellbringer (Loki)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>1.9014656249999996E7</cost>
     <rules_level>1</rules_level>
@@ -856,7 +856,7 @@
         <source>RGiC 1</source>
         <loadout_era>3</loadout_era>
         <loadout_productionera>10</loadout_productionera>
-        <loadout_year>3143</loadout_year>
+        <loadout_year>3142</loadout_year>
         <info>Hellbringer (Loki)  T 65t, 5/8/0, XLFE, Std; 8.0T/61% Armor; 17 DHS; 3 ERML, 2 APGR, 2 ERPPC, 1 AMS, 1 ATM6</info>
         <battleforce pv="24" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="4" internal="4" abilities="OMNI, AMS, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>2444</battle_value>

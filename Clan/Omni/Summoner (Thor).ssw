@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Summoner (Thor)" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Summoner.JPG">
+<mech name="Summoner (Thor)" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>2.1222833333333332E7</cost>
     <rules_level>1</rules_level>

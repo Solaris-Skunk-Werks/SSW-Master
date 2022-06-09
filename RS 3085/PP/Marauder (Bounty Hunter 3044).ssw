@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2103</battle_value>
     <cost>1.3055625E7</cost>
-    <rules_level>4</rules_level>
+    <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>3</productionera>
+    <productionera>4</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3044</year>
+    <year restricted="TRUE">3044</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>

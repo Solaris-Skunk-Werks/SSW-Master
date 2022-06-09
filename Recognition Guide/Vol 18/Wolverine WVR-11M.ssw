@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Wolverine" model="WVR-11M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1778</battle_value>
+    <cost>1.1475506666666668E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3122</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="275" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="5">RT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>27</ct>
+        <ctr>8</ctr>
+        <lt>20</lt>
+        <ltr>6</ltr>
+        <rt>20</rt>
+        <rtr>6</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 18</source>
+        <info>Wolverine WVR-11M 55t, 5/8[10]/5 MASC, XLFE, Std; 11.0T/95% Armor; 12 DHS; 1 MXPL, 1 SRM6, 1 HPPC</info>
+        <battleforce pv="18" wt="2" mv="6/5j" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="6">LT</location>
+            <location index="10">CT</location>
+            <location index="7">LT</location>
+            <location index="4">RT</location>
+            <location index="3">RT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Heavy PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

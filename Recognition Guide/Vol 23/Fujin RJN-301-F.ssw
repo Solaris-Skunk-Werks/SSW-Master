@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Fujin" model="RJN-301-F" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1770</battle_value>
+    <cost>1.0611E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Independence Weaponry" location="Quentin">Inner Sphere</techbase>
+    <year restricted="FALSE">3139</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="TSN Light" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="2">RA</location>
+        <location index="3">RA</location>
+        <location index="4">RA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+    </structure>
+    <engine rating="300" manufacturer="Vlar" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex" techbase="0">
+        <type>Ballistic-Reinforced Armor</type>
+        <hd>9</hd>
+        <ct>20</ct>
+        <ctr>7</ctr>
+        <lt>15</lt>
+        <ltr>5</ltr>
+        <rt>15</rt>
+        <rtr>5</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+        <location index="3">HD</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 23</source>
+        <info>Fujin RJN-301-F 50t, 6/9/6, XLFE, ES; 12.0T/85% B-R Armor; 10 DHS; 3 ERML, 1 ERPPC, 1 SSRM6, 1 SRM2iOS</info>
+        <battleforce pv="18" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="11">CT</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Victory 23E">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Victory 23E">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Victory 23E">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Lord&apos;s Light 2">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technologies 2nd Gen">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Guided Technolgies 2">(IS) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Built to rearm the Com Guard in the aftermath of the Battle of Tukayyid, the Raijin and its successors served both ComStar and the Word of Blake. As one of the many symbols of the Blakist Jihad, the Raijin was destined for extinction after the dissolution of the Com Guard and the shuttering of its manufacturing lines on Quentin. However, a handful of new Raijins were secretly built for Malcolm Buhl’s reconstituted Com Guard First Division in the 3120s. Despite a complicated pedigree, after the Draconis Combine captured Quentin, they modified and rebranded the ’Mech Fujin for both export and use by the DCMS.</overview>
+        <capabilities>The original Raijin models of the 3050s were excellent fast skirmishers, particularly against Clan targets, which were the Com Guards’ most likely future enemy at the time. Krupp experimented with two types of mounts for its payload: a more-fragile, full-traverse turret gave its pulse lasers a wide field of fire, while a more heavily armored mount protected its primary weapon, an ER PPC. When the Blakists seized Terra and Krupp in 3058, their re-engineered Raijin II became a sophisticated scout sniper that killed many MechWarriors during the Jihad.:br::br::tab:After the Draconis Combine seized Independence Weaponry they outfitted their new Fujin to face the Combine’s traditional enemy: the Federated Suns. The Fujin’s speed and ER PPC allow it to track and destroy most enemy targets at long range as it moves into close combat. Its shell of ballistic-reinforced armor provides additional protection against Davion autocannons and missile weapons, allowing it to bring its array of SRM launchers and ER medium lasers to bear.</capabilities>
+        <battlehistory>In the fires of the Jihad, Com Guard and Blakist Raijins often clashed, with the former comrades singling each other out for destruction.:br::br::tab:Decades later, when the reformed Com Guard was trapped on Epsilon Eridani in February 3141, Precentor Malcolm Buhl used the updated Raijin to rain iNarcs down on the attacking XIV Hastati Sentinels. Nemesis pod-equipped Raijins of Stalwart Covenant II-eta and Heralds of Pious Light III-delta caused the RAF much confusion during the early morning attack of 12 February and were largely responsible for the raid’s success. Later, as RAF units forced their way into the Shamus Mountains, Raijins armed with homing and haywire pods used their mobility and the rough terrain to direct missile fire and to disrupt RAF targeting systems.:br::br::tab:The Fujin proved its worth to Wolf’s Dragoons on New Avalon in 3146 after the Second Robinson Rangers broke through the New Avalon blockade. Gamma Regiment slammed headlong into the Rangers. Dragoon Fujins shrugged off Ranger autocannon shells as they plowed through their lines. The Rangers were devastated.:br::br::tab:On Lambrecht, Fujins with the Third An Ting Legion were hunted by Omega Galaxy’s Rime Otters. Unable to outrun the swift Clan ’Mechs, the Fujins’ armor withered under accurate Ghost Bear laser fire.</battlehistory>
+        <deployment></deployment>
+        <variants>The original Raijin had some less known variants overshadowed by the production model -200-A and the Blakist Raijin II. The -100-X was a failed prototype notable for its emphasis on pilot safety, while the -101-B was a field refit intended to turn the Raijin into a better scout after ComStar lost its Mongooses during Operation Odysseus. The -101-Bs were quickly replaced by the more reliable Beowulf. The -101-C was a successful production variant, which incorporated C3i and packed heavy firepower at the expense of protection. Well-received by Com Guard pilots, the -101-C could operate as part of a C3i-equipped Level II like the Word of Blake’s Raijin II.:br::br::tab:In the 3120s, Independence Weaponry secretly built the Raijin -301-B. This variant kept much of the original RJN-200-A, but altered the armor and weapons to serve its future role in Malcolm Buhl’s reconstituted Com Guard. They adapted and improved the older Tessen’s endo-steel frame. For firepower, Independence kept the -101-C’s triple-mount of ER medium lasers, while two SRM-6 launchers and an iNarc were added. CASE II protected these systems. This effort turned Buhl’s Raijins into well-protected artillery spotters and scouts.</variants>
+        <notables>Tai-i Rachel Erika Matthews: Matthews was born into a minor merchant family that was off world when An Ting died during the Jihad. Her grandparents later settled on Huan to remain spiritually close to their former homeworld, as well as to rebuild their shattered lives. Young Rachel dreamed of joining the An Ting Legion to connect with her ancestral home. She declined a posting to the Galedon Regulars so that she could apply her natural aptitude and education in the Third An Ting Legion. Under Tai-sa Konoe, Matthews became one of the best raiders in the regiment, often leading her scout company, Matthew’s Marauders, in her snow leopard-emblazoned Fujin during raids across the Dominion border. When Omega Galaxy hit Lambrecht in 3150, she and the Marauders scouted the Third’s successful withdrawal from the planet, in addition to downing a pair of VTOLs and a Bear Cub.</notables>
+        <additional>Directional Torso Mount (ER PPC)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
+                <Name>Directional Torso Mount</Name>
+                <Cost>2</Cost>
+                <Description>A well-known feature of the original Goliath, a Directional Torso Mount acts as a somewhat more restrictive BattleMech shoulder turret, allowing any weapons in the mount to shoot in either the front arc or the rear arc, depending on the mountâ€™s current facing. The mountâ€™s facing is set at the start of the game, and can be changed at the same time torso twists are made. However, unlike a torso twist, it does not reset at each End Phase: the arc chosen remains until deliberately changed. The mount rotates with any torso twist as normal.  Each time a location with a Directional Torso Mount takes a hit (Front or Rear), the player must roll 2D6. A result of 9+ means the mount is destroyed and its weapon locked in its current arc, in addition to the normal effects of the attack.  The 3-point version of this quirk is available only to quad â€™Mechs. In this case, the mount operates as a full turret, capable of rotating a full 360 degrees.  No weapon with location placement restrictions (such as a heavy Gauss rifle) can be placed in a Directional Torso Mount</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Extended Torso Twist</Name>
+                <Cost>3</Cost>
+                <Description>When torso twisting, the `Mech can change its facing by one or two hexsides. Quad â€™Mechs normally cannot torso twist at all. However, a quad â€™Mech with this quirk can perform a normal (not extended) torso twist.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>No/Minimal Arms</Name>
+                <Cost>2</Cost>
+                <Description>When making a Piloting Skill Roll to stand up, such a `Mech receives a +2 modifier to the target number this is not cumulative with the advanced rules for attempting ot stand. In addition, the `Mech cannot make physical attacks with its arms.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Rawlings 60</jumpjet_model>
+        <commsystem>Garret T-22</commsystem>
+        <tandtsystem>Garret D2j (I)</tandtsystem>
+    </fluff>
+</mech>

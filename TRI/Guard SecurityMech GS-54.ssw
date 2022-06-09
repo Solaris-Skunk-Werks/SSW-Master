@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Guard SecurityMech" model="GS-54" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>156</battle_value>
+    <cost>736346.8750000001</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Ceres Metal Industries" location="Capella">Inner Sphere</techbase>
+    <year restricted="FALSE">2914</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Ceresplex Industrial" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="75" manufacturer="Ceres" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="StarShield Industrial" techbase="2">
+        <type>Standard Armor</type>
+        <hd>5</hd>
+        <ct>4</ct>
+        <ctr>1</ctr>
+        <lt>4</lt>
+        <ltr>1</ltr>
+        <rt>4</rt>
+        <rtr>1</rtr>
+        <la>3</la>
+        <ra>3</ra>
+        <ll>3</ll>
+        <rl>3</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Guard SecurityMech GS-54 15t, 5/8/0, ICE, Ind Quad; 2.0T/54% Armor; 0 SHS; 2 MG</info>
+        <battleforce pv="2" wt="1" mv="5" s="1" m="0" l="0" e="0" ov="0" armor="1" internal="1" abilities="SRCH, EE, ES" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Maxi Mini">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Maxi Mini">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Poor Workmanship</Name>
+                <Cost>1</Cost>
+                <Description>This unit is one quality step lower than normal. In addition, all rolls for critical damage are modifier by +1, making critical hits more likely. Results of 13 are treated as 12 (Except if using Advanced Determining Critical Hits).</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>CeresCom Model 37-P</commsystem>
+        <tandtsystem>C-Apple Churchill</tandtsystem>
+    </fluff>
+</mech>

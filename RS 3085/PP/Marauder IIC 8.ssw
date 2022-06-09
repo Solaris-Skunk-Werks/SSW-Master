@@ -5,10 +5,10 @@
     <cost>9825595.833333334</cost>
     <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>3</productionera>
+    <productionera>4</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">2900</year>
+    <year restricted="FALSE">3025</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>

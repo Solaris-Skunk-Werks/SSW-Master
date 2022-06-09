@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Archer" model="ARC-5R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Archer" model="ARC-5R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1672</battle_value>
     <cost>7323673.333333335</cost>
     <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>4</productionera>
+    <era>1</era>
+    <productionera>5</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3052</year>
+    <year restricted="TRUE">3050</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>

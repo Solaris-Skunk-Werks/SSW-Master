@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Strongarm" model="SC CVI ConstructionMech" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>315</battle_value>
+    <cost>1250262.5</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Refit Kit (original non-MOD: Sitwell Corporation)" location="Various (Originall Saiph)">Inner Sphere</techbase>
+    <year restricted="FALSE">3094</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="PowerBuild CCV" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="140" manufacturer="Skobel" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Hughes IndusWeave" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>4</hd>
+        <ct>12</ct>
+        <ctr>3</ctr>
+        <lt>8</lt>
+        <ltr>3</ltr>
+        <rt>8</rt>
+        <rtr>3</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>8</ll>
+        <rl>8</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Strongarm SC CVI ConstructionMech 35t, 4/6/0, ICE, Ind; 6.5T/58% Ind. Armor; 0 SHS; 1 SlvgArm, 1 StndrdCrgo, 1 LftHst</info>
+        <battleforce pv="3" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="3" abilities="ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Heavy Duty GripperTech">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>0.5</tons>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Salvage Arm</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Exposed Weapon Linkage (Heavy Flamer)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Extended Torso Twist</Name>
+                <Cost>3</Cost>
+                <Description>When torso twisting, the `Mech can change its facing by one or two hexsides. Quad â€™Mechs normally cannot torso twist at all. However, a quad â€™Mech with this quirk can perform a normal (not extended) torso twist.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Poor Workmanship</Name>
+                <Cost>1</Cost>
+                <Description>This unit is one quality step lower than normal. In addition, all rolls for critical damage are modifier by +1, making critical hits more likely. Results of 13 are treated as 12 (Except if using Advanced Determining Critical Hits).</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Exposed Weapon Linkage</Name>
+                <Cost>2</Cost>
+                <Description>Some designs have the mechanics of a weapon dangerously exposed. When a location that holds such a weapon is hit, roll 2D6, on a roll of 10+, that weapon is unable to fire for the remainder of the game. This quirk can only be taken only once and only for a single weapon type, and effects all weapons of that type on the Unit (for example, all AC20s, all ER PPCs).</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>SineWave 5000</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

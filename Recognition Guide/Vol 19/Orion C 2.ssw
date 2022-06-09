@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Orion" model="C 2" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2026</battle_value>
+    <cost>7915000.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kali Yama Weapons Industries" location="Kalidasa">Mixed</techbase>
+    <year restricted="FALSE">3143</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>36</ct>
+        <ctr>10</ctr>
+        <lt>22</lt>
+        <ltr>10</ltr>
+        <rt>22</rt>
+        <rtr>10</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>32</ll>
+        <rl>32</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 19</source>
+        <info>Orion C 2 75t, 4/6/0, Std FE, ES; 14.5T/100% Armor; 12 DHS; 1 SSRM4, 1 ExLRM15, 1 ERLL, 1 ERML, 1 LPL</info>
+        <battleforce pv="20" wt="3" mv="4" s="3" m="3" l="2" e="0" ov="2" armor="8" internal="6" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Extended LRM-15</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-15</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-15</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ ELRM-15</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>The Orion has long held an important place in the Clan Wolf Touman, and the Orion C 2 is a capable heir to the favored ride of Aleksandr Kerensky. The response has been mixed, however, as it continues to use non-Clan structural components to reduce the strain on the Wolves’ industrial resources. The weapons, though, are mostly Clan. Short to medium range is covered by a Streak rack and ER medium laser, backed up with a large pulse laser in the left arm. The Orion’s standard right torso ballistic weapon was replaced by an ER large laser, both for weight and range. Having been burned by the superior range of extended LRMs, the Wolves are experimenting with the weapon system on the C 2.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Captain Phil “Wonderdog” Dalbeck: A MechWarrior in mercenary Helmut’s Legion, Dalbeck obtained his Orion C 2 through suicidal bravery. Regarding his ultra-short ranged Spider SDR-9M to be a death trap, he sought less risky scouting assignments. However, upon spotting a damaged Orion C 2 leading a solahma Star during a deep raid on Uzhgorod, “Wonderdog” exploited zellbrigen to duel the Orion in single combat in rough terrain. He saw in the Orion a chance for advancement and long-term survival, so he pushed his Spider to its limits dodging fire while hitting the thinner rear armor of the Orion. Luck favored him when he decapitated the Orion’s artillery-damaged head. Dalbeck was later assigned the salvaged Orion, though he frequently notes that the bureaucratic battle to claim the ’Mech was harder than the actual battle.</notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

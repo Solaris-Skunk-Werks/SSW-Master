@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Spider" model="SDR-9M" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>687</battle_value>
+    <cost>5439590.0</cost>
+    <rules_level>2</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Nimakachi Fusion Products Limited" location="Tematagi">Inner Sphere</techbase>
+    <year restricted="FALSE">3096</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="9">RT</location>
+        <location index="10">RT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Light Ferro-Fibrous</type>
+        <hd>6</hd>
+        <ct>11</ct>
+        <ctr>3</ctr>
+        <lt>10</lt>
+        <ltr>2</ltr>
+        <rt>10</rt>
+        <rtr>2</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">CT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 19</source>
+        <info>Spider SDR-9M 30t, 8/12/8, XLFE, ES; 4.5T/72% LFF Armor; 10 DHS; 2 MVSPL</info>
+        <battleforce pv="7" wt="1" mv="8j" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="8">
+            <type>Standard Jump Jet</type>
+            <location index="7">LT</location>
+            <location index="6">LT</location>
+            <location index="8">LT</location>
+            <location index="9">LT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Nimakachi manufactures the Spider on their rebuilt Tematagi line. The Spider -9M was not a grand evolution of the chassis. Instead, it derived directly from preceding variants. Unwilling to gamble on reverse-engineered Clan weaponry, the -9M replaces the prior pulse laser loadouts with variable speed medium lasers.:br::br::tab:While Nimakachi touts the -9M’s “greatly increased” short-range firepower as the basis for its high sales, customers indicate that demand for the model is only due to the desperation of the mid-thirty-second century. Industry watchers have been critical partly due to the absence of the promised ejection seat, but primarily because the -9M’s weaponry doubles in mass for no significant increase in range. The new Spider could be outperformed by units with lighter weapon arrays.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Tech Zoran Hagge: Nicknamed “Silverbird” for his hair turning silvery at an early age, Hagge was born in the cutthroat Rim Territories. He joined ComStar to escape that hellish life, taking his battered Spider, Betty, with him. His technical skills led him to Precentor Buhl’s reborn militant ComStar, where he survived thanks to the harsh obedienceor-death reality of his old life. With the Republic coming for ComStar, Hagge saw the writing on the wall and escaped with only the clothes on his back and all the classified files he could carry to buy his passage out. Paranoid that ROM is still after him, he changes identities often and sleeps with a gun under his pillow. He is currently a member of a small mercenary command, trading his technician skills for a pilot’s billet in a salvaged SDR-9M that he calls Betty II.</notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

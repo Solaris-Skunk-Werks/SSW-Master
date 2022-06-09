@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Stalker" model="STK-9F" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2469</battle_value>
+    <cost>1.4600425E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3142</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="255" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Hardened Armor</type>
+        <hd>9</hd>
+        <ct>36</ct>
+        <ctr>11</ctr>
+        <lt>25</lt>
+        <ltr>7</ltr>
+        <rt>25</rt>
+        <rtr>7</rtr>
+        <la>23</la>
+        <ra>23</ra>
+        <ll>25</ll>
+        <rl>25</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 24</source>
+        <info>Stalker STK-9F 85t, 3/5[4]/0, LFE, ES; 27.0T/82% Hrdnd Armor; 13 DHS; 4 ML, 2 SRM6, 2 LRM10, 1 LAP, 2 LPL, TC</info>
+        <battleforce pv="25" wt="4" mv="3" s="5" m="5" l="3" e="0" ov="2" armor="14" internal="5" abilities="LPRB, RCN, CASEII, SRCH, ES, SEAL, SOA, SRM 1/1/0, IF 1" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Irian’s Stalker II was polarizing. Its extraordinary durability set the new ’Mech up for success, though many potential customers snubbed it on account of the limited flexibility of its weaponry. The new cockpit also made it difficult to pilot. Irian thus developed a new variant of its classic Stalker, keeping the newer ’Mech’s hardened armor. Irian addressed concerns regarding damage output on the modern battlefield by making its primary weapons Clan grade. Irian could supply equivalent large pulse lasers to augment the traditional Magna medium lasers. They negotiated a deal with Skate Khanate’s Beta Aimag for missile launchers and sensors in return for a percentage of the production output. The STK-9F’s combination of durability and destructive potential made it a common sight in this region of the Inner Sphere.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Captain Kyree Anansi: Kyree has purposefully obscured her origins. She cropped up several years ago, traveling throughout the Former Free Worlds League in a new Stalker, selling her services while always hiring available mercenaries in short-term contracts to form ad hoc companies. She always had enough of her own cash to keep questions to a minimum. Her name itself is likely a nom de guerre harkening to an ancient Terran “trickster” god. Kyree likely took on the mantle due to a predilection towards feints, ambushes, and other crafty tactics that seem in stark contrast to her lumbering assault ’Mech. Or perhaps she took the name due to her well-documented personal trait—a love of storytelling that further obfuscates any sense of who she really is.</notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

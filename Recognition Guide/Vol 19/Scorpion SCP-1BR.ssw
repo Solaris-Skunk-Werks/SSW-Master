@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Scorpion" model="SCP-1BR" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1473</battle_value>
+    <cost>1.108845E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3088</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="330" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="3">LT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <hd>8</hd>
+        <ct>28</ct>
+        <ctr>8</ctr>
+        <lt>18</lt>
+        <ltr>7</ltr>
+        <rt>18</rt>
+        <rtr>7</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+        <location index="3">HD</location>
+        <location index="4">FLL</location>
+        <location index="4">FRL</location>
+        <location index="4">RLL</location>
+        <location index="4">RRL</location>
+        <location index="5">FLL</location>
+        <location index="5">FRL</location>
+        <location index="5">RLL</location>
+        <location index="5">RRL</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">CT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 19</source>
+        <info>Scorpion SCP-1BR 55t, 6/9[12]/0 MASC, LFE, Std Quad; 8.0T/79% HFF Armor; 10 DHS; 1 ERPPC, 1 SSRM6</info>
+        <battleforce pv="15" wt="2" mv="8" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

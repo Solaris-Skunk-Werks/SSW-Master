@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="King Crab" model="KGC-000b" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\King Crab.jpg">
+<mech name="King Crab" model="KGC-000b" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2039</battle_value>
     <cost>1.0446E7</cost>

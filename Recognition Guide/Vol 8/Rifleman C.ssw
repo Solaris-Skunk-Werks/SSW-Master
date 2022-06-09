@@ -4,11 +4,11 @@
     <battle_value>1335</battle_value>
     <cost>5380200.0</cost>
     <rules_level>3</rules_level>
-    <era>1</era>
+    <era>2</era>
     <productionera>5</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3050</year>
+    <year restricted="FALSE">3052</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>

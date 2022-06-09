@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Shadow Hawk" model="SHD-5M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Shadow Hawk" model="SHD-5M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1430</battle_value>
     <cost>1.0245706666666668E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>3</productionera>
+    <productionera>4</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="TRUE">3048</year>

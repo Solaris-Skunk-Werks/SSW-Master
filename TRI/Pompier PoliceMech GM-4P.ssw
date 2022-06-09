@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Pompier PoliceMech" model="GM-4P" tons="15" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>148</battle_value>
+    <cost>824445.0000000001</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="General Motors" location="El Dorado">Inner Sphere</techbase>
+    <year restricted="FALSE">3085</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Ultralight Industrial" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="45" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Durallex Light" techbase="2">
+        <type>Standard Armor</type>
+        <hd>3</hd>
+        <ct>3</ct>
+        <ctr>2</ctr>
+        <lt>2</lt>
+        <ltr>2</ltr>
+        <rt>2</rt>
+        <rtr>2</rtr>
+        <la>2</la>
+        <ra>2</ra>
+        <ll>2</ll>
+        <rl>2</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Pompier PoliceMech GM-4P 15t, 3/5/0, Std FE, Ind; 1.5T/44% Armor; 10 SHS; 1 Vflmr, 2 MG, 1 MPL</info>
+        <battleforce pv="1" wt="1" mv="3" s="2" m="1" l="0" e="0" ov="0" armor="1" internal="1" abilities="SRCH, ES" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="10">CT</location>
+            <location index="1">LT</location>
+            <location index="2">LT</location>
+            <location index="3">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+            <location index="2">RT</location>
+            <location index="3">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="GM Miniguns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="GM Miniguns">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sutel Precision">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Zippo">Vehicle Flamer</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Jettison-Capable Weapons (Machine Guns)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Jettison-Capable Weapon</Name>
+                <Cost>1</Cost>
+                <Description>The quirk is bought for a single weapon; a Unit can carry a maximum of two jettison-capable weapons, paying the qirk cost each time. It is assumed that any official vaiant replacing the jettison-capable weapon witha nother weapon in the same location also uses a jettison-capable weapon, though a gamemaster may rule that variants based on field refits or lw-tech conditions do not benefit. No handheld Weapon or item using pod technology may benefit from this quirk, though fixed weapons on an OmniMech may be jettison-capable. A Jettison-Capable Weapon may be dropped in combat using the basic rules for Dumping Ammunition, except there is no risk of explosion from the jettisoning weapon, and thus there are no special effects when a unit jettisoning its weapons is struck from the rear. Jettisoning an ammunition-dependent weapon does not also jettison its ammunition. Treat any untouched critical locations for a Jettison-Capable Weapon as a Roll Again result if they are struck after the weapon is jettisoned.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Irian UHF</commsystem>
+        <tandtsystem>Dalban AQ</tandtsystem>
+    </fluff>
+</mech>

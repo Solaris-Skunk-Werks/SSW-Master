@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Warhawk (Masakari)" model="" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\warhawk.gif">
+<mech name="Warhawk (Masakari)" model="" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>2.6385947916666668E7</cost>
     <rules_level>1</rules_level>
@@ -313,7 +313,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Warhawk (Masakari)  D 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 1 UAC/10, 2 ERLL, 1 ATM9, 1 ERSL, TC</info>
         <battleforce pv="25" wt="4" mv="4" s="7" m="6" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -380,7 +380,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Warhawk (Masakari)  E 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 3 PC, 1 SRM6, 1 ERPPC, 1 LPL, TC</info>
         <battleforce pv="29" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, HT2, SRCH, ES, SEAL, SOA" />
@@ -449,113 +449,10 @@
             <location index="4">RT</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3059</loadout_year>
-        <info>Warhawk (Masakari)  H 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 25 DHS; 1 LRM10, 2 HLL, 2 LPL, TC</info>
-        <battleforce pv="26" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
-        <battle_value>2601</battle_value>
-        <cost>2.5622822916666668E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="25" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="4">RA</location>
-            <location index="2">LA</location>
-            <location index="2">RA</location>
-            <location index="10">CT</location>
-            <location index="4">RT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="7">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
-            <location index="8">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) LRM-10</name>
-            <type>missile</type>
-            <location index="10">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-10</name>
-            <type>ammunition</type>
-            <location index="10">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="6">RT</location>
-        </equipment>
-    </loadout>
-    <loadout name="(Tara)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>BattleCorps</source>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3067</loadout_year>
-        <info>Warhawk (Masakari)  (Tara) 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 23 DHS; 1 ERSL, 4 ERPPC, TC</info>
-        <battleforce pv="34" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="2" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>3428</battle_value>
-        <cost>2.6076713541666668E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="23" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="6">LA</location>
-            <location index="10">CT</location>
-            <location index="6">RA</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="2">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="9">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="4">RT</location>
-        </equipment>
-    </loadout>
-    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3050Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Warhawk (Masakari)  F 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 2 ERPPC, 1 LRM10, 1 UAC2, 1 LRM20, TC</info>
         <battleforce pv="28" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
@@ -612,6 +509,365 @@
             <name manufacturer="">(CL) Targeting Computer</name>
             <type>TargetingComputer</type>
             <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3114</loadout_year>
+        <info>Warhawk (Masakari)  G 85t, 4/6[8]/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 2 iHLL, 1 SSRM6, 1 LB20, TC</info>
+        <battleforce pv="29" wt="4" mv="5" s="6" m="6" l="0" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battle_value>2909</battle_value>
+        <cost>3.506332291666667E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3050Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3059</loadout_year>
+        <info>Warhawk (Masakari)  H 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 25 DHS; 1 LRM10, 2 HLL, 2 LPL, TC</info>
+        <battleforce pv="26" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2601</battle_value>
+        <cost>2.5622822916666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="25" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RA</location>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="10">CT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3050</loadout_year>
+        <info>Warhawk (Masakari)  I 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 24 DHS; 2 ERLL, 2 ERPPC, 1 SRM6, 1 LRM5, TC</info>
+        <battleforce pv="30" wt="4" mv="4" s="6" m="6" l="5" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3026</battle_value>
+        <cost>2.6005947916666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="24" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="L" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3121</loadout_year>
+        <info>Warhawk (Masakari)  L 85t, 4/6[8]/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 1 WDCEWS, 2 ERFlmr, 2 ERPPC, 1 ATM12, TC</info>
+        <battleforce pv="37" wt="4" mv="5" s="5" m="4" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, WAT, ECM, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3695</battle_value>
+        <cost>3.625876041666667E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Warhawk (Masakari)  T 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 20 DHS; 2 PR, 1 RL10, 2 ERPPC, TC</info>
+        <battleforce pv="29" wt="4" mv="4" s="5" m="5" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, HT1, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>2938</battle_value>
+        <cost>2.5888760416666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="(Tara)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>BattleCorps</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3067</loadout_year>
+        <info>Warhawk (Masakari)  (Tara) 85t, 4/6/0, XLFE, Std; 13.5T/98% FF Armor; 23 DHS; 1 ERSL, 4 ERPPC, TC</info>
+        <battleforce pv="34" wt="4" mv="4" s="6" m="6" l="6" e="0" ov="2" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3428</battle_value>
+        <cost>2.6076713541666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="23" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="6">LA</location>
+            <location index="10">CT</location>
+            <location index="6">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
         </equipment>
     </loadout>
     <fluff>

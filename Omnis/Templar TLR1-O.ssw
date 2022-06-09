@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Templar" model="TLR1-O" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Templar" model="TLR1-O" tons="85" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>2.5215072916666668E7</cost>
     <rules_level>1</rules_level>

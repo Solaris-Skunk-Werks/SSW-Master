@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Verfolger" model="VR6-T" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Verfolger.png">
+<mech name="Verfolger" model="VR6-T" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1811</battle_value>
     <cost>1.4390859999999996E7</cost>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Atlas" model="AS7-K" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Atlas.gif">
+<mech name="Atlas" model="AS7-K" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2175</battle_value>
     <cost>2.2474E7</cost>

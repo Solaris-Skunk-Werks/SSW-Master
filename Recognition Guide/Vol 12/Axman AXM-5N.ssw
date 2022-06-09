@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Axman" model="AXM-5N" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2575</battle_value>
+    <cost>1.4554010000000002E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Johnson Industries" location="New Syrtis">Mixed</techbase>
+    <year restricted="FALSE">3148</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="260" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Light Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>33</ct>
+        <ctr>7</ctr>
+        <lt>23</lt>
+        <ltr>7</ltr>
+        <rt>23</rt>
+        <rtr>7</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+        <location index="3">HD</location>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="9">LA</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <info>Axman AXM-5N 65t, 4[5]/6[8]/4 TSM, XLFE, Std; 12.0T/96% LFF Armor; 10 DHS; 1 ECM, 1 HAG20, 3 ERML, 1 ERPPC, 1 Htcht</info>
+        <battleforce pv="26" wt="3" mv="4j" s="3" m="3" l="2" e="0" ov="2" armor="7" internal="3" abilities="TSM, MEL, ECM, CASEII, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Hatchet</name>
+            <type>physical</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="9">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>With Johnston’s facilities undamaged during the Capellans’ ejection from New Syrtis, the company expanded production as much as possible to prop up the faltering Davion military. Their new Axman was just a prototype in 3146, and only a lack of components stopped the Capellans from putting it into full production. Sharing a number of components with the Caesar -5D and Hatchetman -7D, the new Axman -5N is a terror at any range. The Tiburon Khanate-supplied HAG 20 and ER PPC allow it to deal damage as it closes, while triple ER medium lasers deal significant short-range damage. These weapons provide a number of ways to activate the ’Mech’s triple-strength myomers, allowing the -5N to close quicker and deal unholy amounts of damage in close combat.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Si-ben-bing Sewarion Smirnow: A recent graduate from the Victoria Academy of Arms and Technology on Gunthar, Smirnow was thrust into the limelight during the Davion re-conquest of New Syrtis. After his Vindicator was damaged early in the battle, he acquired one of the Axman -5N prototypes to carry on the fight, and scythed his way through nearly two lances of the Illician Lancers’ Fifty-Ninth Striker Regiment as they tried to storm the Saso spaceport.:br::br::tab:Eventually forced to retreat, Smirnow and a few stragglers carried on guerrilla attacks against the Davions for another two months before retreating off-world in late February 3148. He would later put the ’Mech to good use against the Republic during the Operation Bàoyìng attacks the following year on Terra Firma, helping to finish off the second battalion of the Thirteenth Principes.</notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

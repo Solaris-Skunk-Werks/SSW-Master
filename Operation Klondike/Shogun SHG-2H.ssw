@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Shogun" model="SHG-2H" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\SSW\images\Shogun SHG-2H.png">
+<mech name="Shogun" model="SHG-2H" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2087</battle_value>
     <cost>8901250.0</cost>

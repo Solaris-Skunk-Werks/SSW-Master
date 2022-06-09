@@ -69,7 +69,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>1</loadout_era>
-        <loadout_productionera>3</loadout_productionera>
+        <loadout_productionera>4</loadout_productionera>
         <loadout_year>3037</loadout_year>
         <info>Arctic Cheetah (Hankyu)  Prime 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 ECM, 1 Flmr, 2 ERML, 1 BAP, 2 LRM5, 1 TAG</info>
         <battleforce pv="13" wt="1" mv="8/4j" s="3" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, PRB, RCN, ECM, TAG, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -131,7 +131,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>1</loadout_era>
-        <loadout_productionera>3</loadout_productionera>
+        <loadout_productionera>4</loadout_productionera>
         <loadout_year>3037</loadout_year>
         <info>Arctic Cheetah (Hankyu)  A 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 1 SPL, 2 SSRM6</info>
         <battleforce pv="11" wt="1" mv="8/4j" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -210,7 +210,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>1</loadout_era>
-        <loadout_productionera>3</loadout_productionera>
+        <loadout_productionera>4</loadout_productionera>
         <loadout_year>3037</loadout_year>
         <info>Arctic Cheetah (Hankyu)  C 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 4 ERML, 1 BAP, 2 MPL</info>
         <battleforce pv="18" wt="1" mv="8/4j" s="3" m="3" l="0" e="0" ov="2" armor="3" internal="2" abilities="OMNI, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
@@ -262,7 +262,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>1</loadout_era>
-        <loadout_productionera>3</loadout_productionera>
+        <loadout_productionera>4</loadout_productionera>
         <loadout_year>3037</loadout_year>
         <info>Arctic Cheetah (Hankyu)  D 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 2 LRM10</info>
         <battleforce pv="11" wt="1" mv="8/4j" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
@@ -306,53 +306,10 @@
             <location index="6">RT</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3059</loadout_year>
-        <info>Arctic Cheetah (Hankyu)  H 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 13 DHS; 1 Flmr, 1 ERLL, 1 HML, 2 HSL</info>
-        <battleforce pv="13" wt="1" mv="8/4j" s="3" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1264</battle_value>
-        <cost>6490737.5</cost>
-        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="13" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="4">RT</location>
-            <location index="2">LT</location>
-            <location index="6">RT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Large Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Flamer</name>
-            <type>energy</type>
-            <location index="5">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Small Laser</name>
-            <type>energy</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Small Laser</name>
-            <type>energy</type>
-            <location index="5">LT</location>
-        </equipment>
-    </loadout>
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+        <source>RGiC 21</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3071</loadout_year>
         <info>Arctic Cheetah (Hankyu)  E 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 2 MGA+3LMG, 2 MPL, 2 BPod</info>
         <battleforce pv="11" wt="1" mv="8/4j" s="3" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -407,30 +364,25 @@
         </equipment>
     </loadout>
     <loadout name="F" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
+        <source>RGiC 21</source>
+        <loadout_era>2</loadout_era>
         <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Arctic Cheetah (Hankyu)  F 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 LTAG, 1 Flmr, 2 iHML, 1 WDCEWS, 2 SLRM5</info>
+        <loadout_year>3093</loadout_year>
+        <info>Arctic Cheetah (Hankyu)  F 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 1 LTAG, 1 WDCEWS, 2 iHML, 2 SLRM5</info>
         <battleforce pv="14" wt="1" mv="8/4j" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, LTAG, WAT, ECM, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1394</battle_value>
         <cost>7983987.5</cost>
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
-            <name manufacturer="">(CL) Flamer</name>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
             <type>energy</type>
-            <location index="4">RT</location>
+            <location index="4">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">Light TAG</name>
-            <type>equipment</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Watchdog CEWS</name>
-            <type>equipment</type>
-            <location index="2">LT</location>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Streak LRM-5</name>
@@ -443,19 +395,208 @@
             <location index="6">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="4">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
             <type>energy</type>
-            <location index="4">RA</location>
+            <location index="4">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
             <type>ammunition</type>
             <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Arctic Cheetah (Hankyu)  H 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 13 DHS; 1 Flmr, 1 ERLL, 1 HML, 2 HSL</info>
+        <battleforce pv="13" wt="1" mv="8/4j" s="3" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1264</battle_value>
+        <cost>6490737.5</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RT</location>
+            <location index="2">LT</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 21</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3099</loadout_year>
+        <info>Arctic Cheetah (Hankyu)  I 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 1 iHML, 1 PC, 2 SRM4</info>
+        <battleforce pv="13" wt="1" mv="8/4j" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battle_value>1299</battle_value>
+        <cost>7177487.5</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 21</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3141</loadout_year>
+        <info>Arctic Cheetah (Hankyu)  J 30t, 8/12/6, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 1 ERLL, 1 PrmAC2, 1 ERSL</info>
+        <battleforce pv="12" wt="1" mv="8/4j" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1179</battle_value>
+        <cost>6476418.75</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/2</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/2</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 21</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Arctic Cheetah (Hankyu)  T 30t, 8/12/8, XLFE, ES; 4.0T/72% FF Armor; 10 DHS; 1 Flmr, 2 ERML, 1 TAG, 2 SLRM5</info>
+        <battleforce pv="14" wt="1" mv="8j" s="3" m="3" l="1" e="0" ov="0" armor="3" internal="2" abilities="OMNI, TAG, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1429</battle_value>
+        <cost>6908237.5</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="8">
+            <type>Standard Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="4">RT</location>
+        </jumpjets>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
         </equipment>
     </loadout>
     <fluff>

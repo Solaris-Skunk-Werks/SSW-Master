@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Pacifier" model="CCU-36 SecurityMech" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>299</battle_value>
+    <cost>1052305.0</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>4</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Alshain Weapons" location="Tok Do">Inner Sphere</techbase>
+    <year restricted="FALSE">3038</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Alshain Type 40-30L" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="90" manufacturer="Hermes" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Maximillian 23" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>5</hd>
+        <ct>9</ct>
+        <ctr>2</ctr>
+        <lt>7</lt>
+        <ltr>1</ltr>
+        <rt>7</rt>
+        <rtr>1</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>7</ll>
+        <rl>7</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Pacifier CCU-36 SecurityMech 30t, 3/5/0, FCE, Ind; 5.5T/55% Ind. Armor; 3 SHS; 2 MG, 1 LRM5, 2 LqdCrgo, 2 Spryr, 1 SRM2</info>
+        <battleforce pv="3" wt="1" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="3" abilities="SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="3" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Alshain Taki">Sprayer</name>
+            <type>equipment</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Alshain Taki">Sprayer</name>
+            <type>equipment</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Liquid</name>
+            <type>equipment</type>
+            <tons>0.5</tons>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Liquid</name>
+            <type>equipment</type>
+            <tons>0.5</tons>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sperry Browning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Telos-2">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>Easy to Pilot</Name>
+                <Cost>2</Cost>
+                <Description>A MechWarrior or pilot with a Piloting Skill of more than 3 will receive a -1 target number modifier for Piloting Skill rolls that they have to make as a result of damage or underlying terrain. More skilled MechWarriors receive no benefit.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Poor Workmanship</Name>
+                <Cost>1</Cost>
+                <Description>This unit is one quality step lower than normal. In addition, all rolls for critical damage are modifier by +1, making critical hits more likely. Results of 13 are treated as 12 (Except if using Advanced Determining Critical Hits).</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Bad Reputation</Name>
+                <Cost>1</Cost>
+                <Description>While perfectly sound, this unit type has acquired an unwarrented bad reputation. As a result, it is worth only half the normal resale value. Note that when buying this unit, players must still pay the normal value.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Sipher CommCon CSU-4</commsystem>
+        <tandtsystem>Cat&apos;s Eyes 5</tandtsystem>
+    </fluff>
+</mech>

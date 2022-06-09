@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Firebee" model="WI-WAM MilitiaMech" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>456</battle_value>
+    <cost>1691338.7499999998</cost>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Wesley Industries" location="Glasgow">Inner Sphere</techbase>
+    <year restricted="FALSE">3133</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Wesley Industries Confederated-P35" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="105" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>8</hd>
+        <ct>8</ct>
+        <ctr>3</ctr>
+        <lt>7</lt>
+        <ltr>2</ltr>
+        <rt>7</rt>
+        <rtr>2</rtr>
+        <la>7</la>
+        <ra>7</ra>
+        <ll>9</ll>
+        <rl>9</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Firebee WI-WAM MilitiaMech 35t, 3/5/0, FCE, Ind; 6.5T/58% Ind. Armor; 3 SHS; 1 Tbolt10, 1 RL10</info>
+        <battleforce pv="5" wt="1" mv="3" s="1" m="2" l="2" e="0" ov="0" armor="2" internal="3" abilities="SRCH, EE, ES, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="3" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Sian/Ceres Caracal">(IS) Thunderbolt-10</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Death Blossom 10-Tube">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-10</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-10</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>O/P CommTalk</commsystem>
+        <tandtsystem>O/P 911</tandtsystem>
+    </fluff>
+</mech>

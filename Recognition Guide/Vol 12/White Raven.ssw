@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="White Raven" model="" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2941</battle_value>
+    <cost>1.9428875E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Raveena Electronics" location="Ramora">Clan</techbase>
+    <year restricted="FALSE">3127</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Raven BP3" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+    </structure>
+    <engine rating="375" manufacturer="GM" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound LZ-7" techbase="1">
+        <type>Ferro-Lamellor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>10</ctr>
+        <lt>24</lt>
+        <ltr>8</ltr>
+        <rt>24</rt>
+        <rtr>8</rtr>
+        <la>21</la>
+        <ra>21</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+        <location index="7">RA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <info>White Raven 75t, 5/8/5, XLFE, ES; 14.5T/88% FL Armor; 16 DHS; 2 ERLL, 4 ERSL, 2 MPL, 2 APGR, TC</info>
+        <battleforce pv="29" wt="3" mv="5j" s="6" m="6" l="2" e="0" ov="1" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="3">RT</location>
+            <location index="2">RT</location>
+            <location index="10">CT</location>
+            <location index="3">LT</location>
+        </jumpjets>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Sigmar I">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Sigmar I">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 6b">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 6b">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 1">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Even in the oldest Terran legends, the raven is an opportunist and scavenger, unashamed of feasting on a rotting carcass. In the case of the White Raven, the carcass was that of Clan Steel Viper, and their Black Python. The Ravens always lamented seeing the graceful, bird-like Black Python in Viper formations, feeling that such a ’Mech should be soaring with them rather than slithering with the hated Vipers. By resurrecting the pre-3060s Black Python under a new name, Clan Snow Raven is merely staying true to form. The new ’Mech has been successful enough to erase the memory of its old Spheroid name. There is no more Viper, only the White Raven.</overview>
+        <capabilities>Lacking the knockout punch of a large-bore autocannon or Gauss rifle, the Black Python whittled down its enemies with pulse laser fire. While this decreased accidental deaths during duels, prolonged combat saw the ’Mech disabled more often than not, leading to its pilots being shunted into the ignominious role of hunting lighter units. The new White Raven is an exemplary sniper, meant to harass at range with precise fire. The decision to wrap the chassis in ferro-lamellor armor seems to have been a test bed for newer Raven OmniMechs like the War Crow, which shares many design features with the White Raven.</capabilities>
+        <battlehistory>The Ravens were deeply disturbed when recent clashes with the Federated Suns revealed the Davions using a weapon that ignored the Clan’s precious ferro-lamellor armor. Though re-engineered lasers had been deployed for several years, the Ravens had discounted them as an inferior Spheroid development. Khan McKenna wanted to acquire some of these weapons for study, but after Palmyra the Suns was open to neither Raven merchants nor friendly Trials. Instead, Khan McKenna assembled a special R-team under Lucien Clearwater, the Red Raven, to acquire a sample or die trying.:br::br::tab:The Raven Watch turned up a possible target on Winfield with the Second Periphery Guards: AFFS Major Jonathan Baines, and his VTR-12D Victor. Clearwater relished the challenge of drawing out a high-ranking officer in a dangerous BattleMech, and his team inserted itself onto Winfield. It took nearly two months of hit-and-fade raids before this unClanlike behavior finally drew out Major Baines, who personally took the field with a lance to put an end to what he thought was pirate activity. The confrontation inside Bryce Canyon claimed all of Clearwater’s infantry, who held back the Guards while Lucien dueled with Baines. Only the White Raven’s ferro-lamellor saved Lucien from the Victor’s Gauss rifle as he focused long-range precision fire on the Davion ’Mech’s left arm, finally blowing it off just as the Victor breached his armor and destroying the Raven’s targeting computer. Lucien’s remaining comrade rushed in and retrieved the arm, and both managed to disengage and return to the Alliance with their new prize.</battlehistory>
+        <deployment></deployment>
+        <variants>Black Python variants focused on increasing direct-fire capabilities, usually with ER lasers and autocannons. An older Steel Viper refit addressed the lack of a knockout weapon with PPCs and a Gauss rifle. The latest model uses improved jump jets for maximum mobility; only the most skilled warriors are awarded the right to pilot this astonishingly expensive White Raven.</variants>
+        <notables>Star Commander Lucien Clearwater: Known as the Red Raven for his tendency to end every trial covered in blood, Lucien has twice achieved the rank of Star Captain, only to lose it again through recklessness. In his decade as a warrior, he has made many grave enemies, lost seven ’Mechs, three fingers, and his right eye, all without ever seeing heavy combat, and all without ever losing his flippant attitude and dashing charm. Rather than dump him in a dezgra unit, Khan McKenna has reassigned Lucien to the Raven Watch. His latest mission, working with the Brotherhood of Randis on a strike against Tortuga, has helped strengthen ties with Randis, as well as proven the value of the White Raven.:br::br:MechWarrior Andrew (Cluetain): Andrew Cluetain initially tried out as an AMC aerospace pilot, but could not keep pace in the competitive selection process. Accepted to Raven MechWarrior training as a freeborn warrior, where it was expected he would flush out early, Andrew channeled his burning anger into victory and attained his MechWarrior rank in record time. Initially assigned to an aging and broken-down Timber Wolf, Andrew defeated two Trueborn warriors in hand-to-hand combat for the right to pilot a new White Raven. The Raven’s sleek, almost LAM-like curves let him dream that he is soaring the skies of Lushann. Though he would make a fine recruit for the Alliance Air Wings, Andrew scoffs at a career of pirate hunting and garrison duty. At least in his White Raven, he is a true warrior.</notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Improved Targeting, Short</Name>
+                <Cost>3</Cost>
+                <Description>All ranged attack to-hit numbers at the selected range bracket receive a -1 modifier. This quirk cannot be combined with Variable Range Targeting.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>SR Starlifter 75</jumpjet_model>
+        <commsystem>TDWS-37 Mk. 2.2</commsystem>
+        <tandtsystem>&quot;Hermes&quot; CT-44</tandtsystem>
+    </fluff>
+</mech>

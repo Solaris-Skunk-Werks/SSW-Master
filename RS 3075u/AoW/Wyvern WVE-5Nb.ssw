@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Wyvern" model="WVE-5Nb" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="C:\Documents and Settings\CJ\Desktop\Campaign master\Bmps\Wyvern.jpg">
+<mech name="Wyvern" model="WVE-5Nb" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1006</battle_value>
     <cost>5951902.5</cost>

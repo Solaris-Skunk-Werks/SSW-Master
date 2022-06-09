@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Opossum" model="OPO-2 SalvageMech" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>240</battle_value>
+    <cost>1150421.875</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="DNapoli Industries" location="Ankaa">Inner Sphere</techbase>
+    <year restricted="FALSE">3110</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="IM Heavy II" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="75" manufacturer="InterComBust" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="StrongArm III" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>8</ct>
+        <ctr>2</ctr>
+        <lt>5</lt>
+        <ltr>1</ltr>
+        <rt>5</rt>
+        <rtr>1</rtr>
+        <la>5</la>
+        <ra>5</ra>
+        <ll>5</ll>
+        <rl>5</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Opossum OPO-2 SalvageMech 25t, 3/5/0, ICE, Ind; 3.0T/54% Armor; 2 SHS; 1 SlvgArm, 1 BAP, 1 SptWeld</info>
+        <battleforce pv="2" wt="1" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="2" abilities="MEL, PRB, RCN, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="2" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="DiNapoli ST7">Salvage Arm</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Spot Welder</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Improved Sensors</Name>
+                <Cost>3</Cost>
+                <Description>A unit with this quirk is treated as if it has an active probe (range 4 for Inner Sphere Units, range 5 for Clan Units). If it is equipped with an active probe, add 2 to the Active Probe&apos;s range.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garret T10B</commsystem>
+        <tandtsystem>Apple Churchill 2000</tandtsystem>
+    </fluff>
+</mech>

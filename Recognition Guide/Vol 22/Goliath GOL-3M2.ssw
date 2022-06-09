@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Goliath" model="GOL-3M2" tons="80" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1631</battle_value>
+    <cost>1.7176000000000004E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3052</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="320" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>19</ctr>
+        <lt>21</lt>
+        <ltr>13</ltr>
+        <rt>21</rt>
+        <rtr>13</rtr>
+        <la>26</la>
+        <ra>26</ra>
+        <ll>31</ll>
+        <rl>31</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <info>Goliath GOL-3M2 80t, 4/6/0, XLFE, Std Quad; 15.0T/91% Armor; 17 SHS; 2 SPL, 1 GR, 2 LRM10</info>
+        <battleforce pv="16" wt="4" mv="4" s="3" m="3" l="3" e="0" ov="0" armor="8" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="17" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">FRL</location>
+            <location index="4">RRL</location>
+            <location index="4">FLL</location>
+            <location index="3">HD</location>
+            <location index="4">RLL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-10</name>
+            <type>missile</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="9">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Multi-Trac</Name>
+                <Cost>2</Cost>
+                <Description>A `Mech with this quirk can track multiple targets and may attack any number of targets in its front and arm firing arcs in the same turn without adding the secondary-target modifier. Secondary targets in the rear arc are treated as normal.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Exposed Actuators</Name>
+                <Cost>1</Cost>
+                <Description>The actuators of some designs are poorly protected and more vulnerable to the effcts of Swarm and Leg attacks. The target numbers for such attacks reveive a -1 modifier.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Fire Falcon" model="" tons="25" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Fire Falcon" model="" tons="25" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>4676395.833333333</cost>
+    <cost>8106864.583333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3056</year>
+    <techbase manufacturer="Ironhold Alpha Complex, Olivetti Weapons (TR3058U); Olivetti Weaponry (RGiC 15)" location="Ironhold, Sudeten (TR3058U); Sudeten (RGiC 15)">Clan</techbase>
+    <year restricted="FALSE">3052</year>
     <motive_type>Biped</motive_type>
-    <structure manufacturer="Unknown" techbase="1">
+    <structure manufacturer="JF 3 Light" techbase="1">
         <type>Endo-Steel</type>
         <location index="8">LT</location>
         <location index="9">LT</location>
@@ -19,12 +19,12 @@
         <location index="11">LT</location>
         <location index="11">LA</location>
     </structure>
-    <engine rating="200" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <engine rating="200" manufacturer="JF" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
     </cockpit>
-    <armor manufacturer="Unknown" techbase="1">
+    <armor manufacturer="Compound JF" techbase="1">
         <type>Ferro-Fibrous</type>
         <hd>9</hd>
         <ct>10</ct>
@@ -61,8 +61,8 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3056</loadout_year>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
         <info>Fire Falcon  Prime 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 2 SSRM4, 2 ERML, 2 ERSL, 1 MPL</info>
         <battleforce pv="15" wt="1" mv="8" s="5" m="5" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1451</battle_value>
@@ -113,8 +113,8 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3056</loadout_year>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
         <info>Fire Falcon  A 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ERSL, 1 LRM10, 1 UAC2</info>
         <battleforce pv="8" wt="1" mv="8" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>822</battle_value>
@@ -150,8 +150,8 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3056</loadout_year>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
         <info>Fire Falcon  B 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 2 ERLL, TC</info>
         <battleforce pv="16" wt="1" mv="8" s="2" m="2" l="2" e="0" ov="1" armor="3" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <battle_value>1570</battle_value>
@@ -177,8 +177,8 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3056</loadout_year>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
         <info>Fire Falcon  C 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 SPL, 1 BAP, 1 ERSL, 4 MG, 2 SRM6, 1 MPL</info>
         <battleforce pv="10" wt="1" mv="8" s="4" m="3" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>1004</battle_value>
@@ -249,8 +249,8 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3056</loadout_year>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3052</loadout_year>
         <info>Fire Falcon  D 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 Narc, 1 ERML, 1 TAG, 2 SRM4</info>
         <battleforce pv="8" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, SNARC, TAG, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
         <battle_value>826</battle_value>
@@ -307,7 +307,7 @@
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3059</loadout_year>
+        <loadout_year>3061</loadout_year>
         <info>Fire Falcon  E 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ATM12</info>
         <battleforce pv="11" wt="1" mv="8" s="3" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1094</battle_value>
@@ -335,58 +335,10 @@
             <location index="3">RT</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3059</loadout_year>
-        <info>Fire Falcon  H 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 13 DHS; 2 MPL, 2 HML, 2 HSL</info>
-        <battleforce pv="12" wt="1" mv="8" s="5" m="4" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1162</battle_value>
-        <cost>4474739.583333333</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="13" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="2">RT</location>
-            <location index="2">RA</location>
-            <location index="2">LT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Small Laser</name>
-            <type>energy</type>
-            <location index="10">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Small Laser</name>
-            <type>energy</type>
-            <location index="11">CT</location>
-        </equipment>
-    </loadout>
     <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+        <source>RGiC 15</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Fire Falcon  F 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 ERLL, 2 ERMcL, 2 ERSL, 1 BAP, 2 MGA+4MG</info>
         <battleforce pv="11" wt="1" mv="8" s="4" m="3" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
@@ -440,6 +392,294 @@
             <location index="11">CT</location>
         </equipment>
     </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3113</loadout_year>
+        <info>Fire Falcon  G 25t, 8/12[16]/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 iHLL, 1 PrmAC4</info>
+        <battleforce pv="13" wt="1" mv="10" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1269</battle_value>
+        <cost>8002977.083333333</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/4</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/4</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="2">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Fire Falcon  H 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 13 DHS; 2 MPL, 2 HML, 2 HSL</info>
+        <battleforce pv="12" wt="1" mv="8" s="5" m="4" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1162</battle_value>
+        <cost>4474739.583333333</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="2">RA</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3134</loadout_year>
+        <info>Fire Falcon  I 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 11 DHS; 1 PC, 5 ERML</info>
+        <battleforce pv="17" wt="1" mv="8" s="4" m="4" l="1" e="0" ov="1" armor="3" internal="1" abilities="OMNI, ENE, HT1, SRCH, ES, SEAL, SOA" />
+        <battle_value>1678</battle_value>
+        <cost>5030489.583333333</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="L" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3134</loadout_year>
+        <info>Fire Falcon  L 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 4 ERSL, 1 ERPPC, TC</info>
+        <battleforce pv="17" wt="1" mv="8" s="4" m="4" l="2" e="0" ov="0" armor="3" internal="1" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1665</battle_value>
+        <cost>4454427.083333333</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Fire Falcon  R 25t, 8/12/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 2 ATM3, 1 REML, 2 McPL, 1 RESL</info>
+        <battleforce pv="8" wt="1" mv="8" s="3" m="2" l="1" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>846</battle_value>
+        <cost>4502864.583333333</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium R-e Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small R-e Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Fire Falcon  T 25t, 8/12[16]/0, XLFE, ES; 4.0T/85% FF Armor; 10 DHS; 1 SSRM4, 2 iHML, 2 iHSL, 1 SRM4iOS, 1 MPL, TC</info>
+        <battleforce pv="17" wt="1" mv="10" s="5" m="4" l="0" e="0" ov="0" armor="3" internal="1" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1661</battle_value>
+        <cost>8106864.583333333</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4 (iOS)</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -449,7 +689,7 @@
         <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
-        <commsystem>Unknown</commsystem>
-        <tandtsystem>Unknown</tandtsystem>
+        <commsystem>JF Integrated</commsystem>
+        <tandtsystem>Series JFVIII KITT</tandtsystem>
     </fluff>
 </mech>

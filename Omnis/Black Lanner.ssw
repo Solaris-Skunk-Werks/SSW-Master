@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Black Lanner" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Black Lanner" model="" tons="55" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.8050401041666668E7</cost>
+    <cost>1.8158760416666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -63,7 +63,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  Prime 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 ECM, 1 ERLL, 2 ERML, 1 SRM6, 1 LRM10</info>
         <battleforce pv="23" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="3" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -115,7 +115,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  A 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 ECM, 1 BAP, 2 MPL, 1 ERPPC, 1 TAG</info>
         <battleforce pv="23" wt="2" mv="9" s="3" m="3" l="2" e="0" ov="1" armor="5" internal="3" abilities="OMNI, ECM, TAG, PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
@@ -157,7 +157,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  B 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 LRM20</info>
         <battleforce pv="20" wt="2" mv="9" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 2/2/2, IF 2" />
@@ -194,7 +194,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  C 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 13 DHS; 6 ERML, 1 SSRM6</info>
         <battleforce pv="25" wt="2" mv="9" s="5" m="5" l="0" e="0" ov="1" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -252,7 +252,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Black Lanner  D 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 Flmr, 1 BAP, 4 MG, 2 ERSL, 2 SRM6, 2 MPL</info>
         <battleforce pv="18" wt="2" mv="9" s="5" m="4" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 2/2/0" />
@@ -339,7 +339,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Black Lanner  E 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 3 ERML, 1 ATM12</info>
         <battleforce pv="23" wt="2" mv="9" s="5" m="4" l="1" e="0" ov="1" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -383,6 +383,114 @@
             <location index="9">LA</location>
         </equipment>
     </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3121</loadout_year>
+        <info>Black Lanner  F 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 MGA+3LMG, 5 MPL, 1 LAP</info>
+        <battleforce pv="22" wt="2" mv="9" s="5" m="5" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, LPRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2154</battle_value>
+        <cost>1.7198791666666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Light Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) MG Array (3 Light Machine Gun)</name>
+            <type>mgarray</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3134</loadout_year>
+        <info>Black Lanner  G 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 11 DHS; 1 ERLPL, 4 LRM5</info>
+        <battleforce pv="19" wt="2" mv="9" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
+        <battle_value>1929</battle_value>
+        <cost>1.7536572916666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
@@ -422,10 +530,177 @@
             <location index="4">LA</location>
         </equipment>
     </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3143</loadout_year>
+        <info>Black Lanner  I 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 1 SSRM4, 3 HMG, 2 ERML, 1 MVSPL, TC</info>
+        <battleforce pv="18" wt="2" mv="9" s="5" m="4" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1803</battle_value>
+        <cost>1.7563041666666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-4</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-4</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3144</loadout_year>
+        <info>Black Lanner  J 55t, 7/11[18]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 3 ERML, 1 PrmAC8</info>
+        <battleforce pv="20" wt="2" mv="11" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2022</battle_value>
+        <cost>2.4733485416666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/8</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/8</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/8</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="2">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Black Lanner  T 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 iHML, 1 PC, 1 SRM6, 1 LRM10</info>
+        <battleforce pv="20" wt="2" mv="9" s="4" m="4" l="2" e="0" ov="1" armor="5" internal="3" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2040</battle_value>
+        <cost>1.8282197916666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+        <source>RGIC 15</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3075</loadout_year>
         <info>Black Lanner  X 55t, 7/11[14]/0 MASC, XLFE, ES; 8.0T/83% FF Armor; 10 DHS; 2 iHML, 1 RAC2</info>
         <battleforce pv="17" wt="2" mv="9" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Dig Lord" model="RCL-4M MiningMech MOD" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>706</battle_value>
+    <cost>2777531.25</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="DeValt Industries" location="Halstead Station">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="DeValt MM-2600.2" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="195" manufacturer="ConLee" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>16</ct>
+        <ctr>5</ctr>
+        <lt>14</lt>
+        <ltr>3</ltr>
+        <rt>14</rt>
+        <rtr>3</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Dig Lord RCL-4M MiningMech MOD 65t, 3/5/0, FCE, Ind; 8.0T/61% Armor; 3 SHS; 1 MngDrl, 1 AC10, 1 SRM4, 1 Fuel, 1 RckCut</info>
+        <battleforce pv="7" wt="3" mv="3" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="5" abilities="MEL, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="3" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Guided Technologies / NCK &quot;Thornbush&quot;">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Mining Drill</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Rock Cutter</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/10</name>
+            <type>ballistic</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/10</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Extended Fuel Tank</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Narrow/Low Profile</Name>
+                <Cost>2</Cost>
+                <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Omicron 5000</commsystem>
+        <tandtsystem>Diplan I-TT</tandtsystem>
+    </fluff>
+</mech>

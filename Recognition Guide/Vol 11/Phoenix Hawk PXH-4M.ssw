@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Phoenix Hawk" model="PXH-4M" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1327</battle_value>
+    <cost>7173440.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3087</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+    </structure>
+    <engine rating="270" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>19</ct>
+        <ctr>6</ctr>
+        <lt>16</lt>
+        <ltr>4</ltr>
+        <rt>16</rt>
+        <rtr>4</rtr>
+        <la>14</la>
+        <ra>14</ra>
+        <ll>17</ll>
+        <rl>17</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 11</source>
+        <info>Phoenix Hawk PXH-4M 45t, 6/9/6, LFE, ES; 8.5T/89% Armor; 12 DHS; 2 LPPC, 2 MXPL, 2 SXPL</info>
+        <battleforce pv="13" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="6">RT</location>
+            <location index="5">RT</location>
+            <location index="7">RT</location>
+            <location index="7">LT</location>
+            <location index="6">LT</location>
+            <location index="5">LT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

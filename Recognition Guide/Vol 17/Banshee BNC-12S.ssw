@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Banshee" model="BNC-12S" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2562</battle_value>
+    <cost>2.6095145E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Defiance Industries" location="Kwangjong-ni">Mixed</techbase>
+    <year restricted="FALSE">3135</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="4">RA</location>
+        <location index="4">RL</location>
+        <location index="5">RA</location>
+        <location index="5">RL</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="380" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>44</ct>
+        <ctr>15</ctr>
+        <lt>30</lt>
+        <ltr>10</ltr>
+        <rt>30</rt>
+        <rtr>10</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>38</ll>
+        <rl>38</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 17</source>
+        <info>Banshee BNC-12S 95t, 4/6/0, XLFE, ES; 18.0T/98% Armor; 14 DHS; 1 GR, 4 ERML, 2 ERSL, 1 SRM6, 2 ERPPC</info>
+        <battleforce pv="26" wt="4" mv="4" s="4" m="4" l="2" e="0" ov="4" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="14" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="5">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="10">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>The new Banshee is the latest stage of evolution that began with the BNC-3S. The -12S builds upon the endo-steel chassis of prior models, upgrading it with a home-built Clan-grade engine and lasers. The weight savings enabled Defiance’s engineers to follow the weaponry layout of the -3S. Armor levels match the toughest Banshees, creating a very strong and fast assault ’Mech, albeit one with a challenging heat curve. Alpha-striking will shut the ’Mech down, so MechWarriors are advised to use either the main or secondary weapons, but not both at once.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Hauptmann Christopher Cain: Cain was a green leutnant fresh from the academy when he was assigned to the newly reformed Eighth Lyran Guards. The Eighth specialized in Republic of the Sphere tactics and served as an OpFor for training other Lyran units. Thus, they were woefully unprepared for the Jade Falcon desant on Porrima in 3134. Barely a quarter of the regiment escaped the slaughter. His father and son were killed when Galaxy Commander Aleksandr Hazen razed a district of Allison City after an unsuccessful assassination attempt, though the Falcons eventually decided not to hold the world.:br::br::tab:Cain is now a battle-hardened veteran. He was promoted while the unit slowly rebuilt. The Eighth refused to leave Porrima during the tenure of Archon Brewer. They later absorbed the remnants of the Sixth Guards following the battle of Tharkad. The Eighth is now based on Veckholm where Cain commands a company—Cain’s Cavaliers. His deep-seated hatred for the Falcons is surpassed only by his sense of duty to his MechWarriors, all of whom are survivors of battles against the Clans.</notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

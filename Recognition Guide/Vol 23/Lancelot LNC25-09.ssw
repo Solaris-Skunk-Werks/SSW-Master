@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Lancelot" model="LNC25-09" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2099</battle_value>
+    <cost>1.3896E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Luthien Armor Works" location="Luthien">Mixed</techbase>
+    <year restricted="FALSE">3147</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="3">LA</location>
+        <location index="3">RA</location>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+    </structure>
+    <engine rating="360" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>10</ctr>
+        <lt>21</lt>
+        <ltr>7</ltr>
+        <rt>21</rt>
+        <rtr>7</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+        <location index="3">HD</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="6">LT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 23</source>
+        <info>Lancelot LNC25-09 60t, 6/9/0, XLFE, ES; 10.5T/100% HFF Armor; 15 DHS; 1 PR, 2 ERLL, 1 MPL</info>
+        <battleforce pv="21" wt="3" mv="6" s="4" m="4" l="2" e="0" ov="0" armor="7" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="15" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>The Lancelot was originally designed as a heavy cavalry unit. Later it was touted to become the SLDF’s standard antiaircraft   ’Mech, although this was halted by the Amaris Crisis. The resurrection of its line on Luthien was made possible by the ’Mech being redesigned to share common parts with the Grand Dragon. ClanTech ER and pulse lasers provide the -09’s primary and secondary weapons, supported with a deadly plasma rifle. Much-strengthened armor improves its endurance. It is often paired with newer Grand Dragons, providing fire support as the Dragons close in.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Chu-i Knut Amano: Of Rasalhagian heritage, Amano’s grandparents escaped to the Combine following the Ghost Bear’s invitation into the Republic. Amano is stationed with the Seventh Legion of Vega on the Dominion border. He spends considerable effort funding anti-Bear sentiments in his off-duty time. Fragmentary Watch reports suggest his grandparents may have been part of Mimir. It is unlikely the ISF does not know about his activities, but as long as the secret police are focused on the Dragon’s enemies, they will likely turn a blind eye.:br::tab:Combat came to Shionoha in the early 3140s in the form of raids by the Ghost Bear’s 343rd Battle Cluster and Third Vega Regulars. Despite the mauling the Seventh received, the chu-i relished finally being able to face off against the Bears. The Third Regulars again raided in April 3150, catching the Seventh as they were preparing to rotate to the Federated Suns front. Forced into the field from their DropShips, the Seventh devastated the Regulars. Less than a quarter of the Third escaped. Reports suggest Amano may soon be promoted to tai-i, after gaining three kills in the close confines of the spaceport.</notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

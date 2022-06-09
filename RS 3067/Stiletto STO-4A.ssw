@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Stiletto" model="STO-4A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Stiletto.png">
+<mech name="Stiletto" model="STO-4A" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>859</battle_value>
     <cost>5251125.0</cost>

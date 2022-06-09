@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Battle Cobra" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Battle Cobra" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>4595500.0</cost>
     <rules_level>1</rules_level>
@@ -186,8 +186,8 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3057</loadout_year>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3062</loadout_year>
         <info>Battle Cobra  C 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 1 SPL, 1 ATM9, 3 MPL</info>
         <battleforce pv="15" wt="2" mv="6" s="5" m="5" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1484</battle_value>
@@ -230,50 +230,11 @@
             <location index="7">LA</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
         <loadout_era>2</loadout_era>
         <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3059</loadout_year>
-        <info>Battle Cobra  H 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 14 DHS; 2 ERLL, 2 HML</info>
-        <battleforce pv="16" wt="2" mv="6" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1592</battle_value>
-        <cost>5019000.0</cost>
-        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="14" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="0">LT</location>
-            <location index="0">RT</location>
-            <location index="4">LL</location>
-            <location index="3">RA</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) ER Large Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Large Laser</name>
-            <type>energy</type>
-            <location index="3">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-    </loadout>
-    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
-        <loadout_year>3056</loadout_year>
+        <loadout_year>3057</loadout_year>
         <info>Battle Cobra  F 40t, 6/9/6, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 3 ERML, 1 UAC5</info>
         <battleforce pv="15" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1507</battle_value>
@@ -315,10 +276,237 @@
             <location index="5">RA</location>
         </equipment>
     </loadout>
-    <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <loadout name="G" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Battle Cobra  G 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 11 DHS; 2 Flmr, 2 PC, 2 ERML</info>
+        <battleforce pv="16" wt="2" mv="6" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="3" abilities="OMNI, ENE, HT2, SRCH, ES, SEAL, SOA" />
+        <battle_value>1593</battle_value>
+        <cost>5411750.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3061</loadout_year>
+        <info>Battle Cobra  H 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 14 DHS; 2 ERLL, 2 HML</info>
+        <battleforce pv="16" wt="2" mv="6" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1592</battle_value>
+        <cost>5019000.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="4">LL</location>
+            <location index="3">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Battle Cobra  I 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 2 LRM15</info>
+        <battleforce pv="14" wt="2" mv="6" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battle_value>1385</battle_value>
+        <cost>6189500.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Battle Cobra  J 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 10 DHS; 1 RAC2, 2 ERMPL</info>
+        <battleforce pv="13" wt="2" mv="6" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1272</battle_value>
+        <cost>4848250.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Battle Cobra  T 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 13 DHS; 2 ERLL, 2 ERSL, TC</info>
+        <battleforce pv="17" wt="2" mv="6" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1666</battle_value>
+        <cost>4732875.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+            <location index="4">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="0">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3073</loadout_year>
         <info>Battle Cobra  X 40t, 6/9/0, Std FE, ES; 6.5T/91% FF Armor; 18 DHS; 5 iHML, TC</info>
         <battleforce pv="15" wt="2" mv="6" s="6" m="6" l="0" e="0" ov="0" armor="4" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -376,6 +564,13 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Extended Torso Twist</Name>
+                <Cost>3</Cost>
+                <Description>When torso twisting, the `Mech can change its facing by one or two hexsides. Quad â€™Mechs normally cannot torso twist at all. However, a quad â€™Mech with this quirk can perform a normal (not extended) torso twist.</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

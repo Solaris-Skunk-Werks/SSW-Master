@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Ebon Jaguar (Cauldron-Born)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Ebon Jaguar (Cauldron-Born)" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>1.8123281249999996E7</cost>
     <rules_level>1</rules_level>
@@ -357,7 +357,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Ebon Jaguar (Cauldron-Born)  D 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 2 UAC/10, 1 ERLL, 2 ERML</info>
         <battleforce pv="22" wt="3" mv="5" s="5" m="5" l="4" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -411,10 +411,190 @@
             <location index="5">RT</location>
         </equipment>
     </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 16</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3069</loadout_year>
+        <info>Ebon Jaguar (Cauldron-Born)  E 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 HAG20, 1 ERML, 1 ATM12, 1 LPL</info>
+        <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2391</battle_value>
+        <cost>1.8627593749999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 16</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3104</loadout_year>
+        <info>Ebon Jaguar (Cauldron-Born)  F 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 18 DHS; 2 ERPPC, 2 ATM6, TC</info>
+        <battleforce pv="27" wt="3" mv="5" s="7" m="6" l="5" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2681</battle_value>
+        <cost>1.8341656249999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+            <location index="2">LA</location>
+            <location index="4">LA</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6 (ER)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-6 (HE)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 16</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3125</loadout_year>
+        <info>Ebon Jaguar (Cauldron-Born)  G 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 iHLL, 1 HAG40, TC</info>
+        <battleforce pv="28" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 3/3/3" />
+        <battle_value>2849</battle_value>
+        <cost>1.8667906249999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="2">LT</splitlocation>
+            <splitlocation index="2" number="8">LA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="2">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Ebon Jaguar (Cauldron-Born)  H 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 1 MPL, 1 HLL, 2 HML, 1 UAC20, TC</info>
         <battleforce pv="24" wt="3" mv="5" s="6" m="6" l="0" e="0" ov="2" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -474,26 +654,123 @@
             <location index="6">LT</location>
         </equipment>
     </loadout>
-    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3069</loadout_year>
-        <info>Ebon Jaguar (Cauldron-Born)  E 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 HAG20, 1 ERML, 1 ATM12, 1 LPL</info>
-        <battleforce pv="24" wt="3" mv="5" s="7" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
-        <battle_value>2391</battle_value>
-        <cost>1.8627593749999996E7</cost>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 16</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Ebon Jaguar (Cauldron-Born)  T 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 iHML, 1 SLRM10, 1 UAC5, 1 ERPPC, 2 Tbolt5</info>
+        <battleforce pv="22" wt="3" mv="5" s="4" m="5" l="4" e="0" ov="1" armor="6" internal="4" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <techbase>Mixed</techbase>
+        <battle_value>2219</battle_value>
+        <cost>1.9141593749999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <equipment>
-            <name manufacturer="">(CL) ATM-12</name>
+            <name manufacturer="">(CL) Streak LRM-10</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Thunderbolt-5</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Thunderbolt-5</name>
             <type>missile</type>
             <location index="2">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
             <type>energy</type>
             <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-10</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-5</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Thunderbolt-5</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3085u-ON</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3077</loadout_year>
+        <info>Ebon Jaguar (Cauldron-Born)  U 65t, 5/8/5, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 2 ERSL, 2 LRT15, 2 LPL</info>
+        <battleforce pv="26" wt="3" mv="5u" s="5" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 1/1/1" />
+        <battle_value>2593</battle_value>
+        <cost>1.8497374999999996E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Mech UMU</type>
+            <location index="5">LT</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+            <location index="7">RT</location>
+        </jumpjets>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRT-15</name>
+            <type>missile</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRT-15</name>
+            <type>missile</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Large Pulse Laser</name>
@@ -501,45 +778,25 @@
             <location index="2">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
-            <type>ballistic</type>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
             <location index="2">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
             <type>ammunition</type>
-            <location index="3">LT</location>
+            <location index="10">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
             <type>ammunition</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
-            <type>ammunition</type>
-            <location index="5">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-12</name>
-            <type>ammunition</type>
-            <location index="7">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
-            <type>ammunition</type>
-            <location index="8">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
-            <type>ammunition</type>
-            <location index="9">RT</location>
+            <location index="9">LT</location>
         </equipment>
     </loadout>
     <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+        <source>RGiC 16</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3075</loadout_year>
         <info>Ebon Jaguar (Cauldron-Born)  X 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 1 RAC5, 1 AECM, 1 ERSPL, 3 ERMPL, TC</info>
         <battleforce pv="24" wt="3" mv="5" s="6" m="6" l="3" e="0" ov="0" armor="6" internal="4" abilities="OMNI, AECM, CASEII, CASE, SRCH, ES, SEAL, SOA" />
@@ -609,98 +866,17 @@
             <location index="5">LT</location>
         </equipment>
     </loadout>
-    <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3085u-ON</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3077</loadout_year>
-        <info>Ebon Jaguar (Cauldron-Born)  U 65t, 5/8/5, XLFE, ES; 9.5T/86% FF Armor; 16 DHS; 2 ERSL, 2 LRT15, 2 LPL</info>
-        <battleforce pv="26" wt="3" mv="5u" s="5" m="5" l="4" e="0" ov="0" armor="6" internal="4" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 1/1/1" />
-        <battle_value>2593</battle_value>
-        <cost>1.8497374999999996E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <jumpjets number="5">
-            <type>Mech UMU</type>
-            <location index="5">LT</location>
-            <location index="4">LT</location>
-            <location index="6">LT</location>
-            <location index="6">RT</location>
-            <location index="7">RT</location>
-        </jumpjets>
-        <heatsinks number="16" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="2">RT</location>
-            <location index="2">LT</location>
-            <location index="4">RT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) LRT-15</name>
-            <type>missile</type>
-            <location index="8">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) LRT-15</name>
-            <type>missile</type>
-            <location index="7">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
-            <location index="2">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Large Pulse Laser</name>
-            <type>energy</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
-            <type>ammunition</type>
-            <location index="10">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRT-15 (Torpedo)</name>
-            <type>ammunition</type>
-            <location index="9">LT</location>
-        </equipment>
-    </loadout>
     <loadout name="(Samantha)" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>HTPLuzerne</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
-        <info>Ebon Jaguar (Cauldron-Born)  (Samantha) 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 ERSL, 3 LRM10, 1 ERPPC, 1 UAC20</info>
+        <info>Ebon Jaguar (Cauldron-Born)  (Samantha) 65t, 5/8/0, XLFE, ES; 9.5T/86% FF Armor; 13 DHS; 1 ERSL, 1 ERPPC, 3 LRM10, 1 UAC20</info>
         <battleforce pv="24" wt="3" mv="5" s="5" m="5" l="2" e="0" ov="2" armor="6" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <battle_value>2372</battle_value>
         <cost>1.8590484374999996E7</cost>
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>TRUE</clancase>
-        <equipment>
-            <name manufacturer="">(CL) ER Small Laser</name>
-            <type>energy</type>
-            <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="2">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Ultra AC/20</name>
-            <type>ballistic</type>
-            <location index="2">LA</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(CL) LRM-10</name>
             <type>missile</type>
@@ -715,6 +891,21 @@
             <name manufacturer="">(CL) LRM-10</name>
             <type>missile</type>
             <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>

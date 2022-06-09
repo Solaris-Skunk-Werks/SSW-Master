@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Harvester" model="HVR-199M-M AgroMech MOD" tons="40" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>406</battle_value>
+    <cost>1532400.0000000002</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="DiNapoli Industries" location="Ankaa">Inner Sphere</techbase>
+    <year restricted="FALSE">3134</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="IM Heavy" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="120" manufacturer="GM Classic" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="SarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>10</ct>
+        <ctr>4</ctr>
+        <lt>7</lt>
+        <ltr>2</ltr>
+        <rt>7</rt>
+        <rtr>2</rtr>
+        <la>7</la>
+        <ra>7</ra>
+        <ll>9</ll>
+        <rl>9</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Harvester HVR-199M-M AgroMech MOD 40t, 3/5/0, ICE, Ind; 4.5T/53% Armor; 1 SHS; 1 AC5, 1 Cmbn</info>
+        <battleforce pv="4" wt="2" mv="3" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="3" abilities="MEL, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="DiNapoli &quot;Groundhog&quot; Reinforced">Combine</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/5</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ AC/5</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Achernar Electronics GEO-11</commsystem>
+        <tandtsystem>Federated Ranger</tandtsystem>
+    </fluff>
+</mech>

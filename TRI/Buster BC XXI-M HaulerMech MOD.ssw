@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Buster" model="BC XXI-M HaulerMech MOD" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>504</battle_value>
+    <cost>2205000.0</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Various (Field Modifications)" location="Various (Field Modifications)">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bluth-50S" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>Industrial TSM</type>
+        <location index="3">LT</location>
+        <location index="3">RT</location>
+        <location index="4">LT</location>
+        <location index="4">RT</location>
+        <location index="4">LA</location>
+        <location index="4">RA</location>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="5">LA</location>
+        <location index="5">RA</location>
+    </enhancement>
+    <armor manufacturer="Durallex (Typical)" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>11</ct>
+        <ctr>8</ctr>
+        <lt>10</lt>
+        <ltr>4</ltr>
+        <rt>10</rt>
+        <rtr>4</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Buster BC XXI-M HaulerMech MOD 50t, 3/5/0 ITSM, ICE, Ind; 6.0T/57% Armor; 7 SHS; 4 SRM2</info>
+        <battleforce pv="5" wt="2" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="4" abilities="I-TSM, SRCH, EE" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="7" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="10">CT</location>
+        </heatsinks>
+        <multislot name="Tracks">
+            <location index="5">LL</location>
+            <location index="5">RL</location>
+        </multislot>
+        <equipment>
+            <name manufacturer="Holly (Typical)">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly (Typical)">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly (Typical)">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Holly (Typical)">(IS) SRM-2</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>Easy to Pilot</Name>
+                <Cost>2</Cost>
+                <Description>A MechWarrior or pilot with a Piloting Skill of more than 3 will receive a -1 target number modifier for Piloting Skill rolls that they have to make as a result of damage or underlying terrain. More skilled MechWarriors receive no benefit.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>Gas Hog</Name>
+                <Cost>2</Cost>
+                <Description>The unit is very inefficient and consumes fule at twice the normal rate when pushed above Cruising/Safe Thrust speed.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>Non-Standard Parts</Name>
+                <Cost>1</Cost>
+                <Description>Constructed with non-standard components, it is more difficult to source parts for this unit. When attempting to locate replacement parts, add +2 to the target number.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Doering Hi-Def Mk II</commsystem>
+        <tandtsystem>O/P 911 (Typical)</tandtsystem>
+    </fluff>
+</mech>

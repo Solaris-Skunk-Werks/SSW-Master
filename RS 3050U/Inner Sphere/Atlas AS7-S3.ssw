@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Atlas" model="AS7-S3" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Atlas.gif">
+<mech name="Atlas" model="AS7-S3" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2378</battle_value>
     <cost>1.89395E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>5</productionera>
+    <productionera>6</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">3062</year>

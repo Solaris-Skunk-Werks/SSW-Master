@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Hatchetman" model="HCT-8S" tons="45" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1479</battle_value>
+    <cost>7610715.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Defiance Industries" location="Hesperus II">Mixed</techbase>
+    <year restricted="FALSE">3140</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="5">LT</location>
+        <location index="5">LA</location>
+        <location index="6">LT</location>
+        <location index="6">LA</location>
+        <location index="7">LT</location>
+        <location index="7">LA</location>
+        <location index="8">LT</location>
+        <location index="8">LA</location>
+        <location index="9">LT</location>
+        <location index="9">LA</location>
+        <location index="10">LT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">CT</location>
+    </structure>
+    <engine rating="225" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>21</ct>
+        <ctr>6</ctr>
+        <lt>16</lt>
+        <ltr>5</ltr>
+        <rt>16</rt>
+        <rtr>5</rtr>
+        <la>13</la>
+        <ra>13</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <info>Hatchetman HCT-8S 45t, 5/8/5, XLFE, ES; 9.0T/94% Armor; 10 DHS; 2 ERML, 1 LB10, 1 Htcht</info>
+        <battleforce pv="15" wt="2" mv="5j" s="3" m="3" l="1" e="0" ov="0" armor="5" internal="2" abilities="MEL, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="10">CT</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+        </heatsinks>
+        <arm_aes location="RA" index="8"/>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Hatchet</name>
+            <type>physical</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="10">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Compared to Johnston Industries’ radical Hatchetman HCT-7D and the Republic’s experimental HCT-7R, Defiance’s HCT-8S takes a more measured approach by combining—and improving upon—features of the -6S and -7S models. While the ’Mech’s primary firepower is still supplied by a trusty Defiance Disintegrator LB 10-X autocannon, it is now backed-up by a pair of Clan-grade ER medium lasers. Its speed is enhanced by a ClanTech engine as used on most of Defiance’s current products, also improving survivability. Double-strength heat sinks round out the package, allowing the -8S to operate without fear of heat build-up.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>First Leutnant Cory Inglis: A new member of the Fifth Lyran Regulars in 3144, the then-sergeant’s trial by fire came the following year in the form of a determined assault by elements of the Jade Falcon’s Gamma Galaxy. Assigned to the factory world of Loxley along with six of the Regulars’ twelve companies, the week-long battle saw four of those companies destroyed. In the midst of the action, his heavily damaged unit was twice combined with other battered companies, and Inglis was breveted to leutnant as casualties mounted.:br::br::tab:Fighting a guerilla defense amongst the Gray Mountains, he personally claimed three OmniMech kills in as many days, all of which were heavier units. His actions went a long way to safeguard Loxley’s vital factories and earned him a full commission to first leutnant, while the Fifth Regulars as a whole were awarded the Falconslayers Medallion for their efforts. Playing an active role in rebuilding the unit, intelligence reports suggest Inglis may soon be promoted to hauptmann.</notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

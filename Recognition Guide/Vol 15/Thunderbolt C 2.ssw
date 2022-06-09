@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Thunderbolt" model="C 2" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2170</battle_value>
+    <cost>6440785.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Earthwerks Incorporated" location="Keystone">Clan</techbase>
+    <year restricted="FALSE">3054</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Earthwerks TDR" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="260" manufacturer="Magna" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Ryerson 150" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>12</ctr>
+        <lt>24</lt>
+        <ltr>6</ltr>
+        <rt>24</rt>
+        <rtr>6</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 15</source>
+        <info>Thunderbolt C 2 65t, 4/6/0, Std FE, Std; 13.5T/100% Armor; 17 DHS; 2 SPL, 4 ERML, 2 ERSL, 1 ERPPC, 1 AMS, 1 SSRM6</info>
+        <battleforce pv="22" wt="3" mv="4" s="6" m="6" l="2" e="0" ov="2" armor="7" internal="5" abilities="AMS, CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="0">LT</location>
+            <location index="10">CT</location>
+            <location index="0">RT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Neil 8000</commsystem>
+        <tandtsystem>RCA Instatrac Mark X</tandtsystem>
+    </fluff>
+</mech>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Sagittaire" model="SGT-10X" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Sagittaire.png">
+<mech name="Sagittaire" model="SGT-10X" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1794</battle_value>
     <cost>1.875705E7</cost>

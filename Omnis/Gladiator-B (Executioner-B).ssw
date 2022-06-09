@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Gladiator-B (Executioner-B)" model="" tons="95" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>2.705390625E7</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Albion Armor Works Alpha" location="Albion">Clan</techbase>
+    <year restricted="FALSE">2873</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Clan Series Assault SXE" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="285" manufacturer="MechFusion" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Compound Alpha" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>38</ct>
+        <ctr>9</ctr>
+        <lt>24</lt>
+        <ltr>10</ltr>
+        <rt>24</rt>
+        <rtr>10</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>40</ll>
+        <rl>40</rl>
+        <location index="3">HD</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>SharpRS</source>
+        <info>Gladiator-B (Executioner-B) 95t, 3/5/2, XLFE, Std; 14.0T/91% FF Armor; 16 DHS</info>
+        <battleforce pv="12" wt="4" mv="3/1j" s="0" m="0" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="2">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </jumpjets>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">RT</location>
+            <location index="10">CT</location>
+            <location index="2">LT</location>
+            <location index="4">RT</location>
+            <location index="4">LT</location>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2873</loadout_year>
+        <info>Gladiator-B (Executioner-B)  Prime 95t, 3/5/2, XLFE, Std; 14.0T/91% FF Armor; 17 DHS; 1 ERPPC, 2 UAC2, 2 LPL, 1 UAC20</info>
+        <battleforce pv="27" wt="4" mv="3/1j" s="5" m="5" l="3" e="0" ov="3" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2721</battle_value>
+        <cost>2.6684509375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/2</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/2</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2873</loadout_year>
+        <info>Gladiator-B (Executioner-B)  A 95t, 3/5/2, XLFE, Std; 14.0T/91% FF Armor; 16 DHS; 2 UAC/10, 2 ERSL, 2 LB10</info>
+        <battleforce pv="22" wt="4" mv="3/1j" s="6" m="6" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
+        <battle_value>2194</battle_value>
+        <cost>2.66195E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 10-X AC</name>
+            <type>ballistic</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 10-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2873</loadout_year>
+        <info>Gladiator-B (Executioner-B)  B 95t, 3/5/2, XLFE, Std; 14.0T/91% FF Armor; 18 DHS; 2 ERLL, 2 GR, 4 MPL</info>
+        <battleforce pv="32" wt="4" mv="3/1j" s="7" m="8" l="5" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3157</battle_value>
+        <cost>2.612640625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>SharpRS</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2873</loadout_year>
+        <info>Gladiator-B (Executioner-B)  C 95t, 3/5/2, XLFE, Std; 14.0T/91% FF Armor; 20 DHS; 2 UAC5, 4 ERPPC, 2 SRM2</info>
+        <battleforce pv="30" wt="4" mv="3/1j" s="5" m="5" l="5" e="0" ov="3" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2979</battle_value>
+        <cost>2.705390625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="20" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LA</location>
+            <location index="2">RA</location>
+            <location index="6">LT</location>
+            <location index="8">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2</name>
+            <type>missile</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/5</name>
+            <type>ballistic</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/5</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Distracting</Name>
+                <Cost>1</Cost>
+                <Description>A unit with the Distracting quirk applies a +1 Special Source modifier to any Morale Checks its opponents must make when using the Tactical Morale rules. If using the Demoralizer Special Piloting Ability from ATOW, the Distracting Quirk adds a +1 modifier to the demoralizer&apos;s WIL score.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="false" protomech="true" isvariable="false">
+                <Name>Poor Performance</Name>
+                <Cost>3</Cost>
+                <Description>This unit cannot reach maximum speed immediately. It must spend one turn expending MP equal to its Walking, Cruising or Safe Thrust rating before it can use MP up to its Running, Flanking or Maximum Thrust MP the following turn.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Pryzhok WM 10</jumpjet_model>
+        <commsystem>Consolidated BM3-CC</commsystem>
+        <tandtsystem>Series III GB</tandtsystem>
+    </fluff>
+</mech>

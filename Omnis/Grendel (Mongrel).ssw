@@ -604,8 +604,8 @@
     <loadout name="M" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 2</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>7</loadout_productionera>
-        <loadout_year>3085</loadout_year>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3086</loadout_year>
         <info>Grendel (Mongrel)  M 45t, 7/11/7, XLFE, ES; 7.5T/94% FF Armor; 10 DHS; 1 ERLL, 1 RAC2</info>
         <battleforce pv="17" wt="2" mv="7j" s="2" m="2" l="2" e="0" ov="0" armor="5" internal="2" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
         <battle_value>1744</battle_value>

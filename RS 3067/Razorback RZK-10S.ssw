@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Razorback" model="RZK-10S" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Razorback.png">
+<mech name="Razorback" model="RZK-10S" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>821</battle_value>
     <cost>4018750.0</cost>

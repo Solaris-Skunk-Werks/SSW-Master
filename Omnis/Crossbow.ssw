@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Crossbow" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Crossbow" model="" tons="65" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>8880500.0</cost>
+    <cost>8919125.0</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -270,79 +270,10 @@
             <location index="2">RT</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3060</loadout_year>
-        <info>Crossbow  H 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 14 DHS; 1 LRM15, 1 HLL, 4 LMG, 1 HML</info>
-        <battleforce pv="17" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
-        <battle_value>1707</battle_value>
-        <cost>8417156.25</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="14" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="0">RT</location>
-            <location index="0">LT</location>
-            <location index="2">LA</location>
-            <location index="10">CT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="2">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="5">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) LRM-15</name>
-            <type>missile</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Light Machine Gun</name>
-            <type>ballistic</type>
-            <location index="2">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Light Machine Gun</name>
-            <type>ballistic</type>
-            <location index="3">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Light Machine Gun</name>
-            <type>ballistic</type>
-            <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Light Machine Gun</name>
-            <type>ballistic</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15</name>
-            <type>ammunition</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15</name>
-            <type>ammunition</type>
-            <location index="5">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
-            <type>ammunition</type>
-            <location index="4">RT</location>
-        </equipment>
-    </loadout>
     <loadout name="D" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3065</loadout_year>
         <info>Crossbow  D 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 Mrtr8</info>
         <battleforce pv="12" wt="3" mv="5" s="1" m="2" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
@@ -392,9 +323,9 @@
         </equipment>
     </loadout>
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+        <source>RGiC 17</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Crossbow  E 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 16 APGR, TC</info>
         <battleforce pv="16" wt="3" mv="5" s="6" m="6" l="0" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -518,10 +449,377 @@
             <location index="10">CT</location>
         </equipment>
     </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 17</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3116</loadout_year>
+        <info>Crossbow  F 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 ERML, 2 ATM9</info>
+        <battleforce pv="19" wt="3" mv="5" s="6" m="5" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1854</battle_value>
+        <cost>8754875.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (ER)</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (HE)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 17</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3136</loadout_year>
+        <info>Crossbow  G 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 6 SLRM5</info>
+        <battleforce pv="17" wt="3" mv="5" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1725</battle_value>
+        <cost>8364874.999999999</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-5</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-5</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3058Uu-C</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
+        <info>Crossbow  H 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 14 DHS; 1 LRM15, 1 HLL, 4 LMG, 1 HML</info>
+        <battleforce pv="17" wt="3" mv="5" s="4" m="4" l="1" e="0" ov="0" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1707</battle_value>
+        <cost>8417156.25</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+            <location index="2">LA</location>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-15</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 17</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Crossbow  J 65t, 5/8[10]/0, Std FE, Std; 12.0T/91% Armor; 10 DHS; 1 iHLL, 1 Talons, 9 ERSL</info>
+        <battleforce pv="18" wt="3" mv="6" s="4" m="4" l="0" e="0" ov="3" armor="6" internal="5" abilities="OMNI, MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1839</battle_value>
+        <cost>1.4870796875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="11">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Talons</name>
+            <type>physical</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 17</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Crossbow  T 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 12 DHS; 2 ERLL, 1 LAP, 2 SRM6iOS, 14 SRM2iOS</info>
+        <battleforce pv="17" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="5" abilities="OMNI, LPRB, RCN, SRCH, ES, SEAL, SOA" />
+        <battle_value>1729</battle_value>
+        <cost>8438375.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="11">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="11">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6 (iOS)</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6 (iOS)</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Crossbow  U 65t, 5/8/5, Std FE, Std; 12.0T/91% Armor; 10 DHS; 2 LRT10, 2 SRT2, 2 ERML</info>
         <battleforce pv="19" wt="3" mv="5u" s="3" m="3" l="2" e="0" ov="0" armor="6" internal="5" abilities="UMU, OMNI, CASE, SRCH, ES, SEAL, SOA, TOR 2/2/1" />
@@ -581,6 +879,57 @@
             <name manufacturer="Unknown">@ SRT-2 (Torpedo)</name>
             <type>ammunition</type>
             <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="W" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 17</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3128</loadout_year>
+        <info>Crossbow  W 65t, 5/8/0, Std FE, Std; 12.0T/91% Armor; 11 DHS; 2 iHML, 1 ERPPC, 2 LRM10</info>
+        <battleforce pv="21" wt="3" mv="5" s="3" m="3" l="2" e="0" ov="2" armor="6" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>2051</battle_value>
+        <cost>8919125.0</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
         </equipment>
     </loadout>
     <fluff>

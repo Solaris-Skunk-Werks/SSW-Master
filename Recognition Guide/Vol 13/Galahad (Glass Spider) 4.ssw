@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Galahad (Glass Spider)" model="4" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2309</battle_value>
+    <cost>1.4664E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kallon Industries" location="Thermopolis">Clan</techbase>
+    <year restricted="FALSE">3148</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Heavy-Series LX" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">RT</location>
+    </structure>
+    <engine rating="240" manufacturer="Mk. V" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Forging ZM15" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>10</ctr>
+        <lt>20</lt>
+        <ltr>8</ltr>
+        <rt>20</rt>
+        <rtr>8</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>28</ll>
+        <rl>28</rl>
+        <location index="3">HD</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 13</source>
+        <info>Galahad (Glass Spider) 4 60t, 4/6[8]/0, XLFE, ES; 10.5T/100% FF Armor; 10 DHS; 2 HAG20, 3 ERSL, TC</info>
+        <battleforce pv="23" wt="3" mv="5" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 3/3/3" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 20</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 20</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Clan Widowmaker debuted their upgrade to the SLDF’s Galahad, dubbed the Glass Spider, on Dagda during their defense against Clan Wolf’s Trial of Absorption in 2834. Impressed by the destruction wrought by the desperate Widowmakers in the new ’Mech, Clan Wolf took the specifications as isorla (swiftly crushing a Jade Falcon Trial of Possession) and made the Glass Spider a mainstay of its garrison clusters. With such ’Mechs guarding their enclaves, Clan Wolf steadily expanded its Kerensky Cluster holdings throughout the Golden Century and secured its occupation zone in the Inner Sphere. Second-line warriors are eager for an assignment to a Glass Spider, seeing in its range and lethality the chance to maximize their opportunities for glory. Trials of Possession are frequently issued for the right to pilot the ’Mech.</overview>
+        <capabilities>Excelling at fire support, particularly against airborne targets, the Glass Spider’s advanced sensors and twin Gauss rifles allow it to track and destroy most enemies before their own weapon systems are in range. Though its lack of speed leaves it vulnerable to being overrun, many foes attempting such maneuvers have found their own vehicles coming apart around them before they can close the distance.</capabilities>
+        <battlehistory>In the BattleMech’s first deployment, atop the Cliffs of Dratha, unpainted Glass Spiders fresh from the Dagda Industriplex Zeta assembly lines exacted a fearsome toll on the Widowmakers’ foes, turning the ritualized zellbrigen duels into a bloodbath.:br::tab:Over three centuries later, when Paladin Ergen’s RAF First Army Group severed Wolf Empire supply lines in early 3150, the Glass Spider 2’s all-energy loadout elevated these support units to front-line duty, while ammunition-dependent ’Mechs were forced into a secondary role. On Castor, Glass Spiders of the Third Wolf Guard Battle Cluster led the push against the defending Fifth Fides’s positions in Alfagemini City, burning down RAF ’Mechs with pinpoint accuracy and standing firm in the face of barrages from the Fifth’s experimental weapon systems.:br::tab:Prior to the supply interdiction, the Glass Spider 4 proved its worth to the Wolf Empire on Skye. Jade Falcon aerospace fighters launched from New London Spaceport against the Thirteenth Wolf Guard Striker Cluster were driven off by torrents of flak hurled from the Thirteenth’s heavy assault Gauss rifles, forcing the 124th Falcon Striker Cluster to engage the Wolves on the ground.</battlehistory>
+        <deployment></deployment>
+        <variants>The Glass Spider 2’s pulse-laser arsenal eliminates the ’Mech’s ammunition dependence, making it the preferred option for Clan Wolf in lengthy campaigns where supply lines are precarious. Clan Wolf launched a production line at Kallon Industries’s Rifleman wing at Thermopolis, taking advantage of structural similarities between the two ’Mechs to kickstart production.:br::br::tab:Recognizing the need for anti-aircraft support during mobile offensives, Wolf technicians at the Thermopolis plant upgraded the engine to a higher-rated extra-light model, plus an integrated supercharger. The resulting weight savings enabled them to swap out the standard Gauss rifles in the arms for targeting-computer assisted Class-20 Hyper Assault models. Three ER small lasers allow warriors to stay engaged even at point blank range. The resulting Glass Spider 4 forces enemy aerospace fighters to keep a wary distance from rapidly advancing Wolf ground forces.</variants>
+        <notables>MechWarrior Fehya: Born into Clan Wolf to test-downs from a failed Ota sibko (a rarely used Widowmaker bloodline), Fehya dreamed of erasing her parents’ shame by joining the warrior caste. Her natural aptitude earned her a second-line posting as a MechWarrior, putting her at the controls of a Glass Spider. However, it was outside the cockpit that she achieved glory, demonstrating preternatural prowess with a vibroblade. During a sweep through the Barrens, pirates striking from a base in Star’s End’s asteroid field disabled and boarded her DropShip, using stolen battlesuits to slaughter the Wolf security complement and establish a foothold at the main airlock. After recovering her vibroblade from her ’Mech’s cockpit, Fehya led the other MechWarriors and the ship’s remaining crew in a counterattack. She decapitated a Kishi-suited raider at the airlock before carving her way through the surprised pirates in the boarding tube. This shocked the depleted bandit crew into surrender, and she claimed their DropShip as isorla.:br:MechWarrior Jason “Vulture” Jackowski: An independent mercenary looking to sign on with a new command, Jason was at the Arc-Royal hiring halls when Malvina Hazen’s fury fell on the world in September 3146. As Falcon OmniFighters screamed toward the surface, Jackowski powered up his ’Mech and joined other mercenaries in aiding the defense. He slowly and surely picked off several inbound Points, firing until his Glass Spider 2’s pulse laser barrels glowed. In the swirling carnage of the fight for Old Connaught, Jason linked up with Lieutenant Jen Youngblood. Together, they managed a fighting withdrawal to the civilian evacuation ships. When Jen later split with the Kell Hounds to join her cousin Jezebel’s Crescent Hawks, Jason went with her.</notables>
+        <additional>Anti-Aircraft Targeting Quirk</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Extended Torso Twist</Name>
+                <Cost>3</Cost>
+                <Description>When torso twisting, the `Mech can change its facing by one or two hexsides. Quad â€™Mechs normally cannot torso twist at all. However, a quad â€™Mech with this quirk can perform a normal (not extended) torso twist.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Multi-Trac</Name>
+                <Cost>2</Cost>
+                <Description>A `Mech with this quirk can track multiple targets and may attack any number of targets in its front and arm firing arcs in the same turn without adding the secondary-target modifier. Secondary targets in the rear arc are treated as normal.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>XS-485 Mk. IV</commsystem>
+        <tandtsystem>GH D8j TTS</tandtsystem>
+    </fluff>
+</mech>

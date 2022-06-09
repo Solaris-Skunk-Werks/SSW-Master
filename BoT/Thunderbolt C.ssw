@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Thunderbolt" model="C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Thunderbolt" model="C" tons="65" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1671</battle_value>
     <cost>5401385.0</cost>
     <rules_level>3</rules_level>
     <era>1</era>
-    <productionera>5</productionera>
+    <productionera>2</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Earthwerks Incorporated" location="Keystone">Mixed</techbase>
-    <year restricted="FALSE">3050</year>
+    <year restricted="FALSE">2832</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Earthwerks TDR" techbase="2">
         <type>Standard Structure</type>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Inquisitor" model="ITW-80 SecurityMech" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>613</battle_value>
+    <cost>1891576.2499999998</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>6</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Irian Technologies, Ltd. (SecurityMech Division)" location="Irian">Inner Sphere</techbase>
+    <year restricted="FALSE">3062</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="ITW Heavy Industrial" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="175" manufacturer="ITW" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Irian HardCase" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>17</ct>
+        <ctr>4</ctr>
+        <lt>13</lt>
+        <ltr>3</ltr>
+        <rt>13</rt>
+        <rtr>3</rtr>
+        <la>10</la>
+        <ra>10</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Inquisitor ITW-80 SecurityMech 35t, 5/8/0, Std FE, Ind; 7.0T/94% Armor; 10 SHS; 1 SrchLt, 1 CommEqp, 1 ERML, 2 MG, 1 SRM4</info>
+        <battleforce pv="6" wt="1" mv="5" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="3" abilities="SRCH, SRCH, ES" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="10">CT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Voelkers 200">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Irian Weapon Works">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Communications Equipment</name>
+            <type>equipment</type>
+            <tons>2.0</tons>
+            <location index="1">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Diverse Optics">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Cowl</Name>
+                <Cost>4</Cost>
+                <Description>BattleMechs like the Cyclops have been outfitted with a protective cowl that provides an additional 3 points of head armor against all attacks except those that originate along the row of hexes directly infront of the cowled `Mech.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Bad Reputation</Name>
+                <Cost>1</Cost>
+                <Description>While perfectly sound, this unit type has acquired an unwarrented bad reputation. As a result, it is worth only half the normal resale value. Note that when buying this unit, players must still pay the normal value.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Cramped Cockpit</Name>
+                <Cost>2</Cost>
+                <Description>The Unit receives a +1 Piloting Skill Roll modifier. This quirk cannot be applied to Units with a Small Cockpit.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Difficult Ejection</Name>
+                <Cost>1</Cost>
+                <Description>If a MechWarrior or pilot fails a Piloting Skill Roll when ejecting, he or she suffers from an additional point of damage (this is in addition to the standard damage taken).</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>McCall Home-10 CommoRig</commsystem>
+        <tandtsystem>ITW Targetech AFC</tandtsystem>
+    </fluff>
+</mech>

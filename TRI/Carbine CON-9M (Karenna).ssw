@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Carbine" model="CON-9M (Karenna)" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>280</battle_value>
+    <cost>1068950.0</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Jake&apos;s DIscount Equipment Warehouse (refit only)" location="various">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bluth Industrial Magnum-9" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="90" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="HeavyWeave" techbase="2">
+        <type>Standard Armor</type>
+        <hd>7</hd>
+        <ct>7</ct>
+        <ctr>2</ctr>
+        <lt>4</lt>
+        <ltr>2</ltr>
+        <rt>4</rt>
+        <rtr>2</rtr>
+        <la>4</la>
+        <ra>4</ra>
+        <ll>6</ll>
+        <rl>6</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Carbine CON-9M (Karenna) 30t, 3/5/0, ICE, Ind; 3.0T/46% Armor; 1 SHS; 1 LftHst, 1 LAC5</info>
+        <battleforce pv="3" wt="1" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="3" abilities="SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Exposed Actuators</Name>
+                <Cost>1</Cost>
+                <Description>The actuators of some designs are poorly protected and more vulnerable to the effcts of Swarm and Leg attacks. The target numbers for such attacks reveive a -1 modifier.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>No Torso Twist</Name>
+                <Cost>2</Cost>
+                <Description>A `Mech with this quirk cannot torso twist</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Marconi 63-T</commsystem>
+        <tandtsystem>BUU AccuTrack 3000</tandtsystem>
+    </fluff>
+</mech>

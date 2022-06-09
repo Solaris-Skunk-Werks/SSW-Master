@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Piranha" model="5" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1132</battle_value>
+    <cost>5336740.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Manufacturing Plant SF-SPK1" location="CSF Poseidon">Clan</techbase>
+    <year restricted="FALSE">3140</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="6">LA</location>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="180" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>9</ct>
+        <ctr>3</ctr>
+        <lt>8</lt>
+        <ltr>2</ltr>
+        <rt>8</rt>
+        <rtr>2</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>7</ll>
+        <rl>7</rl>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 13</source>
+        <info>Piranha 5 20t, 9/14[18]/0, XLFE, ES; 3.5T/97% FF Armor; 10 DHS; 2 iHML, 12 MG, 1 ERSL</info>
+        <battleforce pv="11" wt="1" mv="11" s="5" m="3" l="0" e="0" ov="0" armor="2" internal="1" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="2">RT</location>
+            <location index="4">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>The Piranha never really had a market in the Inner Sphere until Zellbrigen Stables brought one to Solaris. After carving through ’Mechs twice its size in spectacular duels, the Piranha became a massive seller for Clan Sea Fox. The new Spina Khanate variant uses a supercharger to boost its speed, while upgraded heat sinks manage the increased load from the improved heavy lasers. Despite the Wolf Empire’s protests, Spina has been selling the new variant to anyone in the quadrant willing to put up the credits.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>“Businessman” Vincent Johnson: Clan Wolf’s occupation of Solaris VII was hard on Vincent Johnson. Though the Clan allowed tournaments to continue, they severely restricted the trade in ’Mech parts. For the owner of a ’Mech repair company servicing minor stables, this was a problem. For a clearing house specializing in black-market hardware, it was devastating. When Huntsman Stables offered to fund a heist of Zellbrigen Stables’s hangars, Johnson was desperate enough to accept. The omnishambles that followed saw Johnson racing a Zellbrigen Piranha through Cathay’s Chancellor’s Quarter with Zellbrigen Stables, Cathay Security, the Ninth Wolf Cavalry, and a dozen media vehicles in pursuit. Remarkably, Johnson managed to drop a Hermes and a Trebuchet, and then used the Piranha’s nimbleness to evade his pursuers in the Maze. With his accomplices captured at the scene, Johnson dropped off the grid and is believed to be hiding in the Lyran Commonwealth.</notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Heavy Forester" model="HFL-1 LoggerMech" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>433</battle_value>
+    <cost>1868174.9999999998</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Achernar IndustrialMechs, Brigadier Corporation (presumably)" location="Achernar (Achernar), Oliver (Brigadier)">Inner Sphere</techbase>
+    <year restricted="FALSE">2604</year>
+    <motive_type>Quad</motive_type>
+    <structure manufacturer="HS Universal QIM" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="180" manufacturer="Pitban" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="TRUE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex" techbase="2">
+        <type>Commercial Armor</type>
+        <hd>9</hd>
+        <ct>24</ct>
+        <ctr>7</ctr>
+        <lt>21</lt>
+        <ltr>5</ltr>
+        <rt>21</rt>
+        <rtr>5</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Heavy Forester HFL-1 LoggerMech 60t, 3/5/0, ICE, Ind Quad; 6.5T/72% Cmrcl Armor; 0 SHS; 2 StndrdCrgo, 4 SrchLt, 2 LftHst, 2 ChnSw</info>
+        <battleforce pv="4" wt="3" mv="3" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="5" abilities="SRCH, MEL, SAW, ENE, SRCH, EE, ES" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="4">RLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Searchlight</name>
+            <type>equipment</type>
+            <location index="4">RRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="4">FRL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Searchlight</name>
+            <type>equipment</type>
+            <location index="4">FLL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Chainsaw</name>
+            <type>physical</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Chainsaw</name>
+            <type>physical</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Lift Hoist</name>
+            <type>equipment</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>2.0</tons>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>2.0</tons>
+            <location index="8">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Achernar GEO-11 (Achernar), Garret 500A (Brigadier)</commsystem>
+        <tandtsystem>Garret D2j (typical)</tandtsystem>
+    </fluff>
+</mech>

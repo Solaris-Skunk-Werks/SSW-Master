@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Huntsman (Nobori-nin)" model="" tons="50" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Huntsman (Nobori-nin)" model="" tons="50" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>1.2532000000000002E7</cost>
     <rules_level>1</rules_level>

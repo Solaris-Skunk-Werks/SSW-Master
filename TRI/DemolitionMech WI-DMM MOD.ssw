@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="DemolitionMech" model="WI-DMM MOD" tons="35" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>444</battle_value>
+    <cost>1525674.9999999998</cost>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3134</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="105" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fuel-Cell Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Industrial Armor</type>
+        <hd>8</hd>
+        <ct>10</ct>
+        <ctr>5</ctr>
+        <lt>8</lt>
+        <ltr>5</ltr>
+        <rt>8</rt>
+        <rtr>5</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>DemolitionMech WI-DMM MOD 35t, 3/5/0, FCE, Ind; 8.0T/71% Ind. Armor; 4 SHS; 1 ML, 1 WrkBll, 2 MSGR</info>
+        <battleforce pv="4" wt="1" mv="3" s="1" m="1" l="0" e="0" ov="0" armor="3" internal="3" abilities="MEL, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="4" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Wrecking Ball</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Magshot Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Magshot Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

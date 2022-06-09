@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Night Gyr" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Night Gyr" model="" tons="75" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>2.053728125E7</cost>
+    <cost>2.116040625E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -66,7 +66,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  Prime 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 20 DHS; 1 UAC/10, 3 MPL, 2 ERPPC</info>
         <battleforce pv="28" wt="3" mv="4j" s="6" m="6" l="4" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -129,7 +129,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  A 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 16 DHS; 3 MPL, 2 SSRM6, 1 LPL, 1 UAC20</info>
         <battleforce pv="27" wt="3" mv="4j" s="6" m="6" l="1" e="0" ov="3" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -203,7 +203,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  B 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 2 GR, 2 LB2</info>
         <battleforce pv="21" wt="3" mv="4j" s="3" m="4" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -255,7 +255,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  C 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 18 DHS; 2 ERLL, 2 ERML, 3 UAC2, TC</info>
         <battleforce pv="25" wt="3" mv="4j" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -326,7 +326,7 @@
     <loadout name="D" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Night Gyr  D 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 1 MPL, 4 LRM20, 1 LPL</info>
         <battleforce pv="29" wt="3" mv="4j" s="5" m="5" l="4" e="0" ov="2" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 3" />
@@ -398,7 +398,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Night Gyr  E 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 18 DHS; 1 SRM6, 6 MPL, 1 ATM6, 2 LPL</info>
         <battleforce pv="27" wt="3" mv="4j" s="7" m="6" l="2" e="0" ov="3" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -484,7 +484,7 @@
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3058Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Night Gyr  H 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 17 DHS; 1 ECM, 1 UAC/10, 1 GR, 1 MPL, 1 HLL</info>
         <battleforce pv="24" wt="3" mv="4j" s="6" m="6" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA" />
@@ -547,9 +547,9 @@
         </equipment>
     </loadout>
     <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3058Uu-C</source>
+        <source>RGiC 22</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Night Gyr  F 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 1 ECM, 1 HAG20, 2 ERML, 1 HAG30, TC</info>
         <battleforce pv="30" wt="3" mv="4j" s="6" m="5" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, FLK 4/3/3" />
@@ -623,6 +623,218 @@
             <location index="2">LT</location>
         </equipment>
     </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3144</loadout_year>
+        <info>Night Gyr  G 75t, 4/6[8]/4, XLFE, ES; 11.5T/95% FF Armor; 16 DHS; 3 ERFlmr, 2 LB5, 2 ERPPC</info>
+        <battleforce pv="31" wt="3" mv="5/4j" s="2" m="2" l="2" e="0" ov="2" armor="7" internal="4" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA, FLK 0/0/0" />
+        <battle_value>3069</battle_value>
+        <cost>2.791134375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ER Flamer</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 5-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Night Gyr  T 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 17 DHS; 2 ERPPC, 3 MPL, 1 LB20</info>
+        <battleforce pv="28" wt="3" mv="4j" s="5" m="5" l="3" e="0" ov="2" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battle_value>2767</battle_value>
+        <cost>2.116040625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LA</location>
+            <location index="2">LA</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="1">RT</splitlocation>
+            <splitlocation index="2" number="8">RA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 22</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3074</loadout_year>
+        <info>Night Gyr  X 75t, 4/6/4, XLFE, ES; 11.5T/95% FF Armor; 12 DHS; 2 SLRM10, 2 RAC5, 1 McPL</info>
+        <battleforce pv="28" wt="3" mv="4j" s="6" m="6" l="6" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2781</battle_value>
+        <cost>2.09504375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/5</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-10</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-10</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/5</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-10</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -631,6 +843,13 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
+        <quirks>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="true" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="true" isvariable="false">
+                <Name>Difficult to Maintain</Name>
+                <Cost>1</Cost>
+                <Description>All repair and replacement rolls made for this unit receive a +1 target number modifier</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

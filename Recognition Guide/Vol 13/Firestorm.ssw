@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Firestorm" model="" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2330</battle_value>
+    <cost>1.135975E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Clan Protectorate Arms" location="Asellus Australis">Mixed</techbase>
+    <year restricted="FALSE">3144</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Type 79-50" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="6">RA</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+    </structure>
+    <engine rating="250" manufacturer="Consolidated" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="1">
+        <type>MASC</type>
+        <location index="8">LT</location>
+    </enhancement>
+    <armor manufacturer="Compound H17" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>24</ct>
+        <ctr>8</ctr>
+        <lt>18</lt>
+        <ltr>6</ltr>
+        <rt>18</rt>
+        <rtr>6</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 13</source>
+        <info>Firestorm 50t, 5/8[10]/7 MASC, XLFE, ES; 9.0T/100% FF Armor; 12 DHS; 1 PR, 1 Flmr, 1 PC, 2 ERML, 1 McPL</info>
+        <battleforce pv="23" wt="2" mv="6/7j" s="4" m="3" l="1" e="0" ov="1" armor="6" internal="3" abilities="ENE, HT2, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="7">
+            <type>Improved Jump Jet</type>
+            <location index="2">LT</location>
+            <location index="10">CT</location>
+            <location index="2">RT</location>
+            <location index="4">LT</location>
+            <location index="4">RT</location>
+            <location index="6">LT</location>
+            <location index="6">RT</location>
+        </jumpjets>
+        <heatsinks number="12" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Series 2NC">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 2NC">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 3c">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="DuPont Ultra PM">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Zeta-series X">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>The Firestorm came about by circumstance in the early 3140s. Combat projections made it clear that the new Wolf Empire’s considerable industrial base would struggle to recover from the Wolves’ mass exodus, and was incapable of replenishing their touman at a sufficient rate for many years. Situated in the bordering Clan Protectorate, Spina Khanate encouraged the Wolves to use them as a resource for their mutual benefit.:br::tab:One active Spina project involved the creation of a new OmniMech, based on upscaling their reintroduced Shadow Cat to 50 tons. The process was far from complete, yet far enough along that a BattleMech could be created using one of the planned configurations. The team— in cooperation with Wolf Clan officers tasked with pacifying the Empire—settled on an incendiary configuration. They determined that such a capability was absent from the touman. OmniMechs could be reconfigured quickly into serviceable incendiary assets, but having some available in significant numbers would ensure that such tactics could be deployed without even the relatively minor delay of a pod swap. Ostensibly a second-line ’Mech, the Firestorm accomplishes its mission by threat or by force, saving frontline OmniMechs from solahma duties.</overview>
+        <capabilities>The Firestorm retains the overall paradigm of the Shadow Cat. It focuses on modern technologies to provide high mobility, while using a single main weapon backed up with several supporting ones. The original ’Mech was resized to fifty tons because of the availability of 250 XL engines, and to accommodate a plasma rifle. Its paired plasma weapons are extremely effective against typical Inner Sphere infantry and vehicle formations. Additionally, such weapons are adept at frustrating enemies that rely on heat-balanced triple-strength myomers or that otherwise tend toward physical combat.</capabilities>
+        <battlehistory>Though it was a bespoke creation for a customer, the Clan Protectorate military realized that they had at their disposal a convenient supplement to their Shadow Cats and co-opted a large number of the initial Firestorm production runs intended for the Wolf Empire. In reaction, a Trinary from the Eighth Wolf Cavalry mounted a punitive raid on Asellus Australis in early 3144. Since the Eighth had already received some Firestorms, this resulted in a duel between two of the new ’Mechs. Outside the city of Broome, in the famed petrified forests, MechWarrior Ron’s challenge was met by MechWarrior Marx of the First Nova Cat Provisionals. Both Firestorms immediately flung plasma barrages in each other’s paths. The hellish heat from firing the weapons themselves combined with the equally hellish temperatures lathered on the armored shells, but whenever one of the ’Mechs threatened to shut down, its pilot would jump away. They would stay behind cover long enough to cool off, but not long enough to bring dishonor on their units. The ineffective but visually spectacular duel lasted for what seemed hours, miraculously causing little damage to the fossilized trees. A strange sense of kinship formed between the opposing Star Captains, Russel and Mael. They agreed on a very amicable hegira, while also concluding a special sale of a Star of Firestorms on the side.:br::tab:Though not deployed in the numbers the Wolves had desired, the Firestorm did prove pivotal in the conquest of Alhena. In one instance, a pair of Firestorms of the 103rd Wolf Guard Strikers, utilizing plasma weaponry and hit-and-run tactics, took out nearly a battalion of VIII Triarii Protectors tanks and infantry. The MechWarriors credited an Elemental Point that kept them informed about the VIII’s movements from a hidden position, but the feat was impressive enough to be brought to Khan Ward’s attention.:br::tab:Though atypically limited in proliferation for a Sea Fox design, the Firestorm’s future in both the Protectorate and the Empire looks bright.</battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Star Captain Aethelred Bouthiaux: Aethelred Bouthiaux deployed in his Firestorm when Clan Wolf attacked Skye. It was his ’Mech’s plasma weapons that collapsed the building that trapped Galaxy Commander Noritomo Helmer’s BattleMech, a pivotal moment in the campaign for that world. He resents mention of that moment, as he prefers to be known for the three Falcon ’Mechs he defeated that day.:br:Star Captain Ryota Katayama: Formerly of Clan Nova Cat, Ryota Katayama escaped his Clan’s annihilation and headed for Clan Protectorate space. He made it as far as Adhafera where he found himself stranded in the newlyfounded Wolf Empire. Challenging the local garrison to a Trial of Position for the rank of MechWarrior, Ryota made short work of an aging Conjurer with his Shadow Cat, before Star Colonel Aubrey in turn dispatched him and declared him abtakha. He has distinguished himself in service to the Empire, quickly advancing to Star Captain. With his experience in piloting the Shadow Cat, Ryota easily adapted to the Firestorm, and his recent victories have reinvigorated his career. Many see a Cluster command in his near future.</notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Narrow/Low Profile</Name>
+                <Cost>2</Cost>
+                <Description>If the Margin of Success for a weapon attack made against a Narrow/low profile Unit is 0 or 1, the hit is considered a Glancing Blow.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Model KZ Boosters</jumpjet_model>
+        <commsystem>JNE Integrated</commsystem>
+        <tandtsystem>Build 4 CAT TTS</tandtsystem>
+    </fluff>
+</mech>

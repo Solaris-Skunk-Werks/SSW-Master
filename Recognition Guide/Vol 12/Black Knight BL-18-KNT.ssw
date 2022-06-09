@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Black Knight" model="BL-18-KNT" tons="75" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2585</battle_value>
+    <cost>1.367275E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kong Interstellar Corporation" location="Connaught">Mixed</techbase>
+    <year restricted="FALSE">3130</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Composite</type>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>29</ct>
+        <ctr>10</ctr>
+        <lt>24</lt>
+        <ltr>8</ltr>
+        <rt>24</rt>
+        <rtr>8</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 12</source>
+        <info>Black Knight BL-18-KNT 75t, 4/6/0, LFE, E-Comp; 13.0T/90% Armor; 20 DHS; 2 ERLL, 1 SPL, 4 ERML, 1 BAP, 1 ERPPC, TC</info>
+        <battleforce pv="26" wt="3" mv="4" s="5" m="5" l="3" e="0" ov="3" armor="7" internal="2" abilities="PRB, RCN, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="20" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="6">LT</location>
+            <location index="2">RT</location>
+            <location index="4">LA</location>
+            <location index="4">RA</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview>Thanks to a reciprocal licensing agreement with Robinson Standard BattleWorks, Kong Interstellar received the plans to the BLK-NT series, allowing them to produce the ’Mech for the Republic. Not content to just manufacture the Robinson version, they applied the technology to their own classic Black Knight, resulting in the -18-KNT. With the sundering of the Republic, Kong found themselves in need of a new supply of Clan weaponry and formed a trade agreement with our Clan to supply their needs. Using an endocomposite frame and light engine, the -18-KNT updates the -6-KNT with Clan weaponry and heatsinks while adding a targeting computer.</overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables>Lieutenant JG Duarte Veiga: Known as “Dutty” to friends and foes alike, Veiga is as passionate about fine food as he is his posting in the Third Marik Protectors, the Imperators. Descended from the Tenth and Eighteenth Marik Militia regiments, the Third offer their services to protect independent worlds of the Free Worlds League, only accepting defensive contacts and charging enough to cover their expenses. Covering worlds sandwiched between the League and the Duchy of Andurien, the Imperators have been very busy fending off pirates and raids from numerous neighboring powers over the last few decades.:br::br::tab:With a palate a noble would be jealous of, but lacking one’s deep pockets, Veiga is able to indulge his foodie passion on the back of each successful defense thanks to grateful locals. He claims to maintain his slim physique from the workout he receives from frequent ’Mech combat, which drives his Black Knight’s cockpit to sauna-like temperatures despite its advanced cooling system.</notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

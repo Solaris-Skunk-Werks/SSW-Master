@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="MuckRaker" model="GMMM-2M-B MiningMech MOD" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>815</battle_value>
+    <cost>2286879.1666666665</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Field Refit (Original Non-MOD: General Motors)" location="Various (originall El Dorado, New Valencia, Talcott)">Inner Sphere</techbase>
+    <year restricted="FALSE">3133</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Specialheavy" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="140" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="Durallex" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>9</ctr>
+        <lt>20</lt>
+        <ltr>8</ltr>
+        <rt>20</rt>
+        <rtr>8</rtr>
+        <la>8</la>
+        <ra>20</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>MuckRaker GMMM-2M-B MiningMech MOD 70t, 2/3/0, ICE, Ind; 12.0T/88% Armor; 9 SHS; 2 HMG, 3 MML7</info>
+        <battleforce pv="8" wt="3" mv="2" s="3" m="2" l="2" e="0" ov="0" armor="6" internal="6" abilities="SRCH, EE, IF 1" />
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="9" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="2">LT</location>
+            <location index="0">LT</location>
+            <location index="1">LT</location>
+            <location index="3">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>No Cooling Jacket (MRM20)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>No Cooling Jacket</Name>
+                <Cost>2</Cost>
+                <Description>A weapon&apos;s design excludes the use of a cooling jacket. As a result, it generates 2 extra points of heat when fired.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Overlook J9</commsystem>
+        <tandtsystem>Kallon Lock-On</tandtsystem>
+    </fluff>
+</mech>

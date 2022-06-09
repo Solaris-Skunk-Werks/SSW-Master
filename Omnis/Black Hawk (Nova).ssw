@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Black Hawk (Nova)" model="" tons="50" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Black Hawk (Nova)" model="" tons="50" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.1586250000000002E7</cost>
+    <cost>1.5378812500000002E7</cost>
     <rules_level>1</rules_level>
     <era>1</era>
     <productionera>0</productionera>
@@ -304,7 +304,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3054</loadout_year>
         <info>Black Hawk (Nova)  E 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 3 ERML, 1 ATM12</info>
         <battleforce pv="21" wt="2" mv="5j" s="6" m="5" l="1" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -366,7 +366,7 @@
     <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Black Hawk (Nova)  F 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 3 ERML, 1 HAG20</info>
         <battleforce pv="20" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
@@ -410,10 +410,87 @@
             <location index="10">RA</location>
         </equipment>
     </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 14</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3092</loadout_year>
+        <info>Black Hawk (Nova)  G 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 2 iHML, 7 ERSL, 1 PrmAC8, TC</info>
+        <battleforce pv="18" wt="2" mv="5j" s="7" m="7" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1822</battle_value>
+        <cost>1.1117443750000002E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/8</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/8</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/8</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Black Hawk (Nova)  H 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 20 DHS; 10 HML</info>
         <battleforce pv="18" wt="2" mv="5j" s="6" m="6" l="0" e="0" ov="4" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -481,10 +558,254 @@
             <location index="6">LA</location>
         </equipment>
     </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3145 NTNU</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3094</loadout_year>
+        <info>Black Hawk (Nova)  I 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 19 DHS; 5 iHML, 1 ERPPC</info>
+        <battleforce pv="22" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="2" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2224</battle_value>
+        <cost>1.1835625000000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="19" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="6">RT</location>
+            <location index="2">RA</location>
+            <location index="8">RT</location>
+            <location index="6">LT</location>
+            <location index="8">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RgiC 14</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3128</loadout_year>
+        <info>Black Hawk (Nova)  J 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 ERPPC, 1 SLRM15</info>
+        <battleforce pv="23" wt="2" mv="5j" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2295</battle_value>
+        <cost>1.1618125000000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak LRM-15</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak LRM-15</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="K" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 14</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3134</loadout_year>
+        <info>Black Hawk (Nova)  K 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 ERLL, 2 ERML, 1 RAC2</info>
+        <battleforce pv="19" wt="2" mv="5j" s="4" m="4" l="2" e="0" ov="0" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1932</battle_value>
+        <cost>1.0831937500000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="L" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 14</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3134</loadout_year>
+        <info>Black Hawk (Nova)  L 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 2 iHLL, 2 PC</info>
+        <battleforce pv="22" wt="2" mv="5j" s="3" m="3" l="2" e="0" ov="3" armor="5" internal="3" abilities="OMNI, ENE, HT2, SRCH, ES, SEAL, SOA" />
+        <battle_value>2177</battle_value>
+        <cost>1.2637750000000002E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 14</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3140</loadout_year>
+        <info>Black Hawk (Nova)  R 50t, 5/8[10]/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 4 REML, 6 APGR</info>
+        <battleforce pv="16" wt="2" mv="6/5j" s="4" m="4" l="0" e="0" ov="1" armor="5" internal="3" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1597</battle_value>
+        <cost>1.5378812500000002E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium R-e Laser</name>
+            <type>energy</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium R-e Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium R-e Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium R-e Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
     <loadout name="S" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3050Uu-C</source>
         <loadout_era>1</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Black Hawk (Nova)  S 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 1 BAP, 4 MG, 6 MPL, 1 AMS</info>
         <battleforce pv="21" wt="2" mv="5j" s="6" m="5" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, AMS, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
@@ -563,10 +884,102 @@
             <location index="8">RT</location>
         </equipment>
     </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 14</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Black Hawk (Nova)  T 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 12 MCL</info>
+        <battleforce pv="16" wt="2" mv="5j" s="6" m="6" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1579</battle_value>
+        <cost>1.0723750000000002E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="9">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location index="11">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location index="11">RA</location>
+        </equipment>
+    </loadout>
     <loadout name="U" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3085u-ON</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Black Hawk (Nova)  U 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 14 DHS; 8 MG, 1 Swrd, 3 McPL, 1 ECM, 1 LAP, 1 HrJl, 3 HML, 1 SptWeld, 2 LqdCrgo</info>
         <battleforce pv="14" wt="2" mv="5j" s="6" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="OMNI, ECM, LPRB, RCN, MEL, CASE, SRCH, ES, SEAL, SOA" />
@@ -688,12 +1101,12 @@
             <location index="11">CT</location>
         </equipment>
     </loadout>
-    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
+        <loadout_productionera>9</loadout_productionera>
         <loadout_year>3137</loadout_year>
-        <info>Black Hawk (Nova)  T 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 18 DHS; 6 ERML, 1 TSEMP</info>
+        <info>Black Hawk (Nova)  X 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 18 DHS; 6 ERML, 1 TSEMP</info>
         <battleforce pv="28" wt="2" mv="5j" s="4" m="4" l="0" e="0" ov="1" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
         <battle_value>2761</battle_value>
@@ -741,56 +1154,6 @@
             <name manufacturer="">(IS) TSEMP</name>
             <type>energy</type>
             <location index="3">LA</location>
-        </equipment>
-    </loadout>
-    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
-        <info>Black Hawk (Nova)  I 50t, 5/8/5, XLFE, Std; 10.0T/95% Armor; 19 DHS; 5 iHML, 1 ERPPC</info>
-        <battleforce pv="22" wt="2" mv="5j" s="5" m="5" l="2" e="0" ov="2" armor="5" internal="3" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>2224</battle_value>
-        <cost>1.1835625000000002E7</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="19" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="6">RT</location>
-            <location index="2">RA</location>
-            <location index="8">RT</location>
-            <location index="6">LT</location>
-            <location index="8">LT</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="2">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="6">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="10">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
-            <type>energy</type>
-            <location index="4">RA</location>
         </equipment>
     </loadout>
     <fluff>

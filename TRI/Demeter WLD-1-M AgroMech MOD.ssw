@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Demeter" model="WLD-1-M AgroMech MOD" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>332</battle_value>
+    <cost>1296912.5</cost>
+    <rules_level>1</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="DiNapoli Industries, Wunderland Enterprises" location="Ankaa (DiNapoli), Ozawa (Wunderland)">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="IM Medium Deluxe" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="120" manufacturer="GM Classic" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial w/ Adv. FC</type>
+    </cockpit>
+    <armor manufacturer="LaborHeavy/1 or StarSlab/3" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>10</ct>
+        <ctr>4</ctr>
+        <lt>10</lt>
+        <ltr>4</ltr>
+        <rt>10</rt>
+        <rtr>4</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>10</ll>
+        <rl>10</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>Demeter WLD-1-M AgroMech MOD 30t, 4/6/0, ICE, Ind; 5.0T/76% Armor; 2 SHS; 1 Vflmr, 1 Cmbn</info>
+        <battleforce pv="3" wt="1" mv="4" s="1" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="MEL, ENE, SRCH, EE" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="2" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Olympian">Vehicle Flamer</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="DiNapoli sT4">Combine</name>
+            <type>physical</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Design Quirk: Accurate Weapon (Vehicle Flamer), Exposed Weapon Linkage (Vehicle Flamer).</additional>
+        <quirks>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="true" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Exposed Weapon Linkage</Name>
+                <Cost>2</Cost>
+                <Description>Some designs have the mechanics of a weapon dangerously exposed. When a location that holds such a weapon is hit, roll 2D6, on a roll of 10+, that weapon is unable to fire for the remainder of the game. This quirk can only be taken only once and only for a single weapon type, and effects all weapons of that type on the Unit (for example, all AC20s, all ER PPCs).</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Wunderland XL-4</commsystem>
+        <tandtsystem>Wunderland XL-4</tandtsystem>
+    </fluff>
+</mech>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Nova Cat" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Nova Cat" model="" tons="70" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.7672916666666668E7</cost>
+    <cost>2.3374291666666668E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -52,7 +52,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Nova Cat  Prime 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 25 DHS; 3 ERLL, 2 ERPPC</info>
         <battleforce pv="25" wt="3" mv="4" s="5" m="5" l="5" e="0" ov="1" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -106,7 +106,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Nova Cat  A 70t, 4/6/4, XLFE, ES; 13.5T/100% Armor; 25 DHS; 4 ERLL, TC</info>
         <battleforce pv="26" wt="3" mv="4j" s="5" m="5" l="5" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -167,7 +167,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Nova Cat  B 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 16 DHS; 6 LRM15, 2 ERML</info>
         <battleforce pv="25" wt="3" mv="4" s="6" m="6" l="5" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 5/5/5, IF 5" />
@@ -277,7 +277,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Nova Cat  C 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 12 DHS; 1 LB5, 2 UAC5, 2 LPL</info>
         <battleforce pv="19" wt="3" mv="4" s="4" m="4" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -338,7 +338,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3059</loadout_year>
         <info>Nova Cat  D 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 20 DHS; 3 HLL, 1 LB10, TC</info>
         <battleforce pv="21" wt="3" mv="4" s="5" m="5" l="1" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
@@ -397,7 +397,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3064</loadout_year>
         <info>Nova Cat  E 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 15 DHS; 4 ATM9, 1 LPL</info>
         <battleforce pv="22" wt="3" mv="4" s="9" m="7" l="4" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -481,7 +481,7 @@
     <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Nova Cat  F 70t, 4/6/6, XLFE, ES; 13.5T/100% Armor; 14 DHS; 1 ECM, 3 MPL, 2 LPL, TC</info>
         <battleforce pv="27" wt="3" mv="4/6j" s="5" m="5" l="3" e="0" ov="0" armor="7" internal="4" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
@@ -543,7 +543,7 @@
     <loadout name="G" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3060u</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3072</loadout_year>
         <info>Nova Cat  G 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 14 DHS; 1 ECM, 1 ERLL, 8 APGR, 3 LRM20, TC</info>
         <battleforce pv="25" wt="3" mv="4" s="7" m="7" l="5" e="0" ov="2" armor="7" internal="4" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 4" />
@@ -660,9 +660,9 @@
     </loadout>
     <loadout name="H" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
+        <loadout_era>2</loadout_era>
         <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
+        <loadout_year>3099</loadout_year>
         <info>Nova Cat  H 70t, 4/6[8]/0, XLFE, ES; 13.5T/100% Armor; 19 DHS; 2 iHLL, 3 CoolPd, 1 MPL, 1 LB20</info>
         <battleforce pv="25" wt="3" mv="5" s="5" m="5" l="0" e="0" ov="1" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <battle_value>2452</battle_value>
@@ -744,8 +744,8 @@
     <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
         <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3132</loadout_year>
         <info>Nova Cat  I 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 21 DHS; 2 iHLL, 4 MPL, 2 TSEMP</info>
         <battleforce pv="29" wt="3" mv="4" s="4" m="4" l="0" e="0" ov="3" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
         <techbase>Mixed</techbase>
@@ -807,6 +807,115 @@
             <location index="6">RA</location>
         </equipment>
     </loadout>
+    <loadout name="M" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 23</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Nova Cat  M 70t, 4/6/0, XLFE, ES; 13.5T/100% Armor; 11 DHS; 1 SSRM6, 2 LB20, 1 LPL</info>
+        <battleforce pv="20" wt="3" mv="4" s="5" m="5" l="2" e="0" ov="0" armor="7" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/0" />
+        <battle_value>2024</battle_value>
+        <cost>1.8495791666666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 23</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Nova Cat  T 70t, 4/6[8]/0, XLFE, ES; 13.5T/100% Armor; 18 DHS; 2 ERPPC, 3 LPL</info>
+        <battleforce pv="29" wt="3" mv="5" s="4" m="4" l="4" e="0" ov="3" armor="7" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2855</battle_value>
+        <cost>2.3374291666666668E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="2">RA</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -815,6 +924,18 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="true" isvariable="false">
+                <Name>Extended Torso Twist</Name>
+                <Cost>3</Cost>
+                <Description>When torso twisting, the `Mech can change its facing by one or two hexsides. Quad â€™Mechs normally cannot torso twist at all. However, a quad â€™Mech with this quirk can perform a normal (not extended) torso twist.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Exposed Actuators</Name>
+                <Cost>1</Cost>
+                <Description>The actuators of some designs are poorly protected and more vulnerable to the effcts of Swarm and Leg attacks. The target numbers for such attacks reveive a -1 modifier.</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

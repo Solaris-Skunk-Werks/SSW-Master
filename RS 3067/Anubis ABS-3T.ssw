@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Anubis" model="ABS-3T" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="I:\Battletech\MegaMek\Skunkworks\Fluf Picture\Anubis ABS-3L.png">
+<mech name="Anubis" model="ABS-3T" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1150</battle_value>
     <cost>5440175.0</cost>

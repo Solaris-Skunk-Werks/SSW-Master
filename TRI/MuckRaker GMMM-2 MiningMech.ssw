@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="MuckRaker" model="GMMM-2 MiningMech" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>709</battle_value>
+    <cost>1704729.1666666667</cost>
+    <rules_level>1</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>IndustrialMech</mech_type>
+    <techbase manufacturer="Field Refit (Original Non-MOD: General Motors)" location="Various (originall El Dorado, New Valencia, Talcott)">Inner Sphere</techbase>
+    <year restricted="FALSE">2737</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GM Specialheavy" techbase="2">
+        <type>Industrial Structure</type>
+    </structure>
+    <engine rating="140" manufacturer="GM" lsstart="-1" rsstart="-1" techbase="2">I.C.E. Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Industrial Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Durallex" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>30</ct>
+        <ctr>9</ctr>
+        <lt>20</lt>
+        <ltr>8</ltr>
+        <rt>20</rt>
+        <rtr>8</rtr>
+        <la>8</la>
+        <ra>20</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TRI</source>
+        <info>MuckRaker GMMM-2 MiningMech 70t, 2/3/0, ICE, Ind; 12.0T/88% Armor; 0 SHS; 2 StndrdCrgo, 1 BckHo</info>
+        <battleforce pv="7" wt="3" mv="2" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="6" abilities="MEL, ENE, SRCH, EE" />
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Backhoe</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>11.0</tons>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard</name>
+            <type>equipment</type>
+            <tons>11.0</tons>
+            <location index="0">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>No Cooling Jacket (MRM20)</additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="true" jumpship="true" warship="true" spacestation="true" protomech="false" isvariable="false">
+                <Name>No Cooling Jacket</Name>
+                <Cost>2</Cost>
+                <Description>A weapon&apos;s design excludes the use of a cooling jacket. As a result, it generates 2 extra points of heat when fired.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Overlook J9</commsystem>
+        <tandtsystem>Kallon Lock-On</tandtsystem>
+    </fluff>
+</mech>

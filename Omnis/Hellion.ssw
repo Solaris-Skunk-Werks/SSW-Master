@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Hellion" model="" tons="30" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Hellion" model="" tons="30" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>6547925.0</cost>
+    <cost>7616800.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -277,9 +277,9 @@
         </equipment>
     </loadout>
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RGiC 20</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3068</loadout_year>
         <info>Hellion  D 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 1 LRM15, 1 ERLL, 2 HML</info>
         <battleforce pv="18" wt="1" mv="9" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -319,9 +319,9 @@
         </equipment>
     </loadout>
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RGiC 20</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3070</loadout_year>
         <info>Hellion  E 30t, 7/11[14]/5 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 4 Flmr, 1 ECM, 2 APGR, 1 SRM4, 2 HML</info>
         <battleforce pv="13" wt="1" mv="9/3j" s="3" m="2" l="0" e="0" ov="2" armor="4" internal="2" abilities="OMNI, ECM, CASE, HT1, SRCH, ES, SEAL, SOA" />
@@ -399,9 +399,9 @@
         </equipment>
     </loadout>
     <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3067u</source>
+        <source>RGiC 20</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3077</loadout_year>
         <info>Hellion  F 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 1 ERLL, 1 ERML, 1 ERFlmr, 1 BAP, 1 SRM6, 2 APGR</info>
         <battleforce pv="16" wt="1" mv="9" s="3" m="3" l="1" e="0" ov="1" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
@@ -457,9 +457,9 @@
     </loadout>
     <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3145 NTNU</source>
-        <loadout_era>3</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3145</loadout_year>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3119</loadout_year>
         <info>Hellion  G 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 11 DHS; 3 iHML, 1 TSEMPOS, 1 LRM10</info>
         <battleforce pv="16" wt="1" mv="9" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <techbase>Mixed</techbase>
@@ -500,6 +500,169 @@
             <name manufacturer="Unknown">(CL) @ LRM-10</name>
             <type>ammunition</type>
             <location index="4">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="P" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3124</loadout_year>
+        <info>Hellion  P 30t, 7/11[18]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 11 DHS; 1 ECM, 3 iHML, 4 ERMcL, 8 McPL, 1 TAG</info>
+        <battleforce pv="17" wt="1" mv="11" s="5" m="3" l="0" e="0" ov="1" armor="4" internal="2" abilities="OMNI, TAG, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1685</battle_value>
+        <cost>1.04143E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Micro Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 20</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Hellion  T 30t, 7/11[14]/0 MASC, XLFE, ES; 5.5T/100% FF Armor; 10 DHS; 3 SSRM2iOS, 1 ERSL, 1 LRM10, 3 MPL</info>
+        <battleforce pv="16" wt="1" mv="9" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1637</battle_value>
+        <cost>6188831.25</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
         </equipment>
     </loadout>
     <fluff>

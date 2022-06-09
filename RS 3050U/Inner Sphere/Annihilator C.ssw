@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Annihilator" model="C" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Annihilator.gif">
+<mech name="Annihilator" model="C" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2520</battle_value>
     <cost>1.158E7</cost>
