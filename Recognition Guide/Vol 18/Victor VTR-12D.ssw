@@ -7,7 +7,7 @@
     <era>3</era>
     <productionera>10</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="GM/Blackwell Corporation" location="New Valencia">Inner Sphere</techbase>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
@@ -110,12 +110,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>One of the few joint GM/Blackwell product lines salvaged after the Jihad, GM put the Victor back into production in the early 3080s. The current -12D variant utilizes the endo-steel frame and light engine of some predecessors. It also shares a number of components and weapons with the Templar III. A targeting computer improves the Gauss rifle’s accuracy, while a heavy-duty gyro and CASE II improve its durability. The simplicity of this variant enables it to be supplied as a refit kit for various earlier models.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Leftenant Chris “Noktoo” Tyranis: The First Kestrel Grenadiers achieved prominence in recent years, dealing with a series of threats since the Blackout. Most recently they took part in Task Force Perceval, rooting out the DCMS on former Draconis March worlds. Leftenant Tyranis and his lance have been at the heart of the action when raiding Franklin, Sakhara V, Le Blanc, and Clovis.:br::br::tab:This luck ended on Remagen in late 3148, when the Perceval forces were caught undergoing repairs by the Combine’s previously unknown Hikage regiment. The Kestrel Grenadiers were perilously short of ammunition and in poor repair, but they fought with a suicidal fury not seen since the defense of New Avalon. Fighting hand-to-hand at times, Tyranis and the Grenadiers kept the Kuritans at bay until the First Avalon Hussars came to the rescue. Wounded and with his ’Mech nearly destroyed, Tyranis’ raiding days are on hold while the Grenadiers rebuild.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>

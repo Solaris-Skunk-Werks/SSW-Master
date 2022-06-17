@@ -93,12 +93,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>Following the HPG blackout and the splintering of the Republic, TharHes Industries hastily reopened the Wolfhound line that had been destroyed during the Jihad. Based upon the WLF-5, albeit with TharHes’s original stylings, the -6S variant drops the MASC system and the entire weapons array. A large re-engineered laser is mounted in the right arm, with enhanced actuators to provide increased accuracy. As with the -3S, three ER medium lasers provide backup. A small X-pulse laser covers the rear. The Wolfhound is once again a match for the Combine’s Panther.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Captain Thomas Michaels: Little is known of Michaels’s past prior to his service with Gamma Regiment of Wolf’s Dragoons. His spurs suggest a Davion heritage, but his military records are sealed, perhaps indicating some form of forced discharge. Whatever his personal motivations, they have not interfered with his duty as the Dragoons rampaged across the Federated Suns.:br::br::tab:When his older Wolfhound was destroyed during the Draconis Reach campaign, he replaced it with a -6S instead of the Arc-Royal-built version. He appears to prefer the improved accuracy of the re-engineered laser, allowing him to remain mobile at all times and better able to dictate the range of engagement, despite a slower top speed than the WLF-5. This has served him well in numerous battles across his former homeland, none more so than on New Avalon itself. During Gamma’s running battles with the Second Robinson Rangers through the forests of the Dalban Mountains, he downed three Rangers ’Mechs, with assists on five more.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

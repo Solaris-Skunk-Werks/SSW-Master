@@ -110,12 +110,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>In and out of production for over 600 years, the Guillotine is a ’Mech with a long and storied career. Even wide usage by the Word of Blake could not diminish its legend. A mild evolution of the GLT-5M, the -7M boosts the Guillotine’s long-range firepower with a capacitor-boosted ER PPC backed-up by twin light PPCs. A pair of ER medium lasers and an ammo-efficient Streak SRM 6 round out the weaponry. Durability is enhanced with CASE II, which reputedly also corrects the intermittent missile arming problems that plagued the original system from its inception.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Captain Mattheo Orloff: A distant relative of the ruling Orloff family, Mattheo Orloff earned his commission in the First Orloff Grenadiers through his own efforts rather than via nepotism. During the Operation Triumvir attacks on Sophie’s World in August 3146, the Grenadiers stalemated the First Regulan Hussars for over two months before forcing their withdrawal. Orloff and his company were instrumental in this. He constantly used his Guillotine’s mobility and endurance to harass Regulan positions.:br::tab:Following the assassination of Captain-General Jessica Marik, the Orloff Grenadiers were among the first League troops to take the war to the Regulan Fiefs. The Grenadiers landed on Tiber, backed by elements of our own Clan’s Spina Khanate, and faced off against the now-defending First Regulan Hussars. The Hussars put up a stiff fight, but they were quickly pushed back to the Earthwerks-FWL facility in Umbria City. Orloff used the mountainous terrain to close the noose on the Regulans, jumping in and out of cover and sniping away at the Hussars. For his part in forcing the Regulans’ retreat, Orloff should soon be promoted to major.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>

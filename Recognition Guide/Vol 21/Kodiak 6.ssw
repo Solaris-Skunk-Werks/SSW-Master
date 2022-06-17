@@ -145,12 +145,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>The Kodiak II is an advanced, successful command ’Mech, though it never supplanted the original Kodiak as a close combat brawler. The Dominion has the infrastructure to produce both generations of the assault ’Mech at different facilities, and GKT debuted the newest iteration of the classic Kodiak in 3131. The Kodiak shows up whenever one of the Dominion’s big fire support ’Mechs needs something equally big to draw attention—and fire—away from it.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Star Captain Matthew Hall: Matthew Hall was an impressionable, young MechWarrior when he followed Isis Bekker and the 357th Assault Cluster to Vega. The Freeminder view on family proved too attractive in that faraway prefecture, and he soon made MechWarrior Emma his wife. Now a mature Star Captain, Hall leads from the front in his Kodiak while Emma provides tactical coordination from her Kodiak II. His Trinary has become known for its fraternity, even by Ghost Bear standards, where everyone including the technicians is considered a valued part of the family. :br::tab:Hall goes to great efforts to present his group of very public Freeminders in a positive light. The 357th suffered heavy losses taking Lambrecht in 3150. When the Cluster moved on to Dyev and found themselves facing only militia, Hall won the bid with his Trinary. The heavily outnumbered warriors ground their way through multiple battalions of militia, using the terrain to their advantage. With his techs maintaining a fast repair tempo, Hall cycled his ’Mechs in and out of battle, completing the operation without a single loss.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

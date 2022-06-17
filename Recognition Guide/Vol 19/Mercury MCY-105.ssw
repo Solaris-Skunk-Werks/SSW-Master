@@ -7,7 +7,7 @@
     <era>2</era>
     <productionera>8</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Skobel MechWorks" location="Terra">Inner Sphere</techbase>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">3092</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
@@ -93,12 +93,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>The MCY-105 Mercury is a redesign that avoids the notorious Myomer Acceleration Signal Circuitry-lock that has long hindered the scout. It uses a higher-rated XL engine to turn the ’Mech into a fast raider. The redesign was otherwise conservative due to its speed, favoring off-the-shelf weapons instead of pursuing a modern “Omni-Mercury” upgrade. While not an OmniMech, the MCY-105 remains easy to repair and modify, leading to countless field refits by Republican troops often involving assorted electronics in lieu of its mix of ER lasers.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Knight John Schneider: Schneider was a veteran scout in the Republic’s Eleventh Hastati Sentinels often assigned to intelligence operations. He was noted for his meditative martial art pursuits and popular BattleMech piloting classes. The exceptionally talented pilot could coax actions from BattleMechs to rival the best warriors in the Noisiel games. As part of the Second Army Group for Operation Shofar, he surprised the Third Falcon Velites on Lyons with his ’Mech’s speed and accurate fire. On Dieron, he assisted the headhunter strike that killed Tai-sa Gerald Nixon of the Fourth Dieron Regulars. On the defensive during the Falcon invasion of Thorin, Schneider carried out several raids on Falcon command and logistics centers until his Mercury ran afoul of some ER PPCs. Schneider managed to evade the Elementals sent to collect him and escaped into Thorin’s civilian population. His current whereabouts are unknown.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

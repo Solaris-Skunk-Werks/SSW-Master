@@ -7,7 +7,7 @@
     <era>3</era>
     <productionera>10</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Kallon Industries" location="Wernke">Inner Sphere</techbase>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
     <year restricted="FALSE">3142</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
@@ -97,13 +97,13 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>The ENF-5R is relatively low-tech compared to the Enforcer III. It can be constructed quickly and in large numbers by the reborn Kallon Industries lines following the loss of New Avalon. The LB 10-X is easily produced, while the large reengineered laser counters some of the newer armors of modern battlefields. Although slower than the Enforcer III, its light engine is more durable, and with the addition of CASE II the -5R can stay in the field longer. As with earlier models, the size of the head-mounted sensor pod varies, depending on which targeting system is installed.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>Chu-i Wyatt Rowan Laughlin: Laughlin is assigned to the Ryuken-hachi. The last decade has been tumultuous as the unit fought its way across the Federated Suns, culminating in the assault on New Avalon in mid-3146. Along with the Fifth Sword of Light and Second Genyosha, the Ryukenhachi pushed deep into AFFS lines, but the defenders put up a tenacious defense for months. Davion reinforcements required the re-assignment of Wolf’s Dragoons from defensive duties to swing the campaign in the Dragon’s favor.:br::br::tab:Unlike many, Laughlin sees no shame in the Dragoons’ assistance. He knows there is more than enough glory to go around. His Wolf Trap’s engine was destroyed during hard fighting against the First Avalon Hussars, with no easy replacement available. Laughlin thus claimed a new Enforcer, although he dislikes the slower ’Mech. The improved armor and jump jets make up for it being an inferior Davion product.</additional>
+        <additional></additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

@@ -153,12 +153,11 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>The Annihilator has long represented inexorable destruction in the minds of MechWarriors across the Inner Sphere. Their commitment to battle by Wolf’s Dragoons signifies the intention to destroy everything before them, with not a step back, in a ’Mech that couldn’t run from a fight even if it wanted to. It has long been said the best tactic against an Annihilator is simply to be somewhere else. The Dragoons upgraded the ’Mech in concert with Arc-Royal MechWorks prior to their contract with the Draconis Combine. They determined to make fighting it as punishing an experience as possible, at any range. The new ANH-5W is built around the same quartet of Gauss rifles as older Clan variants and the current Crucible. The Annihilator now lives up to its name more than ever.</overview>
-        <capabilities></capabilities>
+        <overview><capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>First Leutnant Roy von Jubb: Von Jubb originally piloted a Commando in a pro-Steiner freikorps within the disintegrating Republic of the Sphere. His recon lance was shattered by a Capellan raid on Vindemiatrix. The sole survivor had to be cut out of his downed ’Mech. When LCAF troops landed on-world to claim the planet for the Commonwealth, von Jubb struggled out of his hospital bed and enlisted. He was assigned to the Ninth Lyran Regulars and thrown into battle against not only the forces of House Marik, but also the might of the Wolf Empire. The awesome firepower of his new Annihilator ensured he was one of few MechWarriors still piloting a functioning ’Mech by end of the Clan offensive into the Commonwealth. He is technically a lance commander, though combat losses mean he leads a lance of one.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

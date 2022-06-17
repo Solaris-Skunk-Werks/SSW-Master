@@ -110,12 +110,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>The Lancelot was originally designed as a heavy cavalry unit. Later it was touted to become the SLDF’s standard antiaircraft   ’Mech, although this was halted by the Amaris Crisis. The resurrection of its line on Luthien was made possible by the ’Mech being redesigned to share common parts with the Grand Dragon. ClanTech ER and pulse lasers provide the -09’s primary and secondary weapons, supported with a deadly plasma rifle. Much-strengthened armor improves its endurance. It is often paired with newer Grand Dragons, providing fire support as the Dragons close in.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Chu-i Knut Amano: Of Rasalhagian heritage, Amano’s grandparents escaped to the Combine following the Ghost Bear’s invitation into the Republic. Amano is stationed with the Seventh Legion of Vega on the Dominion border. He spends considerable effort funding anti-Bear sentiments in his off-duty time. Fragmentary Watch reports suggest his grandparents may have been part of Mimir. It is unlikely the ISF does not know about his activities, but as long as the secret police are focused on the Dragon’s enemies, they will likely turn a blind eye.:br::tab:Combat came to Shionoha in the early 3140s in the form of raids by the Ghost Bear’s 343rd Battle Cluster and Third Vega Regulars. Despite the mauling the Seventh received, the chu-i relished finally being able to face off against the Bears. The Third Regulars again raided in April 3150, catching the Seventh as they were preparing to rotate to the Federated Suns front. Forced into the field from their DropShips, the Seventh devastated the Regulars. Less than a quarter of the Third escaped. Reports suggest Amano may soon be promoted to tai-i, after gaining three kills in the close confines of the spaceport.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

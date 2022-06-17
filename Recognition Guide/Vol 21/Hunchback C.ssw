@@ -99,12 +99,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>Ramiel Bekker always loved unusual BattleMech history. One of his favorite tales was that of a trueborn warrior from a waning Bloodhouse who insisted on serving his front-line Galaxy in a salvaged Lyran Hunchback. Bekker recalled the story years later after Khan Alaric Ward gave him the run of Kali Yama Weapons. The Hunchback C is the antithesis of the Hunchback IIC used by other Clans, combining toughness and great ground speed with the heavy firepower of its autocannon.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>Star Commander Matthew Wayne: Hulking, long-haired, dark-eyed, thick-bearded, and taciturn, Matthew Wayne hailed from an insignificant Bloodhouse with little political power. He served in the Ghost Bear’s Seventh Phalanx at the onset of the First Dominion-Combine War. He lost his OmniMech in one of the war’s deciding duels. This rendered him dezgra, and he was reassigned to a salvaged Hunchback. Refusing to accept his fate, Matthew heavily modified the ’Mech, hoping to claw back his honor.:br::tab:The Jihad would be his redemption when the Seventh Phalanx was sent to Pike IV. Matthew’s last opportunity for glory descended into fiasco when the Thirtieth PGC refused to aid the Phalanx. Though the Cluster was lost, Wayne led an epic fighting retreat saving what he could. Afterwards, the enraged Star Commander challenged the Thirtieth’s Star Colonel, but lost. Despite this, his actions garnered attention. He and his Hunchback were adopted by Delta Galaxy’s Seventy-Third Battle Cluster, which needed warriors experienced with fast ’Mechs for the assault on Thorin. Finally serving in a front-line Cluster, Wayne died gloriously on Thorin, clearing Blakists from the rubble of Fell’s Fort.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

@@ -136,12 +136,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview>Defiance Industries was the last manufacturer of the Flashman as civilization crumbled in the Succession Wars. Every time their production line was interrupted, they stubbornly reintroduced the ’Mech in a modernized form. With the markets again hungry for cutting-edge BattleMechs after the collapse of the Republic, Defiance Industries once more updated the classic ’Mech with a full suite of its Clan equivalent weaponry. This new FLS-10E Flashman was developed to survive against any foe of equal weight, Spheroid or Clan.</overview>
+        <overview></overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables>“Major” Isabelle Drinkwater: Drinkwater failed to make a name for herself on Solaris. She opted to make her talents available to the open market when Inner Spherewide conflict erupted after Gray Monday and demand for mercenaries spiked. She threw in with a newly formed company of eclectic former Solaris gladiators dubbed Lone Star Expeditions. Early contracts put LSE on the rimward border of the Lyran Commonwealth as the Lyrans pushed into Former Free Worlds League territory. Drinkwater and her band proved their capabilities as they fought on the front lines time and again. Then the fortunes of the Commonwealth ebbed. Lone Star Expeditions is currently contracted to defend Kwangchowwang against possible Jade Falcon incursions. “Major” Drinkwater leads a lance in the LSE from the seat of one of the flashiest BattleMechs money can hope to buy.</notables>
+        <notables></notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
