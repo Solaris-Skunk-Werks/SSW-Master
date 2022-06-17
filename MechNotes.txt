@@ -1,7 +1,6 @@
 3039u RS and MUL Notes
-JR7-A Jenner - Weapons loadout should be Large Laser + 2ML (see 3025, and 3039 says "lasers")
 CDA-3C Cicada - Head criticals are messed up.
-cLNT-2-4T - No date in MUL Used 2950 (date on old RS)
+
 HER-4K Hermes III - Listed on MUL as HER-4K Hermes II "Hermes III" which is more correct?
 DV-6M Dervish - 3039 states that "During the Reunification War, funds provided by the Terran Hegemony allowed the other League Member States to upgrade their last original-model Dervishes, generally found lingering in backwater militias, to the DV-6M standard." and "Given a major update later in the twenty-sixth century" so date should be before 2610.
 Catapult Jenny - Just Jenny? What about "Butterbee"
@@ -128,7 +127,7 @@ THG-11E Thug (Reich) - No Date, used 3075
 CRK-5003-3 Crockett - 1 point of armor unused
 HGN-736 Highlander - Upped date to 3062/Civil War due to c3i
 
-Man O' War - FF critical placement different from the TRO. Used the Record Sheets due to it being the second time published this way.
+Man O' War - FF critical placement different from the TRO. Used the Record Sheets due to it being the second time published this way. Due to RGiC, changed this to putting the FF slots in the arms instead of legs.
 Man O' War H - Ammo is in a different place than TRO. Used RS due to it being published twice.
 Gladiator E - shift FF armor from LA to head to match rest of the Gladiators
 Daishi A - Incorrect BV on RS due to AMS
@@ -281,17 +280,15 @@ Turhan naming convention change? (Turhan vs Turhan Urban Combat Vehicle). Also, 
 Keep an eye out on naming conventions for Marsden and MErkava and others. Might get switched around from "Merkava Mk. VII Heavy Tank" to "Merkava Heavy Tank" with model "Mk. VII"
 
 JKR-9R "Joker" Jackrabbit - Armor funky (Adds 1 ton of armor, but drops 1 point from head)
-JAW-66B Jabberwocky - BV mismatch (350 SSW, 322 RS) BV mismatch with all. See WI-DM
-JAW-65A Jabberwocky - What's the name? Fluff says both 65A and 66A. RS says 65A, MUl says 66A; 0.5 tons underweight?
+
 XNT-2O Xanthos - Not in 3075 anymore?
-WI-DM DemolitionMech/WI-DM2 DemolitionMech - BV mismatch (pretty sure SSW is doing it right based on TM Errata 3.0)
+
 ICR-2S - Record sheet matches, but fluff doesn't. Keep an eye out for changes.
-PTN Patron LoaderMech/PTN-1 Patron LoaderMech - BV Mismatch
+PTN Patron LoaderMech/PTN-1 Patron LoaderMech - BV Mismatch - SSW is doing it right (not multiplied by .9 from TM Errata)
+
 No BWP-X1 ?
-LM1/A Lumberjack - Missing Dumper. BV mismatch
-LM4/C Lumberjack - Missing Dumpers.
-LM4/P Lumberjack - Missing Dumper.
-Are Quasits supposed to have AFCS? RS seems to say no, but fluff lists one. BV mismatch
+
+
 
 Crow Scout Helicopter "Dragonfly" - Not in MUL, used 3070 as the date.
 Tamerlane Strike Sled (Flamer) - Should be introductory
@@ -300,7 +297,7 @@ Tamerlane Strike Sled 2 - Should be introductory
 Saxon APC - Should be Introductory
 Hiryo Armored Infantry Transport - BV mismatch; SAW says 665, RS says 667; massive price difference between SAW and MUL
 Hiryo Armored Infantry Transport (Light PPC) - BV Mismatch; SAW says 686, RS says 708; massive price difference between SAW and MUL
-Hiryo Armored Infantry Transport (MRM) BV Mismatch; SAW says 644, RS says 666; massive price difference between SAW and MUL. (Difference due to change in BV calculations? MUL agrees with SAW on BV..maybe changed since?)
+Hiryo Armored Infantry Transport (MRM) BV Mismatch; SAW says 644, RS says 666; massive price difference between SAW and MUL. (Difference due to change in BV calculations? MUL agrees with SAW on BV..maybe changed since?) - WiGE Defensive factor issue with MUL
 Bellona Hover Tank (Laser) - Design 0.5 tons overweight. Drop 0.5 tons of LMG ammo.
 SM1A Tank Destroyer = Missing its MGA (Quarter ton underweight?)
 
@@ -325,8 +322,7 @@ PEN-2H Penthesilea - Different from 3085 Print Which is correct?
 TR-XB Trebaruna - TC should take up more than just a single critical slot
 AS7-K2 Atlas - Different from Print on Purpose?
 AS7-K3 Atlas - Torso Weapons Reversed?
-SKU-181 Sokuryou SurveyMech - BV mismatch (MM counts Fueltank as ammo, SSW treating as explosive component)
-FWL-3R Fwltur SalvageMech - Odd Offensive Multiplier - Looks like its multiplying offensive Multiplier by 0.9, instead of final result?
+
 D-M3D-3 Diomede ConstuctionMech - RS shows a 2 ton liquid Cargo Storage bay, RS has 2 1 ton bays -Excessive ammunition penalty in defensive BV?
 
 Arbalest 2 - Missing its MASC
@@ -344,8 +340,8 @@ PTN-2M Patron PatrolMech - Listed as Advanced, should be Standard; RS listed as 
 Stinger IIC - Under new rules, should be Advanced instead of Experimental; RS listed as Jihad, but MUL and Date say Republic
 DOL-1A1 Dola - Under new rules should be Advanced instead of Experimental; RS listed as Jihad, but MUL and Date say Republic
 Incubus II - Under new rules, should be Advanced instead of Experimental; RS listed as Jihad, but MUL and Date say Republic; On MUL, its listead as Incubus 2, instead of Incubus II
-SDT-1A Spindrift Aquatic SecurityMech - Check rules levels due to 3090 change
-ARB-001 Arbiter SecurityMech - Arm Armor should be 8 instead of 10, check rules level due to 3090 change
+
+
 STO-6S Stiletto - Check rules level due to 3090 change
 WLF-2H Wolfhound - Check rules level due to 3090 change Only 13 ES criticals assigned, suggest add 1 to RT
 Beowulf IIC - Check rules levels due to 3090 change.
@@ -369,11 +365,38 @@ HTM-35K Hatamoto-Kaeru - Rules Change
 Mad Cat II Enhanced - Rules Change
 PDG-1R Pendragon - RUles Change
 
+TR3145 NTNU (Most set to Experimental, all dates 3145, not in MUL yet, RE-L Errata needs to be incorporated)
+WSP-3K Wasp - 15 Endo Steel Critical assigned - Removed one from head
+MEB-13 Ebony - BV issues - Need to incorporate RE-L errata
+Hellion G - BV Issues (TSEMP OS most likely)
+Cougar X - Had to be mixed tech to get the Composite structure
+Cougar X2 - Had to be mixed tech to get the Composite Structure, BV issue with MUL (SSW and Sheet agree)
+Cougar X3 - Had to be mixed tech to get the Composite Structure/HD Gyro, BV issue with MUL (SSW and sheet agree)
+Morrigan 4 - BV issue (TSEMP?)
+OW-1 OWens G - Why listed as Mixtech on RS?
+Dasher II 4 - BV issue (TSM and physical attack weapons)
+Nabori-nin F - BV discepency
+Kuma 4 - BV discrepency - Harjel?
+TSG-10L Ti Ts'ang - BV issue - Melee Weapons + TSM
+TDR-10S Thunderbolt - 15 Endo Steel criticals assigned (removed 1 from head)
+MAD-9D Marauder - BV issue. Radical Heat Sink? SBGR?
+PRF-3R Prefect - BV Issue, RHS?
+Deimos E - BV mismatch. RHS?
+Omen 2 - Missing 2 Harjel IIIs. SSW equipment error (not letting you mount more than 1, instead of not more than 1 in location)
+Mad Cat Mk II 6 - Missing HArjel IIIs. See Omen 2
+Onager 2 - BV mismatch
+Gladiator I - BV Mismatch
+SGT-14D Sagittaire - BV Mismatch
+BRZ-D4 Berserker - BV mismatch (TSM/melee weapon)
+T-IT-N13M Grand Titan - BV Mismatch (TSM/Melee weapon) Check armored component BVs
+XNT-6O Xanthos - BV mismatch. No idea
+D-M3D-M Diomede - No AFC on sheet, but BV matches with it on.
+
 TR3145 Mercs
 No data in MUL yet; Most units subject to rules change from Prototypes.
 JHK-XX Jade Hawks - Check to see if heat sinks are Clan or IS?
 
-All Gun Trailers seem to be underweight (do to engine and control rules)
+All Gun Trailers seem to be underweight (due to engine and control rules)
 Gun Trailer (Ambush) - 1.5 tons underweight
 Gun Trailer (Artillery/AA) - 3.0 tons underweight
 Gun Trailer (LRM) - 3.0 tons underweight
@@ -389,20 +412,63 @@ Kite Reconnaissance Vehicle - Missing Armored Motive System
 Cardinal Transport - SAW Can't do Heavy VTOLs yet.
 
 TR3145 CapCon
+AGT-1A Agrotera - BV mismatch
+LI-OB Vandal - No vehicular mine dispenser in SSW?
+MS-1A Mortis - BV mismatch
+MS-1P Mortis - BV mismatch
 
 TR3145 DC - Dates not available, set to 3145
-Kamakiri Attack VTOL - SAW can't handle SuperHeavy VTOLs yet
-Kamakiri Attack VTOL (Gauss) - SAW can't handle Superheavy VTOLs yet
-Mamono IFV - SAW missing Apollo FCS - Check BV - Armor issue?
-Narukami Heavy Tank (both) - BV Issue. Hardened armor maybe?
+Wendigo - RS and TR:DC reverse endo steel crits and Reflective crits on the arms
+HKZ-1F Hitotsume Kozo - BV issue (TSM+melee weapons)
+HKZ-1P Hitotsume Kozo - BV issue (TSM+melee weapons)
 
 TR3145 FS
+UCU-F4 Scarecrow - Check BV/heat calcs for CPLS
+CN-11-OE Centurion - BV mismatch (SSW exactly 200 below book, 1315)
+TLR2-OB Templar III - BV mismatch (Chain whip?)
+AS7-D3 Atlas III - BV mismatch (RHS?)
+
+TR3145 FWL
+SRTH-1O Sarth - Need to set weight for Quad turret
+ZU-G60 Anzu - BV issue?
+NTL-AG Neanderthal - BV Issue (TSM+Melee weapon)
+NTL-UG Neanderthal - BV Issue (TSM+Melee weapon)
+
+TR3145 LC
+ZEU-X Zeus - Use patchwork armor to armor arms and legs. Need to check it over, coming up overweight.
+ZEU-X2 Zeus - Use patchwork armor to armor arms and legs. Need to check it over, coming up overweight.
+
+TR3145 Clans
+Can't do QuadVees yet (Arion, Cyllaros, Harpago)
+Gyrfalcon 3 - Set to mixed tech to get small cockpit
+Loki Mk II - Set to mixed to get small cockpit
+Kodiak 2 - couldn't allocate all Harjel IIIs
+
+Republic
+CLR-03-OD Celerity - BV mismatch - ER Flamers? Drone Cockpit
+CLR-03-OE Celerity - BV mismatch - Drone cockpit?
+CLR-04-R Celerity - BV mismatch - Drone cockpit? Tsemp OS?
+See page 81 of TO Errata to see how Drone BV needs to change
+UBM-XX Revenant (All) - BV Mismatch - Drone
+UMB-2R7 - Pay careful attention to BV
+NSR-K4 Night Stalker - BV issue (TSM and melee weapons probably)
+LMT-2R Lament - BV Issue (Radical heat sink?)
+LMT-3C Lament - BV Issue (Radical Heat SInk?)
+LMT-3R Lament - BV Issue (RHS?)
+LMT-4RC Lament - BV Issue (RHS?)
+UAE-7R Uraeus - BV Mismatch (TSM and Melee weapon most likely)
+MAL-YZ Malice - BV mismatch - no idea.
+Can't do Superheavies yet.
+
+
+
+
 
 KLONDIKE
 THE-Nb - Design has ERML, which is impossible due to date. Replaced with standard medium.
 Firefly-C doesn't match RS from 3050U-C
 HER-1Sb Hermes gains a hand actuator, only 13 criticals assigned. Removed LA Hand Actuator, added FF critical to LT.
-GRF-4N - Should be GRF-2N
+GRF-4N - Should be GRF-2N - Due to this error, and being an old-style sheet, this was moved to 
 Hoplite-C - Already included in 3050U-C
 Conjuoror/Hellhound - Already in 3055Uu
 TDR-5Sb - Removed small laser (overweight, makes no sense)
@@ -414,7 +480,7 @@ Carbine ConstructionMech (RL) BV difference
 ED-X2 - Star League version should have a Fusion Engine.
 EX-X2 (Flamer) BV off by 1
 EX-X2 (RL) BV off by 8
-Buster and Powerman missing Bar rating.
+
 Daedaulus "Militarized" BV off by 8
 Check BVs on everything with Prototype Weaponry
 
@@ -424,34 +490,16 @@ OWR-2M - RS is underweight, used armor from Sourcebook section to match BV.
 DV-1S Dervish - RS has an extra assigned HS it doesn't need.
 PUL-2V - BV Mismatch due to armor; RS has an extra point of armor (15.5 x 1.12 x 16 = 277.76, round down to 277). Removed point from rear CT. MM's armor placement seems off on the torsos completely.
 RPT-2X Raptor II - BV Mismatch, sheet mismatch...replaced the BAP with ECM. Keep eye out.
-RCL-4 Dig Lord - BV mismatch
-RCL-4M Dig Lord - BV Mismatch
+
 CTF-5MOC Cataphract "Naomi" - Date is little screwy, Plasma Rifle not introduced till 3068
 DGR-6FC2 Dragon Fire "Kishi" - RS is missing the TSM. Added 3 to each arm to make the BV work properly.
 FNR-4A Fafnir "Peter" - LA odd, missing an endosteel crit
 Jenner Samuli - Reduced Front CT armor by 1
 Bandersnatch Horus - BV mismatch; SSW and MM Agree.
 Emperor Nerran - BV Mismatch; SSW and MM Agree
-All ProspectorMechs from HBMPS don't have BVs. Oddly, name changes as well.
-"Rock Hound" - Dropped RA hand actuator to fit Mining Drill. No need to assign 2 criticals to heat sinks. 
-"Rock Otter" - Dropped RA hand actuator for Mining Drill. No need to assign heat sink.
-"Rock Possum" - No need to assign heat sink, Dropped RA hand actuator. Mech Data says Cargo Bay is on the LT, crits show it on RT.
-"Space Hound" - missing fuell used 2 1 ton cargo bays instead
+
+
 Morpheus L'Morte II - Couldn't fit the spikes based on the Record Sheet, made the armor FF to add the spikes.
-
-
-MWDA
-AgroMech MOD - 1 ton overweight. Reduced armor by 1 ton. Used PRI HMP files ( http://www.pryderockindustries.com/downloads/featured/hmp_rs_da_mechs.zip ) for armor values.
-ForestryMech MOD - 1 ton overweight. See AgroMech MOD notes.
-MiningMech - 3.5 tonsOverweight - RS uses standard IS. Too much of a change to make a worthwhile RS
-MiningMech MOD - Overweight - RS uses standard IS. Too much of a change to make a worthwhile RS.
-Cougar X - Had to be mixed tech to get the Composite structure
-Cougar X2 - Had to be mixed tech to get the Composite Structure, FF armor rounding error, reduced rear ct by 1
-Cougar X3 - Had to be mixed tech to get the Composite Structure/HD Gyro, FF armor rounding error, reduced rear ct by 1
-FS9-M2 Firestarter - 0.5 tons underweight.
-Mad Cat III - FF armor rounding error, reduced rear CT by 1
-ZEU-X Zeus - Removed Lower Arm Actuator LA. Added Reactive armor crits to LA, RA, Head, CT
-ZEU-X2 Zeus - Added Reactive Armor Crits to RTx2, LTx2
 
 Omni
 Naga - BV mismatch most likely due to pre-errata Arrow IV BV
@@ -464,19 +512,7 @@ Gargoyle H- RS shows ammo in RA, RS shows in RT. Currently in RA.
 Stooping Hawk - Missing dates for Prime, A, B, C, D, E
 Perseus P1E - BV mismatch with RS 1658(Mul) to 1675 (SSW). Seems to be VGLs?
 
-TRVA
-HVR-99 - No data
-SC-V-1 - Missing Extended Fuel Tank; Too many criticals assigned to LT, moved TSM to RT and CT
-SC-v - Not enough data to make (winds up 8 tons underweight)
-KIC-3 - No Data
-XV Powerman - No Data
-XVI Powerman - followed TR, no weight for extra cargo.
-Buster Class - Removed BC from name
-ED-X4 - TRVA Gryo is incorrect, reduced armor by 1 ton to compensate. Also, writeup says "Commercial Light" TR section says "Industrial" Lifthoist can't fit in CT, moved to RA for the heck of it (maybe rear torso instead?)
 
-CON-7 "Carbine" ConstructionMech - Armor is 32 points, 36 are assigned.
-MR-8C Marco - Design is 1.5 tons overweight (forgot JumpJet weight). Design should have 10 Heatsinks (Fusion Engine). Reduced armor to 2.5 tons to allow for the Op:K model's weaponry. 
-Pompier FireMech - moved Liquid Cargo to RT (otherwise it would be 3 crits in the CT). Fuel Cell nets you one heat sink automatically.
 
 Sword and Dragon
 DRG-7K "Mark" BV Mismatch (BV seems based on incorrect MM file)
@@ -489,12 +525,42 @@ GRF-6S "Francine" - BV mismatch with MUL, SSW and MM agree
 XTRComStar
 Grim Reaper should have a Clan 280XL engine (set at 275, due to lack of Frankenstein rules)
 
-XTRPrimitives
-WSP-1 Wasp - No primitive Jump Jets (used standard for now)
-
 XTR SUccesion Wars
 GRF-2N-X Griffin - Can't do yet, no Prototype IJJs
 MAD-4X Marauder - Can't do yet, stupid Freezers, Primitive Endo Steel
+
+XTR Primitives IV
+TR-1-A Toro - different sheet from BC210 3075 Unabridged
+RFL-1N Rifleman - Wrong obsolete date 
+GRF-1A Griffin - No promitives JJs yet (used standard)
+
+XTR Primitives V
+PX-1R Phoenix - RS shows Jump Jets, Writeup shows Prototype Jump Jets - SSW using Jump Jets
+WVR-1R Wolverine Missing Prototype Jump Jets
+WVR-3R Wolverine Missing Prototype Jump Jets
+ON1-H Orion - BV Mismatch (Primitive AC10?)
+ON1-C Orion - Missing fluffed SRM4
+
+XTR Gunslinger
+SCR-1X-LAM Screamer LAM - Can't do LAMs yet
+EXT-4DX Exterminator Caine - Missing the Caine name in MUL
+THG-11ECX Thug Jose - Missing its Nullsig, added from fluff/errata.
+
+XTR Boondoogles
+SCP-X1 Scorpion LAM - Can't do LAMs yet
+CPN-1X1 Champion LAM - Can't do LAMs yet
+SAM-RS2 Matar - Can't do Superheavy yet (Fake Superheavy rules, see Notes in the book)
+
+XTR Caveat Emptor
+CON-9M-D Carbine ConstructionMech MOD - Illegal design (double heatsinks on IM); SSW file doesn't have DHS
+Crosscut IIC SolahmaMech - Illegal Design (XXL engine on IM). SSW file doesn't exist
+
+DAD-DX Daedalus - RS shows DAD-4X for name. Went with DX since it matches more.
+PXH-99 Phoenix Hawk - TRO shows 13 armor in arms, RS shows 12. Went with RS since it matches armor count (148)
+AQS-5 MAM Aquagladius - RS shows 6H, 17/3T, 22/4CT, 12A, 24L; TRO shows 6H, 18/3T, 20/3CT, 12A, 24L; Either way 0.5 tons overweight? Armor needs to be fixed
+OmniMarauder - Why do some weapons (Plasma Rifles) have (IS) tags, but others don't (HGR)
+
+
 
 Wars of Reaving Supplemental - All dates set to 3072
 pg. 53 Cephalus Prime - Light TAG is listed in the RT in the "Weapons & Equipment Inventory" section, but on the Critical Hit Table, Light TAG is in the LT. According to Wars of Reaving (pg. 215) the Light TAG should be in the RT. -- Fix: move Light TAG to RT just below the XXL engine, slide the Laser AMS and Modular Armor down 1 slot to make room.
@@ -520,7 +586,6 @@ pg. 84 Savage Coyote Z - Nova CEWS listed in CT, no space, put in head like crit
 pg. 85 Turkina Z - SSW seems to be armoring components in spaces where previous variants had armored component (see U and Z variants). Looks like its loading them from previous version?
 
 Total Chaos
-pg. 254 AWS-10KM Awesome (Cameron) - Not in MUL, set date to 3078 (Date of Terra battles)
 pg. 255 AS7-D-H Atlas II (Devlin) - Not in MUL, set date to 3078 (date of Terra battles)
 
 Need Special Checking
@@ -540,3 +605,392 @@ Pariah (Septicemia)
 Ryoken (Stormcrow)
 Thor (Summoner)
 Turkina
+
+Era Digest Dark Ages
+Praetorian - No Armored Motive System in SAW
+
+HTP: Tortuga
+No dates for the Brigand/Awesome in MUL
+
+Eyleuka EYL-4A - Date is 3068, icon is Civil War
+All designs with TSM/Melee weapons are messed up
+Partial armor
+M-Pods?
+
+H:LoT2
+Vector (EW) and (Scout) - Can't do without Mast Mount
+Vali (Original) - Can't do without Sheet
+LB-X Carrier - Can't do variants without sheet (ammo counts)
+
+
+Change naming conventions of prototype weaponry to match official sheets? (See ON1-H Orion)
+
+RS:SW
+FFL-3A Firefly - 0.5 tons underweight
+
+XTRO Republic II - Designs set to Experimental due to tech changes
+No Boreas - QuadVees not in SSW yet
+HNT-181 BV mismatch - R-E Small Laser BV should be 14 not 12
+No Orca - Super Heavies not in SSW yet
+
+Turning Points: Tokasha - No dates used date of Tokasha fight
+Various BV issues, see Errata ( https://bg.battletech.com/forums/index.php?topic=64910.0 )
+CS-1 Fox - Date taken from TM
+
+IndustrialMechs
+PTN Patron - BV Mismatch (Question on how to due primitive IndustrialMechs. SSW adds in 0.85 modifier at the end).
+PTN-1 Patron - BV Mismatch (Due to using heavy industrial Armor, instead of bar 5 armor?)
+https://bg.battletech.com/forums/index.php?topic=47774.msg1555665#msg1555665
+LAW-QM1 Shugosha Q-Mech - Heatsink and Booby trap swap spots (SSW limitation); BV issue due to loading error; fixed in latest test
+LAW-QM2 Shugosha Q-Mech - Heatsink and Booby trap swap spots (SSW limitation); 
+LAW-QM3 Shugosha Q-Mech - BV Issue (Possible due to Drone OS?)
+SKU-181 Sokuryou SurveyMech - BV mismatch (MM counts Fueltank as ammo, SSW treating as explosive component)
+CTL-3R2 CattleMaster "Hunter" IndustrialMech - Armor mismatch between TRO and RS. Used RS for now.
+CON-1 Carbine ConstructionMech (RL) - BV mismatch (RL-PP BV)
+CON-8 Carbine HaulerMech - BV mismatch due to fuel tank counting as explosive equipment rather than explosive ammo.
+CON-8H Carbine ConstructionMech - BV mismatch due to fuel tank counting as explosive equipment rather than explosive ammo.
+
+ED-X2 Crosscut (Flamer) - BV mismatch. What's the correct sheet? (commercial or industrial armor?)
+
+Harvester HVR-99 AgroMech - TR:VA and DATP:Liao RS
+Marco MR-8C ExplorerMech - RS:OK and TR:VA both in SSW but not MUL.
+Spindrifts - Name changed to match others.
+ARB-001 Arbiter SecurityMech (Prototypes) - Arm Armor should be 8 instead of 10, check rules level due to 3090 change
+FWL-3R Fwltur SalvageMech - Check BV, pretty sure its right though.
+PM6 Peacemaker - Same as PM-6? PM-6 is better
+All ProspectorMechs from HBMPS don't have BVs. Oddly, name changes as well.
+"Rock Hound" - Dropped RA hand actuator to fit Mining Drill. No need to assign 2 criticals to heat sinks. - Data missing from MUL. RS in HB:MPS
+"Rock Otter" - Dropped RA hand actuator for Mining Drill. No need to assign heat sink. - - Data missing from MUL. RS in HB:MPS
+"Rock Possum" - No need to assign heat sink, Dropped RA hand actuator. Mech Data says Cargo Bay is on the LT, crits show it on RT - - Data missing from MUL. RS in HB:MPS
+"Space Hound" - missing fuell used 2 1 ton cargo bays instead - Data missing from MUL. RS in HB:MPS
+All Quasits have Advanced Fire Control (https://bg.battletech.com/forums/index.php?topic=5938.msg847133#msg847133)
+Quasit QUA-51M MilitiaMech - BV Mismatch (SSW and MML say 707; MUL says 636)
+Quasit QUA-51P MilitiaMech - BV Mismatch (SSW and MML say 865; MUL says 779)
+Quasit QUA-51T MilitiaMech - BV Mismatch (SSW and MML say 696; MUL says 627)
+ITW-200 Inquisitor II - No date in MUL
+JAW-65A Jabberwocky - What's the name? Fluff says both 65A and 66A. RS says 65A, MUl says 66A; 0.5 tons underweight. BV mismatch, should be 250 (SSW and MML Agree); Should be standard armor with 0.5 tons of power amplifier.
+JAW-66B Jabberwocky - BV mismatch (350 SSW and MML, 322 MUL)
+Jabberwocky JAW-66C DemolitionMech - BV mismatch (351 in SSW and MML, 324 in MUL)
+Jabberwocky JAW-66D ConstructionMech - BV mismatch (353 in SSW and MML, 326 in MUL)
+Hyena HYN-4B SalvageMech - Should be set to Standard
+Daedalus GTX2 (Militarized) - BV issue - PP RL changes
+Daedalus GTX2A "Stevedore" - No date in MUL
+Daedalus GTX2B "Navvy" - No date in MUL
+Deep Lord MilitiaMech RCL-Z1M - BV Issue (Should be 713, SSW is correct)
+RCL-4 Dig Lord MiningMech - BV issue - MM doesn't count fueltank as explosive, calculated using only 1 ton of explosive ammo
+Dig Lord RCL-4 MiningMech - File in DATPVega removed as it was a duplicate from TR:VA
+Dig Lord RCL-4M MiningMech MOD - BV Mismatch - No Date in MUL - BV issue (Fuel Tank) FCS or not?
+Various Lumberjacks - No more LoggerMech on name?
+LM1/A Lumberjack - Missing Dumper. BV mismatch
+LM4/C Lumberjack - Missing Dumpers. Should be 316 (according to MUL and SSW)
+LM4/P Lumberjack - Missing Dumper.
+ATAE-70M MilitiaMech - Version with source of OTP Falcon Incursion removed as newer version is in TRVA.
+D-90 Grommet MilitiaMech - No date in MUL - No Dumper
+SC-V Scavenger SalvageMech - BV issue? - Fueltank in SSW is being treated as 3 crits of explosive equipment, in MM its being treated as ammo explosion. Same issue with Dig Lord and rest of this line of mechs (and probably carbine construction `Mech)
+SC-V-M Scavenger MilitiaMech - BV mismatch (See SC-V Scavenger)
+SC-V-1 Vampyr SalvageMech - BV Mismatch (See SC-V Scavenger)
+Kiso K-3N-KR5 ConstructionMech - BV Mismatch - Should be 1091 (Seems to be based on an incorrect MML RS that's missing armor)
+
+TRO Irregulars
+GS107-X Guard SecurityMech - Is it supposed to lose its Ejection Seat?
+HVR-199M-M Harvester AgroMech MOD - SAW is missing the Vehicular Mine Dispenser
+CN9-H3 Centurion MilitiaMech - Should be experimental for FF armor (see page 92 in Split TacOps)
+HFL-1M Heavy Forester ForestryMech MOD - Is it supposed to lose its Ejection Seat?
+Ground Pounder - Cannot have Lower Arm actuator.
+Deep Lord - Wrong RS. Did not include.
+GMMM-2 MuckRaker SSW is missing dumpers
+
+On MUL; No Record Sheets
+CherryPicker CK-3 AgroMech
+Defiance 'Zilla (Standard)
+Gargantua (Standard) MiningMech
+GM "Muckraker" (Standard)
+Grommet (Standard) AgroMech
+Herdsman IndustrialMech (Standard)
+Imperial II MiningMech
+MicroTitan (Standard) MiningMech
+MiningMech MM-1
+MiningMech MM-1S
+PickerMech (Standard)
+Ranchhand (Standard) AgroMech
+Guard GS-54 SecurityMechPacifier CCU-36 SecurityMech
+Spindrift Aquatic SecurityMech SDT-1Ar
+Arbiter SecurityMech ARB-001r
+Inquisitor ITW-80 SecurityMech
+Sarissa SecurityMech MN2-Ar
+Daedalus GTX2 
+LoggerMech (Standard)
+Lugger (Standard) SalvageMech
+King CargoMech (Standard) CargoMech
+St. Florian (Standard) FireMech
+Kiso K-3N-KR3 ConstructionMech
+Three-Man Digging Machine "Hedgehog" (Standard) MiningMech
+
+Not on MUL; Has Record Sheets
+AgroMech - RS MWDA
+AgroMech MOD - 1 ton overweight. Reduced armor by 1 ton. Used PRI HMP files ( http://www.pryderockindustries.com/downloads/featured/hmp_rs_da_mechs.zip ) for armor values.
+ForestryMech MOD - 1 ton overweight. See AgroMech MOD notes.
+Powerman LoaderMech SC XI (Laser) (Sheet replaced with Powerman SC XI-M HaulerMech MOD )
+Powerman Loadermech SC XI (SRM) (Sheet replaced with Powerman SC XI-M-B HaulerMech MOD )
+Buster HaulerMech BC XV RSOK RS (replaced with Buster BC XV HaulerMech
+Buster HaulerMech BC XV (AC) - Replaced with Buster BC XV-M-HaulerMech MOD )
+Buster HaulerMEch BC XV (PPC) - Replaced with Buster BC XV-M-B HaulerMech MOD )
+
+
+RS: MWDA
+MiningMech - 3.5 tonsOverweight - RS uses standard IS. Too much of a change to make a worthwhile RS
+MiningMech MOD - Overweight - RS uses standard IS. Too much of a change to make a worthwhile RS.
+
+Crosscut ED-X2M ForestryMech = Crosscut ED-X2 (Flamer)
+Crosscut ED-X2M2 ForestryMech = Crosscut ED-X2 (RL)
+
+Introductory BattleMechs
+Thorn THE-F - Carbon Copy of Thorn THE-S
+Mercury MCY-98 - In the old RS3039
+CLNT-2-4T - No date in MUL Used 2950 (date on old RS)
+Hatchetman HCT-3NH - Missing from MUL - In RS Vol 2
+Trebuchet TBT-5K - Missing from MUL (same as 7K?)
+Rifleman RFL-3N "Legend-Killer" - Missing from MUL in 3055U Print
+Rifleman RFL-3N "Legend-Killer 2"- Missing from MUL in 3055U Print
+Crockett CRK-5003-0 - In the old RS3039
+
+On MUL; No Record Sheets
+Emperor EMP-X
+Commando COM-7X
+Panther PNT-9ALAG
+Panther PNT-9R (Tanaka)
+Assassin ASN-SB
+Daedalus "Grimjet" - Introductory Daedalus (name mentioned in 3055U) - BC supposedly?
+Huron Warrior HUR-WO-R3L
+Shadow Hawk SHD-3H
+Wolverine (Victor)
+JagerMech JM6-B
+Zeus ZEU-6S1
+
+Technical Readout Golden Century
+Zephyr Hovertank EC - BV issue (Improved SRM and Ammo BV issue)
+Kokou Defense Tank - Loses Trailer hitch from TP:Tokasha for both variants
+Kokou Defense Tank (XL) - Fluff suggests IS XL engines, RS has Clan XL. Check errata later on.
+
+Rhino Fire Support Tank EC - BV issue - 1679 to SAW's 1685. Bulldozer?
+Mongoose C - Design different from TP:Tokasha sheet. Used Tokasha sheet
+Coyotle C - TRO shows 2 Plasma ammo in CT with ECM suite. RS puts ECM in the LT. Followed RS
+Coyotle D - Missing Imp HLL from RA in RS. Added it to design based on TRO. BV 1980
+Fox - Odd introduction dates for clantech stuff. IS Base? With Clan XL and ES?
+Omni-Corvis - Prime can't have LA and Hand Actuators with UAC10. Kept them out.
+Starslayer STY-2C-EC - BV is 1419
+Lynx C -TRO Entry is missing ES. Used sheet which has it to make it legal. RS places FF ontop of ES which is an unusual choice.
+
+RGiC 1 
+GRF-3N Griffin - TRO and RS don't match used RS for now
+
+RGiC 2
+Stone Rhino (Behemoth) is missing a SPL in the head.
+Stone Rhino (Behemoth) 6 reverses FF criticals in Arms from 3055Uu
+
+RGiC 4
+Wasp C - Fluff has Streak SRM2 iOS in LL, RS has it in RL. Went with RL, will watch
+Fenris (Ice Ferret) I - BV mismatch. RS/MUL has 1096, SSW has 1101. Most likely due to SSW not treating M-pods as defensive. Swap defensive and offensive BV to fix.
+
+RGiC 5
+MAD-8K Marauder shows 2894 in the fluff. RS shows 2849 (SSW agrees)
+
+RGiC 6
+Linebacker I 1929 according to RS, SSW says 1853
+MAD-7R/7C Marauder - Sheet shows 25/7 RT armor, Fluff shows 24/8 same as LT
+Bounty Hunter Marauders - name change in MUL to have () in name
+
+RGiC 8
+Dasher R - BV should be 1160? (most likely M-pod issue)
+
+RGiC 9
+Executioner (Gladiator) I - Swaps ECM/Supercharger from previous RS
+
+RGiC 10
+Dev level errata
+https://bg.battletech.com/forums/errata/recognition-guide-ilclan-all-volumes/msg1679494/#msg1679494
+Archer C - https://bg.battletech.com/forums/errata/record-sheets-3085-unabridged/msg1670158/#msg1670158
+
+RGiC 11
+Butcherbird (Ion Sparrow) - Set to mixed tech to get small cockpit
+Uller (Kit Fox) J - TRO shows 2 tons of UAC ammo, RS 1. Went with TRO otherwise it would be underweight.
+Peregrine (Horned Owl) 6 - 1 ton underweight. Fluff states "Based on an ancient prototype which drops the jump jets for armor and a targeting computer,"
+
+RGiC 12
+Carrion Crow Prime - BV Discrepency (Clan ERPPC + Capacitor BV issue)
+Nobori-Nin E - LAP and LTAG swap position between 3058UU and RGiC 12
+Shadow Hawk C - BV on sheet indicates it has CASE, sheet doesn't have CASE. MUL indicates no CASE. All 3 Shadow Hawk C variants are different.
+White Raven TRO shows APGR ammo in LT, RS has it in LA. SSW has it in LA. (pg 11 and 38)
+
+RGiC 13
+Dire Wolf (Daishi) X - RS has an extra heatsink in RL.
+
+RGiC 14
+BV Mismatch Nova G - Clan ERPPC capacitor most likely
+
+RGiC 16
+
+
+RGiC 17
+BV Mismatch Amarok 3 (Spikes?) Is there really? I just checked. SSW and MUL and RS and Mordel agree.
+BV Mismatch CRD-9BR Crusader - MM isn't calculating BV on TSM + Claws correctly (should be based on TSM enhanced Claw damage, rather than just atandard Claw damage)
+
+RGiC 20
+Masakari L - BV Mismatch (same as in MUL though)
+
+RGiC 21
+Regent A - BV mismatch (most likely Clan ERPPC Capacitor)
+
+RGiC 22
+Doom Courser - SSW has no way to set limits on Omni Turrets; 
+Goliath 7K - Mismatch BV (1894 to 1895 RS/SSW)
+
+RGiC 23
+Star Python - RS and sheet don't match https://bg.battletech.com/forums/errata/recognition-guide-ilclan-all-volumes/msg1793829/#msg1793829
+
+GRN-D-01-X Grand Crusader - 1 ton overweight. Delete Head-mounted ML. https://bg.battletech.com/forums/errata/recognition-guide-ilclan-all-volumes/msg1792464/#msg1792464
+
+RGiC 24
+Ryoken III (Skinwalker) - BV mismatch due to No Gyro calculation maybe
+Flashman's LT has a small gap in equipment. Tightened it up to match normal sheets.
+AS8-KE Atlas - Listed as Mixed tech, why?
+Atlas C - RS is slightly off, BoTS goes Streak SRM6 ammo, LRM20 ammo, LRM 20 ammo, RGiC does LRM, Streak, LRM ammo Didn't change since ammo is normally stacked together.
+Alpha Wolf A  - BV discrepency due to 
+
+
+Shrapnel https://bg.battletech.com/shrapnel/
+CN10-W Centurion - Did they mean to reverse the LB10-X and LRM ammo in RT?
+
+#5
+SAW/SSW needs a new Production Era
+SM5 Field Commander (Prototype) SAW still missing Supercharger
+STill missing quirks
+
+Vehicle Notes
+3067u
+Glaive (MFB) - Missing Mobile Field Base
+Fortune Wheeled Assault Vehicle - Fluff calls armor "StarSlab/6 Ferro Fibrous" but neither stat block nor RS show FF armor
+Ajax C - 2.5 tons overweight https://bg.battletech.com/forums/index.php?topic=24895.msg564051#msg564051 - Not included at this time
+Hephaestus Scout Tank D - Had to add a Second infantry Compartment at 1 ton since adjusting the fixed Compartment causes it to adjust on every variant.
+Enyo Strike Tank (LB-X) "Sholef" - Doesn't have CASE?
+Shodan (LB-X) - 1 ton underweight
+
+3039
+
+3085
+Balac Strike VTOL (Standard) - Should have XL Engine
+Balac Strike VTOL (Spotter) - Should have XL Engine
+Zephyros Infantry Support Vehicle - Should be Jihad Era(3084)
+Joust Medium Tank BE701 - 0.5 tons over, subtracted 1 point of armor from Front. Drops BV to 1074
+Chalchiuhtotolin Support Tank (Chemical Laser) - RS shows 1177 BV, SAW 1181. MUL has 1180, but appears to be due to half ton of LMG ammo, leaving it 0.5 tons underweight.
+Shamash Reconnaissance Vehicle (Interdictor) - Source should be RS3085-ONN
+Savannah Master Hovercraft (Interdictor) - Source should be RS3085-ONN
+Yellow Jacket Gunship (PPC) - design is underweight. Used https://bg.battletech.com/forums/index.php?topic=5927.msg617292#msg617292
+Drillson Heavy Hover Tank (Sealed) - BV comes out to 914 (870 seems to be missing Floation hull BV mod)
+Rommel Tank (Sealed) is listed as 60 tons on MUL
+Partisan Air Defense Tank (Cell) - Source should be RS3085-ONN
+Schrek PPC Carrier (Armor) - BV should be 1005 (Seems to be based on sheet with erroneous AMS)
+Demolisher Heavy Tank (MML) - Design 0.5 tons overweight, dropped 0.5 tons of MG ammo.
+Aeron Strike VTOL - Requires XL engine as shown in TRO.
+Yasha VTOL - Requires XL engine as shown in TRO.
+Yasha VTOL (Interdictor) - Requires XL engine, missing Artemis on MML7s.
+Yasha VTOL "Spectre" - Requires XL engine.
+Ranger VV1 Armored Fighting Vehicle - SAW can't do MGA's yet.
+Regulator II Hovetank (Stealth) - Missing its Stealth Armor, BV is 1029
+Bolla Dominus is requiring heatsinks for ammo-based flamer. Probably wrong. Missing heavy flamer and ammo for now.
+Kinnol MBT - RS design is 1 ton underweight, added 1 ton of LB10-X ammo to match TRO. BV now 1226
+JI-100 Missing a lift hoist due to SAW problem. https://github.com/Solaris-Skunk-Werks/solarisskunkwerks/issues/129 - Also went with a single 33 ton cargo bay, rather than 33 1 ton bays (is that even legal?)
+Scimitar - fluff says Fusion, RS shows ICe, both work.
+
+Augustus MBT - Support Vehicle, not included
+J-37 Ordnance - Support Vehicle, not included
+J-37 Ordnance (Original) - Support Vehicle, not included
+Tonbo Superheavy Transport - Superheavy? Support? Not included
+Trireme Infantry Transport - Support vehicle, not included
+Trireme Infantry Transport (CS) - Support vehicle, not included
+Zugvogel Omni Support Aircraft - Not included Support Unit
+
+Missing Record Sheets
+Pandion Combat WiGE (C3) - TR3085 - Done based on TRO
+Pandion Combat WiGE (Infantry) - TR3085 - Done based on TRO
+Pandion Combat WiGE (Standard) - TR3085 - Done based on TRO
+Fensalir Combat WiGE (HAG) - TR3085S - Not enough info to do
+Fensalir Combat WiGE (Infantry) - TR3085S - Not enough info to do
+Fensalir Combat WiGE (Standard) - TR3085S - Done based on TRO
+Manta Fast Attack Submarine (Standard) - TR3085S - Done based on TRO
+Manta Fast Attack Submarine (Support) - TR3085S - Done based on TRO
+Moray Heavy Attack Submarine (Original) - TR3085S - Done based on TRO
+Moray Heavy Attack Submarine (Standard) - TR3085S - Done based on TRO
+
+Misc
+Thumper Artillery Vehicle (Standard)
+Thumper Artillery Vehicle TAV-1
+Thumper Artillery Vehicle TAV-2 - Switched variants around?
+Marsden II - All messed up
+
+RS KLONDIKE
+Von Luckner Heavy Tank (Royal) - 1 ton underweight
+Von Luckner Heavy Tank (Star League) - Same sheet as Royal - Built based on Op:Klondike description
+
+HTP: Glengary
+Heavy Weapons Carrier (PPC) - 1 ton underweight
+
+TP: Epsilon Eridani
+Pollux II ADA Tank - Set to Experimental to handle rules change
+
+TR 3145 CapCon
+Shun Heavy Transport - Can't do Superheavy Vehicles yet
+
+TR 3145 DC
+Kamakiri Attack VTOL - SAW can't handle SuperHeavy VTOLs yet
+Kamakiri Attack VTOL (Gauss) - SAW can't handle Superheavy VTOLs yet
+Mamono IFV - SAW missing Apollo FCS - Check BV - Armor issue?
+Narukami Heavy Tank (both) - BV Issue. Hardened armor maybe?
+
+TR 3145 FS
+Sortek Assault Craft - Can't do the Armored Motive System yet - is it supposed to have a LFE?
+Zibler Strike Tank B - Can't do MG Array yet
+Hanse MBT - Can't do Supercharger yet
+Paladin Defense System - Can't do Superheavies yet
+Destrier Siege Vehicle - Can't do Supeheavies yet
+Ballista Artillery Trailer - Can't do yet, SAW issue.
+
+TR3145 FWL
+Red Kite Attack VTOL - SAW can't do chin turrets yet
+R10 Mechanized ICV Prime - SAW can't handle variable weight Infantry Compartments yet, so added second compartment, rather than upping the weight of the fixed bay.
+R10 Mechanized ICV (Coolant Truck) - 23 tons of liquid cargo has a capacity of 20.93 tons based on TM data.
+Bardiche Heavy Strike Tank - SAW is missing Vehicular Mine Dispensers; Armor factor Bug
+Bardiche Heavy Strike Tank (Minesweeper - Missing Mine Dispensers and Mine sweeper. Armor Factor Bug
+
+TR3145 LC
+DI Multipurpose VTOL - SAW can't do chin turrets yet
+DI Multipurpose VTOL (Gunship) - SAW can't do chin turrets yet
+Schildkrote Line Tank - Can't do Armored Motive System yet
+Gultopper OmniMonitor - Can't do Superheavies yet
+
+TR3145 Republic
+Hawk Moth II Gunship (All) - Can't do all variants since they require chinturrets
+Crane Heavy Transport - RS shows Star League era, fluff indicates Prior to Blackout. TRO shows Sponsons, RS does not. Went with sponsons.
+Scapha Hovertank Prime - SAW can't do supercharger
+Scapha Hovertank J - SAW can't do JJs
+
+TR3145 Clan
+Skandi - Can't do VTOL Turret Yet
+Hadur - Manufacturing fluff says FF armor, but RS and TRO show Standard armor; TR3150 talks about replacing the FF armor with reactive armor, but still shows basic Standard Armor. If switched to FF, design is 1 ton underweight.
+Aesir Medium AA Vehicle - Missing Armored Motive System
+Aesir Medium AA Vehicle (HAG) - Missing Armored Motive System
+Gurzil Support Tank - BV issue - most likely SAW Armor Factor issue
+
+NTNU
+Demon Medium Tank (Armor) - Design is half a ton under with unassigned armor points using HFF. Switched to regular FF, even though it doesn't state to.
+Condor Heavy Hover Tank (Laser Upgrade) - 3 tons underweight
+Buldog Medium Tank (Cell) - Used HFF to make it work.
+Winston Combat Vehicle (TSEMP) - 10 tons underweight. Is it supposed to have an XXL engine?
+Winston Combat Vehicle (XXL) - 2 tons underweight
+Zugvogel Omni Support Aircraft F - Support Vehicle so didn't do.
+
+NOTE
+ALL OMNIVEHICLE FILES MUST BE CHECKED, DUE TO STRANGE OVERWRITING OF DATA
+Need to go back to the OmniVehicles that were modified and check data and fix sources.
+
+
