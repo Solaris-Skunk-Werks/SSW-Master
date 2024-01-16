@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Galleon Light Tank" model="GAL-106" tons="30" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>762</battle_value>
+    <motive type="Tracked" cruise="8" turret="Single Turret" />
+    <cost>3323450.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3103</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="" techbase="0">XL Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Hardened Armor</type>
+        <front>11</front>
+        <left>10</left>
+        <right>10</right>
+        <rear>11</rear>
+        <primaryturret>14</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 27</source>
+        <info>Galleon Light Tank GAL-106 30t, 8/12, XLFE, 7.0T/39% Hrdnd Armor; 11 SHS; 2 ML, 1 BAP, 1 LPPC, 1 TAG</info>
+        <battleforce pv="8" wt="1" mv="8t" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="TAG, PRB, RCN, ENE, TUR(1/1/1)" />
+        <heatsinks number="11" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Left Sponson Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location>Right Sponson Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Ubiquitous.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

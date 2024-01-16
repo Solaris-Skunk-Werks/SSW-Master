@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Warrior Attack Helicopter" model="H-7F" tons="21" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>303</battle_value>
+    <motive type="VTOL" cruise="10" turret="No Turret" />
+    <cost>743220.0</cost>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3143</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="210" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>10</front>
+        <left>8</left>
+        <right>8</right>
+        <rear>7</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 28</source>
+        <info>Warrior Attack Helicopter H-7F 21t, 10/15, FCE, 2.0T/31% FF Armor; 1 SHS; 1 TAG, 1 UAC2, 2 SRM2iOS</info>
+        <battleforce pv="3" wt="1" mv="10v" s="1" m="1" l="1" e="0" ov="0" armor="1" internal="2" abilities="TAG, EE" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Scorpion Light Tank" model="(Hardened)" tons="25" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>477</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>617208.3333333334</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="Quikscell Company, Joint Equipment Systems, Benson and Bjorn, Hellespont Industries" location="Pandora, Layover, Kalidasa, Ares (Quikscell), Alshain (JES), Spittal (Benson and Bjorn), Sian (Hellespont)">Inner Sphere</techbase>
+    <year restricted="FALSE">3130</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="100" manufacturer="SitiCide" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="ProtecTech Light" techbase="2">
+        <type>Hardened Armor</type>
+        <front>16</front>
+        <left>11</left>
+        <right>11</right>
+        <rear>10</rear>
+        <primaryturret>16</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>Scorpion Light Tank (Hardened) 25t Tracked, 4/6, FCE, 8.0T/50% Hrdnd Armor; 1 SHS; 1 MG, 1 CASE, 1 LAC5</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="5" wt="1" mv="4t" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="CASE, EE, TUR(1/1/0)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Basix 200</commsystem>
+        <tandtsystem>OptiSight-12</tandtsystem>
+    </fluff>
+</combatvehicle>

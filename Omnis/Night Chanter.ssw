@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Night Chanter" model="" tons="45" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>5291237.5</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">2865</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="225" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>22</ct>
+        <ctr>5</ctr>
+        <lt>18</lt>
+        <ltr>4</ltr>
+        <rt>18</rt>
+        <rtr>4</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>20</ll>
+        <rl>20</rl>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TP:Foster</source>
+        <info>Night Chanter 45t, 5/8/0, Std FE, Std; 7.5T/94% FF Armor; 14 DHS</info>
+        <battleforce pv="7" wt="2" mv="5" s="0" m="0" l="0" e="0" ov="0" armor="5" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="0">LT</location>
+            <location index="2">LT</location>
+            <location index="0">RT</location>
+            <location index="2">RT</location>
+            <location index="4">RT</location>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TP:Foster</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2865</loadout_year>
+        <info>Night Chanter  Prime 45t, 5/8/0, Std FE, Std; 7.5T/94% FF Armor; 14 DHS; 1 ERLL, 2 ERSL, 1 MPL, 1 LPL</info>
+        <battleforce pv="16" wt="2" mv="5" s="4" m="4" l="3" e="0" ov="0" armor="5" internal="4" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1645</battle_value>
+        <cost>5014643.75</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>TP:Foster</source>
+        <loadout_era>1</loadout_era>
+        <loadout_productionera>2</loadout_productionera>
+        <loadout_year>2865</loadout_year>
+        <info>Night Chanter  A 45t, 5/8/0, Std FE, Std; 7.5T/94% FF Armor; 14 DHS; 2 APod, 1 ERML, 2 MG, 1 ERPPC, 1 LRM10</info>
+        <battleforce pv="16" wt="2" mv="5" s="4" m="3" l="3" e="0" ov="0" armor="5" internal="4" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <battle_value>1604</battle_value>
+        <cost>5291237.5</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">A-Pod</name>
+            <type>equipment</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">A-Pod</name>
+            <type>equipment</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

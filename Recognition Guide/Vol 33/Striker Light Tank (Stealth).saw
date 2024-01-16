@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Striker Light Tank" model="(Stealth)" tons="35" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>684</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>2405250.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3130</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="175" manufacturer="" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Vehicle Stealth Armor</type>
+        <front>24</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>18</rear>
+        <primaryturret>22</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>Striker Light Tank (Stealth) 35t Wheeled, 5/8, LFE, 6.5T/64% V Stlth Armor; 10 SHS; 1 ECM, 1 SRM6, 1 CASE, 2 MML5</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="7" wt="1" mv="5w" s="2" m="2" l="1" e="0" ov="0" armor="3" internal="2" abilities="ECM, STL, CASE, TUR(2/2/1, SRM 2/2/1), SRM 2/1/0, IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) MML-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

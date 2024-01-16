@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Galleon Light Tank" model="C" tons="30" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>633</battle_value>
+    <motive type="Tracked" cruise="6" turret="Single Turret" />
+    <cost>800450.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Clan</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Standard Armor</type>
+        <front>20</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>18</rear>
+        <primaryturret>22</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 27</source>
+        <info>Galleon Light Tank C 30t, 6/9, FCE, 6.0T/66% Armor; 1 SHS; 2 MCL, 1 LCL, 1 CASE</info>
+        <battleforce pv="6" wt="1" mv="6t" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="2" abilities="CASE, ENE, EE, TUR(1/1/0)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

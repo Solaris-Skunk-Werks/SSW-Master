@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="LRM Carrier C" model="" tons="60" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1266</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>2040000.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Clan</techbase>
+    <year restricted="FALSE">3106</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Hardened Armor</type>
+        <front>12</front>
+        <left>12</left>
+        <right>12</right>
+        <rear>12</rear>
+        <primaryturret>12</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 30</source>
+        <info>LRM Carrier C 60t, 4/6, ICE, 7.5T/24% Hrdnd Armor; 0 SHS; 3 LRM20</info>
+        <clancase>TRUE</clancase>
+        <battleforce pv="13" wt="3" mv="4t" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="3" abilities="CASE, EE, TUR(3/3/3, LRM 3/3/3, IF 3/3/3), LRM 3/3/3, IF 3" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

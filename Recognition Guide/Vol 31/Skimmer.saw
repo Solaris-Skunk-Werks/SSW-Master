@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Skimmer" model="" tons="5" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>86</battle_value>
+    <motive type="Hovercraft" cruise="17" turret="No Turret" />
+    <cost>64625.00000000001</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">2577</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="85" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Standard Armor</type>
+        <front>3</front>
+        <left>2</left>
+        <right>2</right>
+        <rear>1</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 31</source>
+        <info>Skimmer 5t, 17/26, Std FE, 0.5T/14% Armor; 10 SHS; 1 Flmr, 1 SL</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="1" wt="1" mv="17h" s="1" m="0" l="0" e="0" ov="0" armor="0" internal="0" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Flamer</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

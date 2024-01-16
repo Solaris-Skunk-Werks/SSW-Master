@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hetzer Wheeled Assault Gun" model="C" tons="40" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1051</battle_value>
+    <motive type="Wheeled" cruise="4" turret="No Turret" />
+    <cost>1078000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Clan</techbase>
+    <year restricted="FALSE">3107</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="160" manufacturer="" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <front>34</front>
+        <left>27</left>
+        <right>27</right>
+        <rear>27</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 29</source>
+        <info>Hetzer Wheeled Assault Gun C 40t, 4/6, ICE, 6.0T/64% FF Armor; 0 SHS; 1 HAG30</info>
+        <battleforce pv="11" wt="2" mv="4w" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="EE, FLK 2/2/2" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 30</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 30</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Narrow/Low Profile, Bad Reputation, Poor Workmanship.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

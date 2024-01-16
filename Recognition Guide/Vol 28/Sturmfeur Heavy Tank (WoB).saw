@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Sturmfeur Heavy Tank" model="(WoB)" tons="85" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1596</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>1.261975E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3075</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="255" manufacturer="" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>69</front>
+        <left>66</left>
+        <right>66</right>
+        <rear>50</rear>
+        <primaryturret>66</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 28</source>
+        <info>Sturmfeur Heavy Tank (WoB) 85t, 3/5, LFE, 16.0T/94% HFF Armor; 10 SHS; 1 C3I, 2 ERML, 2 MML9, 1 TAG, 1 LRM20, 1 CASE, 4 BPod</info>
+        <battleforce pv="16" wt="4" mv="3t" s="5" m="5" l="3" e="0" ov="0" armor="11" internal="5" abilities="TAG, C3I, CASE, MHQ2, TUR(4/4/2, SRM 3/2/1, LRM 3/2/1, IF 3/2/1), SRM 3/1/0, LRM 0/1/1, IF 3" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">B-Pod</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">B-Pod</name>
+            <type>equipment</type>
+            <location>Left</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">B-Pod</name>
+            <type>equipment</type>
+            <location>Right</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) B-Pod</name>
+            <type>equipment</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-9</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Improved C3 Computer</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (SRM Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-9 (LRM Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

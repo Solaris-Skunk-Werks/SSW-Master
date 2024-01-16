@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Harasser Missile Platform" model="(Marian)" tons="25" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>448</battle_value>
+    <motive type="Hovercraft" cruise="10" turret="Single Turret" />
+    <cost>698000.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3130</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="250" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>9</front>
+        <left>9</left>
+        <right>9</right>
+        <rear>8</rear>
+        <primaryturret>9</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>Harasser Missile Platform (Marian) 25t Hovercraft, 10/15, FCE, 2.5T/35% FF Armor; 1 SHS; 1 MRM20, 1 TAG</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="4" wt="1" mv="10h" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="2" abilities="TAG, EE, TUR(2/2/0)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) MRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

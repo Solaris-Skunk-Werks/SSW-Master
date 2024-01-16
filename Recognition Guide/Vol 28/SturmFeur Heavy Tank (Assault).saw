@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="SturmFeur Heavy Tank" model="(Assault)" tons="85" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2199</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>1.2247875E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Mixed</techbase>
+    <year restricted="FALSE">3150</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="255" manufacturer="" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>69</front>
+        <left>66</left>
+        <right>66</right>
+        <rear>50</rear>
+        <primaryturret>66</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 28</source>
+        <info>SturmFeur Heavy Tank (Assault) 85t, 3/5, LFE, 16.0T/94% HFF Armor; 10 SHS; 1 ECM, 1 ERML, 1 LRM10, 1 iHGR, 1 LRM20, 1 CASE</info>
+        <battleforce pv="22" wt="4" mv="3t" s="5" m="6" l="5" e="0" ov="0" armor="11" internal="5" abilities="CASE, ECM, TUR(2/2/1), IF 2" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Improved Heavy Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Devastator" model="DVS-11" tons="100" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>3188</battle_value>
+    <cost>3.4299E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3146</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Composite</type>
+        <location index="4">LL</location>
+        <location index="4">RL</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="0">Compact Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>MASC</type>
+        <location index="7">RT</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>47</ct>
+        <ctr>12</ctr>
+        <lt>30</lt>
+        <ltr>10</ltr>
+        <rt>30</rt>
+        <rtr>10</rtr>
+        <la>34</la>
+        <ra>34</ra>
+        <ll>40</ll>
+        <rl>40</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 28</source>
+        <info>Devastator DVS-11 100t, 3/5[8]/0 MASC, XLFE, E-Comp, Cmp Gyro; 18.5T/96% Armor; 12 DHS; 2 SNPPC, 2 ERML, 2 GR, 2 ERSL</info>
+        <battleforce pv="32" wt="4" mv="5" s="5" m="5" l="3" e="0" ov="2" armor="10" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

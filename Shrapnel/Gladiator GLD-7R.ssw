@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Gladiator" model="GLD-7R" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1890</battle_value>
+    <cost>1.065799E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3120</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="220" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="0">Extra-Light Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <enhancement techbase="0">
+        <type>TSM</type>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+        <location index="10">RA</location>
+    </enhancement>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Hardened Armor</type>
+        <hd>9</hd>
+        <ct>19</ct>
+        <ctr>6</ctr>
+        <lt>15</lt>
+        <ltr>6</ltr>
+        <rt>15</rt>
+        <rtr>6</rtr>
+        <la>12</la>
+        <ra>12</ra>
+        <ll>16</ll>
+        <rl>16</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <info>Gladiator GLD-7R 55t, 4[5]/6[7]/6 TSM, LFE, Std, XL Gyro; 16.5T/71% Hrdnd Armor; 10 DHS; 1 PR, 2 ERML, 2 ERSL, 1 SRM4</info>
+        <battleforce pv="19" wt="2" mv="4/6j" s="3" m="3" l="0" e="0" ov="1" armor="9" internal="3" abilities="TSM, CASEII, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Improved Jump Jet</type>
+            <location index="2">RT</location>
+            <location index="8">LT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="10">LT</location>
+            <location index="4">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="5">LT</location>
+            <location index="2">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) CASE II</name>
+            <type>CASEII</type>
+            <location index="10">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Cowl</Name>
+                <Cost>4</Cost>
+                <Description>BattleMechs like the Cyclops have been outfitted with a protective cowl that provides an additional 3 points of head armor against all attacks except those that originate along the row of hexes directly infront of the cowled `Mech.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

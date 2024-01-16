@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Nightsky" model="NGS-7S" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1591</battle_value>
+    <cost>9865500.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3142</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="300" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>23</ct>
+        <ctr>6</ctr>
+        <lt>18</lt>
+        <ltr>5</ltr>
+        <rt>18</rt>
+        <rtr>5</rtr>
+        <la>15</la>
+        <ra>15</ra>
+        <ll>22</ll>
+        <rl>22</rl>
+        <location index="3">LT</location>
+        <location index="3">RT</location>
+        <location index="4">LT</location>
+        <location index="4">RT</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <info>Nightsky NGS-7S 50t, 6/9/6, XLFE, Std; 8.0T/93% HFF Armor; 13 DHS; 2 ERML, 1 LXPL, 1 Htcht, 1 SXPL</info>
+        <battleforce pv="16" wt="2" mv="6j" s="3" m="3" l="0" e="0" ov="0" armor="5" internal="3" abilities="MEL, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="11">CT</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LA</location>
+        </heatsinks>
+        <arm_aes location="RA" index="8"/>
+        <equipment>
+            <name manufacturer="">(IS) Large X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Hatchet</name>
+            <type>physical</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Merlin" model="MLN-1D" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1370</battle_value>
+    <cost>5476900.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3090</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>26</ct>
+        <ctr>11</ctr>
+        <lt>18</lt>
+        <ltr>8</ltr>
+        <rt>18</rt>
+        <rtr>8</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 26</source>
+        <info>Merlin MLN-1D 60t, 4/6/4, Std FE, Std; 10.5T/84% Armor; 13 DHS; 1 Flmr, 1 HMG, 1 PPC, 1 LRM5, 2 LPPC</info>
+        <battleforce pv="14" wt="3" mv="4j" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="3">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) PPC</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="10">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

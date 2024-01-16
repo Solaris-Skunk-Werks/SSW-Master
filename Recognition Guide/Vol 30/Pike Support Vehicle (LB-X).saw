@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Pike Support Vehicle" model="(LB-X)" tons="60" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>862</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>2655600.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3134</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>42</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>28</rear>
+        <primaryturret>40</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 30</source>
+        <info>Pike Support Vehicle (LB-X) 60t, 3/5, FCE, 9.5T/68% FF Armor; 1 SHS; 3 LB5, 1 CASE, 2 SRM2</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="9" wt="3" mv="3t" s="2" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="CASE, EE, TUR(1/1/1), FLK 1/1/1" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LB 5-X AC</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-2</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LB 5-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

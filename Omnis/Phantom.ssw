@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Phantom" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Phantom" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Phantom.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <cost>1.11782875E7</cost>
+    <cost>1.10761E7</cost>
     <rules_level>1</rules_level>
     <era>2</era>
     <productionera>0</productionera>
@@ -59,7 +59,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Phantom  Prime 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ECM, 1 ERML, 1 BAP, 1 ERSL, 1 LRM5, 1 TAG</info>
         <battleforce pv="12" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, TAG, PRB, RCN, CASE, SRCH, ES, SEAL, SOA" />
@@ -106,7 +106,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Phantom  A 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERML, 5 ERSL, 2 LRM5</info>
         <battleforce pv="14" wt="2" mv="9" s="4" m="4" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -163,7 +163,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Phantom  B 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERML, 1 BAP, 1 ERSL, 2 SRM4</info>
         <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
@@ -210,7 +210,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Phantom  C 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 Flmr, 1 ERML, 8 ERSL, TC</info>
         <battleforce pv="16" wt="2" mv="9" s="6" m="6" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -277,7 +277,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3052</loadout_year>
         <info>Phantom  D 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 SSRM4, 3 ERML, 1 ERSL</info>
         <battleforce pv="16" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -378,10 +378,79 @@
             <location index="4">LT</location>
         </equipment>
     </loadout>
+    <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3055Uu</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3068</loadout_year>
+        <info>Phantom  F 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ECM, 2 ERML, 1 Hflmr, 1 HML</info>
+        <battleforce pv="14" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1375</battle_value>
+        <cost>1.09752875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Heavy Flamer</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Flamer</name>
+            <type>ammunition</type>
+            <location index="4">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3090</loadout_year>
+        <info>Phantom  G 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 PrmAC4, 1 ERML</info>
+        <battleforce pv="10" wt="2" mv="9" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>975</battle_value>
+        <cost>1.052265E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Protomech AC/4</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Protomech AC/4</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+    </loadout>
     <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
+        <loadout_productionera>6</loadout_productionera>
         <loadout_year>3062</loadout_year>
         <info>Phantom  H 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 Flmr, 1 MPL, 6 HSL, TC</info>
         <battleforce pv="12" wt="2" mv="9" s="5" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -435,46 +504,227 @@
             <location index="10">CT</location>
         </equipment>
     </loadout>
-    <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
-        <loadout_year>3068</loadout_year>
-        <info>Phantom  F 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ECM, 2 ERML, 1 Hflmr, 1 HML</info>
-        <battleforce pv="14" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1375</battle_value>
-        <cost>1.09752875E7</cost>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3141</loadout_year>
+        <info>Phantom  I 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 LTAG, 1 iHLL, 1 ERML, TC</info>
+        <battleforce pv="17" wt="2" mv="9" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, LTAG, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1713</battle_value>
+        <cost>1.10761E7</cost>
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
         <clancase>TRUE</clancase>
         <equipment>
-            <name manufacturer="">ECM Suite</name>
-            <type>equipment</type>
-            <location index="10">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="2">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Heavy Flamer</name>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
             <type>energy</type>
             <location index="3">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Heavy Flamer</name>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light TAG</name>
+            <type>equipment</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="J" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3141</loadout_year>
+        <info>Phantom  J 40t, 9/14[18]/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 iHML, 3 ERML, 1 ERSL</info>
+        <battleforce pv="19" wt="2" mv="11" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1902</battle_value>
+        <cost>1.71507875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="K" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3141</loadout_year>
+        <info>Phantom  K 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 WDCEWS, 1 ERLL, TC</info>
+        <battleforce pv="14" wt="2" mv="9" s="2" m="2" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, WAT, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1387</battle_value>
+        <cost>1.14842E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="L" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Phantom  L 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 PC, 3 APGR</info>
+        <battleforce pv="12" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA" />
+        <battle_value>1178</battle_value>
+        <cost>1.07726E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="5">RA</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Phantom  R 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 2 ML, 2 iHML, 1 SRM6</info>
+        <battleforce pv="14" wt="2" mv="9" s="4" m="4" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1365</battle_value>
+        <cost>1.11556E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
             <type>ammunition</type>
             <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Phantom  T 40t, 9/14/0, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERSL, 1 McPL, 1 LRM5, 1 ERMPL</info>
+        <battleforce pv="11" wt="2" mv="9" s="2" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1138</battle_value>
+        <cost>1.10926625E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LRM-5</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Micro Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-5 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="6">LA</location>
         </equipment>
     </loadout>
     <fluff>
@@ -484,7 +734,7 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>&lt;p style=&quot;margin-top: 0&quot;&gt;:br::br:&lt;/p&gt;</additional>
+        <additional>&lt;p style=&apos;margin-top: 0&apos;&gt;:br::br:&lt;/p&gt;</additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

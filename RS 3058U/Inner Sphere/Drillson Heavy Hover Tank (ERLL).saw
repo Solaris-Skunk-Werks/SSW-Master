@@ -6,7 +6,7 @@
     <cost>2608833.333333333</cost>
     <rules_level>1</rules_level>
     <era>1</era>
-    <productionera>3</productionera>
+    <productionera>4</productionera>
     <techbase manufacturer="Cyclops Incorporated" location="New Earth">Inner Sphere</techbase>
     <year restricted="TRUE">3039</year>
     <structure manufacturer="" techbase="2">

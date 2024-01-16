@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Pegasus Scout Hover Tank" model="X" tons="35" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1119</battle_value>
+    <motive type="Hovercraft" cruise="11" turret="Single Turret" />
+    <cost>1.194805E7</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>7</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3073</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="385" manufacturer="" techbase="0">XL Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>24</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>11</rear>
+        <primaryturret>18</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>XTRKurita</source>
+        <info>Pegasus Scout Hover Tank X 35t, 11/17[22], XLFE, 4.5T/55% HFF Armor; 12 SHS; 1 C3S, 2 MXPL, 1 SuperC, 1 SSRM6</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="11" wt="1" mv="11h" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="C3S, TUR(3/3/0)" />
+        <heatsinks number="12" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium X-Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">Supercharger</name>
+            <type>Supercharger</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

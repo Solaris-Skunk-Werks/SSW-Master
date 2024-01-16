@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hetzer Wheeled Assault Gun" model="(Cell)" tons="40" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>900</battle_value>
+    <motive type="Wheeled" cruise="5" turret="No Turret" />
+    <cost>1211600.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3090</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="200" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Standard Armor</type>
+        <front>32</front>
+        <left>24</left>
+        <right>24</right>
+        <rear>24</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 29</source>
+        <info>Hetzer Wheeled Assault Gun (Cell) 40t, 5/8, FCE, 6.5T/58% Armor; 1 SHS; 1 UAC20</info>
+        <battleforce pv="9" wt="2" mv="5w" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="EE" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional>Notes: Features the following Design Quirks: Narrow/Low Profile, Bad Reputation, Poor Workmanship.</additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

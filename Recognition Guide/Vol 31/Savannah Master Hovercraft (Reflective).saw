@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Savannah Master Hovercraft" model="(Reflective)" tons="5" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>294</battle_value>
+    <motive type="Hovercraft" cruise="13" turret="No Turret" />
+    <cost>168666.66666666666</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3094</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="65" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Laser-Reflective</type>
+        <front>10</front>
+        <left>6</left>
+        <right>6</right>
+        <rear>2</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 31</source>
+        <info>Savannah Master Hovercraft (Reflective) 5t, 13/20, Std FE, 1.5T/42% LsrRflc Armor; 10 SHS; 1 ERML</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="3" wt="1" mv="13h" s="1" m="1" l="0" e="0" ov="0" armor="1" internal="0" abilities="ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

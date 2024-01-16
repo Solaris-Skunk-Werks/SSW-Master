@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Condor Heavy Hover Tank" model="(Ultra)" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1252</battle_value>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>2978333.3333333335</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Mixed</techbase>
+    <year restricted="FALSE">3113</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="450" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Laser-Reflective</type>
+        <front>30</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>16</rear>
+        <primaryturret>22</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 26</source>
+        <info>Condor Heavy Hover Tank (Ultra) 50t, 9/14, FCE, 6.5T/48% LsrRflc Armor; 1 SHS; 1 UAC/10, 2 MCL, 1 TAG, 1 AMS, 1 CASE</info>
+        <battleforce pv="13" wt="2" mv="9h" s="3" m="3" l="2" e="0" ov="0" armor="3" internal="3" abilities="AMS, TAG, CASE, EE, TUR(3/3/2)" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

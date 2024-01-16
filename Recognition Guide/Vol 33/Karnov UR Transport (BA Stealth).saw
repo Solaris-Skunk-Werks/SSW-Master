@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Karnov UR Transport" model="(BA Stealth)" tons="30" motive="VTOL" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>233</battle_value>
+    <motive type="VTOL" cruise="11" turret="No Turret" />
+    <cost>3510000.0</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3130</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="330" manufacturer="" techbase="0">Light Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Vehicle Stealth Armor</type>
+        <front>10</front>
+        <left>7</left>
+        <right>7</right>
+        <rear>6</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>Karnov UR Transport (BA Stealth) 30t VTOL, 11/17, LFE, 2.0T/22% V Stlth Armor; 10 SHS; 1 ECM, 1 InfBay</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="2" wt="1" mv="11v" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="2" abilities="ECM, STL, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">Infantry Bay</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>10.0</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

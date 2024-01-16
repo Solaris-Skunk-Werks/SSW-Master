@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="SM5 Field Commander" model="(Prototype)" tons="50" motive="Hovercraft" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Hovercraft" cruise="9" turret="Single Turret" />
+    <cost>8110416.666666666</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>11</productionera>
+    <techbase manufacturer="Refit" location="None">Mixed</techbase>
+    <year restricted="FALSE">3151</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="450" manufacturer="Type" techbase="1">XL Engine</engine>
+    <armor manufacturer="Durallex" techbase="0">
+        <type>Ballistic-Reinforced Armor</type>
+        <front>24</front>
+        <left>19</left>
+        <right>19</right>
+        <rear>15</rear>
+        <primaryturret>19</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.5" >
+        <source>Shrapnel #5</source>
+        <info>SM5 Field Commander (Prototype) 50t, 9/14, XLFE, 8.0T/45% B-R Armor; 10 SHS</info>
+        <battleforce pv="4" wt="2" mv="9h" s="0" m="0" l="0" e="0" ov="0" armor="3" internal="3" abilities="OMNI, ENE, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>Shrapnel #5</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3151</loadout_year>
+        <info>SM5 Field Commander (Prototype) Prime 50t, 9/14, XLFE, 8.0T/45% B-R Armor; 10 SHS; 1 ERML, 1 SuperC, 1 TAG, 1 UAC20</info>
+        <battleforce pv="21" wt="2" mv="9h" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="3" abilities="OMNI, TAG, TUR(1/1/0)" />
+        <battle_value>2119</battle_value>
+        <cost>2.0465416666666664E7</cost>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">TAG</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">Supercharger</name>
+            <type>Supercharger</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem>Unit 2J2 &apos;Basher&apos;</commsystem>
+        <tandtsystem>Able-Seven</tandtsystem>
+    </fluff>
+</combatvehicle>

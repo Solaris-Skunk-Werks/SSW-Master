@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Skulker Wheeld Scout Tank" model="C" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>445</battle_value>
+    <motive type="Wheeled" cruise="9" turret="No Turret" />
+    <cost>1293166.666666667</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>8</productionera>
+    <techbase manufacturer="" location="">Mixed</techbase>
+    <year restricted="FALSE">3087</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="180" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Vehicle Stealth Armor</type>
+        <front>18</front>
+        <left>18</left>
+        <right>18</right>
+        <rear>18</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 28</source>
+        <info>Skulker Wheeld Scout Tank C 20t, 9/14, Std FE, 4.5T/65% V Stlth Armor; 10 SHS; 1 WDCEWS, 1 MCL, 1 CASE</info>
+        <battleforce pv="4" wt="1" mv="9w" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="1" abilities="ECM, STL, WAT, CASE, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Watchdog CEWS</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

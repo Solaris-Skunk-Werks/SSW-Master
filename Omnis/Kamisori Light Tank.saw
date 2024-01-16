@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Kamisori Light Tank" model="" tons="20" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Tracked" cruise="6" turret="Single Turret" />
+    <cost>495000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3103</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="120" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>30</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>10</rear>
+        <primaryturret>29</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.5" >
+        <source>RGiC 27</source>
+        <info>Kamisori Light Tank 20t, 6/9, Std FE, 5.5T/99% HFF Armor; 10 SHS</info>
+        <battleforce pv="4" wt="1" mv="6t" s="0" m="0" l="0" e="0" ov="0" armor="4" internal="1" abilities="OMNI, ENE, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3103</loadout_year>
+        <info>Kamisori Light Tank  Prime 20t, 6/9, Std FE, 5.5T/99% HFF Armor; 10 SHS; 1 LL</info>
+        <battleforce pv="5" wt="1" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="1" abilities="OMNI, ENE, TUR(1/1/0)" />
+        <battle_value>536</battle_value>
+        <cost>645000.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3103</loadout_year>
+        <info>Kamisori Light Tank  A 20t, 6/9, Std FE, 5.5T/99% HFF Armor; 10 SHS; 1 TC, 1 LPPC, TC</info>
+        <battleforce pv="6" wt="1" mv="6t" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="1" abilities="OMNI, ENE, TUR(1/1/1)" />
+        <battle_value>599</battle_value>
+        <cost>960000.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) Light PPC + PPC Capacitor</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3103</loadout_year>
+        <info>Kamisori Light Tank  B 20t, 6/9, Std FE, 5.5T/99% HFF Armor; 10 SHS; 1 SuperC, 1 MVSPL</info>
+        <battleforce pv="5" wt="1" mv="6t" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="1" abilities="OMNI, ENE, TUR(2/1/0)" />
+        <battle_value>461</battle_value>
+        <cost>4395000.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">Supercharger</name>
+            <type>Supercharger</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>9</loadout_productionera>
+        <loadout_year>3103</loadout_year>
+        <info>Kamisori Light Tank  C 20t, 6/9, Std FE, 5.5T/99% HFF Armor; 10 SHS; 1 ECM, 1 C3S, 1 ERML, 1 BAP</info>
+        <battleforce pv="5" wt="1" mv="6t" s="1" m="1" l="0" e="0" ov="0" armor="4" internal="1" abilities="OMNI, C3S, PRB, RCN, ECM, ENE, TUR(1/1/0)" />
+        <battle_value>527</battle_value>
+        <cost>1590000.0</cost>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">C3 Computer (Slave)</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Guardian ECM Suite</name>
+            <type>equipment</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="R" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 27</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3103</loadout_year>
+        <info>Kamisori Light Tank  R 20t, 6/9, Std FE, 5.5T/99% HFF Armor; 10 SHS; 1 PC</info>
+        <battleforce pv="7" wt="1" mv="6t" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="1" abilities="OMNI, ENE, HT1, TUR(1/1/1)" />
+        <techbase>Mixed</techbase>
+        <battle_value>669</battle_value>
+        <cost>999000.0</cost>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

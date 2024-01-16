@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Desert Scorpion Light Tank" model="" tons="25" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>554</battle_value>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>604666.6666666667</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>5</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3055</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="125" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Standard Armor</type>
+        <front>32</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>20</rear>
+        <primaryturret>20</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>Desert Scorpion Light Tank 25t Tracked, 5/8, Std FE, 7.0T/88% Armor; 10 SHS; 2 MG, 1 CASE, 1 LL</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="6" wt="1" mv="5t" s="2" m="1" l="0" e="0" ov="0" armor="4" internal="2" abilities="CASE, TUR(1/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

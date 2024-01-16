@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Pouncer" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Pouncer" model="" tons="40" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="K:\CBT\Record Sheets\Mech Images\Pouncer.JPG">
     <ssw_savefile_version>3</ssw_savefile_version>
     <cost>8755687.5</cost>
     <rules_level>1</rules_level>
@@ -70,7 +70,7 @@
     <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Pouncer  Prime 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERSL, 2 ERPPC, TC</info>
         <battleforce pv="26" wt="2" mv="6/3j" s="3" m="3" l="3" e="0" ov="1" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
@@ -102,7 +102,7 @@
     <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Pouncer  A 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 2 LRM15, 4 ERML, 1 ERSL</info>
         <battleforce pv="21" wt="2" mv="6/3j" s="4" m="4" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, LRM 1/1/1, IF 1" />
@@ -169,7 +169,7 @@
     <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Pouncer  B 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 2 ERLL, 1 LRM10, 2 SRM4</info>
         <battleforce pv="18" wt="2" mv="6/3j" s="3" m="3" l="2" e="0" ov="1" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 1" />
@@ -221,7 +221,7 @@
     <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Pouncer  C 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 UAC/10, 2 ERML, 3 ERSL</info>
         <battleforce pv="17" wt="2" mv="6/3j" s="5" m="5" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -273,7 +273,7 @@
     <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3050</loadout_year>
         <info>Pouncer  D 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 6 ERML, 1 ERSL, 2 SSRM6, TC</info>
         <battleforce pv="22" wt="2" mv="6/3j" s="5" m="5" l="0" e="0" ov="2" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -340,7 +340,7 @@
     <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>4</loadout_productionera>
+        <loadout_productionera>5</loadout_productionera>
         <loadout_year>3061</loadout_year>
         <info>Pouncer  E 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 2 ERMcL, 1 ERML, 2 ATM9</info>
         <battleforce pv="16" wt="2" mv="6/3j" s="6" m="4" l="2" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
@@ -394,73 +394,10 @@
             <location index="7">RT</location>
         </equipment>
     </loadout>
-    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3055Uu</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>5</loadout_productionera>
-        <loadout_year>3062</loadout_year>
-        <info>Pouncer  H 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 15 DHS; 2 SSRM6, 4 HML, 1 HSL, TC</info>
-        <battleforce pv="18" wt="2" mv="6/3j" s="6" m="5" l="0" e="0" ov="2" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
-        <battle_value>1784</battle_value>
-        <cost>8979000.0</cost>
-        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
-        <clancase>TRUE</clancase>
-        <heatsinks number="15" techbase="1">
-            <type>Double Heat Sink</type>
-            <location index="2">LA</location>
-            <location index="4">LT</location>
-            <location index="2">RA</location>
-        </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="6">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Heavy Small Laser</name>
-            <type>energy</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Streak SRM-6</name>
-            <type>missile</type>
-            <location index="6">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Streak SRM-6</name>
-            <type>missile</type>
-            <location index="6">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
-            <type>ammunition</type>
-            <location index="8">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Targeting Computer</name>
-            <type>TargetingComputer</type>
-            <location index="8">LT</location>
-        </equipment>
-    </loadout>
     <loadout name="F" ruleslevel="2" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3055Uu</source>
         <loadout_era>2</loadout_era>
-        <loadout_productionera>6</loadout_productionera>
+        <loadout_productionera>7</loadout_productionera>
         <loadout_year>3069</loadout_year>
         <info>Pouncer  F 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 PC, 1 RSnsDisp, 1 ERML, 2 ERFlmr, 1 BAP, 2 Hflmr</info>
         <battleforce pv="13" wt="2" mv="6/3j" s="3" m="3" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, PRB, RCN, ENE, HT2, SRCH, ES, SEAL, SOA" />
@@ -534,6 +471,338 @@
             <location index="8">LA</location>
         </equipment>
     </loadout>
+    <loadout name="G" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 25</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Pouncer  G 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 3 iHML, 3 MPL, 4 SRM4</info>
+        <battleforce pv="18" wt="2" mv="6/3j" s="5" m="5" l="0" e="0" ov="2" armor="4" internal="2" abilities="OMNI, CASEII, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <battle_value>1808</battle_value>
+        <cost>9691250.0</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="6">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="H" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3055Uu</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3062</loadout_year>
+        <info>Pouncer  H 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 15 DHS; 2 SSRM6, 4 HML, 1 HSL, TC</info>
+        <battleforce pv="18" wt="2" mv="6/3j" s="6" m="5" l="0" e="0" ov="2" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1784</battle_value>
+        <cost>8979000.0</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LA</location>
+            <location index="4">LT</location>
+            <location index="2">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RGiC 25</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Pouncer  I 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 1 ERLPL, 1 LRM20</info>
+        <battleforce pv="18" wt="2" mv="6/3j" s="3" m="3" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battle_value>1781</battle_value>
+        <cost>9746000.0</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 25</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Pouncer  T 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 12 DHS; 2 PR, 1 ERSL</info>
+        <battleforce pv="16" wt="2" mv="6/3j" s="3" m="3" l="0" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, HT1, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1573</battle_value>
+        <cost>8593187.5</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="W" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 25</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>8</loadout_productionera>
+        <loadout_year>3089</loadout_year>
+        <info>Pouncer  W 40t, 6/9/5, XLFE, ES; 6.0T/84% FF Armor; 14 DHS; 1 HML, 2 LPL</info>
+        <battleforce pv="17" wt="2" mv="6/3j" s="4" m="4" l="3" e="0" ov="0" armor="4" internal="2" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>1719</battle_value>
+        <cost>8442000.0</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LT</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+    </loadout>
+    <loadout name="X" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 25</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Pouncer  X 40t, 6/9[12]/5, XLFE, ES; 6.0T/84% FF Armor; 16 DHS; 1 LAMS, 1 Lnc, 7 iHSL, 1 PC</info>
+        <battleforce pv="15" wt="2" mv="8/3j" s="6" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="OMNI, AMS, MEL, ENE, HT1, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>1455</battle_value>
+        <cost>1.331025E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="5">RA</location>
+            <location index="4">LT</location>
+            <location index="7">RA</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Small Laser</name>
+            <type>energy</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Laser Anti-Missile System</name>
+            <type>equipment</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Lance</name>
+            <type>physical</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
     <fluff>
         <overview></overview>
         <capabilities></capabilities>
@@ -541,7 +810,19 @@
         <deployment></deployment>
         <variants></variants>
         <notables></notables>
-        <additional>&lt;p style=&quot;margin-top: 0&quot;&gt;:br::br:&lt;/p&gt;</additional>
+        <additional></additional>
+        <quirks>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
+                <Name>Weak Head Armor</Name>
+                <Cost>0</Cost>
+                <Description>The Value of this quirk is equal to the number of armor points effectively lost.</Description>
+            </quirk>
+            <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
+                <Name>Weak Head Armor</Name>
+                <Cost>0</Cost>
+                <Description>The Value of this quirk is equal to the number of armor points effectively lost.</Description>
+            </quirk>
+        </quirks>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

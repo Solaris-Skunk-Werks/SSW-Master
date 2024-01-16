@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Eurus MBT" model="" tons="60" motive="Tracked" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="Tracked" cruise="5" turret="Single Turret" />
+    <cost>2.38175E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Clan</techbase>
+    <year restricted="FALSE">3147</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="300" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="" techbase="1">
+        <type>Ferro-Lamellor</type>
+        <front>42</front>
+        <left>33</left>
+        <right>33</right>
+        <rear>20</rear>
+        <primaryturret>33</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="2.0" >
+        <source>RGiC 29</source>
+        <info>Eurus MBT 60t, 5/8, XLFE, 11.5T/64% FL Armor; 10 SHS</info>
+        <battleforce pv="7" wt="3" mv="5t" s="0" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ENE, TUR()" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 29</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Eurus MBT  Prime 60t, 5/8, XLFE, 11.5T/64% FL Armor; 10 SHS; 1 GR, 3 MG, 1 AMS, 1 LPL</info>
+        <battleforce pv="17" wt="3" mv="5t" s="3" m="3" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, AMS, TUR(3/3/3)" />
+        <battle_value>1654</battle_value>
+        <cost>1.18275E7</cost>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 29</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Eurus MBT  A 60t, 5/8, XLFE, 11.5T/64% FL Armor; 10 SHS; 1 TC, 5 ERSL, 1 SuperC, 1 UAC20, TC</info>
+        <battleforce pv="19" wt="3" mv="5t" s="7" m="7" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, TUR(7/7/0)" />
+        <battle_value>1939</battle_value>
+        <cost>2.38175E7</cost>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">Supercharger</name>
+            <type>Supercharger</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 29</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Eurus MBT  B 60t, 5/8, XLFE, 11.5T/64% FL Armor; 10 SHS; 2 ERML, 1 HAG40</info>
+        <battleforce pv="21" wt="3" mv="5t" s="5" m="4" l="3" e="0" ov="0" armor="6" internal="3" abilities="OMNI, TUR(5/4/3, FLK 3/2/2), FLK 3/2/2" />
+        <battle_value>2147</battle_value>
+        <cost>1.2275E7</cost>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 29</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Eurus MBT  C 60t, 5/8, XLFE, 11.5T/64% FL Armor; 10 SHS; 1 iHML, 2 APGR, 2 ATM12</info>
+        <battleforce pv="19" wt="3" mv="5t" s="8" m="6" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, TUR(8/6/2)" />
+        <battle_value>1856</battle_value>
+        <cost>1.2798E7</cost>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-12</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-12 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 29</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Eurus MBT  D 60t, 5/8, XLFE, 11.5T/64% FL Armor; 15 SHS; 1 ERPPC, 3 SSRM6</info>
+        <battleforce pv="18" wt="3" mv="5t" s="6" m="6" l="2" e="0" ov="0" armor="6" internal="3" abilities="OMNI, TUR(6/6/2)" />
+        <battle_value>1770</battle_value>
+        <cost>1.2107E7</cost>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

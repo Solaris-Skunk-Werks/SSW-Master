@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Von Luckner Heavy Tank" model="VNL-K90" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1688</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>9956750.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="225" manufacturer="" techbase="0">XL Engine</engine>
+    <armor manufacturer="" techbase="2">
+        <type>Hardened Armor</type>
+        <front>41</front>
+        <left>30</left>
+        <right>30</right>
+        <rear>30</rear>
+        <primaryturret>45</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 32</source>
+        <info>Von Luckner Heavy Tank VNL-K90 75t, 3/5, XLFE, 22.0T/58% Hrdnd Armor; 13 SHS; 1 Flmr, 1 SNPPC, 1 GR, 1 MG, 1 RL10, 1 SRM4</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="17" wt="3" mv="3t" s="4" m="3" l="2" e="0" ov="0" armor="12" internal="4" abilities="TUR(4/3/2)" />
+        <heatsinks number="13" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Snub-Nose PPC</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

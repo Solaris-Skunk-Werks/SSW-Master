@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <combatvehicle name="Hanse MBT" model="" tons="75" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1323</battle_value>
+    <battle_value>1488</battle_value>
     <motive type="Tracked" cruise="4" turret="No Turret" />
-    <cost>1.2469E7</cost>
+    <cost>2.2969E7</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>9</productionera>
@@ -26,8 +26,8 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RS3145u</source>
-        <info>Hanse MBT 75t, 4/6, XLFE, 11.0T/65% FF Armor; 20 SHS; 2 PR, 1 CASE, 4 LMG, 1 LAC5</info>
-        <battleforce pv="13" wt="3" mv="4t" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="3" abilities="CASE, HT1" />
+        <info>Hanse MBT 75t, 4/6, XLFE, 11.0T/65% FF Armor; 20 SHS; 2 PR, 1 SuperC, 1 CASE, 4 LMG, 1 LAC5</info>
+        <battleforce pv="15" wt="3" mv="4t" s="3" m="3" l="0" e="0" ov="0" armor="7" internal="3" abilities="CASE, HT1" />
         <heatsinks number="20" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -104,6 +104,11 @@
         <equipment>
             <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">Supercharger</name>
+            <type>Supercharger</type>
             <location>Body</location>
         </equipment>
     </baseloadout>

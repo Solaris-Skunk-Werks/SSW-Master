@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Viper" model="VP-1" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1609</battle_value>
+    <cost>1.3280173333333336E7</cost>
+    <rules_level>3</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="TRUE">2832</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>38</ct>
+        <ctr>6</ctr>
+        <lt>23</lt>
+        <ltr>7</ltr>
+        <rt>23</rt>
+        <rtr>7</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>30</ll>
+        <rl>30</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 32</source>
+        <info>Viper VP-1 70t, 4/6/4, XLFE, Std; 14.0T/100% Armor; 17 DHS; 3 MPL, 2 BLC</info>
+        <battleforce pv="16" wt="3" mv="4j" s="4" m="4" l="0" e="0" ov="0" armor="7" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="17" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="6">LT</location>
+            <location index="3">LT</location>
+            <location index="3">RT</location>
+            <location index="6">RT</location>
+            <location index="4">LA</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Binary Laser Cannon</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Binary Laser Cannon</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

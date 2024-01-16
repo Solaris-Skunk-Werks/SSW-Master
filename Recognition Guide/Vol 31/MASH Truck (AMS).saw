@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="MASH Truck" model="(AMS)" tons="20" motive="Wheeled" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>269</battle_value>
+    <motive type="Wheeled" cruise="5" turret="Single Turret" />
+    <cost>556583.3333333334</cost>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3148</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="100" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>12</front>
+        <left>15</left>
+        <right>15</right>
+        <rear>10</rear>
+        <primaryturret>10</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 31</source>
+        <info>MASH Truck (AMS) 20t, 5/8, FCE, 3.5T/56% FF Armor; 1 SHS; 2 AMS, 1 MASH, 1 CASE</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="3" wt="1" mv="5w" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="1" abilities="AMS, CASE, ENE, EE, TUR()" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Anti-Missile System</name>
+            <type>equipment</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Anti-Missile System</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">MASH</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>7.5</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

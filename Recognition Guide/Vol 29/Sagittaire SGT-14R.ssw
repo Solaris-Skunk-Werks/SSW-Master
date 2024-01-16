@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Sagittaire" model="SGT-14R" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2626</battle_value>
+    <cost>1.8301725E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3149</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Composite</type>
+        <location index="5">LL</location>
+        <location index="5">RL</location>
+        <location index="8">LT</location>
+        <location index="9">LT</location>
+        <location index="10">LT</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="285" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>44</ct>
+        <ctr>15</ctr>
+        <lt>30</lt>
+        <ltr>10</ltr>
+        <rt>30</rt>
+        <rtr>10</rtr>
+        <la>31</la>
+        <ra>31</ra>
+        <ll>39</ll>
+        <rl>39</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 29</source>
+        <info>Sagittaire SGT-14R 95t, 3/5/3, LFE, E-Comp; 18.0T/98% Armor; 17 DHS; 3 ERML, 3 SPL, 2 LVSPL, 1 ERPPC, TC</info>
+        <battleforce pv="26" wt="4" mv="3j" s="5" m="5" l="2" e="0" ov="2" armor="10" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="10">CT</location>
+            <location index="4">RL</location>
+        </jumpjets>
+        <heatsinks number="17" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="2">LA</location>
+            <location index="4">LA</location>
+            <location index="2">RA</location>
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="11">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) Small Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="3">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

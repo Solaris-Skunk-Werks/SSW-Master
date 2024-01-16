@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Onuris Attck VTOL" model="" tons="30" motive="VTOL" omni="TRUE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <motive type="VTOL" cruise="8" turret="No Turret" />
+    <cost>7155000.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Clan</techbase>
+    <year restricted="FALSE">3145</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="240" manufacturer="" techbase="1">XL Engine</engine>
+    <armor manufacturer="" techbase="1">
+        <type>Laser-Reflective</type>
+        <front>31</front>
+        <left>20</left>
+        <right>20</right>
+        <rear>15</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>2</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 30</source>
+        <info>Onuris Attck VTOL 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 10 SHS; 1 VTOL Jet Booster</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="4" wt="1" mv="8v" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="2" abilities="OMNI, ENE" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Unknown">VTOL Jet Booster</name>
+            <type>VTOL Jet Booster</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Onuris Attck VTOL  Prime 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 10 SHS; 1 PC, 4 SRM6, 1 VTOL Jet Booster, 1 CASE</info>
+        <battleforce pv="16" wt="1" mv="8v" s="5" m="5" l="1" e="0" ov="0" armor="2" internal="2" abilities="OMNI, CASE, HT1, SRM 3/3/0" />
+        <battle_value>1551</battle_value>
+        <cost>7155000.0</cost>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Onuris Attck VTOL  A 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 15 SHS; 4 APGR, 1 ERPPC, 1 VTOL Jet Booster, 1 CASE</info>
+        <battleforce pv="16" wt="1" mv="8v" s="3" m="3" l="2" e="0" ov="0" armor="2" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1624</battle_value>
+        <cost>6328000.0</cost>
+        <clancase>TRUE</clancase>
+        <heatsinks number="15" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3145</loadout_year>
+        <info>Onuris Attck VTOL  B 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 10 SHS; 1 VTOL Jet Booster, 2 LRM20, 1 CASE</info>
+        <battleforce pv="17" wt="1" mv="8v" s="3" m="3" l="3" e="0" ov="0" armor="2" internal="2" abilities="OMNI, CASE, LRM 2/2/2, IF 2" />
+        <battle_value>1744</battle_value>
+        <cost>6820000.0</cost>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3146</loadout_year>
+        <info>Onuris Attck VTOL  C 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 10 SHS; 1 VTOL Jet Booster, 1 CASE, 1 LB20</info>
+        <battleforce pv="11" wt="1" mv="8v" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="OMNI, CASE, FLK 1/1/0" />
+        <battle_value>1131</battle_value>
+        <cost>7004000.0</cost>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3147</loadout_year>
+        <info>Onuris Attck VTOL  D 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 14 SHS; 5 MCL, 2 iHML, 1 VTOL Jet Booster, 1 CASE</info>
+        <battleforce pv="13" wt="1" mv="8v" s="5" m="5" l="0" e="0" ov="0" armor="2" internal="2" abilities="OMNI, CASE, ENE" />
+        <battle_value>1349</battle_value>
+        <cost>6685000.0</cost>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Chemical Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3150</loadout_year>
+        <info>Onuris Attck VTOL  E 30t, 8/12[16], XLFE, 5.5T/61% LsrRflc Armor; 10 SHS; 1 ATM9, 1 VTOL Jet Booster, 1 CASE, 1 LPL</info>
+        <battleforce pv="17" wt="1" mv="8v" s="4" m="3" l="2" e="0" ov="0" armor="2" internal="2" abilities="OMNI, CASE" />
+        <battle_value>1676</battle_value>
+        <cost>6675000.0</cost>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-9</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (ER)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-9 (HE)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

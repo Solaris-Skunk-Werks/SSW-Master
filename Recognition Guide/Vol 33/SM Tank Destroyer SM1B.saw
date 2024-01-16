@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="SM Tank Destroyer" model="SM1B" tons="50" motive="Hovercraft" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1512</battle_value>
+    <motive type="Hovercraft" cruise="8" turret="Single Turret" />
+    <cost>3155250.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <techbase manufacturer="" location="">Mixed</techbase>
+    <year restricted="FALSE">3132</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="400" manufacturer="" techbase="2">Fusion Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ballistic-Reinforced Armor</type>
+        <front>24</front>
+        <left>19</left>
+        <right>19</right>
+        <rear>15</rear>
+        <primaryturret>19</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>SM Tank Destroyer SM1B 50t Hovercraft, 8/12, Std FE, 8.0T/45% B-R Armor; 10 SHS; 1 CASE, 1 LAP, 4 LMG, 1 UAC20</info>
+        <clancase>TRUE</clancase>
+        <battleforce pv="15" wt="2" mv="8h" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="3" abilities="LPRB, RCN, CASE, TUR(1/1/0)" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/20</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Light Machine Gun</name>
+            <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Light Active Probe</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <techbase>Clan</techbase>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+            <techbase>Clan</techbase>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

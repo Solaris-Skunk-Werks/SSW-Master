@@ -6,7 +6,7 @@
     <cost>4702000.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
-    <productionera>5</productionera>
+    <productionera>6</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
     <year restricted="FALSE">3062</year>
     <structure manufacturer="" techbase="2">

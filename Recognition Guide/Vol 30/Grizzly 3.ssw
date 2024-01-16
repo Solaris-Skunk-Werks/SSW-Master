@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Grizzly" model="3" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2331</battle_value>
+    <cost>1.5076478333333338E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>10</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3138</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Reinforced Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>31</ct>
+        <ctr>10</ctr>
+        <lt>23</lt>
+        <ltr>7</ltr>
+        <rt>23</rt>
+        <rtr>7</rtr>
+        <la>22</la>
+        <ra>22</ra>
+        <ll>27</ll>
+        <rl>27</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
+        <source>RGiC 30</source>
+        <info>Grizzly 3 70t, 4/6/4, XLFE, Rnfrcd; 13.0T/96% Armor; 13 DHS; 1 PR, 1 ERLL, 1 ERML, 1 ERSL, 1 LRM10, TC</info>
+        <battleforce pv="23" wt="3" mv="4j" s="4" m="4" l="2" e="0" ov="1" armor="7" internal="8" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA, IF 1" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="5">LL</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="13" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="2">RT</location>
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-10</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-10 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="4">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

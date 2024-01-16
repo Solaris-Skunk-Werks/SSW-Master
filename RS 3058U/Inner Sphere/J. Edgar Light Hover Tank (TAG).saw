@@ -6,7 +6,7 @@
     <cost>1176250.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>1</productionera>
+    <productionera>5</productionera>
     <techbase manufacturer="Olivetti Weaponry, Pinard Protectorates Limited" location="Sudeten (Olivetti), Perdition (Pindard)">Inner Sphere</techbase>
     <year restricted="FALSE">3053</year>
     <structure manufacturer="" techbase="2">

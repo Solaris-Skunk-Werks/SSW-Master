@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Blood Asp (Star Adder)" model="" tons="90" omnimech="TRUE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <cost>2.94252E7</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
+    <year restricted="FALSE">3059</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">HD</location>
+        <location index="9">LA</location>
+        <location index="10">LA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
+    </structure>
+    <engine rating="360" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>40</ct>
+        <ctr>13</ctr>
+        <lt>24</lt>
+        <ltr>11</ltr>
+        <rt>24</rt>
+        <rtr>11</rtr>
+        <la>28</la>
+        <ra>28</ra>
+        <ll>34</ll>
+        <rl>34</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <info>Blood Asp (Star Adder) 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 14 DHS</info>
+        <battleforce pv="11" wt="4" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ENE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="14" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+    </baseloadout>
+    <loadout name="Prime" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3059</loadout_year>
+        <info>Blood Asp (Star Adder)  Prime 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 18 DHS; 2 GR, 2 MPL, 1 SSRM6, 4 HML</info>
+        <battleforce pv="27" wt="4" mv="4" s="8" m="8" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2654</battle_value>
+        <cost>2.92875E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="18" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="3">RA</location>
+            <location index="2">LT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="A" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
+        <info>Blood Asp (Star Adder)  A 90t, 4/6/3, XLFE, ES; 16.0T/92% Armor; 25 DHS; 1 ECM, 2 ERPPC, 2 HLL, TC</info>
+        <battleforce pv="35" wt="4" mv="4/2j" s="6" m="6" l="3" e="0" ov="1" armor="9" internal="5" abilities="OMNI, ECM, ENE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3452</battle_value>
+        <cost>2.9656625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="3">
+            <type>Standard Jump Jet</type>
+            <location index="10">LT</location>
+            <location index="6">RT</location>
+            <location index="10">CT</location>
+        </jumpjets>
+        <heatsinks number="25" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LL</location>
+            <location index="2">RT</location>
+            <location index="2">RA</location>
+            <location index="2">LT</location>
+            <location index="8">LT</location>
+            <location index="2">LA</location>
+            <location index="4">LT</location>
+            <location index="6">LT</location>
+            <location index="4">RT</location>
+            <location index="4">RA</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Large Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="B" fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
+        <info>Blood Asp (Star Adder)  B 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 16 DHS; 1 ECM, 1 GR, 4 MPL, 2 LRM20</info>
+        <battleforce pv="29" wt="4" mv="4" s="8" m="8" l="5" e="0" ov="0" armor="9" internal="5" abilities="OMNI, ECM, CASE, SRCH, ES, SEAL, SOA, IF 3" />
+        <battle_value>2885</battle_value>
+        <cost>3.0037375E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">RA</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="4">RL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="4">LL</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">ECM Suite</name>
+            <type>equipment</type>
+            <location index="10">CT</location>
+        </equipment>
+    </loadout>
+    <loadout name="C" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
+        <info>Blood Asp (Star Adder)  C 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 14 DHS; 2 UAC/10, 1 ERLL, 1 LB20</info>
+        <battleforce pv="23" wt="4" mv="4" s="6" m="6" l="4" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battle_value>2270</battle_value>
+        <cost>2.97028125E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/10</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) LB 20-X AC</name>
+            <type>ballistic</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Slug)</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LB 20-X AC (Cluster)</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>5</loadout_productionera>
+        <loadout_year>3060</loadout_year>
+        <info>Blood Asp (Star Adder)  D 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 16 DHS; 2 ERLL, 1 GR, 3 UAC2, 2 HML</info>
+        <battleforce pv="24" wt="4" mv="4" s="5" m="5" l="4" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>2396</battle_value>
+        <cost>2.92535E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="10">CT</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Ultra AC/2</name>
+            <type>ballistic</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/2</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="E" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>6</loadout_productionera>
+        <loadout_year>3063</loadout_year>
+        <info>Blood Asp (Star Adder)  E 90t, 4/6/4, XLFE, ES; 16.0T/92% Armor; 20 DHS; 4 ATM3, 2 MPL, 2 ERPPC, TC</info>
+        <battleforce pv="32" wt="4" mv="4j" s="7" m="6" l="4" e="0" ov="1" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <battle_value>3179</battle_value>
+        <cost>2.94252E7</cost>
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="4">
+            <type>Standard Jump Jet</type>
+            <location index="4">LL</location>
+            <location index="5">RL</location>
+            <location index="4">RL</location>
+            <location index="5">LL</location>
+        </jumpjets>
+        <heatsinks number="20" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="4">RA</location>
+            <location index="4">RT</location>
+            <location index="10">CT</location>
+            <location index="6">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-3</name>
+            <type>missile</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ ATM-3</name>
+            <type>ammunition</type>
+            <location index="10">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="7">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="F" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3071</loadout_year>
+        <info>Blood Asp (Star Adder)  F 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 19 DHS; 1 PC, 2 APGR, 2 MPL, 2 ERPPC, 4 SSRM6</info>
+        <battleforce pv="29" wt="4" mv="4" s="7" m="7" l="3" e="0" ov="4" armor="9" internal="5" abilities="OMNI, CASE, HT1, SRCH, ES, SEAL, SOA" />
+        <battle_value>2908</battle_value>
+        <cost>3.0194625E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="19" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="2">LT</location>
+            <location index="2">LA</location>
+            <location index="2">RT</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Plasma Cannon</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Streak SRM-6</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) AP Gauss Rifle</name>
+            <type>ballistic</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ AP Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-6</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="G" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3060u</source>
+        <loadout_era>2</loadout_era>
+        <loadout_productionera>7</loadout_productionera>
+        <loadout_year>3074</loadout_year>
+        <info>Blood Asp (Star Adder)  G 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 16 DHS; 2 ERLL, 2 MPL, 1 HAG40, 2 HML, TC</info>
+        <battleforce pv="32" wt="4" mv="4" s="6" m="6" l="3" e="0" ov="3" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA, FLK 2/2/2" />
+        <battle_value>3192</battle_value>
+        <cost>2.9596125E7</cost>
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="16" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="10">CT</location>
+            <location index="2">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Hyper Assault Gauss 40</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="3">LT</splitlocation>
+            <splitlocation index="2" number="7">LA</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Hyper Assault Gauss 40</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="5">RT</location>
+        </equipment>
+    </loadout>
+    <loadout name="I" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 32</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3148</loadout_year>
+        <info>Blood Asp (Star Adder)  I 90t, 4/6/0, XLFE, ES; 16.0T/92% Armor; 14 DHS; 2 RELL, 4 ERSL, 1 iHGR</info>
+        <battleforce pv="22" wt="4" mv="4" s="6" m="7" l="3" e="0" ov="0" armor="9" internal="5" abilities="OMNI, CASE, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>2242</battle_value>
+        <cost>2.9228375E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <equipment>
+            <name manufacturer="">(IS) Large R-e Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large R-e Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Small Laser</name>
+            <type>energy</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Improved Heavy Gauss Rifle</name>
+            <type>ballistic</type>
+            <splitlocation index="2" number="9">RT</splitlocation>
+            <splitlocation index="10" number="2">CT</splitlocation>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Improved Heavy Gauss Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+    </loadout>
+    <loadout name="T" ruleslevel="3" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 32</source>
+        <loadout_era>3</loadout_era>
+        <loadout_productionera>10</loadout_productionera>
+        <loadout_year>3142</loadout_year>
+        <info>Blood Asp (Star Adder)  T 90t, 4/6[8]/0, XLFE, ES; 16.0T/92% Armor; 22 DHS; 2 PR, 2 ERLL, 4 ERML, 1 SRM6</info>
+        <battleforce pv="31" wt="4" mv="5" s="6" m="6" l="2" e="0" ov="2" armor="9" internal="5" abilities="OMNI, CASEII, CASE, HT1, SRCH, ES, SEAL, SOA" />
+        <techbase>Mixed</techbase>
+        <battle_value>3069</battle_value>
+        <cost>3.8364375E7</cost>
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <heatsinks number="22" techbase="1">
+            <type>Double Heat Sink</type>
+            <location index="4">LT</location>
+            <location index="2">LT</location>
+            <location index="2">RT</location>
+            <location index="3">LA</location>
+            <location index="3">RA</location>
+            <location index="5">RA</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Large Laser</name>
+            <type>energy</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="8">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="9">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Plasma Rifle</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
+            <type>ammunition</type>
+            <location index="8">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) CASE II</name>
+            <type>CASEII</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Supercharger</name>
+            <type>Supercharger</type>
+            <location index="11">CT</location>
+        </equipment>
+    </loadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

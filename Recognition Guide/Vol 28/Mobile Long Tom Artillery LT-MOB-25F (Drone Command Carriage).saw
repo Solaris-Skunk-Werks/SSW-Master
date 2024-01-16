@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Mobile Long Tom Artillery" model="LT-MOB-25F (Drone Command Carriage)" tons="10" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>147</battle_value>
+    <motive type="Tracked" cruise="0" turret="No Turret" />
+    <cost>115500.00000000001</cost>
+    <rules_level>2</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">2695</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="true" />
+    </structure>
+    <engine rating="0" manufacturer="" techbase="2">No Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>15</front>
+        <left>16</left>
+        <right>16</right>
+        <rear>15</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 28</source>
+        <info>Mobile Long Tom Artillery LT-MOB-25F (Drone Command Carriage) 10t, 0/0, NOE, 3.5T/83% FF Armor; 0 SHS; 1 StndrdCrgo, 1 DCCS, 2 Hitch</info>
+        <battleforce pv="1" wt="1" mv="0j" s="0" m="0" l="0" e="0" ov="0" armor="2" internal="0" abilities="ENE" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Unknown">Hitch</name>
+            <type>miscellaneous</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">Hitch</name>
+            <type>miscellaneous</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Drone Carrier Control System</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>2.5</tons>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Cargo, Standard, Vehicular</name>
+            <type>equipment</type>
+            <location>Body</location>
+            <tons>3.0</tons>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Hunter Light Support Tank" model="(Cell)" tons="35" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>939</battle_value>
+    <motive type="Tracked" cruise="7" turret="No Turret" />
+    <cost>1397050.0000000002</cost>
+    <rules_level>3</rules_level>
+    <era>2</era>
+    <productionera>9</productionera>
+    <techbase manufacturer="" location="">Mixed</techbase>
+    <year restricted="FALSE">3130</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="245" manufacturer="" techbase="2">Fuel-Cell Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <front>33</front>
+        <left>24</left>
+        <right>24</right>
+        <rear>18</rear>
+        <primaryturret>0</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 33</source>
+        <info>Hunter Light Support Tank (Cell) 35t Tracked, 7/11, FCE, 5.0T/61% HFF Armor; 1 SHS; 1 Vflmr, 1 LRM20, 1 CASE</info>
+        <clancase>FALSE</clancase>
+        <battleforce pv="9" wt="1" mv="7t" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="CASE, EE, IF 2" />
+        <heatsinks number="1" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) LRM-20</name>
+            <type>missile</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) Vehicle Flamer</name>
+            <type>energy</type>
+            <location>Rear</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Vehicle Flamer</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+            <techbase>Inner Sphere</techbase>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

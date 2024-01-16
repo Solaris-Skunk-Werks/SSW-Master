@@ -5,9 +5,9 @@
     <cost>9031437.5</cost>
     <rules_level>3</rules_level>
     <era>2</era>
-    <productionera>8</productionera>
+    <productionera>7</productionera>
     <techbase manufacturer="Maxwell-Pulaski Motors" location="Terra">Inner Sphere</techbase>
-    <year restricted="FALSE">3091</year>
+    <year restricted="FALSE">3084</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -25,7 +25,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="1.5" >
         <source>RS3085u-CE</source>
-        <info>Bolla Stealth Tank (RotS) 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3S, 1 InfComp, 1 MG</info>
+        <info>Bolla Stealth Tank (ROTS) 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3S, 1 InfComp, 1 MG</info>
         <battleforce pv="7" wt="3" mv="5w" s="1" m="0" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, C3S, TUR()" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -62,7 +62,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3084</loadout_year>
-        <info>Bolla Stealth Tank (RotS) Prime 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 2 MML3, 1 C3S, 1 RAC5, 1 InfComp, 2 MG, 1 TAG</info>
+        <info>Bolla Stealth Tank (ROTS) Prime 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 2 MML3, 1 C3S, 1 RAC5, 1 InfComp, 2 MG, 1 TAG</info>
         <battleforce pv="12" wt="3" mv="5w" s="4" m="3" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, TAG, C3S, TUR(3/3/1)" />
         <battle_value>1243</battle_value>
         <cost>9806937.5</cost>
@@ -122,7 +122,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3084</loadout_year>
-        <info>Bolla Stealth Tank (RotS) A 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 TC, 1 C3S, 1 InfComp, 1 MG, 1 TAG, 1 AMS, 1 LGR, TC</info>
+        <info>Bolla Stealth Tank (ROTS) A 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 TC, 1 C3S, 1 InfComp, 1 MG, 1 TAG, 1 AMS, 1 LGR, TC</info>
         <battleforce pv="11" wt="3" mv="5w" s="1" m="1" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, AMS, TAG, C3S, TUR(1/1/1)" />
         <battle_value>1059</battle_value>
         <cost>9812812.5</cost>
@@ -167,7 +167,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3084</loadout_year>
-        <info>Bolla Stealth Tank (RotS) B 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 3 MSGR, 1 C3S, 1 InfComp, 1 MG, 2 MML7, 1 C3M</info>
+        <info>Bolla Stealth Tank (ROTS) B 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 3 MSGR, 1 C3S, 1 InfComp, 1 MG, 2 MML7, 1 C3M</info>
         <battleforce pv="10" wt="3" mv="5w" s="3" m="2" l="1" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, C3S, C3M, TAG, MHQ5, TUR(3/2/1, SRM 2/1/1, LRM 2/1/1, IF 2/1/1), IF 1" />
         <battle_value>961</battle_value>
         <cost>1.1939625E7</cost>
@@ -227,7 +227,7 @@
         <loadout_era>2</loadout_era>
         <loadout_productionera>7</loadout_productionera>
         <loadout_year>3084</loadout_year>
-        <info>Bolla Stealth Tank (RotS) C 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3S, 1 InfComp, 2 MG, 1 TAG, 2 SSRM6, 1 LAC5</info>
+        <info>Bolla Stealth Tank (ROTS) C 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 C3S, 1 InfComp, 2 MG, 1 TAG, 2 SSRM6, 1 LAC5</info>
         <battleforce pv="11" wt="3" mv="5w" s="4" m="3" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, TAG, C3S, TUR(3/3/0)" />
         <battle_value>1068</battle_value>
         <cost>9871562.5</cost>
@@ -273,47 +273,6 @@
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ Streak SRM-6</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-    </loadout>
-    <loadout name="D" fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RS3145NTNU</source>
-        <loadout_era>2</loadout_era>
-        <loadout_productionera>8</loadout_productionera>
-        <loadout_year>3091</loadout_year>
-        <info>Bolla Stealth Tank (RotS) D 60t, 5/8, XLFE, 10.5T/67% V Stlth Armor; 10 SHS; 1 ECM, 1 MCL, 1 C3S, 1 InfComp, 2 MG, 1 SnpCnn</info>
-        <battleforce pv="9" wt="3" mv="5w" s="2" m="2" l="0" e="0" ov="0" armor="6" internal="3" abilities="OMNI, ECM, STL, ARTSC, C3S, TUR(1/1/0)" />
-        <techbase>Mixed</techbase>
-        <battle_value>877</battle_value>
-        <cost>9920187.5</cost>
-        <equipment>
-            <name manufacturer="">(IS) Machine Gun</name>
-            <type>ballistic</type>
-            <location>Front</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Medium Chemical Laser</name>
-            <type>energy</type>
-            <location>Front</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">Sniper Artillery Cannon</name>
-            <type>ballistic</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">@ Sniper Cannon</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">@ Sniper Cannon</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Medium Chemical Laser</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>

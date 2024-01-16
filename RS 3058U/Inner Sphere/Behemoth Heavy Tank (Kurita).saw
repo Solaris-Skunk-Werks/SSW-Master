@@ -5,8 +5,8 @@
     <motive type="Tracked" cruise="2" turret="Single Turret" />
     <cost>6212666.666666666</cost>
     <rules_level>1</rules_level>
-    <era>3</era>
-    <productionera>5</productionera>
+    <era>2</era>
+    <productionera>6</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
     <year restricted="FALSE">3062</year>
     <structure manufacturer="" techbase="2">
