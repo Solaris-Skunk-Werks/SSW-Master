@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+        <force name="" logo="" type="Inner Sphere">
+            <group name="Attacker" logo="" type="Inner Sphere" >
+                <unit type="Locust" model="LCT-1V" config="" tonnage="20.0" bv="432.0" design="0" file="/RS 3039u/Locust LCT-1V.ssw" c3status="false">
+                    <battleforce pv="4" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="SRCH, ES, SEAL, SOA" />
+                    <info>Locust LCT-1V 20t, 8/12/0, Std FE, Std; 4.0T/93% Armor; 10 SHS; 1 ML, 2 MG</info>
+                    <quirks></quirks>
+                    <warrior name="MechWarrior Adjani" status="Active">
+                        <affiliation faction="" rank="" />
+                        <skills gunnery="5" piloting="6" mod="1.0" />
+                        <quirks><![CDATA[]]></quirks>
+                        <notes><![CDATA[]]></notes>
+                    </warrior>
+<mech name="Locust" model="LCT-1V" tons="20" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>432</battle_value>
+    <cost>1512199.9999999998</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Bergan Industries, Alliance Defenders Limited, Majesty Metals and Manufacturing" location="Ares (Bergan), Alpheratz (ADL), Canopus IV (Majesty)">Inner Sphere</techbase>
+    <year restricted="FALSE">2499</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Bergan VII" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="160" manufacturer="LTV" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="StarSlab/1" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>10</ct>
+        <ctr>2</ctr>
+        <lt>8</lt>
+        <ltr>2</ltr>
+        <rt>8</rt>
+        <rtr>2</rtr>
+        <la>4</la>
+        <ra>4</ra>
+        <ll>8</ll>
+        <rl>8</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Locust LCT-1V 20t, 8/12/0, Std FE, Std; 4.0T/93% Armor; 10 SHS; 1 ML, 2 MG</info>
+        <battleforce pv="4" wt="1" mv="8" s="1" m="1" l="0" e="0" ov="0" armor="2" internal="2" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">LL</location>
+            <location index="4">RL</location>
+            <location index="5">LL</location>
+            <location index="5">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="SperryBrowning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SperryBrowning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Garrett T10-B</commsystem>
+        <tandtsystem>O/P 911</tandtsystem>
+    </fluff>
+</mech>
+                </unit>
+                <unit type="Commando" model="COM-3A" config="" tonnage="25.0" bv="540.0" design="0" file="/RS 3039u/Commando COM-3A.ssw" c3status="false">
+                    <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+                    <info>Commando COM-3A 25t, 6/9/0, Std FE, Std; 3.0T/54% Armor; 10 SHS; 1 Flmr, 1 ML, 2 SRM6</info>
+                    <quirks></quirks>
+                    <warrior name="MechWarrior Lucas" status="Active">
+                        <affiliation faction="" rank="" />
+                        <skills gunnery="5" piloting="6" mod="1.0" />
+                        <quirks><![CDATA[]]></quirks>
+                        <notes><![CDATA[]]></notes>
+                    </warrior>
+<mech name="Commando" model="COM-3A" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>540</battle_value>
+    <cost>1872625.0</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>3</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3025</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>4</hd>
+        <ct>6</ct>
+        <ctr>4</ctr>
+        <lt>4</lt>
+        <ltr>3</ltr>
+        <rt>4</rt>
+        <rtr>3</rtr>
+        <la>4</la>
+        <ra>4</ra>
+        <ll>6</ll>
+        <rl>6</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Commando COM-3A 25t, 6/9/0, Std FE, Std; 3.0T/54% Armor; 10 SHS; 1 Flmr, 1 ML, 2 SRM6</info>
+        <battleforce pv="5" wt="1" mv="6" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+            <location index="5">RL</location>
+            <location index="4">RL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="0">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>
+                </unit>
+                <unit type="Wolverine" model="WVR-6M" config="" tonnage="55.0" bv="1291.0" design="0" file="/RS 3039u/Wolverine WVR-6M.ssw" c3status="false">
+                    <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="0" e="0" ov="1" armor="6" internal="5" abilities="SRCH, ES, SEAL, SOA" />
+                    <info>Wolverine WVR-6M 55t, 5/8/5, Std FE, Std; 10.5T/91% Armor; 14 SHS; 2 ML, 1 SRM6, 1 LL</info>
+                    <quirks></quirks>
+                    <warrior name="Sergeant Hoffmann" status="Active">
+                        <affiliation faction="" rank="" />
+                        <skills gunnery="5" piloting="5" mod="1.0" />
+                        <quirks><![CDATA[]]></quirks>
+                        <notes><![CDATA[]]></notes>
+                    </warrior>
+<mech name="Wolverine" model="WVR-6M" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1291</battle_value>
+    <cost>4850806.666666667</cost>
+    <rules_level>0</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Kallon Industries, Victory Industries, Free Worlds Defense Industries" location="Nanking, Thermopolis (Kallon), Marduk (Victory), Gibson (FWDI)">Inner Sphere</techbase>
+    <year restricted="FALSE">2816</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Crucis-A" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="275" manufacturer="CoreTek" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Maximillian 60" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>25</ct>
+        <ctr>8</ctr>
+        <lt>20</lt>
+        <ltr>6</ltr>
+        <rt>20</rt>
+        <rtr>6</rtr>
+        <la>18</la>
+        <ra>18</ra>
+        <ll>19</ll>
+        <rl>19</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Wolverine WVR-6M 55t, 5/8/5, Std FE, Std; 10.5T/91% Armor; 14 SHS; 2 ML, 1 SRM6, 1 LL</info>
+        <battleforce pv="13" wt="2" mv="5j" s="2" m="2" l="0" e="0" ov="1" armor="6" internal="5" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="2">RT</location>
+            <location index="0">LT</location>
+            <location index="1">RT</location>
+            <location index="1">LT</location>
+            <location index="10">CT</location>
+        </jumpjets>
+        <heatsinks number="14" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="4">RL</location>
+            <location index="0">RT</location>
+            <location index="4">LL</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Northrup 12000</jumpjet_model>
+        <commsystem>Garret T11-b</commsystem>
+        <tandtsystem>Sync Tracker (39-42071)</tandtsystem>
+    </fluff>
+</mech>
+                </unit>
+            </group>
+            <group name="Defender" logo="" type="Inner Sphere" >
+                <unit type="Battlemaster" model="BLR-1G" config="" tonnage="85.0" bv="1519.0" design="0" file="/RS 3039u/Battlemaster BLR-1G.ssw" c3status="false">
+                    <battleforce pv="15" wt="4" mv="4" s="3" m="3" l="1" e="0" ov="1" armor="8" internal="7" abilities="SRCH, ES, SEAL, SOA" />
+                    <info>Battlemaster BLR-1G 85t, 4/6/0, Std FE, Std; 14.5T/88% Armor; 18 SHS; 6 ML, 1 PPC, 2 MG, 1 SRM6</info>
+                    <quirks></quirks>
+                    <warrior name="MechWarrior Thompson" status="Active">
+                        <affiliation faction="" rank="" />
+                        <skills gunnery="4" piloting="5" mod="1.0" />
+                        <quirks><![CDATA[]]></quirks>
+                        <notes><![CDATA[]]></notes>
+                    </warrior>
+<mech name="Battlemaster" model="BLR-1G" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1519</battle_value>
+    <cost>8454493.333333334</cost>
+    <rules_level>0</rules_level>
+    <era>0</era>
+    <productionera>1</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">2633</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="340" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>40</ct>
+        <ctr>11</ctr>
+        <lt>28</lt>
+        <ltr>8</ltr>
+        <rt>28</rt>
+        <rtr>8</rtr>
+        <la>24</la>
+        <ra>24</ra>
+        <ll>26</ll>
+        <rl>26</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RS3039u</source>
+        <info>Battlemaster BLR-1G 85t, 4/6/0, Std FE, Std; 14.5T/88% Armor; 18 SHS; 6 ML, 1 PPC, 2 MG, 1 SRM6</info>
+        <battleforce pv="15" wt="4" mv="4" s="3" m="3" l="1" e="0" ov="1" armor="8" internal="7" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="18" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="5">RL</location>
+            <location index="4">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+            <location index="0">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Donal">(IS) PPC</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="1">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(R) (IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Martell">(R) (IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SperryBrowning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="SperryBrowning">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>
+                </unit>
+            </group>
+        </force>
