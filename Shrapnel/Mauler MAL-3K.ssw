@@ -5,10 +5,10 @@
     <cost>2.08894E7</cost>
     <rules_level>2</rules_level>
     <era>2</era>
-    <productionera>7</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3075</year>
+    <year restricted="FALSE">3070</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -55,23 +55,13 @@
         <heatsinks number="12" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="3">LA</location>
             <location index="3">RA</location>
+            <location index="3">LA</location>
         </heatsinks>
-        <equipment>
-            <name manufacturer="">(IS) LRM-15</name>
-            <type>missile</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) LRM-15</name>
-            <type>missile</type>
-            <location index="3">LT</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(IS) Thunderbolt-5</name>
             <type>missile</type>
-            <location index="7">RT</location>
+            <location index="7">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Thunderbolt-5</name>
@@ -81,12 +71,22 @@
         <equipment>
             <name manufacturer="">(IS) Thunderbolt-5</name>
             <type>missile</type>
-            <location index="7">LT</location>
+            <location index="6">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Thunderbolt-5</name>
             <type>missile</type>
-            <location index="6">RT</location>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-15</name>
+            <type>missile</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-15</name>
+            <type>missile</type>
+            <location index="3">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
@@ -109,16 +109,6 @@
             <location index="10">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(IS) @ LRM-15</name>
-            <type>ammunition</type>
-            <location index="10">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ LRM-15</name>
-            <type>ammunition</type>
-            <location index="11">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="Unknown">(IS) @ Thunderbolt-5</name>
             <type>ammunition</type>
             <location index="9">LT</location>
@@ -137,6 +127,16 @@
             <name manufacturer="Unknown">(IS) @ Thunderbolt-5</name>
             <type>ammunition</type>
             <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="11">RT</location>
         </equipment>
     </baseloadout>
     <fluff>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Jackalope" model="JLP-KB" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1259</battle_value>
+    <cost>5689200.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="3">LA</location>
+        <location index="4">LA</location>
+        <location index="5">LA</location>
+        <location index="6">LA</location>
+        <location index="7">LA</location>
+        <location index="8">LA</location>
+        <location index="9">LA</location>
+    </structure>
+    <engine rating="240" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Small Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>13</ct>
+        <ctr>4</ctr>
+        <lt>9</lt>
+        <ltr>2</ltr>
+        <rt>9</rt>
+        <rtr>2</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>11</ll>
+        <rl>11</rl>
+        <location index="3">RA</location>
+        <location index="4">RA</location>
+        <location index="5">RA</location>
+        <location index="6">RA</location>
+        <location index="7">RA</location>
+        <location index="8">RA</location>
+        <location index="9">RA</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <info>Jackalope JLP-KB 30t, 8/12/8, XLFE, ES; 4.5T/82% FF Armor; 10 DHS; 2 ERML, 2 SRM4, 1 APDS</info>
+        <battleforce pv="13" wt="1" mv="8j" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="RAMS, CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="8">
+            <type>Standard Jump Jet</type>
+            <location index="3">LT</location>
+            <location index="2">LT</location>
+            <location index="4">LT</location>
+            <location index="5">LT</location>
+            <location index="2">RT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
+            <location index="5">RT</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="1">
+            <type>Double Heat Sink</type>
+
+            <location index="10">CT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="2">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) SRM-4</name>
+            <type>missile</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">RISC Advanced Point Defense System</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ RISC Advanced Point Defense System</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>
