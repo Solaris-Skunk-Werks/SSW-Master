@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1539</battle_value>
     <cost>6228573.333333335</cost>
-    <rules_level>1</rules_level>
+    <rules_level>0</rules_level>
     <era>1</era>
-    <productionera>3</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">2958</year>
+    <year restricted="FALSE">3025</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -48,12 +48,12 @@
         <heatsinks number="17" techbase="2">
             <type>Single Heat Sink</type>
 
-            <location index="1">LT</location>
-            <location index="0">LT</location>
+            <location index="4">RA</location>
+            <location index="4">LA</location>
             <location index="0">RT</location>
             <location index="1">RT</location>
-            <location index="4">LA</location>
-            <location index="4">RA</location>
+            <location index="0">LT</location>
+            <location index="1">LT</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(IS) Medium Laser</name>
@@ -88,12 +88,12 @@
         <equipment>
             <name manufacturer="">(IS) Large Laser</name>
             <type>energy</type>
-            <location index="2">RT</location>
+            <location index="2">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Large Laser</name>
             <type>energy</type>
-            <location index="2">LT</location>
+            <location index="2">RT</location>
         </equipment>
     </baseloadout>
     <fluff>

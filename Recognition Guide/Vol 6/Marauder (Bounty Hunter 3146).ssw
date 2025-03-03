@@ -43,7 +43,7 @@
         <location index="10">LT</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RCiG 6</source>
+        <source>RGiC 6</source>
         <info>Marauder (Bounty Hunter 3146) 75t, 4/6[8]/0, XLFE, Std; 18.0T/94% B-R Armor; 14 DHS; 1 UAC/10, 2 SNPPC, 2 ERML</info>
         <battleforce pv="25" wt="3" mv="5" s="3" m="3" l="1" e="0" ov="2" armor="7" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>

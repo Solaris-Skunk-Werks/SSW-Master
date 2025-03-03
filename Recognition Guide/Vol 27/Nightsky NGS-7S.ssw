@@ -5,10 +5,10 @@
     <cost>9865500.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3142</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -80,9 +80,9 @@
             <location index="7">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
+            <name manufacturer="">(IS) Small X-Pulse Laser</name>
             <type>energy</type>
-            <location index="2">LT</location>
+            <location index="3">HD</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
@@ -90,9 +90,9 @@
             <location index="2">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) Small X-Pulse Laser</name>
+            <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="3">HD</location>
+            <location index="2">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">Hatchet</name>

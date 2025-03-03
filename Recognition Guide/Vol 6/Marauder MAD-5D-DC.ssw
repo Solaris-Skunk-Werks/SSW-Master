@@ -33,9 +33,9 @@
         <rl>30</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RCiG 6</source>
+        <source>RGiC 6</source>
         <info>Marauder MAD-5D-DC 75t, 4/6/4, XLFE, Std; 14.0T/97% Armor; 15 DHS; 1 SPL, 2 MPL, 2 ERPPC, 1 LPL</info>
-        <battleforce pv="18" wt="3" mv="4j" s="3" m="3" l="2" e="0" ov="2" armor="7" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="18" wt="3" mv="4j" s="4" m="3" l="2" e="0" ov="2" armor="7" internal="3" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -91,7 +91,7 @@
         <variants></variants>
         <notables></notables>
         <additional>Notes: Features the following Design Quirks: Command ’Mech, Directional Torso Mount (RT), Hyper-Extending Actuators Narrow/Low Profile, Exposed Weapon Linkage (LPL).</additional>
-        <jumpjet_model>None</jumpjet_model>
+        <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Dalban Micronics</commsystem>
         <tandtsystem>Dalban HiRez</tandtsystem>
     </fluff>

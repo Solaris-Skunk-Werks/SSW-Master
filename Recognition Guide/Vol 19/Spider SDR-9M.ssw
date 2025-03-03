@@ -7,7 +7,7 @@
     <era>2</era>
     <productionera>8</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <techbase manufacturer="Nimakachi Fusion Products Limited" location="Tematagi">Inner Sphere</techbase>
     <year restricted="FALSE">3096</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
@@ -87,12 +87,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>Nimakachi manufactures the Spider on their rebuilt Tematagi line. The Spider -9M was not a grand evolution of the chassis. Instead, it derived directly from preceding variants. Unwilling to gamble on reverse-engineered Clan weaponry, the -9M replaces the prior pulse laser loadouts with variable speed medium lasers.:br::br::tab:While Nimakachi touts the -9M’s “greatly increased” short-range firepower as the basis for its high sales, customers indicate that demand for the model is only due to the desperation of the mid-thirty-second century. Industry watchers have been critical partly due to the absence of the promised ejection seat, but primarily because the -9M’s weaponry doubles in mass for no significant increase in range. The new Spider could be outperformed by units with lighter weapon arrays.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Tech Zoran Hagge: Nicknamed “Silverbird” for his hair turning silvery at an early age, Hagge was born in the cutthroat Rim Territories. He joined ComStar to escape that hellish life, taking his battered Spider, Betty, with him. His technical skills led him to Precentor Buhl’s reborn militant ComStar, where he survived thanks to the harsh obedienceor-death reality of his old life. With the Republic coming for ComStar, Hagge saw the writing on the wall and escaped with only the clothes on his back and all the classified files he could carry to buy his passage out. Paranoid that ROM is still after him, he changes identities often and sleeps with a gun under his pillow. He is currently a member of a small mercenary command, trading his technician skills for a pilot’s billet in a salvaged SDR-9M that he calls Betty II.</notables>
         <additional></additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>

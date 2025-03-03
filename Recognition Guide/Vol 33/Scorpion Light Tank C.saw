@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<combatvehicle name="Scorpion Light Tank C" model="" tons="25" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<combatvehicle name="Scorpion Light Tank" model="C" tons="25" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>354</battle_value>
     <motive type="Tracked" cruise="4" turret="Single Turret" />
     <cost>570333.3333333333</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>5</productionera>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Clan</techbase>
-    <year restricted="FALSE">3051</year>
+    <year restricted="FALSE">3070</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Scorpion Light Tank C 25t Tracked, 4/6, ICE, 4.0T/50% Armor; 0 SHS; 1 LB5, 2 MG, 1 CASE</info>
-        <clancase>TRUE</clancase>
+        <info>Scorpion Light Tank C 25t, 4/6, ICE, 4.0T/50% Armor; 0 SHS; 1 LB5, 2 MG, 1 CASE</info>
         <battleforce pv="4" wt="1" mv="4t" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE, EE, TUR(1/1/1)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
@@ -40,7 +39,7 @@
         <equipment>
             <name manufacturer="">(CL) Machine Gun</name>
             <type>ballistic</type>
-            <location>Turret</location>
+            <location>Front</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) LB 5-X AC</name>
@@ -48,12 +47,12 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">CASE</name>
+            <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ LB 5-X AC (Cluster)</name>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>
@@ -63,7 +62,7 @@
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <name manufacturer="Unknown">(CL) @ LB 5-X AC (Cluster)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>

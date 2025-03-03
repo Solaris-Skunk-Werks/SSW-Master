@@ -104,12 +104,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>The Dragon and later Grand Dragon have been a staple of Draconis Combine cavalry units since the early days of the Succession Wars. Attempts by LAW to modernize this emblematic BattleMech over the past century largely met with success and never strayed from the basic performance profile. LAW wisely chose to keep with tradition in this latest variant, while taking advantage of the influx of Clan-grade weaponry. In order to reduce costs, many components are shared with the newest Lancelot variant. The resulting DRG-12K is far and away the most deadly Grand Dragon to enter DCMS rolls.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Tai-i Ryouji Kurashige: Kurashige served with honor and distinction during the Combine’s early campaigns against the Republic of the Sphere in the wake of Gray Monday. His commanders viewed him as a model warrior and as a creative leader and tactician. Kurashige’s request to undergo DEST training was quickly approved. He excelled there despite his preference for BattleMech-centric operations compared to stealthier battlesuit missions. Kurashige’s fervent loyalty to both the Combine and Coordinator Yori was rewarded when the Coordinator quietly formed the Hikage. Kurashige was selected to lead a company of the new Dragon’s Shadow. From the cockpit of his black and red Grand Dragon, Tai-i Kurashige continues his lifelong service to the Draconis Combine.</notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

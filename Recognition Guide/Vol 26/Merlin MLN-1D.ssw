@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1370</battle_value>
     <cost>5476900.0</cost>
-    <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>8</productionera>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3090</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -48,20 +48,20 @@
         <heatsinks number="13" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="3">LT</location>
-            <location index="0">LT</location>
-            <location index="0">RT</location>
             <location index="3">RT</location>
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+            <location index="3">LT</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
-            <location index="3">RA</location>
+            <location index="3">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
-            <location index="3">LA</location>
+            <location index="3">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) PPC</name>
@@ -74,24 +74,24 @@
             <location index="7">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) LRM-5</name>
-            <type>missile</type>
-            <location index="9">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Heavy Machine Gun</name>
             <type>ballistic</type>
             <location index="6">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
-            <type>ammunition</type>
-            <location index="9">LT</location>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location index="9">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ LRM-5</name>
             <type>ammunition</type>
             <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="9">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">CASE</name>

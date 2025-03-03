@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>968</battle_value>
     <motive type="Tracked" cruise="2" turret="Single Turret" />
-    <cost>8850000.000000002</cost>
+    <cost>9165000.000000002</cost>
     <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3130</year>
+    <year restricted="FALSE">0</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Partisan Heavy Tank (Light Gauss) 80t Tracked, 2/3, XLFE, 7.0T/43% HFF Armor; 10 SHS; 4 LGR, 1 CASE</info>
-        <clancase>FALSE</clancase>
+        <info>Partisan Heavy Tank (Light Gauss) 80t, 2/3, XLFE, 7.0T/43% HFF Armor; 10 SHS; 4 LGR, 1 CASE</info>
         <battleforce pv="10" wt="4" mv="2t" s="3" m="4" l="4" e="0" ov="0" armor="5" internal="4" abilities="CASE, TUR(3/4/4)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -53,7 +52,7 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">CASE</name>
+            <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
             <location>Body</location>
         </equipment>

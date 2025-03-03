@@ -4,11 +4,11 @@
     <battle_value>1182</battle_value>
     <cost>6140400.0</cost>
     <rules_level>2</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3114</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -75,11 +75,6 @@
             <location index="3">RT</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(IS) Flamer</name>
-            <type>energy</type>
-            <location index="6">LT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Medium Variable Speed Pulse Laser</name>
             <type>energy</type>
             <location index="3">LA</location>
@@ -93,6 +88,11 @@
             <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
             <type>energy</type>
             <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Flamer</name>
+            <type>energy</type>
+            <location index="6">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) LRM-5</name>

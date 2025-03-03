@@ -4,11 +4,11 @@
     <battle_value>1369</battle_value>
     <cost>5753800.0</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>8</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3099</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -48,19 +48,19 @@
         <heatsinks number="12" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="3">LT</location>
             <location index="0">LT</location>
             <location index="0">RT</location>
+            <location index="3">LT</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
-            <location index="3">RA</location>
+            <location index="3">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
-            <location index="3">LA</location>
+            <location index="3">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) PPC</name>

@@ -5,10 +5,10 @@
     <cost>1.1696340000000002E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>9</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3124</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Composite Structure</type>
@@ -67,14 +67,14 @@
             <location index="5">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(R) (CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="10">CT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
             <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
         </equipment>
         <equipment>
             <name manufacturer="">Active Probe</name>

@@ -5,10 +5,10 @@
     <cost>1.8301725E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3149</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Composite</type>
@@ -41,35 +41,30 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 29</source>
-        <info>Sagittaire SGT-14R 95t, 3/5/3, LFE, E-Comp; 18.0T/98% Armor; 17 DHS; 3 ERML, 3 SPL, 2 LVSPL, 1 ERPPC, TC</info>
-        <battleforce pv="26" wt="4" mv="3j" s="5" m="5" l="2" e="0" ov="2" armor="10" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <info>Sagittaire SGT-14R 95t, 3/5/3, LFE, E-Comp; 18.0T/98% Armor; 17 DHS; 3 SPL, 2 LVSPL, 3 ERML, 1 ERPPC, TC</info>
+        <battleforce pv="26" wt="4" mv="3j" s="6" m="5" l="2" e="0" ov="2" armor="10" internal="2" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="FALSE" lh="FALSE" rla="FALSE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">
             <type>Standard Jump Jet</type>
-            <location index="4">LL</location>
-            <location index="10">CT</location>
             <location index="4">RL</location>
+            <location index="10">CT</location>
+            <location index="4">LL</location>
         </jumpjets>
         <heatsinks number="17" techbase="1">
             <type>Double Heat Sink</type>
 
             <location index="4">LT</location>
             <location index="2">LT</location>
-            <location index="2">LA</location>
             <location index="4">LA</location>
-            <location index="2">RA</location>
+            <location index="2">LA</location>
             <location index="4">RA</location>
+            <location index="2">RA</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <name manufacturer="">(CL) ER Medium Laser</name>
             <type>energy</type>
-            <location index="6">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
-            <type>energy</type>
-            <location index="6">RA</location>
+            <location index="2">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
@@ -82,14 +77,24 @@
             <location index="10">RA</location>
         </equipment>
         <equipment>
+            <name manufacturer="">(CL) ER PPC</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large Variable Speed Pulse Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(R) (CL) Small Pulse Laser</name>
             <type>energy</type>
             <location index="11">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Small Pulse Laser</name>
-            <type>energy</type>
-            <location index="11">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(R) (CL) Small Pulse Laser</name>
@@ -97,14 +102,9 @@
             <location index="3">HD</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
+            <name manufacturer="">(CL) Small Pulse Laser</name>
             <type>energy</type>
-            <location index="6">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
-            <type>energy</type>
-            <location index="2">RT</location>
+            <location index="11">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Targeting Computer</name>

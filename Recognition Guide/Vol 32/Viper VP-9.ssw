@@ -5,10 +5,10 @@
     <cost>1.3034840000000002E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3147</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Composite Structure</type>
@@ -34,16 +34,16 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 32</source>
-        <info>Viper VP-9 70t, 4/6/4, LFE, Comp; 13.5T/100% Armor; 13 DHS; 4 PC, 1 Mace, 1 BAP</info>
-        <battleforce pv="22" wt="3" mv="4j" s="4" m="4" l="4" e="0" ov="1" armor="7" internal="2" abilities="PRB, RCN, MEL, ENE, HT2, SRCH, ES, SEAL, SOA" />
+        <info>Viper VP-9 70t, 4/6/4, LFE, Comp; 13.5T/100% Armor; 13 DHS; 4 PC, 1 BAP, 1 Mace</info>
+        <battleforce pv="22" wt="3" mv="4j" s="5" m="5" l="5" e="0" ov="0" armor="7" internal="2" abilities="MEL, PRB, RCN, ENE, HT2, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
-        <clancase>FALSE</clancase>
+        <clancase>TRUE</clancase>
         <jumpjets number="4">
             <type>Standard Jump Jet</type>
-            <location index="5">RL</location>
-            <location index="4">LL</location>
             <location index="5">LL</location>
+            <location index="4">LL</location>
             <location index="4">RL</location>
+            <location index="5">RL</location>
         </jumpjets>
         <heatsinks number="13" techbase="0">
             <type>Double Heat Sink</type>
@@ -52,11 +52,6 @@
             <location index="2">RT</location>
         </heatsinks>
         <arm_aes location="LA" index="8"/>
-        <equipment>
-            <name manufacturer="">Active Probe</name>
-            <type>equipment</type>
-            <location index="3">HD</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(CL) Plasma Cannon</name>
             <type>energy</type>
@@ -78,24 +73,9 @@
             <location index="7">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">Mace</name>
-            <type>physical</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
-            <type>ammunition</type>
-            <location index="3">LT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
             <type>ammunition</type>
             <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
-            <type>ammunition</type>
-            <location index="4">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
@@ -105,12 +85,32 @@
         <equipment>
             <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
             <type>ammunition</type>
-            <location index="6">LT</location>
+            <location index="3">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
             <type>ammunition</type>
             <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Plasma Cannon</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Mace</name>
+            <type>physical</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Active Probe</name>
+            <type>equipment</type>
+            <location index="3">HD</location>
         </equipment>
     </baseloadout>
     <fluff>

@@ -4,11 +4,11 @@
     <battle_value>1121</battle_value>
     <cost>6069580.0</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3120</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -75,12 +75,12 @@
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
             <type>ammunition</type>
-            <location index="7">RT</location>
+            <location index="6">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
             <type>ammunition</type>
-            <location index="6">RT</location>
+            <location index="7">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>

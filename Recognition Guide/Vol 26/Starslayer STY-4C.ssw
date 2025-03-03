@@ -5,10 +5,10 @@
     <cost>6779375.000000001</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3145</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -20,12 +20,12 @@
         <location index="5">RL</location>
         <location index="6">LA</location>
         <location index="7">LA</location>
-        <location index="8">RT</location>
         <location index="8">LA</location>
         <location index="9">LT</location>
         <location index="9">RT</location>
         <location index="10">LT</location>
         <location index="10">RT</location>
+        <location index="11">RT</location>
     </structure>
     <engine rating="250" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
@@ -57,39 +57,39 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 26</source>
-        <info>Starslayer STY-4C 50t, 5[6]/8[9]/5 TSM, Std FE, ES; 10.5T/99% Armor; 13 DHS; 2 iHLL, 1 CoolPd, 1 SRM4iOS, 2 ERML, 1 ERSL</info>
+        <info>Starslayer STY-4C 50t, 5[6]/8[9]/5 TSM, Std FE, ES; 10.5T/99% Armor; 13 DHS; 2 iHLL, 1 CoolPd, 2 ERML, 1 SRM4iOS, 1 ERSL</info>
         <battleforce pv="22" wt="2" mv="5j" s="3" m="3" l="0" e="0" ov="2" armor="6" internal="4" abilities="TSM, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">
             <type>Standard Jump Jet</type>
             <location index="3">LT</location>
+            <location index="10">CT</location>
+            <location index="4">LT</location>
             <location index="3">RT</location>
             <location index="4">RT</location>
-            <location index="4">LT</location>
-            <location index="10">CT</location>
         </jumpjets>
         <heatsinks number="13" techbase="0">
             <type>Double Heat Sink</type>
 
             <location index="0">RT</location>
-            <location index="3">RA</location>
             <location index="0">LT</location>
+            <location index="3">RA</location>
         </heatsinks>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
-            <type>energy</type>
-            <location index="5">RT</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(CL) Improved Heavy Large Laser</name>
             <type>energy</type>
             <location index="6">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER Medium Laser</name>
+            <name manufacturer="">(CL) Improved Heavy Large Laser</name>
             <type>energy</type>
-            <location index="6">LT</location>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4 (iOS)</name>
+            <type>missile</type>
+            <location index="7">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER Medium Laser</name>
@@ -97,14 +97,14 @@
             <location index="5">LT</location>
         </equipment>
         <equipment>
+            <name manufacturer="">(CL) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(R) (CL) ER Small Laser</name>
             <type>energy</type>
             <location index="3">HD</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) SRM-4 (iOS)</name>
-            <type>missile</type>
-            <location index="7">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">Coolant Pod</name>

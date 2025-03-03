@@ -101,12 +101,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>Grumium Creations’ return to the ’Mech business was based around an old standard. Sheathed in hardened armor, the Cyclops C is a bit slower but much tougher than its forebears. A token but efficient weapons array exists merely to protect the ’Mech’s sophisticated communications equipment. A powerful force multiplier, the Cyclops C has been issued to Dominion PGCs, with a focus on Phalanxes to improve unit coordination. With an eye to expansion, Grumium has been allowed to sell to any buyers. The simple, rugged ’Mech is an attractive alternative to our Clan’s more advanced offerings.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Hauptmann-Kommandant John Jones: John Jones coordinated the Second Bolan Guards’ 3146 defense of Bolan from the cockpit of his vintage Cyclops. The communications analyst used his Olmstead 840 comms suite to monitor signals traffic through a civilian satellite the First Tamarind Regulars were using. This gave the Guards the forewarning necessary to keep the Regulars off balance until the arrival of the Eighth Free Worlds Guards turned the tables in the League’s favor. His Cyclops’ Tacticon B-2000 holographic battle computer proved vital in coordinating the complex shell games the Guards employed to retreat from Bolan. Unfortunately, all the signal activity was eventually noticed, and Jones’ Cyclops shot out from under him in a targeted air strike. With the Guards recovering on Loburg, the delivery of a new ClanTech Cyclops was a pleasant surprise.</notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

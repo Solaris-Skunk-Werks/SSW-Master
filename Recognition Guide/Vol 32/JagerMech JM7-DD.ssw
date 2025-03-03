@@ -5,10 +5,10 @@
     <cost>1.5194933333333338E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3146</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Composite</type>
@@ -76,12 +76,12 @@
         <equipment>
             <name manufacturer="">(IS) Light AC/5</name>
             <type>ballistic</type>
-            <location index="6">RA</location>
+            <location index="6">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Light AC/5</name>
             <type>ballistic</type>
-            <location index="6">LA</location>
+            <location index="6">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) ER Medium Laser</name>
@@ -96,17 +96,17 @@
         <equipment>
             <name manufacturer="Unknown">(IS) @ Light AC/5</name>
             <type>ammunition</type>
-            <location index="6">LT</location>
+            <location index="6">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ Light AC/5</name>
             <type>ammunition</type>
-            <location index="6">RT</location>
+            <location index="6">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
             <type>ammunition</type>
-            <location index="4">RT</location>
+            <location index="5">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
@@ -116,7 +116,7 @@
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
             <type>ammunition</type>
-            <location index="5">LT</location>
+            <location index="4">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>

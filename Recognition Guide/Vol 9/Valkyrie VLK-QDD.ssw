@@ -47,7 +47,7 @@
         <location index="10">LT</location>
     </armor>
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RCiG 9</source>
+        <source>RGiC 9</source>
         <info>Valkyrie VLK-QDD 30t, 6/9/6, LFE, Std, XL Gyro; 6.0T/100% FF Armor; 10 DHS; 1 ERML, 1 LRM10</info>
         <battleforce pv="8" wt="1" mv="6j" s="1" m="2" l="1" e="0" ov="0" armor="4" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>

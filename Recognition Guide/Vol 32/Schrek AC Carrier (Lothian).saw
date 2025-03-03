@@ -6,9 +6,9 @@
     <cost>2688000.0000000005</cost>
     <rules_level>1</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3140</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -27,7 +27,6 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 32</source>
         <info>Schrek AC Carrier (Lothian) 80t, 2/3, ICE, 7.0T/39% FF Armor; 0 SHS; 3 UAC10</info>
-        <clancase>FALSE</clancase>
         <battleforce pv="10" wt="4" mv="2t" s="5" m="5" l="5" e="0" ov="0" armor="4" internal="4" abilities="EE, TUR(5/5/5)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>

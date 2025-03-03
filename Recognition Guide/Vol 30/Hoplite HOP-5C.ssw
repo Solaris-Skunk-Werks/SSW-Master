@@ -5,10 +5,10 @@
     <cost>8114250.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3138</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -65,8 +65,8 @@
         <heatsinks number="10" techbase="1">
             <type>Double Heat Sink</type>
 
-            <location index="2">LT</location>
             <location index="2">RT</location>
+            <location index="2">LT</location>
         </heatsinks>
         <arm_aes location="LA" index="5"/>
         <arm_aes location="RA" index="6"/>
@@ -81,9 +81,14 @@
             <location index="2">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
             <type>ammunition</type>
-            <location index="5">RT</location>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
@@ -93,17 +98,12 @@
         <equipment>
             <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
             <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Ultra AC/10</name>
+            <type>ammunition</type>
             <location index="6">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
-            <type>ammunition</type>
-            <location index="5">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
-            <type>ammunition</type>
-            <location index="4">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) CASE II</name>

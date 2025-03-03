@@ -4,11 +4,11 @@
     <battle_value>1870</battle_value>
     <cost>6450900.0</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3114</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -73,17 +73,12 @@
         <equipment>
             <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
             <type>energy</type>
-            <location index="3">LA</location>
+            <location index="3">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
             <type>energy</type>
-            <location index="3">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Flamer</name>
-            <type>energy</type>
-            <location index="9">LT</location>
+            <location index="3">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER PPC</name>
@@ -91,14 +86,19 @@
             <location index="8">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) Heavy Machine Gun</name>
-            <type>ballistic</type>
-            <location index="8">LT</location>
+            <name manufacturer="">(CL) Flamer</name>
+            <type>energy</type>
+            <location index="9">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Streak LRM-5</name>
             <type>missile</type>
             <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Heavy Machine Gun</name>
+            <type>ballistic</type>
+            <location index="8">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>

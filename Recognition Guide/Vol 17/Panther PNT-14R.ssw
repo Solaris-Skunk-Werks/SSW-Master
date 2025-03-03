@@ -105,12 +105,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>Barely a decade old, the Panther -14R upgrades the -12KC with further advances in hyper-modern Streak missiles and CASE II, weapons and equipment equivalent to the best the Clans can produce. A veritable technology demonstrator, the PNT-14R bears the most ballistic-reinforced armor possible for its frame, while a supercharger boosts speed when needed. The upgrade was so successful that the newest line of Kuritan Warhammers uses similar technological innovations.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Acting Leftenant Johnston “Old Man” Greene: “Old Man” Greene served in the early years of the Filtvelt Citizens Militia, choosing to remain with the Coalition when his homeworld returned to the Federated Suns. After rising to leftenant colonel, he retired to Skepptana in 3129, taking along his aged Panther, Abigirl, to supplement the planetary militia. Greene returned to active service when Filtvelt sent aid to the Federated Suns in 3144, taking a significant demotion in order to obtain a billet with the Thumper Assault Regiment. The canny old warhorse refused to cool his heels far from the action on Anjin Muerto. He finagled a posting to the Sixth Crucis Lancers as an “official Filtvelt observer.” Despite promises to the contrary that he signed in triplicate, he was soon an active participant in raids on DCMS supply lines in the Dragon’s Tongue. In a fierce fight with a brand new Combine PNT-14R, his overheated Abigirl exploded, but not before he decapitated his enemy with a well-placed PPC blast. The Kuritan Panther was dragged off-world and returned to service as Abigirl II.</notables>
         <additional></additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>

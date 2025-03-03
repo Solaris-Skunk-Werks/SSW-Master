@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Quickdraw" model="QKD-9G" tons="60" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1983</battle_value>
+    <battle_value>2224</battle_value>
     <cost>1.667216E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3144</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>
@@ -59,17 +59,17 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 26</source>
-        <info>Quickdraw QKD-9G 60t, 5/8[10]/5 MASC, LFE, ES; 10.0T/89% FF Armor; 12 DHS; 2 SSRM4, 2 ML, 2 ERML, 1 SSRM6, TC</info>
-        <battleforce pv="20" wt="3" mv="8/5j" s="5" m="5" l="0" e="0" ov="0" armor="6" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <info>Quickdraw QKD-9G 60t, 5/8[13]/5 MASC, LFE, ES; 10.0T/89% FF Armor; 12 DHS; 2 SSRM4, 2 ML, 2 ERML, 1 SSRM6, TC</info>
+        <battleforce pv="22" wt="3" mv="8/5j" s="5" m="5" l="0" e="0" ov="0" armor="6" internal="3" abilities="CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="5">
             <type>Standard Jump Jet</type>
-            <location index="3">LT</location>
-            <location index="10">CT</location>
-            <location index="2">LT</location>
             <location index="2">RT</location>
+            <location index="2">LT</location>
             <location index="3">RT</location>
+            <location index="10">CT</location>
+            <location index="3">LT</location>
         </jumpjets>
         <heatsinks number="12" techbase="0">
             <type>Double Heat Sink</type>
@@ -86,6 +86,16 @@
             <location index="4">LA</location>
         </equipment>
         <equipment>
+            <name manufacturer="">(R) (IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(CL) Streak SRM-6</name>
             <type>missile</type>
             <location index="4">LT</location>
@@ -94,16 +104,6 @@
             <name manufacturer="">(CL) Streak SRM-4</name>
             <type>missile</type>
             <location index="6">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(R) (IS) Medium Laser</name>
-            <type>energy</type>
-            <location index="5">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(R) (IS) Medium Laser</name>
-            <type>energy</type>
-            <location index="4">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Streak SRM-4</name>

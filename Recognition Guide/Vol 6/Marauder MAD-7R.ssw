@@ -47,7 +47,7 @@
         <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RCiG 6</source>
+        <source>RGiC 6</source>
         <info>Marauder MAD-7R 75t, 4/6/0, XLFE, Std; 12.5T/97% FF Armor; 15 DHS; 1 ECM, 2 ERPPC, 2 MXPL, 1 LGR</info>
         <battleforce pv="18" wt="3" mv="4" s="3" m="4" l="3" e="0" ov="1" armor="7" internal="3" abilities="ECM, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>

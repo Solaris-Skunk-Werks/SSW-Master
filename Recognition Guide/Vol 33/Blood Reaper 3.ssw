@@ -2,13 +2,13 @@
 <mech name="Blood Reaper" model="3" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2837</battle_value>
-    <cost>1.5977433333333338E7</cost>
+    <cost>1.5815433333333338E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3150</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="1">
         <type>Endo-Steel</type>
@@ -42,14 +42,14 @@
     <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
         <source>RGiC 33</source>
         <info>Blood Reaper 3 70t, 4/6/4, XLFE, ES; 13.5T/100% Armor; 17 DHS; 2 iHML, 3 CoolPd, 2 SRM6, 2 ERPPC, TC</info>
-        <battleforce pv="28" wt="3" mv="4j" s="6" m="6" l="3" e="0" ov="2" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="28" wt="3" mv="4j" s="7" m="7" l="3" e="0" ov="1" armor="7" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
             <type>Standard Jump Jet</type>
-            <location index="5">LL</location>
-            <location index="4">LL</location>
             <location index="4">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
             <location index="5">RL</location>
         </jumpjets>
         <heatsinks number="17" techbase="1">
@@ -63,14 +63,9 @@
             <location index="3">RA</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <name manufacturer="">(CL) ER PPC</name>
             <type>energy</type>
-            <location index="7">RA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
-            <type>energy</type>
-            <location index="7">LA</location>
+            <location index="5">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) ER PPC</name>
@@ -78,9 +73,14 @@
             <location index="5">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ER PPC</name>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
             <type>energy</type>
-            <location index="5">LA</location>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Improved Heavy Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) SRM-6</name>
@@ -108,12 +108,12 @@
             <location index="11">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ SRM-6 (Artemis V)</name>
+            <name manufacturer="Unknown">@ SRM-6 (Artemis IV Capable)</name>
             <type>ammunition</type>
             <location index="7">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ SRM-6 (Artemis V)</name>
+            <name manufacturer="Unknown">@ SRM-6 (Artemis IV Capable)</name>
             <type>ammunition</type>
             <location index="9">LT</location>
         </equipment>

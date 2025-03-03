@@ -5,10 +5,10 @@
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
     <cost>674500.0</cost>
     <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>7</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3070</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -27,34 +27,33 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 32</source>
         <info>J. Edgar Light Hover Tank (LAC) 25t, 8/12, ICE, 4.5T/70% HFF Armor; 0 SHS; 4 RL10, 1 LAC5</info>
-        <clancase>FALSE</clancase>
         <battleforce pv="5" wt="1" mv="8h" s="1" m="1" l="1" e="0" ov="0" armor="3" internal="2" abilities="EE, TUR(1/1/1)" />
         <heatsinks number="0" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
         <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Rocket Launcher 10</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(IS) Light AC/5</name>
             <type>ballistic</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Rocket Launcher 10</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Rocket Launcher 10</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Rocket Launcher 10</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Rocket Launcher 10</name>
-            <type>missile</type>
             <location>Turret</location>
         </equipment>
         <equipment>

@@ -4,11 +4,11 @@
     <battle_value>1157</battle_value>
     <cost>7194080.0</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3109</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -50,8 +50,8 @@
         <clancase>FALSE</clancase>
         <jumpjets number="6">
             <type>Standard Jump Jet</type>
-            <location index="3">LT</location>
             <location index="6">RT</location>
+            <location index="3">LT</location>
             <location index="4">LL</location>
             <location index="5">LL</location>
             <location index="4">RL</location>

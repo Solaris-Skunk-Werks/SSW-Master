@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Shogun C" model="3" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Shogun" model="C 3" tons="85" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2935</battle_value>
     <cost>2.3486883333333336E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Clan</techbase>
-    <year restricted="FALSE">3139</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -42,24 +42,34 @@
     <baseloadout fcsa4="FALSE" fcsa5="TRUE" fcsapollo="FALSE">
         <source>RGiC 31</source>
         <info>Shogun C 3 85t, 4/6/4, XLFE, Std; 13.0T/95% FF Armor; 17 DHS; 2 LRM15, 1 ERPPC, 2 ATM6</info>
-        <battleforce pv="29" wt="4" mv="4j" s="6" m="5" l="5" e="0" ov="1" armor="8" internal="5" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <battleforce pv="29" wt="4" mv="4j" s="7" m="6" l="5" e="0" ov="0" armor="8" internal="5" abilities="CASEII, CASE, SRCH, ES, SEAL, SOA, IF 3" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>TRUE</clancase>
         <jumpjets number="4">
             <type>Standard Jump Jet</type>
-            <location index="4">LL</location>
-            <location index="4">RL</location>
             <location index="11">CT</location>
             <location index="10">CT</location>
+            <location index="4">LL</location>
+            <location index="4">RL</location>
         </jumpjets>
         <heatsinks number="17" techbase="1">
             <type>Double Heat Sink</type>
 
+            <location index="5">LA</location>
             <location index="3">LA</location>
             <location index="3">RA</location>
             <location index="5">RA</location>
-            <location index="5">LA</location>
         </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) ATM-6</name>
+            <type>missile</type>
+            <location index="2">LT</location>
+        </equipment>
         <equipment>
             <name manufacturer="">(CL) LRM-15</name>
             <type>missile</type>
@@ -71,39 +81,9 @@
             <location index="7">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(CL) ATM-6</name>
-            <type>missile</type>
-            <location index="2">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(CL) ATM-6</name>
-            <type>missile</type>
-            <location index="5">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(CL) ER PPC + PPC Capacitor</name>
             <type>energy</type>
             <location index="2">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
-            <type>ammunition</type>
-            <location index="8">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
-            <type>ammunition</type>
-            <location index="7">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
-            <type>ammunition</type>
-            <location index="9">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
-            <type>ammunition</type>
-            <location index="10">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ ATM-6</name>
@@ -119,6 +99,26 @@
             <name manufacturer="Unknown">(CL) @ ATM-6 (HE)</name>
             <type>ammunition</type>
             <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="8">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15 (Artemis V)</name>
+            <type>ammunition</type>
+            <location index="7">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) CASE II</name>

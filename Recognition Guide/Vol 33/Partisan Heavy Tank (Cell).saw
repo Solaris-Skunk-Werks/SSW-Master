@@ -5,10 +5,10 @@
     <motive type="Tracked" cruise="3" turret="Single Turret" />
     <cost>4217900.0</cost>
     <rules_level>2</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3130</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Partisan Heavy Tank (Cell) 80t Tracked, 3/5, FCE, 7.0T/43% HFF Armor; 1 SHS; 1 C3S, 4 UAC5, 2 MG, 1 CASE</info>
-        <clancase>FALSE</clancase>
+        <info>Partisan Heavy Tank (Cell) 80t, 3/5, FCE, 7.0T/43% HFF Armor; 1 SHS; 1 C3S, 4 UAC5, 2 MG, 1 CASE</info>
         <battleforce pv="10" wt="4" mv="3t" s="3" m="3" l="3" e="0" ov="0" armor="5" internal="4" abilities="C3S, CASE, EE, TUR(3/3/3)" />
         <heatsinks number="1" techbase="2">
             <type>Single Heat Sink</type>
@@ -65,10 +64,10 @@
         <equipment>
             <name manufacturer="">C3 Computer (Slave)</name>
             <type>equipment</type>
-            <location>Body</location>
+            <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">CASE</name>
+            <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
             <location>Body</location>
         </equipment>

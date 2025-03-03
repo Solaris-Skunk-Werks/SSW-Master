@@ -4,11 +4,11 @@
     <battle_value>1609</battle_value>
     <cost>1.3280173333333336E7</cost>
     <rules_level>3</rules_level>
-    <era>1</era>
-    <productionera>2</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="TRUE">2832</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -48,28 +48,13 @@
         <heatsinks number="17" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="6">LT</location>
-            <location index="3">LT</location>
-            <location index="3">RT</location>
-            <location index="6">RT</location>
             <location index="4">LA</location>
             <location index="4">RA</location>
+            <location index="3">LT</location>
+            <location index="6">LT</location>
+            <location index="3">RT</location>
+            <location index="6">RT</location>
         </heatsinks>
-        <equipment>
-            <name manufacturer="">(IS) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="9">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(R) (IS) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="10">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Medium Pulse Laser</name>
-            <type>energy</type>
-            <location index="9">RT</location>
-        </equipment>
         <equipment>
             <name manufacturer="">(IS) Binary Laser Cannon</name>
             <type>energy</type>
@@ -79,6 +64,21 @@
             <name manufacturer="">(IS) Binary Laser Cannon</name>
             <type>energy</type>
             <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(R) (IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="10">CT</location>
         </equipment>
     </baseloadout>
     <fluff>
