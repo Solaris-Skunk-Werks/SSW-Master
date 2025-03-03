@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Warhammer" model="WHM-7S" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1477</battle_value>
+    <cost>6539783.333333335</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="TRUE">3050</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>22</ct>
+        <ctr>9</ctr>
+        <lt>17</lt>
+        <ltr>8</ltr>
+        <rt>17</rt>
+        <rtr>8</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>15</ll>
+        <rl>15</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 7</source>
+        <info>Warhammer WHM-7S 70t, 4/6/0, Std FE, Std; 10.0T/74% Armor; 18 DHS; 2 SL, 2 SSRM2, 2 MPL, 2 ERPPC</info>
+        <battleforce pv="15" wt="3" mv="4" s="5" m="4" l="2" e="0" ov="1" armor="5" internal="6" abilities="SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="18" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="3">LT</location>
+            <location index="6">LT</location>
+            <location index="0">RT</location>
+            <location index="6">RT</location>
+            <location index="3">RA</location>
+            <location index="3">RT</location>
+            <location index="0">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER PPC</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="11">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="11">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="10">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location index="10">CT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
+                <Name>Rugged</Name>
+                <Cost>1</Cost>
+                <Description>Some â€™Mechs are extremely reliable, reducing the frequency with which they require maintenance. The cost is 1 point if the â€˜Mech can go for two times as long between maintenance periods as normal, and 2 points if it can go up to three times as long.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
+                <Name>Rugged</Name>
+                <Cost>1</Cost>
+                <Description>Some â€™Mechs are extremely reliable, reducing the frequency with which they require maintenance. The cost is 1 point if the â€˜Mech can go for two times as long between maintenance periods as normal, and 2 points if it can go up to three times as long.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Ubiquitous</Name>
+                <Cost>1</Cost>
+                <Description>Some â€™Mechs, such as the Archer, Wasp, and Locust, have been in production for literally centuries, with thousands or even tens of thousands produced in that time across multiple nations. For other â€™Mechs, the manufacturer has gone to exceptional lengths to ensure that parts are readily available, such as mass producing them or using parts from other, more common machines. Whatever the case, when attempting to locate replacement parts for these â€™Mechs, apply a â€“2 Target Number modifier.  Note that this quirk does not cross between the Clans and the Inner Sphere. For example, a machine Ubiquitous amongst the Clans would not be Ubiquitous in the Inner Sphere, and vice versa.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Scorpion Light Tank" model="(MRM)" tons="25" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>393</battle_value>
+    <motive type="Tracked" cruise="4" turret="Single Turret" />
+    <cost>381333.33333333326</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="" location="">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="100" manufacturer="" techbase="2">I.C.E. Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>18</front>
+        <left>13</left>
+        <right>13</right>
+        <rear>11</rear>
+        <primaryturret>16</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 33</source>
+        <info>Scorpion Light Tank (MRM) 25t, 4/6, ICE, 4.0T/56% FF Armor; 0 SHS; 1 MRM20, 1 MG</info>
+        <battleforce pv="4" wt="1" mv="4t" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="EE, TUR(2/2/0)" />
+        <heatsinks number="0" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location>Front</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MRM-20</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MRM-20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

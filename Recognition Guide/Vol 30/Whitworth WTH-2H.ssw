@@ -5,10 +5,10 @@
     <cost>3754766.6666666665</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3139</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -31,16 +31,13 @@
         <ra>12</ra>
         <ll>18</ll>
         <rl>18</rl>
-        <location index="4">LA</location>
-        <location index="4">RA</location>
-        <location index="5">LA</location>
-        <location index="5">RA</location>
         <location index="6">RT</location>
         <location index="6">LA</location>
         <location index="6">RA</location>
         <location index="7">RT</location>
         <location index="7">LA</location>
         <location index="7">RA</location>
+        <location index="8">LT</location>
         <location index="8">RT</location>
         <location index="8">LA</location>
         <location index="8">RA</location>
@@ -50,8 +47,11 @@
         <location index="9">RA</location>
         <location index="10">LT</location>
         <location index="10">RT</location>
-        <location index="11">LT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
         <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="TRUE">
         <source>RGiC 30</source>
@@ -69,8 +69,8 @@
         <heatsinks number="10" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="0">LT</location>
             <location index="0">RT</location>
+            <location index="0">LT</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(IS) ER Medium Laser</name>
@@ -110,7 +110,7 @@
         <equipment>
             <name manufacturer="">(IS) CASE II</name>
             <type>CASEII</type>
-            <location index="8">LT</location>
+            <location index="11">LT</location>
         </equipment>
     </baseloadout>
     <fluff>

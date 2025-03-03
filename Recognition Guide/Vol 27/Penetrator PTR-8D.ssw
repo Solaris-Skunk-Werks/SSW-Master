@@ -5,27 +5,27 @@
     <cost>1.0094E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3144</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
-        <location index="4">LT</location>
-        <location index="5">LT</location>
-        <location index="6">LT</location>
-        <location index="6">RT</location>
         <location index="7">LT</location>
         <location index="7">RT</location>
         <location index="8">LT</location>
         <location index="8">RT</location>
-        <location index="8">LA</location>
-        <location index="8">RA</location>
+        <location index="9">LT</location>
         <location index="9">RT</location>
-        <location index="9">LA</location>
-        <location index="9">RA</location>
+        <location index="10">LT</location>
         <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+        <location index="11">LA</location>
+        <location index="11">RA</location>
     </structure>
     <engine rating="300" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
     <gyro techbase="0">Compact Gyro</gyro>
@@ -45,21 +45,21 @@
         <ra>21</ra>
         <ll>26</ll>
         <rl>26</rl>
-        <location index="9">LT</location>
+        <location index="4">LT</location>
+        <location index="5">LT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
         <location index="10">CT</location>
-        <location index="10">LT</location>
-        <location index="10">LA</location>
-        <location index="10">RA</location>
         <location index="11">CT</location>
-        <location index="11">LT</location>
-        <location index="11">RT</location>
-        <location index="11">LA</location>
-        <location index="11">RA</location>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 27</source>
         <info>Penetrator PTR-8D 75t, 4/6/4, Std FE, ES, Cmp Gyro; 13.0T/90% LsrRflc Armor; 13 DHS; 1 LAMS, 6 ML, 1 CoolPd, 2 RELL</info>
-        <battleforce pv="21" wt="3" mv="4j" s="4" m="4" l="0" e="0" ov="1" armor="5" internal="6" abilities="AMS, ENE, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="21" wt="3" mv="4j" s="5" m="5" l="0" e="0" ov="0" armor="5" internal="6" abilities="AMS, ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -105,16 +105,6 @@
             <location index="5">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) Large R-e Laser</name>
-            <type>energy</type>
-            <location index="3">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Large R-e Laser</name>
-            <type>energy</type>
-            <location index="3">RA</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Laser Anti-Missile System</name>
             <type>equipment</type>
             <location index="8">CT</location>
@@ -123,6 +113,16 @@
             <name manufacturer="">Coolant Pod</name>
             <type>equipment</type>
             <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large R-e Laser</name>
+            <type>energy</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large R-e Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
         </equipment>
     </baseloadout>
     <fluff>

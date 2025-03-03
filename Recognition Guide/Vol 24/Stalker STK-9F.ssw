@@ -151,12 +151,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>Irian’s Stalker II was polarizing. Its extraordinary durability set the new ’Mech up for success, though many potential customers snubbed it on account of the limited flexibility of its weaponry. The new cockpit also made it difficult to pilot. Irian thus developed a new variant of its classic Stalker, keeping the newer ’Mech’s hardened armor. Irian addressed concerns regarding damage output on the modern battlefield by making its primary weapons Clan grade. Irian could supply equivalent large pulse lasers to augment the traditional Magna medium lasers. They negotiated a deal with Skate Khanate’s Beta Aimag for missile launchers and sensors in return for a percentage of the production output. The STK-9F’s combination of durability and destructive potential made it a common sight in this region of the Inner Sphere.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Captain Kyree Anansi: Kyree has purposefully obscured her origins. She cropped up several years ago, traveling throughout the Former Free Worlds League in a new Stalker, selling her services while always hiring available mercenaries in short-term contracts to form ad hoc companies. She always had enough of her own cash to keep questions to a minimum. Her name itself is likely a nom de guerre harkening to an ancient Terran “trickster” god. Kyree likely took on the mantle due to a predilection towards feints, ambushes, and other crafty tactics that seem in stark contrast to her lumbering assault ’Mech. Or perhaps she took the name due to her well-documented personal trait—a love of storytelling that further obfuscates any sense of who she really is.</notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

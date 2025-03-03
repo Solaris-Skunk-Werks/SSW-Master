@@ -3,10 +3,10 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1512</battle_value>
     <motive type="Hovercraft" cruise="8" turret="Single Turret" />
-    <cost>3155250.0</cost>
+    <cost>3055250.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Mixed</techbase>
     <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
@@ -24,11 +24,10 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>SM Tank Destroyer SM1B 50t Hovercraft, 8/12, Std FE, 8.0T/45% B-R Armor; 10 SHS; 1 CASE, 1 LAP, 4 LMG, 1 UAC20</info>
-        <clancase>TRUE</clancase>
-        <battleforce pv="15" wt="2" mv="8h" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="3" abilities="LPRB, RCN, CASE, TUR(1/1/0)" />
+        <info>SM Tank Destroyer SM1B 50t, 8/12, Std FE, 8.0T/45% B-R Armor; 10 SHS; 1 LAP, 4 LMG, 1 UAC20</info>
+        <battleforce pv="15" wt="2" mv="8h" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="3" abilities="LPRB, RCN, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
@@ -60,14 +59,7 @@
         <equipment>
             <name manufacturer="">Light Active Probe</name>
             <type>equipment</type>
-            <location>Body</location>
-            <techbase>Clan</techbase>
-        </equipment>
-        <equipment>
-            <name manufacturer="">CASE</name>
-            <type>CASE</type>
-            <location>Body</location>
-            <techbase>Clan</techbase>
+            <location>Turret</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>

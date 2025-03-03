@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Albatross" model="ALB-5U" tons="95" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1885</battle_value>
+    <cost>2.5823887500000004E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3132</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="380" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">Light Fusion Engine</engine>
+    <gyro techbase="0">Heavy-Duty Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="0">
+        <type>Heavy Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>48</ct>
+        <ctr>12</ctr>
+        <lt>28</lt>
+        <ltr>12</ltr>
+        <rt>28</rt>
+        <rtr>12</rtr>
+        <la>32</la>
+        <ra>32</ra>
+        <ll>40</ll>
+        <rl>40</rl>
+        <location index="6">RT</location>
+        <location index="6">LA</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="7">RA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="8">LA</location>
+        <location index="8">RA</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">LA</location>
+        <location index="9">RA</location>
+        <location index="10">CT</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">LA</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <info>Albatross ALB-5U 95t, 4/6/0, LFE, Std, HD Gyro; 15.0T/100% HFF Armor; 13 DHS; 2 ERML, 1 ERSL, 1 RAC2, 1 MML7, 1 LXPL</info>
+        <battleforce pv="19" wt="4" mv="4" s="3" m="3" l="1" e="0" ov="1" armor="10" internal="5" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="13" techbase="0">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Rotary AC/2</name>
+            <type>ballistic</type>
+            <location index="3">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Large X-Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Medium Laser</name>
+            <type>energy</type>
+            <location index="5">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Small Laser</name>
+            <type>energy</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) MML-7</name>
+            <type>missile</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (LRM)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ MML-7 (SRM)</name>
+            <type>ammunition</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Rotary AC/2</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">LT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

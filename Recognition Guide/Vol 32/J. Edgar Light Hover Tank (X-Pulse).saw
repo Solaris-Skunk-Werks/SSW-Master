@@ -6,9 +6,9 @@
     <cost>929500.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3144</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -27,24 +27,23 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 32</source>
         <info>J. Edgar Light Hover Tank (X-Pulse) 25t, 11/17, Std FE, 5.5T/86% HFF Armor; 10 SHS; 1 MXPL, 2 SRM2</info>
-        <clancase>FALSE</clancase>
         <battleforce pv="6" wt="1" mv="11h" s="2" m="2" l="0" e="0" ov="0" armor="4" internal="2" abilities="TUR(2/2/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(IS) SRM-2</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) SRM-2</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Medium X-Pulse Laser</name>
             <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2</name>
+            <type>missile</type>
             <location>Turret</location>
         </equipment>
         <equipment>

@@ -5,10 +5,10 @@
     <cost>8034100.0</cost>
     <rules_level>1</rules_level>
     <era>2</era>
-    <productionera>5</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3051</year>
+    <year restricted="FALSE">3070</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -57,26 +57,6 @@
             <location index="4">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) Autocannon/2</name>
-            <type>ballistic</type>
-            <location index="4">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Autocannon/2</name>
-            <type>ballistic</type>
-            <location index="3">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Autocannon/2</name>
-            <type>ballistic</type>
-            <location index="3">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Autocannon/2</name>
-            <type>ballistic</type>
-            <location index="4">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) SRM-4</name>
             <type>missile</type>
             <location index="2">LT</location>
@@ -95,6 +75,26 @@
             <name manufacturer="">(IS) SRM-4</name>
             <type>missile</type>
             <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/2</name>
+            <type>ballistic</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/2</name>
+            <type>ballistic</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/2</name>
+            <type>ballistic</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Autocannon/2</name>
+            <type>ballistic</type>
+            <location index="4">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ AC/2</name>
@@ -119,12 +119,12 @@
         <equipment>
             <name manufacturer="">CASE</name>
             <type>CASE</type>
-            <location index="7">LT</location>
+            <location index="11">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">CASE</name>
             <type>CASE</type>
-            <location index="7">RT</location>
+            <location index="11">RT</location>
         </equipment>
     </baseloadout>
     <fluff>
@@ -135,13 +135,6 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
-        <quirks>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="true">
-                <Name>Stabilized Weapon</Name>
-                <Cost>1</Cost>
-                <Description>Some weapons, such as the center torso and head lasers of the Mongoose, are better cushioned against or otherwise compensated for the increased inaccuracy caused by moving at high speeds. If the &apos;Mech runs, all Target Numbers for that weapon receive a â€“1 modifier.  The cost is 1 point per 7 points (or fraction thereof) of maximum damage the weapon can inflict in a single Damage Value grouping. If the â€œweaponâ€� deals 0 damage (such as TAG), the cost is 1 point. More than one weapon can receive this positive quirk, but the cost for each must be paid.</Description>
-            </quirk>
-        </quirks>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

@@ -5,10 +5,10 @@
     <cost>1.4693773333333338E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3148</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -57,14 +57,14 @@
 
         </heatsinks>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="">(R) (IS) ER Medium Laser</name>
             <type>energy</type>
-            <location index="4">LA</location>
+            <location index="3">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) ER Medium Laser</name>
             <type>energy</type>
-            <location index="6">RA</location>
+            <location index="4">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(R) (IS) ER Medium Laser</name>
@@ -72,9 +72,9 @@
             <location index="10">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(R) (IS) ER Medium Laser</name>
+            <name manufacturer="">(IS) ER Medium Laser</name>
             <type>energy</type>
-            <location index="3">LT</location>
+            <location index="6">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Snub-Nose PPC</name>

@@ -7,7 +7,7 @@
     <era>2</era>
     <productionera>9</productionera>
     <mech_type>BattleMech</mech_type>
-    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <techbase manufacturer="Luthien Armor Works" location="Abiy Adi">Inner Sphere</techbase>
     <year restricted="FALSE">3120</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
@@ -117,12 +117,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>The Jenner has been the stalwart of DCMS light lances for centuries. The JR7-N combines the frame of the -C4 model with more conventional weapons. Heavy ferro-fibrous armor provides nearly maximum protection, and CASE II protects the vulnerable XL engine. The JR7-N improved its scouting and raiding abilities with increased jump range and a Beagle Active Probe. Careful pilots have learned to stagger weapons fire and jumping to avoid overheating.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>MechWarrior Savara Lohk: Savara Lohk is an average pilot from an average world fighting for an average unit. Individually these details suggest Lohk is unremarkable, but taken as a whole they suggest something more. We suspect she is an agent of some organization. She is most likely ISF, given that the Second Dieron Regulars were heavilyreorganized following Tai-shu Katana Tormark’s support of the Nova Cat rebellion. Those personnel are known entities though, so Lohk could be an agent from another House or Clan. This could be used to our advantage.:br::br::tab:During the conquest of Fomalhaut earlier this year, Lohk was instrumental in tracking down the commander of the Aquamarines mercenary command. Having gone to ground, the mercenaries plagued the Second for weeks, even attacking their cantonment directly. During one such attack, Lohk identified the mercenary commander, enabling the Second to capture him. Following his execution, the mercenaries disappeared into the populace, with the Second as yet failing to locate them.</notables>
         <additional></additional>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>

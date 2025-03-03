@@ -4,11 +4,11 @@
     <battle_value>1499</battle_value>
     <cost>1.033455E7</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>8</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3091</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -56,17 +56,17 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 30</source>
         <info>Vulcan VT-7T 40t, 6/9[12]/6, XLFE, ES; 6.0T/74% LFF Armor; 10 DHS; 1 PR, 1 HMG, 1 ERML, 1 Hflmr, TC</info>
-        <battleforce pv="15" wt="2" mv="8/6j" s="3" m="2" l="0" e="0" ov="1" armor="3" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="15" wt="2" mv="8/6j" s="3" m="3" l="0" e="0" ov="0" armor="3" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">
             <type>Standard Jump Jet</type>
-            <location index="4">RT</location>
-            <location index="3">RT</location>
-            <location index="6">LT</location>
             <location index="7">LT</location>
+            <location index="6">LT</location>
             <location index="10">CT</location>
             <location index="11">CT</location>
+            <location index="3">RT</location>
+            <location index="4">RT</location>
         </jumpjets>
         <heatsinks number="10" techbase="0">
             <type>Double Heat Sink</type>
@@ -99,11 +99,6 @@
             <location index="10">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
-            <type>ammunition</type>
-            <location index="9">RT</location>
-        </equipment>
-        <equipment>
             <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
             <type>ammunition</type>
             <location index="8">RT</location>
@@ -112,6 +107,11 @@
             <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
             <type>ammunition</type>
             <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Heavy Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) CASE II</name>

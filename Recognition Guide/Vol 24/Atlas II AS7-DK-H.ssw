@@ -133,12 +133,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>It is hard to imagine too many Atlases could ever be a problem for anyone on their side of the battlefield, but that was precisely the situation faced by Defiance Industries. Production lines operated for no less than three branches, each marketed by a different division of the company and sometimes directly competing with each other. The program that led to production of the AS8-S solved this problem but created a new one: a massive stockpile of superfluous Atlas components. Defiance’s solution was to use off-the-shelf components, in a limited-run variant that combined the Atlas II with the engine of the AS7-K2. This AS7-DK-H model proved so successful that it remains in production.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Commander Murdock Billingsham: Billingsham commands of a small band of mercenaries operating since Gray Monday. He never lacks for work as he moves the command from one brushfire conflict to another. He participated in virtually every major conflict since 3132, sometimes on both sides, due to his preference for short-term contracts that preserve his freedom of action. In an age of small militaries, employers desperate to bolster their forces rarely object to his terms, at least until he negotiates a contract with the enemy over open comms the moment his current one expires, as he did on Victoria during the Capellan invasion. Billingsham is famously unafraid in battle, confident the speed and armor of his massive Atlas II will protect him.</notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

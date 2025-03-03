@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<combatvehicle name="Ontos Heavy Tank" model="Chemical Laser" tons="95" motive="Tracked" omni="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1572</battle_value>
+    <motive type="Tracked" cruise="3" turret="Single Turret" />
+    <cost>1.6801125E7</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
+    <techbase manufacturer="" location="">Mixed</techbase>
+    <year restricted="FALSE">0</year>
+    <structure manufacturer="" techbase="2">
+        <type>Standard Structure</type>
+        <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
+    </structure>
+    <engine rating="285" manufacturer="" techbase="0">XL Engine</engine>
+    <armor manufacturer="" techbase="0">
+        <type>Ferro-Fibrous</type>
+        <front>40</front>
+        <left>32</left>
+        <right>32</right>
+        <rear>30</rear>
+        <primaryturret>36</primaryturret>
+        <secondaryturret>0</secondaryturret>
+        <rotor>0</rotor>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
+        <source>RGiC 29</source>
+        <info>Ontos Heavy Tank Chemical Laser 95t, 3/5, XLFE, 9.5T/46% FF Armor; 10 SHS; 2 LRM5, 8 LCL, 1 CASE</info>
+        <battleforce pv="16" wt="4" mv="3t" s="7" m="7" l="1" e="0" ov="0" armor="6" internal="5" abilities="CASE, TUR(7/7/1), IF 1" />
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Large Chemical Laser</name>
+            <type>energy</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-5</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Large Chemical Laser</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">CASE</name>
+            <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-5</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model></jumpjet_model>
+        <commsystem></commsystem>
+        <tandtsystem></tandtsystem>
+    </fluff>
+</combatvehicle>

@@ -5,10 +5,10 @@
     <motive type="Hovercraft" cruise="14" turret="Single Turret" />
     <cost>8643750.0</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3130</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Harasser Missile Platform (LFE) 25t Hovercraft, 14/21[28], LFE, 2.0T/31% HFF Armor; 10 SHS; 3 ML, 1 SuperC</info>
-        <clancase>FALSE</clancase>
+        <info>Harasser Missile Platform (LFE) 25t, 14/21[28], LFE, 2.0T/31% HFF Armor; 10 SHS; 3 ML, 1 SuperC</info>
         <battleforce pv="8" wt="1" mv="14h" s="2" m="2" l="0" e="0" ov="0" armor="1" internal="2" abilities="ENE, TUR(2/2/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -48,7 +47,7 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">Supercharger</name>
+            <name manufacturer="Unknown">Supercharger</name>
             <type>Supercharger</type>
             <location>Body</location>
         </equipment>

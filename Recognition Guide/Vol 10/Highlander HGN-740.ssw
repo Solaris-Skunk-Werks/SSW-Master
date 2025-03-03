@@ -42,7 +42,7 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 10</source>
         <info>Highlander HGN-740 90t, 3/5/3, Std FE, Std; 16.0T/97% LFF Armor; 15 DHS; 2 ERML, 1 ERPPC, 1 LRM20, 1 SSRM6, 4 MPod</info>
-        <battleforce pv="22" wt="4" mv="3j" s="3" m="4" l="2" e="0" ov="1" armor="9" internal="7" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 1" />
+        <battleforce pv="22" wt="4" mv="3j" s="4" m="4" l="2" e="0" ov="1" armor="9" internal="7" abilities="CASEII, SRCH, ES, SEAL, SOA, IF 1" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="3">
@@ -148,7 +148,7 @@
             <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
                 <Name>Reinforced Legs</Name>
                 <Cost>1</Cost>
-                <Description>Designed for executing the dreaded &quot;Death from Above&quot; attack, some `Mechs (the Highlander, for example) suffer half the normal damage to the legs when performing Death From Above successfully.</Description>
+                <Description>Designed for executing the dreaded 'Death from Above' attack, some `Mechs (the Highlander, for example) suffer half the normal damage to the legs when performing Death From Above successfully.</Description>
             </quirk>
             <quirk postive="false" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="true" conventionalfigher="true" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
                 <Name>Difficult Ejection</Name>

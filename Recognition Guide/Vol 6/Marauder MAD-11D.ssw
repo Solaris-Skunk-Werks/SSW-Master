@@ -40,7 +40,7 @@
         <rl>30</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RCiG 6</source>
+        <source>RGiC 6</source>
         <info>Marauder MAD-11D 75t, 4/6/0, XLFE, E-Comp, XL Gyro; 14.0T/97% Armor; 17 DHS; 2 MXPL, 2 ERPPC, 1 SBGR</info>
         <battleforce pv="23" wt="3" mv="4" s="5" m="5" l="4" e="0" ov="1" armor="7" internal="1" abilities="CASEII, SRCH, ES, SEAL, SOA, FLK 1/1/1" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>

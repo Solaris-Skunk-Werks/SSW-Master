@@ -2,10 +2,10 @@
 <mech name="Gladiator" model="GLD-9SF" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>2119</battle_value>
-    <cost>9351590.0</cost>
+    <cost>9491090.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
     <year restricted="FALSE">3132</year>
@@ -86,24 +86,19 @@
             <location index="2">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) Fluid Gun</name>
-            <type>ballistic</type>
-            <location index="5">LA</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">Lift Hoist</name>
             <type>equipment</type>
             <location index="7">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
-            <type>ammunition</type>
-            <location index="8">LA</location>
+            <name manufacturer="">Lift Hoist</name>
+            <type>equipment</type>
+            <location index="8">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
-            <type>ammunition</type>
-            <location index="7">LA</location>
+            <name manufacturer="">(IS) Fluid Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">@ SRM-4</name>
@@ -116,9 +111,14 @@
             <location index="5">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">Lift Hoist</name>
-            <type>equipment</type>
-            <location index="8">LT</location>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Fluid Gun (Water)</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) CASE II</name>

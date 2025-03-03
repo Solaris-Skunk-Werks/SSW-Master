@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Vapor Eagle (Goshawk)" model="" tons="55" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>2368</battle_value>
+    <cost>1.219782E7</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>2</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Snow Raven Industrial Complex Alpha" location="Dante">Clan</techbase>
+    <year restricted="FALSE">2863</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="GS-1E" techbase="1">
+        <type>Endo-Steel</type>
+        <location index="5">RA</location>
+        <location index="7">LT</location>
+        <location index="8">LT</location>
+        <location index="8">LA</location>
+        <location index="9">RT</location>
+        <location index="10">CT</location>
+        <location index="10">RT</location>
+    </structure>
+    <engine rating="330" manufacturer="Fusion" lsstart="0" rsstart="0" techbase="1">XL Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Raven Comp B" techbase="1">
+        <type>Ferro-Fibrous</type>
+        <hd>9</hd>
+        <ct>28</ct>
+        <ctr>5</ctr>
+        <lt>20</lt>
+        <ltr>5</ltr>
+        <rt>20</rt>
+        <rtr>5</rtr>
+        <la>16</la>
+        <ra>16</ra>
+        <ll>24</ll>
+        <rl>24</rl>
+        <location index="6">RA</location>
+        <location index="7">RA</location>
+        <location index="9">LT</location>
+        <location index="9">LA</location>
+        <location index="10">LA</location>
+        <location index="11">CT</location>
+        <location index="11">RT</location>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 9</source>
+        <info>Vapor Eagle (Goshawk) 55t, 6/9/6, XLFE, ES; 9.0T/93% FF Armor; 11 DHS; 2 SSRM2, 4 MG, 3 MPL, 1 LPL, TC</info>
+        <battleforce pv="24" wt="2" mv="6j" s="5" m="4" l="1" e="0" ov="1" armor="6" internal="3" abilities="CASE, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
+        <clancase>TRUE</clancase>
+        <jumpjets number="6">
+            <type>Standard Jump Jet</type>
+            <location index="2">RT</location>
+            <location index="2">LT</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+            <location index="4">RL</location>
+            <location index="5">RL</location>
+        </jumpjets>
+        <heatsinks number="11" techbase="1">
+            <type>Double Heat Sink</type>
+
+        </heatsinks>
+        <equipment>
+            <name manufacturer="Kolibri Delta Series">(CL) Large Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type II">(CL) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Type II">(CL) Streak SRM-2</name>
+            <type>missile</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XIB">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XIB">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XIB">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="6">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series XIB">(CL) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ Streak SRM-2</name>
+            <type>ammunition</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="3">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Series 14a">(CL) Medium Pulse Laser</name>
+            <type>energy</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(CL) Targeting Computer</name>
+            <type>TargetingComputer</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Nimble Jumper</Name>
+                <Cost>3</Cost>
+                <Description>Jump jets are brute-force thrusters designed only to transport a â€™Mech directly from point A to point B. Some â€™Mechs, however, such as the Spider, are especially nimble when jumping. When a â€™Mech with this quirk jumps, it need not follow the most direct path to its target hex. Instead, it may deviate from that path by up to one hex of its controllerâ€™s choice (assuming the â€™Mech has the Jumping MP required, of course additional heat for such a jump is generated as normal for the jump jet type in use). For example, a jump that would normally cover six hexes can instead cover up to seven.  If a â€™Mech jumps in this fashion, attacks against the â€™Mech receive an additional +1 Target Movement Modifier (a total of +2 for jumping, instead of the normal +1 the extra hex traveled is also factored into the â€™Mechâ€™s Target Movement Modifier, as normal). However, attacks made by the jumping â€™Mech receive the same additional Target Number modifier (a total of +4 for jumping, instead of +3).  This quirk can only be taken by light or medium â€™Mechs, and only for those that have at least as many Jumping MP as they do Walking MP</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>SR Starlifter 55</jumpjet_model>
+        <commsystem>GBX Series Integrated</commsystem>
+        <tandtsystem>Type 13e</tandtsystem>
+    </fluff>
+</mech>

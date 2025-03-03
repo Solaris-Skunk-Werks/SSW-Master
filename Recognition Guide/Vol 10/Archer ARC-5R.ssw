@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Archer" model="ARC-5R" tons="70" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>1672</battle_value>
+    <cost>7323673.333333335</cost>
+    <rules_level>1</rules_level>
+    <era>1</era>
+    <productionera>5</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="TRUE">3050</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="6">LA</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="7">LA</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+        <location index="9">RA</location>
+        <location index="10">LT</location>
+        <location index="10">RT</location>
+        <location index="10">RA</location>
+        <location index="11">LT</location>
+        <location index="11">RT</location>
+    </structure>
+    <engine rating="280" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>9</hd>
+        <ct>29</ct>
+        <ctr>8</ctr>
+        <lt>22</lt>
+        <ltr>5</ltr>
+        <rt>22</rt>
+        <rtr>5</rtr>
+        <la>20</la>
+        <ra>20</ra>
+        <ll>22</ll>
+        <rl>22</rl>
+    </armor>
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>RGiC 10</source>
+        <info>Archer ARC-5R 70t, 4/6/0, Std FE, ES; 11.5T/85% Armor; 12 DHS; 2 LRM15, 2 ERLL</info>
+        <battleforce pv="17" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA, IF 2" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="12" techbase="0">
+            <type>Double Heat Sink</type>
+
+            <location index="4">RA</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="7">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-15</name>
+            <type>missile</type>
+            <location index="0">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) LRM-15</name>
+            <type>missile</type>
+            <location index="0">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="4">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ LRM-15 (Artemis IV Capable)</name>
+            <type>ammunition</type>
+            <location index="5">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="6">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <quirks>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Battlefists</Name>
+                <Cost>2</Cost>
+                <Description>The Battlefists quirk applies only to â€™Mechs that are equipped with hand actuators. This quirk reflects â€™Mechs that feature hands which are better designed for melee combat as a consequence of their unique configuration (such as the Awesomeâ€™s mace-like fist, or the Pillagerâ€™s sharpened â€œknucklesâ€�). This quirk is only paid for once, even if the â€™Mech has two fists. If the â€™Mech has two hands, and this quirk is only meant to apply to one of those hands, this must be specified (the cost remains the same). A â€™Mech with Battlefists receives a â€“1 Target Number modifier when making Punch attacks.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Command BattleMech</Name>
+                <Cost>2</Cost>
+                <Description>Each turn one or more of such units are on the battlefield and the MechWarrior is conscious, their battle force receives a +1 modifier to all Initiative rolls. This modifier is not cumulative with a Battle Computer</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Stable</Name>
+                <Cost>2</Cost>
+                <Description>`Mech designs such as the Dragon are exceptionally stable, receiving a -1 target number modifier when forced to make a Piloting Skill roll as a result of a physical attack.</Description>
+            </quirk>
+            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
+                <Name>Ubiquitous</Name>
+                <Cost>1</Cost>
+                <Description>Some â€™Mechs, such as the Archer, Wasp, and Locust, have been in production for literally centuries, with thousands or even tens of thousands produced in that time across multiple nations. For other â€™Mechs, the manufacturer has gone to exceptional lengths to ensure that parts are readily available, such as mass producing them or using parts from other, more common machines. Whatever the case, when attempting to locate replacement parts for these â€™Mechs, apply a â€“2 Target Number modifier.  Note that this quirk does not cross between the Clans and the Inner Sphere. For example, a machine Ubiquitous amongst the Clans would not be Ubiquitous in the Inner Sphere, and vice versa.</Description>
+            </quirk>
+        </quirks>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -6,9 +6,9 @@
     <cost>1.03055E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3135</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -27,7 +27,6 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 32</source>
         <info>Von Luckner Heavy Tank VNL-K85N 75t, 3/5, XLFE, 22.0T/58% Hrdnd Armor; 10 SHS; 1 Flmr, 1 MRM10, 1 SRM4iOS, 1 MG, 2 SRM6, 1 LB20</info>
-        <clancase>FALSE</clancase>
         <battleforce pv="16" wt="3" mv="3t" s="3" m="3" l="0" e="0" ov="0" armor="12" internal="4" abilities="TUR(3/3/0, SRM 1/1/0, FLK 1/1/0), SRM 1/1/0, FLK 1/1/0" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -48,17 +47,17 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) SRM-6</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) SRM-6</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) SRM-4 (iOS)</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
             <type>missile</type>
             <location>Turret</location>
         </equipment>

@@ -6,7 +6,7 @@
     <cost>1925375.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
     <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Goblin III Infantry Support Vehicle 45t Tracked, 5/8, Std FE, 8.5T/85% HFF Armor; 10 SHS; 1 InfBay, 1 RELL, 1 MG, 1 CASE</info>
-        <clancase>FALSE</clancase>
+        <info>Goblin III Infantry Support Vehicle 45t, 5/8, Std FE, 8.5T/85% HFF Armor; 10 SHS; 1 InfBay, 1 RELL, 1 MG, 1 CASE</info>
         <battleforce pv="8" wt="2" mv="5t" s="2" m="1" l="0" e="0" ov="0" armor="6" internal="3" abilities="CASE, TUR(1/1/0)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -43,8 +42,13 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">CASE</name>
+            <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
             <location>Body</location>
         </equipment>
         <equipment>
@@ -52,11 +56,6 @@
             <type>equipment</type>
             <location>Body</location>
             <tons>4.0</tons>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
-            <type>ammunition</type>
-            <location>Body</location>
         </equipment>
     </baseloadout>
     <fluff>

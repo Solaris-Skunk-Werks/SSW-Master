@@ -128,12 +128,12 @@
         </equipment>
     </baseloadout>
     <fluff>
-        <overview></overview>
+        <overview>The new Banshee is the latest stage of evolution that began with the BNC-3S. The -12S builds upon the endo-steel chassis of prior models, upgrading it with a home-built Clan-grade engine and lasers. The weight savings enabled Defiance’s engineers to follow the weaponry layout of the -3S. Armor levels match the toughest Banshees, creating a very strong and fast assault ’Mech, albeit one with a challenging heat curve. Alpha-striking will shut the ’Mech down, so MechWarriors are advised to use either the main or secondary weapons, but not both at once.</overview>
         <capabilities></capabilities>
         <battlehistory></battlehistory>
         <deployment></deployment>
         <variants></variants>
-        <notables></notables>
+        <notables>Hauptmann Christopher Cain: Cain was a green leutnant fresh from the academy when he was assigned to the newly reformed Eighth Lyran Guards. The Eighth specialized in Republic of the Sphere tactics and served as an OpFor for training other Lyran units. Thus, they were woefully unprepared for the Jade Falcon desant on Porrima in 3134. Barely a quarter of the regiment escaped the slaughter. His father and son were killed when Galaxy Commander Aleksandr Hazen razed a district of Allison City after an unsuccessful assassination attempt, though the Falcons eventually decided not to hold the world.:br::br::tab:Cain is now a battle-hardened veteran. He was promoted while the unit slowly rebuilt. The Eighth refused to leave Porrima during the tenure of Archon Brewer. They later absorbed the remnants of the Sixth Guards following the battle of Tharkad. The Eighth is now based on Veckholm where Cain commands a company—Cain’s Cavaliers. His deep-seated hatred for the Falcons is surpassed only by his sense of duty to his MechWarriors, all of whom are survivors of battles against the Clans.</notables>
         <additional></additional>
         <jumpjet_model>None</jumpjet_model>
         <commsystem>Unknown</commsystem>

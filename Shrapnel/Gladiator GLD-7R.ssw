@@ -4,11 +4,11 @@
     <battle_value>1890</battle_value>
     <cost>1.065799E7</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3120</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -49,11 +49,11 @@
         <clancase>FALSE</clancase>
         <jumpjets number="6">
             <type>Improved Jump Jet</type>
-            <location index="2">RT</location>
+            <location index="10">LT</location>
             <location index="8">LT</location>
             <location index="4">LL</location>
             <location index="4">RL</location>
-            <location index="10">LT</location>
+            <location index="2">RT</location>
             <location index="4">RT</location>
         </jumpjets>
         <heatsinks number="10" techbase="0">
@@ -88,19 +88,14 @@
             <location index="4">RA</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
-            <type>ammunition</type>
-            <location index="6">RA</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) SRM-4</name>
             <type>missile</type>
             <location index="6">RT</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">@ SRM-4</name>
+            <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
             <type>ammunition</type>
-            <location index="9">RT</location>
+            <location index="6">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ Plasma Rifle</name>
@@ -108,9 +103,14 @@
             <location index="7">RA</location>
         </equipment>
         <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(IS) CASE II</name>
             <type>CASEII</type>
-            <location index="10">RT</location>
+            <location index="11">RT</location>
         </equipment>
     </baseloadout>
     <fluff>
@@ -121,13 +121,6 @@
         <variants></variants>
         <notables></notables>
         <additional></additional>
-        <quirks>
-            <quirk postive="true" battlemech="true" industrialmech="true" combatvehicle="false" battlearmor="false" aerospacefighter="false" conventionalfigher="false" dropship="false" jumpship="false" warship="false" spacestation="false" protomech="false" isvariable="false">
-                <Name>Cowl</Name>
-                <Cost>4</Cost>
-                <Description>BattleMechs like the Cyclops have been outfitted with a protective cowl that provides an additional 3 points of head armor against all attacks except those that originate along the row of hexes directly infront of the cowled `Mech.</Description>
-            </quirk>
-        </quirks>
         <jumpjet_model>Unknown</jumpjet_model>
         <commsystem>Unknown</commsystem>
         <tandtsystem>Unknown</tandtsystem>

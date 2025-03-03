@@ -4,11 +4,11 @@
     <battle_value>1426</battle_value>
     <cost>1.0118E7</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>8</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3086</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -35,7 +35,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 25</source>
         <info>Chameleon CLN-8V 50t, 6/9/6, XLFE, Std; 9.0T/85% Armor; 12 DHS; 2 ML, 1 ERLL, 2 MG, 3 MXPL</info>
-        <battleforce pv="14" wt="2" mv="6j" s="3" m="3" l="1" e="0" ov="1" armor="5" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
+        <battleforce pv="14" wt="2" mv="6j" s="4" m="3" l="1" e="0" ov="1" armor="5" internal="2" abilities="CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="6">
@@ -52,6 +52,11 @@
 
         </heatsinks>
         <equipment>
+            <name manufacturer="">(IS) ER Large Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(IS) Medium Laser</name>
             <type>energy</type>
             <location index="6">RA</location>
@@ -62,26 +67,6 @@
             <location index="4">LA</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) Machine Gun</name>
-            <type>ballistic</type>
-            <location index="11">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Machine Gun</name>
-            <type>ballistic</type>
-            <location index="10">CT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
-            <type>ammunition</type>
-            <location index="5">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) ER Large Laser</name>
-            <type>energy</type>
-            <location index="4">RA</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Medium X-Pulse Laser</name>
             <type>energy</type>
             <location index="5">RT</location>
@@ -89,17 +74,32 @@
         <equipment>
             <name manufacturer="">(IS) Medium X-Pulse Laser</name>
             <type>energy</type>
-            <location index="4">RT</location>
+            <location index="4">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) Medium X-Pulse Laser</name>
             <type>energy</type>
-            <location index="4">LT</location>
+            <location index="4">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Machine Gun</name>
+            <type>ballistic</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ Machine Gun (1/2)</name>
+            <type>ammunition</type>
+            <location index="5">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) CASE II</name>
             <type>CASEII</type>
-            <location index="6">LT</location>
+            <location index="11">LT</location>
         </equipment>
     </baseloadout>
     <fluff>

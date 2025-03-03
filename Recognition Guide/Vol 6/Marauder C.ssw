@@ -33,7 +33,7 @@
         <rl>18</rl>
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
-        <source>RCiG 6</source>
+        <source>RGiC 6</source>
         <info>Marauder C 75t, 4/6/0, Std FE, Std; 11.5T/80% Armor; 19 SHS; 2 ML, 1 UAC5, 2 LPL</info>
         <battleforce pv="17" wt="3" mv="4" s="3" m="3" l="3" e="0" ov="1" armor="6" internal="6" abilities="CASE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>

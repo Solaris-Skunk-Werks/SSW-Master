@@ -4,11 +4,11 @@
     <battle_value>626</battle_value>
     <motive type="Hovercraft" cruise="11" turret="Single Turret" />
     <cost>971500.0</cost>
-    <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>8</productionera>
+    <rules_level>2</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3085</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -27,24 +27,23 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 32</source>
         <info>J. Edgar Light Hover Tank (Light PPC) 25t, 11/17, Std FE, 5.5T/86% HFF Armor; 10 SHS; 1 TC, 1 LPPC, 2 SRM2iOS, TC</info>
-        <clancase>FALSE</clancase>
         <battleforce pv="6" wt="1" mv="11h" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="TUR(1/1/1)" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
         </heatsinks>
         <equipment>
+            <name manufacturer="">(IS) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) SRM-2 (iOS)</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) SRM-2 (iOS)</name>
-            <type>missile</type>
             <location>Turret</location>
         </equipment>
         <equipment>

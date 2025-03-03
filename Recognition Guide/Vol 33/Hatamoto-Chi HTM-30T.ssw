@@ -5,10 +5,10 @@
     <cost>8547120.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3150</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -51,12 +51,12 @@
         <heatsinks number="15" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="4">RA</location>
-            <location index="3">LA</location>
             <location index="0">LT</location>
+            <location index="3">LA</location>
             <location index="3">LT</location>
             <location index="0">RT</location>
             <location index="3">RT</location>
+            <location index="4">RA</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(IS) Heavy PPC</name>
@@ -81,12 +81,12 @@
         <equipment>
             <name manufacturer="Unknown">@ SRM-6</name>
             <type>ammunition</type>
-            <location index="8">RT</location>
+            <location index="8">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">@ SRM-6</name>
             <type>ammunition</type>
-            <location index="8">LT</location>
+            <location index="8">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) CASE II</name>

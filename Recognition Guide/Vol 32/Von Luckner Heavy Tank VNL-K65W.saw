@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>1318</battle_value>
     <motive type="Tracked" cruise="3" turret="Single Turret" />
-    <cost>8597375.0</cost>
-    <rules_level>1</rules_level>
-    <era>2</era>
-    <productionera>6</productionera>
+    <cost>8654375.0</cost>
+    <rules_level>3</rules_level>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3063</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -27,7 +27,6 @@
     <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 32</source>
         <info>Von Luckner Heavy Tank VNL-K65W 75t, 3/5, LFE, 11.0T/65% FF Armor; 10 SHS; 2 SSRM4, 1 SPL, 1 CASE, 1 LMG, 1 UAC20, 2 MML5</info>
-        <clancase>FALSE</clancase>
         <battleforce pv="13" wt="3" mv="3t" s="7" m="6" l="1" e="0" ov="0" armor="7" internal="4" abilities="CASE, TUR(5/5/0), IF 1" />
         <heatsinks number="10" techbase="2">
             <type>Single Heat Sink</type>
@@ -53,18 +52,18 @@
             <location>Turret</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) Streak SRM-4</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Streak SRM-4</name>
-            <type>missile</type>
-            <location>Turret</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Light Machine Gun</name>
             <type>ballistic</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-4</name>
+            <type>missile</type>
+            <location>Turret</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Streak SRM-4</name>
+            <type>missile</type>
             <location>Turret</location>
         </equipment>
         <equipment>
@@ -73,42 +72,42 @@
             <location>Body</location>
         </equipment>
         <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
+            <type>ammunition</type>
+            <location>Body</location>
+        </equipment>
+        <equipment>
             <name manufacturer="Unknown">@ Light Machine Gun (1/2)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-5 (LRM)</name>
+            <name manufacturer="Unknown">(IS) @ MML-5 (LRM Artemis IV Capable)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(IS) @ MML-5 (SRM)</name>
+            <name manufacturer="Unknown">(IS) @ MML-5 (SRM Artemis IV Capable)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ Streak SRM-4</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
-            <type>ammunition</type>
-            <location>Body</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Ultra AC/20</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>

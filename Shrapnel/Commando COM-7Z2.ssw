@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Commando" model="COM-7Z2" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>543</battle_value>
+    <cost>2022625.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="2">
+        <type>Standard Structure</type>
+    </structure>
+    <engine rating="150" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>8</hd>
+        <ct>11</ct>
+        <ctr>5</ctr>
+        <lt>8</lt>
+        <ltr>4</ltr>
+        <rt>8</rt>
+        <rtr>4</rtr>
+        <la>8</la>
+        <ra>8</ra>
+        <ll>12</ll>
+        <rl>12</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <info>Commando COM-7Z2 25t, 6/9/0, Std FE, Std; 5.5T/99% Armor; 10 SHS; 2 SL, 1 BAP, 1 SRM6</info>
+        <battleforce pv="5" wt="1" mv="6" s="2" m="1" l="0" e="0" ov="0" armor="3" internal="2" abilities="PRB, RCN, SRCH, ES, SEAL, SOA" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="0">RT</location>
+            <location index="0">LT</location>
+            <location index="1">RT</location>
+            <location index="1">LT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) SRM-6</name>
+            <type>missile</type>
+            <location index="10">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-6</name>
+            <type>ammunition</type>
+            <location index="2">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Small Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">Beagle Active Probe</name>
+            <type>equipment</type>
+            <location index="2">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>None</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

@@ -5,10 +5,10 @@
     <cost>4902000.0</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3139</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="0">
         <type>Endo-Steel</type>
@@ -79,22 +79,22 @@
         <equipment>
             <name manufacturer="">(IS) ER Medium Laser</name>
             <type>energy</type>
-            <location index="2">LA</location>
+            <location index="2">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) ER Medium Laser</name>
             <type>energy</type>
-            <location index="2">RA</location>
+            <location index="2">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">ER Flamer</name>
             <type>energy</type>
-            <location index="10">CT</location>
+            <location index="11">CT</location>
         </equipment>
         <equipment>
             <name manufacturer="">Supercharger</name>
             <type>Supercharger</type>
-            <location index="11">CT</location>
+            <location index="10">CT</location>
         </equipment>
     </baseloadout>
     <fluff>

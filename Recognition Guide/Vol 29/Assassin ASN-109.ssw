@@ -5,10 +5,10 @@
     <cost>8934213.333333332</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
-    <year restricted="FALSE">3140</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -46,7 +46,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RGiC 29</source>
-        <info>Assassin ASN-109 40t, 7/11/7, XLFE, Std; 8.0T/93% Stlth Armor; 10 DHS; 1 AECM, 1 LPPC, 1 SRM2iOS, 1 MML5</info>
+        <info>Assassin ASN-109 40t, 7/11/7, XLFE, Std; 8.0T/93% Stlth Armor; 10 DHS; 1 AECM, 1 LPPC, 1 MML5, 1 SRM2iOS</info>
         <battleforce pv="12" wt="2" mv="7j" s="1" m="1" l="1" e="0" ov="0" armor="4" internal="2" abilities="ECM, STL, AECM, CASEII, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
@@ -65,14 +65,14 @@
 
         </heatsinks>
         <equipment>
-            <name manufacturer="">Angel ECM</name>
-            <type>equipment</type>
-            <location index="4">HD</location>
-        </equipment>
-        <equipment>
             <name manufacturer="">(IS) Light PPC</name>
             <type>energy</type>
             <location index="3">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-2 (iOS)</name>
+            <type>missile</type>
+            <location index="6">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) MML-5</name>
@@ -90,9 +90,9 @@
             <location index="7">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) SRM-2 (iOS)</name>
-            <type>missile</type>
-            <location index="6">LT</location>
+            <name manufacturer="">Angel ECM</name>
+            <type>equipment</type>
+            <location index="4">HD</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) CASE II</name>

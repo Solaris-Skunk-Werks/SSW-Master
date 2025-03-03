@@ -3,12 +3,12 @@
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>939</battle_value>
     <motive type="Tracked" cruise="7" turret="No Turret" />
-    <cost>1397050.0000000002</cost>
+    <cost>1457050.0000000002</cost>
     <rules_level>3</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Mixed</techbase>
-    <year restricted="FALSE">3130</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="TRUE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Hunter Light Support Tank (Cell) 35t Tracked, 7/11, FCE, 5.0T/61% HFF Armor; 1 SHS; 1 Vflmr, 1 LRM20, 1 CASE</info>
-        <clancase>FALSE</clancase>
+        <info>Hunter Light Support Tank (Cell) 35t, 7/11, FCE, 5.0T/61% HFF Armor; 1 SHS; 1 Vflmr, 1 LRM20, 1 CASE</info>
         <battleforce pv="9" wt="1" mv="7t" s="2" m="2" l="2" e="0" ov="0" armor="3" internal="2" abilities="CASE, EE, IF 2" />
         <heatsinks number="1" techbase="2">
             <type>Single Heat Sink</type>
@@ -48,20 +47,19 @@
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-20</name>
+            <name manufacturer="Unknown">(CL) @ LRM-20 (Artemis IV Capable)</name>
             <type>ammunition</type>
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="">CASE</name>
+            <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
             <location>Body</location>
-            <techbase>Inner Sphere</techbase>
         </equipment>
     </baseloadout>
     <fluff>

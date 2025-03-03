@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<mech name="Commando" model="COM-7J" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+    <ssw_savefile_version>3</ssw_savefile_version>
+    <battle_value>599</battle_value>
+    <cost>2082000.0</cost>
+    <rules_level>1</rules_level>
+    <era>2</era>
+    <productionera>0</productionera>
+    <mech_type>BattleMech</mech_type>
+    <techbase manufacturer="Unknown" location="Unknown">Inner Sphere</techbase>
+    <year restricted="FALSE">3070</year>
+    <motive_type>Biped</motive_type>
+    <structure manufacturer="Unknown" techbase="0">
+        <type>Endo-Steel</type>
+        <location index="2">LT</location>
+        <location index="3">LT</location>
+        <location index="4">LT</location>
+        <location index="4">RT</location>
+        <location index="5">LT</location>
+        <location index="5">RT</location>
+        <location index="6">LT</location>
+        <location index="6">RT</location>
+        <location index="7">LT</location>
+        <location index="7">RT</location>
+        <location index="8">LT</location>
+        <location index="8">RT</location>
+        <location index="9">LT</location>
+        <location index="9">RT</location>
+    </structure>
+    <engine rating="150" manufacturer="Unknown" lsstart="-1" rsstart="-1" techbase="2">Fusion Engine</engine>
+    <gyro techbase="2">Standard Gyro</gyro>
+    <cockpit>
+        <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
+    </cockpit>
+    <armor manufacturer="Unknown" techbase="2">
+        <type>Standard Armor</type>
+        <hd>6</hd>
+        <ct>8</ct>
+        <ctr>4</ctr>
+        <lt>6</lt>
+        <ltr>3</ltr>
+        <rt>6</rt>
+        <rtr>3</rtr>
+        <la>6</la>
+        <ra>6</ra>
+        <ll>8</ll>
+        <rl>8</rl>
+    </armor>
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+        <source>ShrapRS</source>
+        <info>Commando COM-7J 25t, 6/9/5, Std FE, ES; 4.0T/72% Armor; 10 SHS; 1 ML, 2 SRM4</info>
+        <battleforce pv="6" wt="1" mv="6/3j" s="2" m="2" l="0" e="0" ov="0" armor="2" internal="2" abilities="CASE, SRCH, ES, SEAL, SOA, SRM 1/1/0" />
+        <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
+        <clancase>FALSE</clancase>
+        <jumpjets number="5">
+            <type>Standard Jump Jet</type>
+            <location index="4">RL</location>
+            <location index="10">CT</location>
+            <location index="5">RL</location>
+            <location index="4">LL</location>
+            <location index="5">LL</location>
+        </jumpjets>
+        <heatsinks number="10" techbase="2">
+            <type>Single Heat Sink</type>
+
+            <location index="1">LT</location>
+            <location index="0">LT</location>
+            <location index="0">RT</location>
+            <location index="1">RT</location>
+        </heatsinks>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="4">RA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) SRM-4</name>
+            <type>missile</type>
+            <location index="11">CT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">@ SRM-4</name>
+            <type>ammunition</type>
+            <location index="2">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">CASE</name>
+            <type>CASE</type>
+            <location index="3">RT</location>
+        </equipment>
+    </baseloadout>
+    <fluff>
+        <overview></overview>
+        <capabilities></capabilities>
+        <battlehistory></battlehistory>
+        <deployment></deployment>
+        <variants></variants>
+        <notables></notables>
+        <additional></additional>
+        <jumpjet_model>Unknown</jumpjet_model>
+        <commsystem>Unknown</commsystem>
+        <tandtsystem>Unknown</tandtsystem>
+    </fluff>
+</mech>

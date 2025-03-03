@@ -5,10 +5,10 @@
     <motive type="Tracked" cruise="5" turret="Single Turret" />
     <cost>678666.6666666667</cost>
     <rules_level>2</rules_level>
-    <era>2</era>
-    <productionera>9</productionera>
+    <era>3</era>
+    <productionera>0</productionera>
     <techbase manufacturer="" location="">Inner Sphere</techbase>
-    <year restricted="FALSE">3130</year>
+    <year restricted="FALSE">3132</year>
     <structure manufacturer="" techbase="2">
         <type>Standard Structure</type>
         <mods flotation="false" limitedamph="false" fullamph="false" dunebuggy="false" enviroseal="false" trailer="false" />
@@ -24,10 +24,9 @@
         <secondaryturret>0</secondaryturret>
         <rotor>0</rotor>
     </armor>
-    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
+    <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE" turretlimit="0.0" >
         <source>RGiC 33</source>
-        <info>Scorpion Light Tank (Ultra) 25t Tracked, 5/8, FCE, 3.5T/54% HFF Armor; 1 SHS; 1 MG, 1 UAC5, 1 CASE</info>
-        <clancase>FALSE</clancase>
+        <info>Scorpion Light Tank (Ultra) 25t, 5/8, FCE, 3.5T/54% HFF Armor; 1 SHS; 1 MG, 1 UAC5, 1 CASE</info>
         <battleforce pv="4" wt="1" mv="5t" s="1" m="1" l="1" e="0" ov="0" armor="2" internal="2" abilities="CASE, EE, TUR(1/1/1)" />
         <heatsinks number="1" techbase="2">
             <type>Single Heat Sink</type>
@@ -53,7 +52,7 @@
             <location>Body</location>
         </equipment>
         <equipment>
-            <name manufacturer="">CASE</name>
+            <name manufacturer="Unknown">CASE</name>
             <type>CASE</type>
             <location>Body</location>
         </equipment>

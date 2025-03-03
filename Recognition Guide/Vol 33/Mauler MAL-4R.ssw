@@ -5,10 +5,10 @@
     <cost>1.989135E7</cost>
     <rules_level>3</rules_level>
     <era>3</era>
-    <productionera>10</productionera>
+    <productionera>0</productionera>
     <mech_type>BattleMech</mech_type>
     <techbase manufacturer="Unknown" location="Unknown">Mixed</techbase>
-    <year restricted="FALSE">3150</year>
+    <year restricted="FALSE">3132</year>
     <motive_type>Biped</motive_type>
     <structure manufacturer="Unknown" techbase="2">
         <type>Standard Structure</type>
@@ -48,19 +48,19 @@
         <heatsinks number="13" techbase="1">
             <type>Double Heat Sink</type>
 
+            <location index="3">RA</location>
             <location index="3">LA</location>
             <location index="10">CT</location>
-            <location index="3">RA</location>
         </heatsinks>
         <equipment>
             <name manufacturer="">(CL) Large Pulse Laser</name>
             <type>energy</type>
-            <location index="5">RA</location>
+            <location index="5">LA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) Large Pulse Laser</name>
             <type>energy</type>
-            <location index="5">LA</location>
+            <location index="5">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="">(CL) LRM-15</name>
@@ -75,11 +75,6 @@
         <equipment>
             <name manufacturer="">(IS) Light AC/5</name>
             <type>ballistic</type>
-            <location index="7">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="">(IS) Light AC/5</name>
-            <type>ballistic</type>
             <location index="5">LT</location>
         </equipment>
         <equipment>
@@ -90,17 +85,17 @@
         <equipment>
             <name manufacturer="">(IS) Light AC/5</name>
             <type>ballistic</type>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Light AC/5</name>
+            <type>ballistic</type>
             <location index="7">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ Light AC/5</name>
             <type>ammunition</type>
-            <location index="8">LA</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
-            <type>ammunition</type>
-            <location index="7">LA</location>
+            <location index="8">RA</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ Light AC/5</name>
@@ -110,7 +105,22 @@
         <equipment>
             <name manufacturer="Unknown">(IS) @ Light AC/5</name>
             <type>ammunition</type>
-            <location index="8">RA</location>
+            <location index="7">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(IS) @ Light AC/5</name>
+            <type>ammunition</type>
+            <location index="8">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="10">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="Unknown">(CL) @ LRM-15</name>
+            <type>ammunition</type>
+            <location index="9">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(CL) @ LRM-15</name>
@@ -121,16 +131,6 @@
             <name manufacturer="Unknown">(CL) @ LRM-15</name>
             <type>ammunition</type>
             <location index="10">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15</name>
-            <type>ammunition</type>
-            <location index="9">RT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(CL) @ LRM-15</name>
-            <type>ammunition</type>
-            <location index="10">RT</location>
         </equipment>
         <equipment>
             <name manufacturer="">(IS) CASE II</name>
